@@ -1,0 +1,2021 @@
+,Unnamed: 0.1,Unnamed: 0,price,views,land area,road access,facing,floor,parking,bedroom,bathroom,furnish status,amenity,city,district
+0,0,0, 465 Cr,183,4.3,13 Feet,West,3.0,2 Cars & 3 Bikes,6.0,6.0,Full-Furnished,"Earthquake Resistant,Parquet,Marbel,Drainage,Garden,Parking,Drinking Water,Balcony,Terrace,Living Room,Bathroom,+ 3 See More",Hepali Height, Kathmandu
+1,1,1, 35 Cr,95 ,2.5,13 Feet,South-East,3.0,1 Cars & 2 Bikes,3.0,2.0,Semi-Furnished,"Drainage,Solar,Parking,Drinking Water,Balcony,Terrace,Reserve Tank,Servant Quarter,Earthquake Resistant,Dining Room,Bed Room,+ 13 See More",Sanepa, Lalitpur
+2,2,2, 28 Cr,400,3.2,6 Feet,East,6.0,,22.0,8.0,Un-Furnished,,Old Baneshwor, Kathmandu
+3,3,5, 76 Cr,29 ,6.0,10 Feet,South,3.5,3 Cars & 3 Bikes,8.0,10.0,Semi-Furnished,"Earthquake Resistant,Parquet,Marbel,CC Camera,Drainage,Solar,Garden,Parking,Drinking Water,Balcony,Reserve Tank,+ 18 See More",Baluwatar, Kathmandu
+4,4,6, 735 Cr,40 ,9.1,13 Feet,South-East,3.5,2 Cars & 4 Bikes,4.0,3.0,Semi-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Solar,Garden,Parking,Drinking Water,Balcony,Reserve Tank,Bathtub,+ 10 See More",Manamaiju, Kathmandu
+5,5,7, 23 Cr,1k ,3.0,13 Feet,South-East,2.5,4 Bikes,5.0,3.0,Un-Furnished,,Greenhill City, Kathmandu
+6,6,8, 39 Cr,506,6.0,14 Feet,South-West,2.5,2 Cars & 3 Bikes,6.0,6.0,Un-Furnished,"Earthquake Resistant,Drainage,Parking,Drinking Water,Balcony,Power Backup,Dining Room,Bathroom,Bed Room,Living Room,Kitchen,+ 1 See More",Budhanilkantha, Kathmandu
+7,7,9, 35 Cr,52 ,4.0,18 Feet,South-East,3.0,1 Cars & 2 Bikes,7.0,4.0,Full-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Parking,Drinking Water,Balcony,Terrace,Power Backup,Dining Room,Bed Room,+ 5 See More",Sainbu, Lalitpur
+8,8,10, 16 Cr,196,2.2,12 Feet,East,2.5,1 Cars & 4 Bikes,5.0,3.0,Semi-Furnished,"Earthquake Resistant,Marbel,Drainage,Solar,Parking,Balcony,Reserve Tank,Terrace,Boring Water,Water Purifier,Modular Kitchen,+ 6 See More",Thali, Kathmandu
+9,9,11, 28 Cr,150,3.3,13 Feet,West,3.0,1 Cars & 7 Bikes,5.0,5.0,Semi-Furnished,"Earthquake Resistant,Marbel,Parquet,CC Camera,Solar,Parking,Balcony,Reserve Tank,Lawn,Terrace,Well,+ 13 See More",Balkot, Bhaktapur
+10,10,12, 4 Cr,762,4.0,16 Feet,West,3.0,,10.0,4.0,Semi-Furnished,"Earthquake Resistant,Drainage,Solar,Parking,Balcony,Drinking Water,Terrace,Power Backup,Dining Room,Bed Room,Bathroom,+ 2 See More",Budhanilkantha, Kathmandu
+11,11,13, 225 Cr,476,3.2,20 Feet,South,2.5,,,,Un-Furnished,,Pasikot, Kathmandu
+12,12,14, 19 Cr,873,4.0,5 Feet,South,2.5,,4.0,3.0,Semi-Furnished,,Bhaisepati, Lalitpur
+13,13,16, 265 Cr,1.1,3.0,20 Feet,South,2.0,,,,Un-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Parking,Balcony,Terrace,Power Backup,Dining Room,Bed Room,Bathroom,+ 2 See More",Jyotinagar, Kathmandu
+14,14,17, 3 Cr/aana,231,4.0,13 Feet,South,4.5,,,,Un-Furnished,,Bagdurbar, Kathmandu
+15,15,18, 555 Cr,65 ,6.2,20 Feet,South,3.5,3 Cars & 4 Bikes,6.0,6.0,Semi-Furnished,,Pepsicola, Kathmandu
+16,16,19, 14 Cr,101,14.0,,South,4.5,9 Cars & 9 Bikes,28.0,7.0,Full-Furnished,"Earthquake Resistant,Marbel,Parquet,CC Camera,Solar,Parking,Drinking Water,Balcony,Reserve Tank,Lawn,Terrace,+ 26 See More",Dillibazar, Kathmandu
+17,17,20, 85 Cr,102,6.0,12 Feet,South-East,4.0,2 Cars & 8 Bikes,8.0,6.0,Un-Furnished,"Marbel,Drainage,Solar,Parking,Drinking Water,Balcony,Reserve Tank,Terrace,Well,Attic,Kitchen,+ 2 See More",Bijulibajar, Kathmandu
+18,18,21, 338 Cr,185,3.2,13 Feet,East,2.5,1 Cars & 4 Bikes,4.0,3.0,Un-Furnished,,Sundarbasti, Kathmandu
+19,19,22, 29 Cr,670,5.0,,,2.5,,,,Semi-Furnished,"Earthquake Resistant,Marbel,Drainage,Parking,Drinking Water,Reserve Tank,Terrace,Bed Room,Bathroom,Living Room,Prayer Room,+ 1 See More",Pepsicola, Kathmandu
+20,20,23, 26 Cr,404,3.2,13 Feet,East,2.5,,5.0,3.0,Un-Furnished,"Earthquake Resistant,Marbel,Drainage,Drinking Water,Reserve Tank,Terrace,Parking,Internet,Bed Room,Bathroom,Living Room,+ 2 See More",Harisiddhi, Lalitpur
+21,21,24, 325 Cr,86 ,3.2,18 Feet,East,3.5,,6.0,3.0,Un-Furnished,,Ghattekulo, Kathmandu
+22,22,25, 45 Cr,991,5.1,13 Feet,South-West,3.0,1 Cars & 1 Bikes,7.0,6.0,Semi-Furnished,,Bhangal , Kathmandu
+23,23,26, 275 Cr,811,3.2,10 Feet,West,2.5,1 Cars & 3 Bikes,6.0,4.0,Un-Furnished,"Earthquake Resistant,Marbel,Drainage,Parking,Drinking Water,Balcony,Terrace,Bathtub,Power Backup,Dining Room,Bed Room,+ 3 See More",Baluwakhani, Kathmandu
+24,24,27, 73 Cr,570,64.0,20 Feet,South-East,2.5,2 Cars & 4 Bikes,4.0,3.0,Un-Furnished,,Lele, Lalitpur
+25,25,28, 25 Cr,1k ,5.0,16 Feet,East,2.5,1 Cars & 2 Bikes,4.0,3.0,,"Earthquake Resistant,Marbel,Parquet,Drainage,Drinking Water,Balcony,Power Backup,Bed Room,Bathroom,Kitchen,Living Room,+ 1 See More",Syuchatar, Kathmandu
+26,26,29, 32 Cr,155,4.0,13 Feet,South-East,2.5,2 Cars,5.0,4.0,Semi-Furnished,"Marbel,Drainage,Parking,Reserve Tank,Drinking Water,Terrace,Solar,Bed Room,Bathroom,Living Room,Prayer Room,+ 1 See More",Kapan, Kathmandu
+27,27,30, 39 Cr,55 ,4.0,26 Feet,West,2.5,1 Bikes,4.0,3.0,Un-Furnished,,Khusibu Town Planning, Kathmandu
+28,28,31, 6 Cr,530,9.0,13 Feet,East,2.5,2 Cars & 3 Bikes,6.0,,Semi-Furnished,"Earthquake Resistant,Drainage,Garden,Parking,Drinking Water,Balcony,Terrace,Power Backup,Bed Room,Bathroom,Living Room,+ 1 See More",Imadol, Lalitpur
+29,29,32, 65 Lac,111,1.2,20 Feet,East,,2 Bikes,2.0,1.0,Un-Furnished,,Kirtipur, Kathmandu
+30,30,33, 46 Cr,422,7.0,13 Feet,South-East,2.5,3 Cars,6.0,5.0,Semi-Furnished,"Parquet,Marbel,Drainage,Solar,Parking,Terrace,Balcony,Boring Water,Reserve Tank,Living Room,Bathroom,+ 4 See More",Nakhipot, Lalitpur
+31,31,34, 495 Cr,1.2,8.2,12 Feet,South-East,3.5,3 Cars,8.0,7.0,Un-Furnished,"Marbel,Drainage,Solar,Parking,Drinking Water,Balcony,Terrace,Reserve Tank,Closet,Bed Room,Living Room,+ 2 See More",Sitapaila, Kathmandu
+32,32,35, 28 Cr,137,5.0,13 Feet,South,3.5,1 Cars & 3 Bikes,8.0,4.0,Un-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Garden,Drinking Water,Balcony,Terrace,Power Backup,Bed Room,Kitchen,+ 2 See More",Pasikot, Kathmandu
+33,33,36, 125 Cr,151,2.0,12 Feet,South-West,2.5,3 Bikes,4.0,3.0,Semi-Furnished,"Earthquake Resistant,Marbel,Drainage,Solar,Parking,Drinking Water,Balcony,Reserve Tank,Well,Bed Room,Living Room,+ 2 See More",Kapan, Kathmandu
+34,34,37, 16 Cr,115,16.0,24 Feet,East,5.0,8 Cars & 9 Bikes,,,Un-Furnished,,Samakhusi, Kathmandu
+35,35,38, 215 Cr,142,2.3,13 Feet,East,3.0,1 Cars & 3 Bikes,3.0,3.0,Semi-Furnished,"Earthquake Resistant,Marbel,Parquet,Parking,Drinking Water,Balcony,Reserve Tank,Terrace,Boring Water,Well,Modular Kitchen,+ 6 See More",Imadol, Lalitpur
+36,36,39, 215 Cr,1.1,3.0,12 Feet,South-East,3.0,1 Cars & 1 Bikes,4.0,3.0,Un-Furnished,"Earthquake Resistant,Marbel,Drainage,Parking,Balcony,Terrace,Power Backup,Bed Room,Living Room,Bathroom,Kitchen,+ 2 See More",Baluwakhani, Kathmandu
+37,37,40, 6 Cr,432,10.2,13 Feet,South-West,3.5,2 Cars & 3 Bikes,5.0,4.0,Un-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Garden,Parking,Drinking Water,Balcony,Terrace,Power Backup,Bathroom,+ 2 See More",Mahadevtar, Kathmandu
+38,38,41, 38 Cr,416,4.2,13 Feet,North-East,2.5,2 Cars,7.0,4.0,Semi-Furnished,,Sampang Chowk, Lalitpur
+39,39,42, 29 Cr,118,4.0,13 Feet,South-East,2.5,2 Cars & 4 Bikes,5.0,4.0,Semi-Furnished,"Earthquake Resistant,Marbel,Parquet,Drinking Water,Balcony,Reserve Tank,Terrace,Well,Modular Kitchen,Internet,Dining Room,+ 7 See More",Balambu, Kathmandu
+40,40,43, 58 Cr,78 ,6.0,20 Feet,North,3.5,2 Cars & 3 Bikes,8.0,3.0,Un-Furnished,,Ganesh Chowk, Kathmandu
+41,41,44, 425 Cr,105,5.0,20 Feet,South,3.0,1 Cars & 1 Bikes,7.0,3.0,Semi-Furnished,,Bhaisepati, Lalitpur
+42,42,45, 275 Cr,105,3.3,12 Feet,South-East,3.0,1 Cars & 4 Bikes,8.0,3.0,Semi-Furnished,"Earthquake Resistant,Marbel,Drainage,Parking,Drinking Water,Boring Water,Terrace,Reserve Tank,Balcony,Closet,Dining Room,+ 4 See More",Makalbari, Kathmandu
+43,43,46, 5 Cr,139,6.0,20 Feet,South,2.5,1 Cars & 2 Bikes,3.0,3.0,Semi-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Garden,Parking,Drinking Water,Balcony,Terrace,Power Backup,Kitchen,+ 4 See More",Thaiba, Lalitpur
+44,44,47, 39 Cr,799,4.3,13 Feet,West,2.5,,,,Semi-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Parking,Reserve Tank,Balcony,Terrace,Bathroom,Bed Room,Living Room,+ 1 See More",Icimod, Lalitpur
+45,45,48, 425 Cr,115,4.0,14 Feet,South,2.5,1 Cars & 1 Bikes,3.0,3.0,Full-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Parking,Drinking Water,Balcony,Terrace,Power Backup,Bed Room,Bathroom,+ 2 See More",Imadol, Lalitpur
+46,46,49, 565 Cr,129,4.1,20 Feet,North,2.5,2 Cars & 3 Bikes,4.0,5.0,Full-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Parking,Drinking Water,Balcony,Terrace,Power Backup,Bed Room,Bathroom,+ 2 See More",Tahachal, Kathmandu
+47,47,50, 31 Cr,951,4.1,13 Feet,East,2.5,2 Cars & 5 Bikes,4.0,3.0,Un-Furnished,,Lasuntar, Kathmandu
+48,48,51, 225 Cr,434,3.0,16 Feet,East,1.0,1 Cars & 3 Bikes,6.0,3.0,Full-Furnished,"Earthquake Resistant,Drainage,Parking,Reserve Tank,Terrace,Well,Modular Kitchen,Dining Room,Bed Room,Bathroom,Living Room,+ 2 See More",Imadol, Lalitpur
+49,49,52, 45 Cr,402,7.0,16 Feet,South,2.5,2 Cars & 2 Bikes,4.0,3.0,Semi-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Parking,Drinking Water,Balcony,Terrace,Power Backup,Bathroom,Kitchen,+ 3 See More",Imadol, Lalitpur
+50,50,53, 425 Cr,133,4.0,14 Feet,South,2.5,1 Cars & 1 Bikes,3.0,3.0,Full-Furnished,,Imadol, Lalitpur
+51,51,54, 22 Cr,720,3.0,13 Feet,South,2.5,1 Cars & 3 Bikes,5.0,4.0,Un-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Parking,Drinking Water,Terrace,Power Backup,Bed Room,Bathroom,Living Room,+ 1 See More",Lubhu, Lalitpur
+52,52,55, 85 Cr,507,9.3,12 Feet,South,2.5,1 Cars & 2 Bikes,6.0,5.0,Full-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Parking,Drinking Water,Balcony,Terrace,Bathroom,Bed Room,Dining Room,+ 4 See More",Thecho, Lalitpur
+53,53,56, 2 Cr,2.2,2.5,13 Feet,East,2.5,1 Cars & 1 Bikes,4.0,3.0,Full-Furnished,"Marbel,Parquet,Earthquake Resistant,Drainage,Parking,Drinking Water,Balcony,Terrace,Power Backup,Bathroom,Bed Room,+ 2 See More",Nakhipot, Lalitpur
+54,54,57, 23 Cr,301,4.0,27 Meter,North,3.5,1 Cars & 2 Bikes,4.0,4.0,Full-Furnished,"Drainage,Parking,Balcony,Terrace,Dining Room,Bathroom,Bed Room,Living Room,Kitchen,Marbel,Parquet,+ 3 See More",Hattiban, Lalitpur
+55,55,58, 55 Cr,637,4.0,13 Feet,West,2.5,1 Cars & 2 Bikes,3.0,3.0,Full-Furnished,,Naxal, Kathmandu
+56,56,59, 36 Cr,696,12.0,20 Feet,East,2.5,3 Cars & 5 Bikes,7.0,7.0,Semi-Furnished,,Dhaksi, Kathmandu
+57,57,60, 37 Cr,149,3.2,14 Feet,North-East,2.5,1 Cars & 1 Bikes,4.0,3.0,Full-Furnished,,Bafal, Kathmandu
+58,58,62, 34 Cr,667,4.0,13 Feet,East,3.0,2 Cars & 1 Bikes,6.0,4.0,Full-Furnished,"Parking,Garden,Drinking Water,Drainage,Parquet,Marbel,Balcony,Terrace,Dining Room,Bathroom,Living Room,+ 2 See More",Banasthali, Kathmandu
+59,59,63, 575 Cr,213,9.0,12 Feet,South,2.5,2 Cars & 2 Bikes,4.0,3.0,Full-Furnished,"Drinking Water,Balcony,Parking,Garden,Drainage,Marbel,Parquet,Terrace,Bed Room,Bathroom,Living Room,+ 3 See More",Budhanilkantha, Kathmandu
+60,60,64, 675 Cr,429,6.0,,,2.5,,5.0,,Un-Furnished,"Earthquake Resistant,Marbel,Drinking Water,Parking,Balcony,Drainage,Terrace,Dining Room,Bed Room,Bathroom,Living Room,+ 2 See More",Chundevi, Kathmandu
+61,61,65, 12 Cr,490,12.0,16 Feet,North,1.5,4 Cars & 5 Bikes,3.0,2.0,Full-Furnished,,Chabahil, Kathmandu
+62,62,66, 22 Cr,95 ,5.0,10 Feet,West,2.5,2 Cars & 3 Bikes,6.0,3.0,Full-Furnished,"Marbel,Parquet,Drainage,Garden,Parking,Drinking Water,Balcony,Bed Room,Dining Room,Bathroom,Living Room,+ 1 See More",Thankot, Kathmandu
+63,63,68, 23 Cr,129,2.3,13 Feet,South,2.5,1 Cars & 2 Bikes,5.0,5.0,Un-Furnished,,Sampang Chowk, Lalitpur
+64,64,69, 15 Cr,815,3.1,10 Feet,South,1.0,1 Cars & 2 Bikes,2.0,1.0,Un-Furnished,,Danchhi, Kathmandu
+65,65,70, 168 Cr,207,1.1,20 Feet,East,3.5,2 Bikes,3.0,3.0,Un-Furnished,"Parquet,Drainage,Solar,Drinking Water,Reserve Tank,Terrace,Internet,Dining Room,Bed Room,Bathroom,Prayer Room,+ 3 See More",New Baneshwor, Kathmandu
+66,66,72, 173 Cr,147,3.0,5 Feet,South,2.5,1 Cars & 5 Bikes,1.0,1.0,Full-Furnished,,Kadaghari, Kathmandu
+67,67,73, 125 Cr,135,2.0,12 Feet,South-West,2.5,3 Bikes,4.0,3.0,Semi-Furnished,"Earthquake Resistant,Marbel,Drainage,Solar,Parking,Drinking Water,Balcony,Reserve Tank,Well,Bed Room,Bathroom,+ 1 See More",Kapan, Kathmandu
+68,68,74, 77 Cr,286,6.2,30 Feet,West,2.5,1 Cars & 1 Bikes,4.0,5.0,Semi-Furnished,"Earthquake Resistant,Marbel,Parquet,CC Camera,Drainage,Solar,Garden,Parking,Gazebo,Boring Water,Well,+ 23 See More",Hattigaunda, Kathmandu
+69,69,75, 22 Cr,266,5.0,10 Feet,South,2.5,1 Cars & 4 Bikes,6.0,3.0,Semi-Furnished,"Marbel,Drainage,Garden,Parking,Drinking Water,Balcony,Terrace,Lawn,Well,Internet,Dining Room,+ 4 See More",Mahadevsthan, Kathmandu
+70,70,76, 31 Cr,150,3.8,13 Feet,East,2.5,1 Cars & 1 Bikes,5.0,3.0,Un-Furnished,,Pasikot, Kathmandu
+71,71,77, 299 Cr,2.1,4.0,13 Feet,South-East,2.5,,,,Un-Furnished,,Pasikot, Kathmandu
+72,72,78, 135 Cr,877,13.0,16 Feet,South,2.5,3 Cars & 5 Bikes,7.0,5.0,Un-Furnished,"Marbel,Drainage,Garden,Parking,Boring Water,Well,Terrace,Lawn,Reserve Tank,Balcony,Drinking Water,+ 6 See More",Bhaisepati, Lalitpur
+73,73,79, 21 Cr,613,3.0,10 Feet,South,2.5,1 Cars & 3 Bikes,5.0,3.0,Semi-Furnished,"Earthquake Resistant,Marbel,Drainage,Parking,Drinking Water,Reserve Tank,Terrace,Boring Water,Modular Kitchen,Bed Room,Bathroom,+ 5 See More",Gothatar, Kathmandu
+74,74,80, 13 Cr,276,4.2,13 Feet,North-East,1.0,,2.0,1.0,Un-Furnished,,Dharmasthali, Kathmandu
+75,75,81, 185 Cr,1.5,5.2,16 Feet,,1.0,,2.0,1.0,Un-Furnished,,Dulal Gaun, Kathmandu
+76,76,82, 6 Cr,103,3.0,10 Meter,West,5.0,1 Cars & 5 Bikes,1.0,1.0,Semi-Furnished,,Kalanki, Kathmandu
+77,77,83, 265 Cr,93 ,3.2,13 Feet,,2.5,1 Cars & 2 Bikes,6.0,4.0,Semi-Furnished,,Dhalmal, Kathmandu
+78,78,84, 195 Cr,253,4.0,13 Feet,South,2.5,1 Cars & 1 Bikes,5.0,4.0,Semi-Furnished,,Imadol, Lalitpur
+79,79,85, 85 Cr,134,7.3,17 Feet,North-East,2.5,2 Cars & 5 Bikes,5.0,4.0,Full-Furnished,,Sainbu, Lalitpur
+80,80,86, 23 Cr,143,3.0,27 Feet,West,2.0,1 Cars,3.0,2.0,Un-Furnished,,Saraswotinagar, Kathmandu
+81,81,87, 325 Cr,183,4.0,13 Feet,North,2.5,1 Cars & 1 Bikes,5.0,5.0,Full-Furnished,,Thecho, Lalitpur
+82,82,88, 26 Cr,180,4.0,10 Feet,South,2.5,1 Cars & 1 Bikes,4.0,3.0,Full-Furnished,,Thecho, Lalitpur
+83,83,89, 295 Cr,129,3.2,13 Feet,North,2.5,1 Cars & 3 Bikes,8.0,3.0,Semi-Furnished,"Earthquake Resistant,Drainage,Reserve Tank,Balcony,Terrace,Marbel,Parking,Well,Solar,Internet,Prayer Room,+ 3 See More",Imadol, Lalitpur
+84,84,90, 225 Cr,677,3.0,13 Feet,East,2.5,1 Cars & 1 Bikes,4.0,3.0,Un-Furnished,,Bhelpa, Lalitpur
+85,85,92, 19 Cr,592,2.3,13 Feet,South,2.5,1 Cars & 3 Bikes,4.0,3.0,Semi-Furnished,"Earthquake Resistant,Marbel,Parquet,Parking,Balcony,Reserve Tank,Well,Dining Room,Bed Room,Bathroom,Living Room,+ 5 See More",Lalitpur,
+86,86,95, 55 Cr,532,6.2,,,2.5,,,,Un-Furnished,,Pepsicola, Kathmandu
+87,87,96, 10 Cr,588,16.0,32 Feet,South-West,2.5,10 Cars,8.0,5.0,Un-Furnished,"Marbel,Drainage,Drinking Water,Parking,Solar,Terrace,Boring Water,Bed Room,Dining Room,Bathroom,Living Room,+ 2 See More",Taukhel, Lalitpur
+88,88,97, 68 Cr,324,8.2,14 Feet,East,2.5,2 Cars & 2 Bikes,6.0,3.0,Un-Furnished,,Baluwatar, Kathmandu
+89,89,98, 155 Cr,173,2.2,5 Feet,South,1.0,1 Bikes,4.0,2.0,Full-Furnished,,Dhapasi, Kathmandu
+90,90,99, 22 Cr,211,3.0,13 Meter,South-East,2.5,1 Cars & 3 Bikes,6.0,5.0,Semi-Furnished,"Earthquake Resistant,Marbel,Parquet,Parking,Drinking Water,Reserve Tank,Well,Modular Kitchen,Bed Room,Bathroom,Prayer Room,+ 4 See More",Tikathali, Lalitpur
+91,91,100, 43 Cr,647,7.0,13-20 Feet,,2.5,,5.0,4.0,,,Gamcha, Bhaktapur
+92,92,101, 345 Cr,1.3,3.2,13 Feet,,2.5,,6.0,3.0,,,Budhanilkantha, Kathmandu
+93,93,103, 25 Cr,171,3.2,13 Feet,East,2.5,,6.0,3.0,,,Hattidanda, Kathmandu
+94,94,104, 365 Cr,256,5.1,14 Feet,North-East,2.5,,5.0,3.0,,,Sainbu, Lalitpur
+95,95,105, 549 Cr,184,7.0,13 Feet,North-East,2.0,,5.0,5.0,,,Golfutar, Kathmandu
+96,96,106, 75 Cr,56 ,9.2,13 Feet,,2.5,,6.0,6.0,,,Dhapasi, Kathmandu
+97,97,110, 70 Lac/aana,258,6.0,10-12 Feet,,2.0,,,,,,Chhauni, Kathmandu
+98,98,111, 38 Cr,164,4.0,20 Feet,West,3.5,,,,,,Dhapakhel, Lalitpur
+99,99,112, 675 Cr,266,7.0,26 Feet,East,2.5,,5.0,4.0,,,Mid Baneshwor, Kathmandu
+100,100,113, 4 Cr,159,5.2,13 Feet,West,2.5,,,,,,Gatthaghar, Bhaktapur
+101,101,114, 55 Cr,154,5.2,15 Feet,North-East,2.5,,5.0,5.0,,,Hepali Height, Kathmandu
+102,102,115, 31 Cr,148,4.3,13 Feet,South-East,2.0,,,,,,Kapan, Kathmandu
+103,103,116, 22 Cr,172,3.3,13 Feet,South-East,2.5,,4.0,3.0,,,Thulobharyang, Kathmandu
+104,104,117, 33 Cr,194,3.2,20 Feet,South,2.5,,6.0,4.0,,,Nakhipot, Lalitpur
+105,105,119, 295 Cr,320,4.2,13 Feet,North-West,2.5,,4.0,4.0,,,Satungal, Kathmandu
+106,106,120, 525 Cr,305,7.2,12-18 Feet,,4.0,,,,,,Satdobato, Lalitpur
+107,107,121, 399 Cr,78 ,3.4,16 Feet,North-West,2.5,,6.0,3.0,,,Imadol, Lalitpur
+108,108,122, 55 Cr,138,7.0,20 Feet,South,3.0,,5.0,5.0,,,Hattiban, Lalitpur
+109,109,123, 275 Cr,91 ,3.1,20 Feet,South,2.5,,7.0,5.0,,,Imadol, Lalitpur
+110,110,124, 32 Cr,525,3.1,13 Feet,North,2.5,,5.0,6.0,,,Bhangal , Kathmandu
+111,111,125, 35 Cr,512,5.0,20 Feet,West,2.5,,5.0,4.0,,,Naya Basti, Kathmandu
+112,112,126, 28 Cr,245,3.0,10 Feet,South-East,3.5,,,4.0,,,Basundhara, Kathmandu
+113,113,128, 385 Cr,316,4.0,13 Feet,,2.5,,,,,,Sukedhara, Kathmandu
+114,114,129, 25 Cr,207,3.0,13 Feet,,2.5,,,,,,Kapan, Kathmandu
+115,115,130, 28 Cr,174,4.2,10-12 Feet,,3.5,,,,,,Aakasedhara, Kathmandu
+116,116,131, 345 Cr,875,4.0,13 Feet,West,2.5,,6.0,5.0,,,Budhanilkantha, Kathmandu
+117,117,132, 4 Cr,207,3.2,10-12 Feet,,2.5,,4.0,6.0,,,Nagarjun, Kathmandu
+118,118,133, 325 Cr,625,4.0,14 Feet,,2.0,,3.0,3.0,,,Grande Villa, Kathmandu
+119,119,134, 12 Cr,82 ,3.0,12 Feet,North-East,1.5,,2.0,2.0,,,Matatirtha, Kathmandu
+120,120,135, 19 Cr,153,3.2,10 Feet,North,1.0,,3.0,1.0,,,Grande Hospital, Kathmandu
+121,121,136, 10 Cr,442,17.0,10-15 Feet,,2.0,,4.0,3.0,,,Bhaisepati, Lalitpur
+122,122,137, 6 Cr,1.3,9.0,10-12 Feet,,2.5,,3.0,3.0,,,Budhanilkantha, Kathmandu
+123,123,139, 245 Cr,290,3.3,13 Feet,West,2.5,,3.0,3.0,,,Budhanilkantha, Kathmandu
+124,124,140, 21 Cr,1.3,3.0,13 Feet,South-East,3.0,,7.0,3.0,,,Satungal, Kathmandu
+125,125,141, 39 Cr,154,3.2,12 Feet,East,3.5,,6.0,3.0,,,Kapan, Kathmandu
+126,126,142, 45 Cr,406,9.130752373995618,14 Feet,West,2.5,,5.0,5.0,,"Earthquake Resistant,Marbel,Parquet,Sofa,CC Camera,Dining Room,Bed Room,Drainage,Solar,Microwave,Modular Kitchen,+ 4 See More",Bhaisepati, Lalitpur
+127,127,143, 10 Cr,700,10.0,16 Feet,South,2.5,,4.0,3.0,,,Kupandole, Lalitpur
+128,128,144, 31 Cr,127,3.0,13 Feet,East,2.5,,6.0,4.0,,,Ekatabasti, Kathmandu
+129,129,145, 235 Cr,185,2.2,13 Feet,South-East,2.5,,3.0,3.0,,,Sitapaila, Kathmandu
+130,130,147, 47 Cr,1.6,4.3,13 Feet,South,3.0,,5.0,4.0,,,Balkumari, Lalitpur
+131,131,148, 305 Cr,181,4.2,13 Feet,South,2.5,,5.0,4.0,,,Birendra Chowk, Kathmandu
+132,132,150, 3 Cr,156,3.0,12 Feet,South,2.5,,,,,,Kaushaltar, Bhaktapur
+133,133,151, 28 Cr,233,3.2,12-18 Feet,South,2.5,,,,,,Imadol, Lalitpur
+134,134,152, 36 Cr,165,4.1,13 Feet,South-West,2.5,,4.0,5.0,,,Nakkhu, Lalitpur
+135,135,157, 25 Cr,1.1,3.1,12-16 Feet,South-East,2.5,,2.0,3.0,,,Imadol, Lalitpur
+136,136,158, 55 Cr,182,40.0,20 Feet,West,6.0,,,,,,Gongabu, Kathmandu
+137,137,159, 195 Cr,336,22.0,20+ Feet,,2.5,,,,,,Tundaldevi, Kathmandu
+138,138,160, 113 Cr,929,15.0,30 Feet,North-West,3.5,,5.0,5.0,,,Lazimpat, Kathmandu
+139,139,164, 22 Cr,937,3.3,13 Feet,South-East,2.5,,5.0,3.0,,,Gairi Gaun, Kathmandu
+140,140,165, 22 Cr,216,3.1,12 Feet,East,2.5,,5.0,3.0,,,Dhalmal, Kathmandu
+141,141,166, 425 Cr,94 ,3.0,13 Feet,North,6.0,,19.0,19.0,,,Kalanki, Kathmandu
+142,142,167, 25 Cr,495,40.0,13 Feet,South-West,2.5,,6.0,5.0,,,Swoyambhu, Kathmandu
+143,143,168, 19 Cr,885,4.0,16 Feet,,2.5,,6.0,4.0,,,Sanagaun, Lalitpur
+144,144,169, 3 Cr,271,4.0,26 Feet,South-East,2.5,,8.0,6.0,,,Gurjudhara, Kathmandu
+145,145,170, 1 Cr,529,5.0,13 Feet,,1.0,,,,,,Bansbari, Kathmandu
+146,146,171, 2 Cr,201,3.0,14 Feet,South-East,2.0,,4.0,2.0,,,Hattiban, Lalitpur
+147,147,172, 35 Cr,715,4.0,12 Feet,East,2.5,,5.0,3.0,,,Aarubari, Kathmandu
+148,148,173, 24 Cr,690,3.2,13 Feet,East,2.5,,4.0,3.0,,,Imadol, Lalitpur
+149,149,174, 265 Cr,2.1,3.0,13 Feet,West,2.5,,6.0,3.0,,,Tokha, Kathmandu
+150,150,175, 27 Cr,969,3.2,14 Feet,South-West,2.5,,5.0,3.0,,,Imadol, Lalitpur
+151,151,176, 3 Cr,750,5.0,12-18 Feet,,2.5,,,,,,Budhanilkantha, Kathmandu
+152,152,178, 85 Cr,176,7.0,20 Feet,North,4.5,,34.0,34.0,,,New Buspark, Kathmandu
+153,153,179, 375 Cr,208,3.2,9 Feet,South-West,4.5,,,,,,Ghattekulo, Kathmandu
+154,154,180, 4 Cr,76 ,5.0,20 Feet,East,2.5,,5.0,4.0,,,Bhangal , Kathmandu
+155,155,181, 4 Cr,357,4.1,12 Feet,North,2.5,,,,,,Lazimpat, Kathmandu
+156,156,182, 35 Cr,315,6.0,10 Feet,East,2.5,,,,,,Rudreshwor, Kathmandu
+157,157,183, 27 Cr,2.1,4.1,13 Feet,East,2.5,,4.0,3.0,,,Sitapaila, Kathmandu
+158,158,184, 168 Cr,361,1.1,20 Feet,East,4.0,,3.0,3.0,,"Solar,Parquet,Bathroom,Drinking Water,Internet,Drainage,Terrace,Bed Room,Dining Room,Prayer Room,Shutter,+ 2 See More",New Baneshwor, Kathmandu
+159,159,185, 29 Cr,1.1,4.2,13 Feet,North-West,3.0,,5.0,6.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,Bed Room,Dining Room,Solar,Modular Kitchen,Parking,Internet,+ 4 See More",Matatirtha, Kathmandu
+160,160,186, 13 Cr,90 ,3.2,13 Feet,West,1.0,,3.0,1.0,,,Dharmasthali, Kathmandu
+161,161,187, 35 Cr,119,4.0,12 Feet,South,3.5,,5.0,3.0,,,Gongabu, Kathmandu
+162,162,188, 355 Cr,267,4.1,13 Feet,West,2.5,,5.0,1.0,,,Kapan, Kathmandu
+163,163,189, 115 Cr,253,17.0,13 Feet,,2.5,,6.0,4.0,,,Dhapasi, Kathmandu
+165,165,191, 14 Cr,337,12.0,13 Feet,East,2.0,,,,,,Naxal, Kathmandu
+166,166,192, 36 Cr,236,5.0,13 Feet,North,3.0,,4.0,1.0,,,Imadol, Lalitpur
+167,167,193, 198 Cr,1.6,4.2,10-16 Feet,,3.5,,,,,,Nepaltar, Kathmandu
+168,168,194, 13 Cr,616,4.2,13 Feet,North-East,1.0,,2.0,1.0,,,Dharmasthali, Kathmandu
+169,169,195, 12 Cr,129,3.0,10 Feet,East,1.0,,2.0,1.0,,,Goldhunga, Kathmandu
+170,170,196, 17 Cr,360,2.2,13 Feet,North-East,2.5,,6.0,2.0,,,Lubhu, Lalitpur
+171,171,197, 285 Cr,207,4.0,12-14 Feet,,3.0,,,,,,Thaiba, Lalitpur
+172,172,198, 275 Cr,175,3.1,20 Feet,East,2.5,,5.0,3.0,,,Imadol, Lalitpur
+173,173,199, 65 Cr,308,8.0,16 Feet,,2.5,,7.0,5.0,,,Hattiban, Lalitpur
+174,174,200, 59 Cr,171,5.0,12-18 Feet,,2.5,,4.0,4.0,,,Bhaisepati, Lalitpur
+175,175,201, 365 Cr,229,4.0,13 Feet,,2.5,,6.0,3.0,,,Budhanilkantha, Kathmandu
+176,176,202, 275 Cr,1k ,3.0,12-18 Feet,,3.0,,,,,,Nayabazar, Kathmandu
+177,177,203, 16 Cr,191,3.3,12-18 Feet,,2.5,,,,,,Chardhara, Kathmandu
+178,178,204, 375 Cr,225,5.0,26/13 Feet,,3.5,,,,,,Kirtipur, Kathmandu
+179,179,205, 25 Cr,395,4.0,12-18 Feet,,3.5,,,,,,Nagaun, Kathmandu
+180,180,206, 387 Cr,34 ,4.0,30 Feet,North,3.0,,7.0,6.0,,,Nagarjun, Kathmandu
+181,181,207, 45 Cr,105,5.2,12 Feet,North-East,2.5,,5.0,3.0,,,Tokha, Kathmandu
+182,182,208, 245 Cr,160,3.0,12-18 Feet,East,2.5,,5.0,3.0,,,Mulpani, Kathmandu
+183,183,209, 34 Cr,78 ,4.0,13 Feet,South-East,3.0,2 Cars & 5 Bikes,4.0,3.0,Semi-Furnished,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,Dining Room,Bed Room,Washing Machine,TV,Drainage,Solar,+ 19 See More",Hattigaunda, Kathmandu
+184,184,211, 265 Cr,1.2,3.3,20 Feet,West,2.5,,6.0,4.0,,,Sitapaila, Kathmandu
+185,185,212, 165 Cr,234,3.0,12-18 Feet,,1.0,,,,,,Kapan, Kathmandu
+186,186,213, 36 Cr,410,5.0,20 Feet,South-West,2.5,,7.0,7.0,,,Bhaisepati, Lalitpur
+187,187,214, 23 Cr,186,3.0,12-18 Feet,,2.5,,,,,,Pasikot, Kathmandu
+188,188,215, 16 Cr,381,3.0,12 Feet,East,2.5,,,,,,Chunikhel, Kathmandu
+189,189,216, 475 Cr,208,8.2,13 Feet,North,3.0,,7.0,6.0,,,Naikap, Kathmandu
+190,190,217, 29 Cr,614,4.0,12 Feet,South,2.5,,,,,,Thulobharyang, Kathmandu
+191,191,219, 625 Cr,792,6.0,20 Feet,East,2.5,,4.0,5.0,,,Budhanilkantha, Kathmandu
+192,192,220, 34 Cr,152,3.1,15 Feet,East,2.5,,5.0,3.0,,,Khusibu, Kathmandu
+193,193,222, 14 Cr,1.3,11.2,22 Feet,North-East,2.5,,,,,,Thulobharyang, Kathmandu
+194,194,223, 375 Cr,141,4.0,13 Feet,East,2.0,,7.0,4.0,,,Bafal, Kathmandu
+195,195,224, 425 Cr,362,4.2,20 Feet,East,2.5,,6.0,4.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,Dining Room,Bed Room,AirCon,Washing Machine,TV,Drainage,+ 9 See More",Khumaltar, Lalitpur
+196,196,225, 465 Cr,148,4.2,25 Feet,East,3.5,,,,,,Koteshwor, Kathmandu
+197,197,226, 9 Cr,196,8.0,20 Feet,South,3.0,,6.0,4.0,,,Bafal, Kathmandu
+198,198,229, 85 Cr,147,7.2,30 Feet,,6.0,,30.0,11.0,,,Ramkot, Kathmandu
+199,199,230, 265 Cr,321,3.3,13 Feet,,2.5,,7.0,5.0,,,Kapan, Kathmandu
+200,200,231, 399 Cr,194,4.0,13/18 Feet,,2.5,,,,,,Dhapasi, Kathmandu
+201,201,232, 335 Cr,165,3.0,12-18 Feet,,4.5,,6.0,4.0,,,Kuleshwor, Kathmandu
+202,202,233, 49 Cr,1.1,4.0,12-18 Feet,East,2.5,,6.0,5.0,,,Sano thimi, Bhaktapur
+203,203,234, 37 Cr,571,6.1,10-12 Feet,,2.5,,5.0,3.0,,,Makalbari, Kathmandu
+204,204,235, 275 Cr,331,3.0,20 Feet,,2.5,,5.0,3.0,,,Imadol, Lalitpur
+205,205,236, 64 Cr,545,6.0,20 Feet,,2.5,,4.0,5.0,,,Bhaisepati, Lalitpur
+206,206,237, 4 Cr,300,5.0,14 Feet,,1.5,,2.0,2.0,,,Taulung, Kathmandu
+207,207,238, 299 Cr,64 ,4.0,20 Feet,West,2.5,,4.0,4.0,,,Phutung, Kathmandu
+208,208,239, 235 Cr,113,6.2,20 Feet,East,,,,,,,Bouddha, Kathmandu
+209,209,240, 385 Cr,370,4.0,13 Feet,North-East,2.5,,7.0,5.0,,,Budhanilkantha, Kathmandu
+210,210,241, 325 Cr,148,5.0,13-20 Feet,South-West,3.0,,,,,,Duwakot, Bhaktapur
+211,211,242, 375 Cr,112,3.2,16 Feet,South-West,2.5,,7.0,4.0,,"Earthquake Resistant,Marbel,Sofa,Dining Room,Bed Room,Water Purifier,Drainage,Solar,Power Backup,Garden,Internet,+ 3 See More",Narayantar, Kathmandu
+212,212,244, 25 Cr,238,3.0,20 Feet,,2.5,,,,,,Imadol, Lalitpur
+213,213,245, 196 Cr,137,3.0,9 Feet,East,4.0,,11.0,5.0,,"Earthquake Resistant,Marbel,Dining Room,Water Purifier,Drainage,Solar,Power Backup,Garden,Modular Kitchen,Parking,Internet,+ 2 See More",Nepaltar, Kathmandu
+214,214,246, 284 Cr,182,5.0,22 Feet,East,3.0,,5.0,5.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,Dining Room,Bed Room,Water Purifier,Drainage,Solar,Power Backup,+ 7 See More",Jarankhu, Kathmandu
+215,215,247, 162 Cr,160,3.0,9 Feet,East,4.0,,9.0,6.0,,"Earthquake Resistant,Marbel,Dining Room,Water Purifier,Drainage,Solar,Power Backup,Garden,Modular Kitchen,Parking,Internet,+ 2 See More",Nepaltar, Kathmandu
+216,216,248, 55 Cr,246,6.0,13 Feet,North-East,3.5,,10.0,6.0,,,Maitrinagar, Kathmandu
+217,217,249, 19 Cr,1.6,24.0,20 Feet,North-West,4.5,,8.0,6.0,,,Thimi, Bhaktapur
+218,218,250, 33 Cr,716,3.2,15-26 Feet,South-West,2.5,,6.0,4.0,,,Imadol, Lalitpur
+219,219,251, 275 Cr,450,4.0,10-12 Feet,,2.5,,,,,,Bhangal , Kathmandu
+220,220,252, 425 Cr,44 ,5.0,16 Feet,East,3.0,,7.0,6.0,,"Earthquake Resistant,Marbel,CC Camera,Amphitheatre,Dining Room,AirCon,Water Purifier,Washing Machine,TV,Drainage,Solar,+ 3 See More",Kharibot, Kathmandu
+221,221,253, 21 Cr,512,4.0,20 Feet,North,2.0,,4.0,2.0,,,Dharmasthali, Kathmandu
+222,222,254, 425 Cr,310,3.3,20 Feet,South,2.5,,5.0,,,,Imadol, Lalitpur
+223,223,255, 7 Cr,422,6.0,13 Feet,West,3.5,,4.0,5.0,,,Bhaisepati, Lalitpur
+224,224,257, 24 Cr,125,4.0,15 Feet,South,1.0,,2.0,1.0,,,Kapan, Kathmandu
+225,225,258, 41 Cr,340,5.0,13 Feet,East,3.5,,8.0,6.0,,,Ochu Height, Lalitpur
+226,226,259, 445 Cr,1.6,6.2,12 Feet,South,3.0,,6.0,3.0,,,Thapathali, Kathmandu
+227,227,260, 45 Cr,632,10.3,13 Feet,North-East,2.5,,,,,,Kharibot, Kathmandu
+228,228,261, 275 Cr,257,3.0,22 Feet,South,3.5,,6.0,7.0,,,Manamaiju, Kathmandu
+229,229,262, 45 Cr,629,3.2,20 Feet,East,2.5,,4.0,4.0,,,Imadol, Lalitpur
+230,230,263, 68 Cr,284,8.0,20 Feet,South-West,3.0,,5.0,6.0,,,Budhanilkantha, Kathmandu
+231,231,265, 465 Cr,227,5.1,13 Feet,,2.5,,,,,,Jyotinagar, Kathmandu
+232,232,266, 345 Cr,310,4.2,13 Feet,,2.0,,5.0,5.0,,,Hattigaunda, Kathmandu
+233,233,268, 42 Cr,281,4.2,16 Feet,South-East,2.5,,6.0,5.0,,,Basundhara, Kathmandu
+234,234,269, 43 Cr,305,3.2,14 Feet,East,2.5,,4.0,4.0,,,Imadol, Lalitpur
+235,235,270, 27 Cr,190,3.0,20 Feet,West,2.5,,4.0,4.0,,,Harisiddhi, Lalitpur
+236,236,271, 24 Cr,96 ,3.2,13 Feet,East,2.5,,4.0,3.0,,,Thaiba, Lalitpur
+237,237,272, 29 Cr,265,3.2,14 Feet,North,2.5,,4.0,3.0,,,Dhapasi, Kathmandu
+238,238,273, 36 Cr,266,5.0,12 Feet,North,2.5,,7.0,,,,Chandol, Kathmandu
+239,239,274, 57 Cr,1.1,7.2,20 Feet,East,2.5,,4.0,3.0,,,Tyanglafat, Kathmandu
+240,240,275, 417 Cr,841,4.0,13 Feet,,2.5,,4.0,5.0,,,Ganesh Chowk, Kathmandu
+241,241,276, 299 Cr,744,3.1,13 Feet,,2.5,,6.0,5.0,,,Budhanilkantha, Kathmandu
+242,242,277, 2 Cr,174,3.2,12 Feet,East,3.0,,6.0,2.0,,,Imadol, Lalitpur
+243,243,278, 33 Cr,186,4.0,10-12 Feet,,2.5,,,,,,Grande Hospital, Kathmandu
+245,245,280, 265 Cr,164,4.0,13 Feet,West,3.0,,8.0,8.0,,"Earthquake Resistant,Marbel,Parquet,Gym,Fridge,Sofa,Amphitheatre,Dining Room,Bed Room,Garden,Modular Kitchen,+ 3 See More",Setipakha, Lalitpur
+246,246,281, 28 Cr,1.4,64.0,13 Feet,South,2.5,,6.0,4.0,,,Imadol, Lalitpur
+247,247,282, 525 Cr,140,8.0,13 Feet,North,3.0,,9.0,4.0,,,Budhanilkantha, Kathmandu
+248,248,283, 335 Cr,242,5.0,20 Feet,East,2.5,,7.0,4.0,,,Sanagaun, Lalitpur
+249,249,285, 225 Cr,277,3.1,18 Feet,North,2.5,,4.0,3.0,,,Sitapaila, Kathmandu
+250,250,286, 23 Cr,197,3.0,13 Feet,South,2.5,,7.0,3.0,,,Tikathali, Lalitpur
+251,251,287, 35 Cr,194,4.0,13 Feet,South-East,2.5,,5.0,4.0,,,Pasikot, Kathmandu
+252,252,288, 265 Cr,132,3.1,20 Feet,South,2.5,,4.0,4.0,,,Imadol, Lalitpur
+253,253,289, 16 Cr,177,3.1,13 Feet,North-East,1.0,,2.0,1.0,,,Tikathali, Lalitpur
+254,254,290, 27 Cr,297,6.962746530314098,13 Feet,East,3.5,,6.0,4.0,,"Earthquake Resistant,Fridge,Parquet,Dining Room,Bed Room,Washing Machine,Solar,Modular Kitchen,Iron,Parking,Internet,+ 2 See More",Chapali, Kathmandu
+255,255,292, 23 Cr,324,3.0,13 Feet,South,2.5,,7.0,3.0,,,Tikathali, Lalitpur
+256,256,293, 23 Cr,108,3.0,13 Feet,South,2.5,,4.0,3.0,,,Tikathali, Lalitpur
+257,257,294, 388 Cr,482,4.2,13 Feet,,3.5,,6.0,5.0,,,Sundarbasti, Kathmandu
+258,258,295, 398 Cr,282,4.1,13 Feet,,2.5,,7.0,5.0,,,Mandikhatar, Kathmandu
+259,259,296, 435 Cr,423,5.0,13 Feet,,2.5,,5.0,5.0,,,Budhanilkantha, Kathmandu
+260,260,297, 23 Cr,526,3.0,10 Feet,North-West,3.0,,4.0,2.0,,,Syuchatar, Kathmandu
+261,261,298, 23 Cr,494,3.0,10 Feet,South,2.5,,5.0,3.0,,,Kalanki, Kathmandu
+262,262,299, 34 Cr,214,3.1,20 Feet,North,2.5,,,,,,Pepsicola, Kathmandu
+263,263,300, 15 Cr,456,2.2,4 Feet,,3.0,,3.0,3.0,,,Satungal, Kathmandu
+264,264,301, 38 Cr,95 ,3.0,20 Feet,South-West,3.5,,6.0,4.0,,,Baneshwor, Kathmandu
+265,265,302, 35 Cr,496,6.0,10-12 Feet,,2.5,,12.0,4.0,,,Kapan, Kathmandu
+266,266,303, 375 Cr,547,4.0,13 Feet,,2.5,,6.0,5.0,,,Mandikhatar, Kathmandu
+267,267,304, 345 Cr,310,4.1,13 Feet,North,2.5,,5.0,4.0,,,Imadol, Lalitpur
+268,268,305, 265 Cr,189,3.0,13 Feet,North,3.5,,5.0,5.0,,,Imadol, Lalitpur
+269,269,306, 27 Cr,187,3.2,12-18 Feet,South,2.5,,4.0,4.0,,,Nakhipot, Lalitpur
+270,270,307, 39 Cr,316,5.2,13 Feet,East,2.5,,5.0,4.0,,,Buddha Chowk, Kathmandu
+271,271,309, 4 Cr,111,6.0,4 Feet,West,2.5,,6.0,4.0,,,New Buspark, Kathmandu
+272,272,310, 55 Cr,183,3.0,26 Feet,North,6.0,,,,,,Samakhushi chowk, Kathmandu
+273,273,311, 35 Cr,136,3.0,13 Feet,West,5.0,,17.0,12.0,,,New Buspark, Kathmandu
+274,274,312, 35 Cr,1.2,3.2,13 Feet,South,2.5,,5.0,3.0,,,Chhauni, Kathmandu
+275,275,313, 586 Cr,1.1,4.1,20 Feet,,3.0,,4.0,5.0,,,Bhaisepati, Lalitpur
+276,276,314, 45 Cr,228,9.0,26 Feet,North,2.5,,5.0,2.0,,,Balkot, Bhaktapur
+277,277,315, 55 Cr,217,5.2,13 Feet,North-West,3.5,,8.0,7.0,,,Dhumbarahi, Kathmandu
+278,278,316, 51 Cr,800,4.2,12 Feet,South,2.5,,5.0,5.0,,,Bansbari, Kathmandu
+279,279,317, 26 Cr,270,3.2,10 Feet,North,2.5,,5.0,2.0,,,Naya Basti, Kathmandu
+280,280,318, 27 Cr,313,3.0,13 Feet,North,2.5,,5.0,3.0,,,Dhapasi, Kathmandu
+281,281,319, 12 Cr,351,3.2,13 Feet,North,1.5,,,,,,Megha City, Kathmandu
+282,282,320, 385 Cr,100,5.2,18 Feet,East,3.0,,7.0,5.0,,,Imadol, Lalitpur
+283,283,321, 52 Cr,206,4.3,12 Feet,South,2.5,,4.0,5.0,,,Bansbari, Kathmandu
+284,284,324, 255 Cr,325,3.0,13 Feet,North,2.5,,6.0,3.0,,,Imadol, Lalitpur
+285,285,325, 285 Cr,245,3.2,,East,2.5,,,,,,Bojepokhari, Lalitpur
+286,286,326, 85 Cr,608,5.0,27 Feet,,4.0,,10.0,6.0,,,Koteshwor, Kathmandu
+287,287,329, 515 Cr,470,7.0,20 Feet,,2.5,,4.0,4.0,,,Sunakothi, Lalitpur
+288,288,330, 22 Cr,490,3.0,13-20 Feet,,2.5,,5.0,5.0,,,Sampang Chowk, Lalitpur
+289,289,331, 27 Cr,285,3.3,13 Feet,South-West,2.5,,7.0,3.0,,,Baniyatar, Kathmandu
+290,290,332, 295 Cr,463,3.2,13 Feet,,2.5,,6.0,5.0,,,Kapan, Kathmandu
+291,291,333, 28 Cr,475,3.0,13 Feet,,2.5,,6.0,3.0,,,Budhanilkantha, Kathmandu
+292,292,334, 35 Cr,215,2.3,10-20 Feet,South-West,3.5,,6.0,4.0,,,Banasthali, Kathmandu
+293,293,335, 14 Cr,356,8.2,13 Feet,South,2.0,,4.0,5.0,,,Bhaisepati, Lalitpur
+294,294,336, 175 Cr,215,3.1,10-12 Feet,West,2.0,,6.0,3.0,,,Godawari, Lalitpur
+295,295,337, 288 Cr,249,3.2,10 Feet,,2.5,,,,,,Budhanilkantha, Kathmandu
+296,296,338, 465 Cr,1k ,6.2,13 Feet,North-West,3.5,,4.0,5.0,,,Mandikhatar, Kathmandu
+297,297,339, 275 Cr,610,9.0,4 Feet,North-East,,,,,,,Dhapakhel, Lalitpur
+298,298,340, 235 Cr,428,3.1,13 Feet,,2.5,,5.0,4.0,,,Kalanki, Kathmandu
+299,299,341, 25 Cr,395,4.0,8 Feet,South-East,3.5,,4.0,2.0,,,Bouddha, Kathmandu
+300,300,342, 51 Cr,385,6.0,20 Feet,East,2.5,,4.0,2.0,,,Dhapasi, Kathmandu
+301,301,343, 635 Cr,926,7.888970051132214,14 Feet,North-West,2.5,,5.0,5.0,,"Earthquake Resistant,Marbel,Parquet,Gym,Fridge,Sofa,AirCon,Bed Room,Dining Room,Amphitheatre,Water Purifier,+ 15 See More",Sanepa, Lalitpur
+302,302,346, 7 Cr,308,5.3,14-20 Feet,,2.0,,4.0,4.0,,,Hepali Height, Kathmandu
+303,303,347, 78 Cr,296,7.0,13 Feet,,2.5,,5.0,5.0,,,Bhaisepati, Lalitpur
+304,304,348, 85 Cr,177,7.0,13 Feet,,2.5,,5.0,5.0,,,Bhaisepati, Lalitpur
+305,305,349, 25 Cr,239,3.0,13 Feet,,2.5,,5.0,3.0,,,Imadol, Lalitpur
+306,306,350, 165 Cr,297,3.0,13 Feet,,1.0,,2.0,1.0,,,Tikathali, Lalitpur
+307,307,351, 345 Cr,195,4.0,13 Feet,,2.5,,6.0,3.0,,,Budhanilkantha, Kathmandu
+308,308,352, 235 Cr,621,2.2,12 Feet,North,2.5,,6.0,2.0,,,Bafal, Kathmandu
+309,309,353, 385 Cr,343,4.2,13 Feet,North,3.0,,4.0,5.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,Bed Room,Dining Room,AirCon,Water Purifier,Washing Machine,TV,+ 9 See More",Kalanki, Kathmandu
+310,310,354, 215 Cr,247,2.3,13 Feet,East,2.5,,9.0,3.0,,,Tikathali, Lalitpur
+311,311,355, 39 Cr,298,7.0,12 Feet,East,2.5,,7.0,4.0,,,Dhapasi, Kathmandu
+312,312,356, 275 Cr,75 ,3.0,20 Feet,West,3.5,,5.0,3.0,,,Imadol, Lalitpur
+313,313,357, 295 Cr,195,3.1,13 Feet,,3.0,,6.0,5.0,,,Mandikhatar, Kathmandu
+314,314,358, 16 Cr,605,4.0,10 Feet,South-East,2.0,,2.0,2.0,,,Chandragiri, Kathmandu
+315,315,359, 17 Cr,556,2.2,13 Feet,,2.5,,,,,,Imadol, Lalitpur
+316,316,360, 725 Cr,925,10.0,13 Feet,North-East,2.5,,6.0,3.0,,,Maharajgunj, Kathmandu
+317,317,361, 385 Cr,87 ,4.5,13 Feet,,3.5,,6.0,5.0,,,Sundarbasti, Kathmandu
+318,318,362, 295 Cr,267,4.0,16 Feet,South,2.5,,4.0,3.0,,,Golfutar, Kathmandu
+319,319,363, 25 Cr,381,48.0,,,2.5,,6.0,6.0,,,Dhapasi, Kathmandu
+320,320,364, 12 Cr,752,14.0,20 Feet,East,3.5,,5.0,5.0,,,Maharajgunj, Kathmandu
+321,321,365, 26 Cr,73 ,3.0,13 Feet,East,2.5,,3.0,3.0,,,Imadol, Lalitpur
+322,322,366, 325 Cr,85 ,3.3,23 Feet,West,2.5,,6.0,4.0,,,Imadol, Lalitpur
+323,323,368, 4 Cr,139,4.2,13 Feet,South,2.5,,6.0,3.0,,,Imadol, Lalitpur
+324,324,369, 315 Cr,130,3.1,13 Feet,West,2.5,,4.0,4.0,,,Imadol, Lalitpur
+325,325,370, 33 Cr,94 ,3.2,13 Feet,West,2.5,,5.0,4.0,,,Imadol, Lalitpur
+326,326,371, 27 Cr,152,4.1,13 Feet,North-West,2.5,,7.0,4.0,,,Tikathali, Lalitpur
+327,327,372, 225 Cr,180,2.3,13 Feet,East,2.5,,4.0,4.0,,,Setipakha, Lalitpur
+328,328,373, 33 Cr,111,3.3,16 Feet,South,2.5,,6.0,4.0,,,Ochu Height, Lalitpur
+329,329,374, 36 Cr,47 ,3.0,20 Feet,East,2.5,,6.0,5.0,,,Raniban, Kathmandu
+330,330,375, 399 Cr,179,5.0,13 Feet,East,2.0,,4.0,4.0,,,Nakkhu, Lalitpur
+331,331,376, 17 Cr,185,4.0,10 Feet,East,2.5,,7.0,3.0,,,Changathali, Lalitpur
+332,332,377, 245 Cr,165,3.2,13 Feet,South,2.5,,5.0,4.0,,,Ochu Height, Lalitpur
+333,333,378, 35 Cr,157,4.0,13 Feet,West,2.5,,5.0,5.0,,,Imadol, Lalitpur
+334,334,379, 10 Cr,2.5,20.0,20 Feet,North-West,2.5,,4.0,4.0,,,Pasikot, Kathmandu
+335,335,380, 3 Cr,206,0.3,20 Feet,South,5.0,,,,,,Kwalakhu, Lalitpur
+336,336,381, 38 Cr,126,6.0,13 Feet,East,2.5,,6.0,6.0,,,Sitapaila, Kathmandu
+337,337,382, 28 Cr,181,3.0,13 Feet,,2.5,,6.0,3.0,,,Budhanilkantha, Kathmandu
+338,338,383, 75 Cr,360,13.0,13 Feet,North,2.5,,5.0,5.0,,,Pepsicola, Kathmandu
+339,339,384, 31 Cr,364,3.3,10 Feet,North,2.5,,4.0,3.0,,,Ichangu Narayan, Kathmandu
+340,340,385, 38 Cr,329,5.1,13 Feet,East,2.5,,4.0,,,,Sitapaila, Kathmandu
+341,341,386, 325 Cr,150,5.1,10 Feet,East,3.5,,5.0,2.0,,,Pasikot, Kathmandu
+342,342,387, 367 Cr,148,3.0,8 Feet,North-East,4.0,,4.0,4.0,,,Maitidevi, Kathmandu
+343,343,388, 216 Cr,156,3.0,11 Feet,North,3.5,,8.0,4.0,,,Nepaltar, Kathmandu
+344,344,392, 219 Cr,149,3.0,11 Feet,East,3.5,,,,,,Nepaltar, Kathmandu
+345,345,393, 28 Cr,96 ,3.2,13 Feet,South,2.5,,5.0,3.0,,,Nakhipot, Lalitpur
+346,346,394, 175 Cr,165,3.3,10 Feet,South-East,2.5,,3.0,3.0,,,Ramkot, Kathmandu
+347,347,395, 27 Cr,273,3.5,20 Feet,South-West,2.5,,5.0,4.0,,,Nakhipot, Lalitpur
+348,348,396, 58 Cr,104,8.3,12 Feet,,2.5,,,,,,Bafal, Kathmandu
+349,349,397, 255 Cr,163,3.2,13 Feet,South,2.5,,6.0,5.0,,,Hattiban, Lalitpur
+350,350,398, 365 Cr,165,4.0,13 Feet,East,2.5,,,,,,Tenzing Chowk, Kathmandu
+351,351,399, 295 Cr,174,3.1,13 Feet,,2.5,,6.0,5.0,,,Mandikhatar, Kathmandu
+352,352,400, 36 Cr,220,5.0,12 Feet,North,2.5,,7.0,3.0,,,Chandol, Kathmandu
+353,353,401, 45 Cr,183,3.0,16 Feet,East,,,6.0,4.0,,,Old Baneshwor, Kathmandu
+354,354,402, 46 Cr,332,12.733382030679328,27 Feet,North-East,3.5,,5.0,6.0,,,Dhobikhola, Kathmandu
+355,355,403, 178 Cr,237,3.1,8-10 Feet,,1.5,,,,,,Bhangal , Kathmandu
+356,356,404, 345 Cr,181,5.0,13 Feet,,,,,,,,Hattigaunda, Kathmandu
+357,357,405, 188 Cr,308,2.2,12 Feet,East,2.5,,,,,,Kapan, Kathmandu
+358,358,407, 15 Cr,245,3.0,13 Feet,West,1.5,,3.0,2.0,,,Phutung, Kathmandu
+359,359,408, 65 Cr,80 ,5.2,12-18 Feet,,4.0,,,,,,Kadaghari, Kathmandu
+360,360,409, 255 Cr,109,3.0,10 Feet,West,2.5,,8.0,3.0,,,Lolang, Kathmandu
+361,361,410, 33 Cr,90 ,2.3,25 Feet,North,4.5,,,,,,Balkumari, Lalitpur
+362,362,411, 25 Cr,80 ,3.1,13 Feet,North,2.5,,6.0,3.0,,,Tikathali, Lalitpur
+363,363,412, 71 Cr,97 ,4.0,10-12 Feet,South-East,3.5,,,6.0,,,Nakhipot, Lalitpur
+364,364,413, 37 Cr,156,5.0,13 Feet,South-West,2.5,,6.0,6.0,,,Imadol, Lalitpur
+365,365,414, 395 Cr,222,5.2,13 Feet,East,2.5,,4.0,4.0,,,Kusunti, Lalitpur
+366,366,415, 325 Cr,117,4.0,10 Feet,,3.5,,,,,,Kharibot, Kathmandu
+367,367,416, 135 Cr,727,14.0,20 Feet,South-East,3.5,,5.0,6.0,,,Dhapasi, Kathmandu
+368,368,417, 22 Cr,137,2.3,10 Feet,,3.0,,4.0,3.0,,,Imadol, Lalitpur
+369,369,418, 125 Cr,121,6.0,13 Feet,South-East,6.0,,,,,,Thamel, Kathmandu
+370,370,419, 12 Cr,356,3.0,20 Feet,West,2.5,,,,,,Dhapasi, Kathmandu
+371,371,420, 7 Cr,110,5.1,12 Feet,North-East,5.5,,,,,,Bagbazar, Kathmandu
+372,372,421, 55 Cr,89 ,5.2,13 Feet,South,2.5,,,,,,Sukedhara, Kathmandu
+373,373,422, 28 Cr,84 ,5.2,12/13 Feet,North-East,1.0,,,,,,Pasikot, Kathmandu
+374,374,423, 45 Cr,410,6.1,13 Feet,West,2.5,,5.0,5.0,,,Satdobato, Lalitpur
+375,375,424, 46 Cr,123,3.0,10 Feet,South,4.0,,8.0,5.0,,,Shantinagar, Kathmandu
+376,376,425, 3 Cr,114,3.0,8 Feet,South,2.5,,5.0,3.0,,"Earthquake Resistant,Marbel,Dining Room,Bed Room,Parking,Internet,Drinking Water,Bathroom,TV,Drainage,Solar,+ 1 See More",Maitidevi, Kathmandu
+377,377,426, 325 Cr,183,3.3,13 Feet,South,2.5,,,,,,Imadol, Lalitpur
+378,378,427, 375 Cr,122,4.0,16 Feet,East,2.5,,,,,,Imadol, Lalitpur
+379,379,428, 145 Cr,210,3.0,10 Feet,,1.0,,2.0,,,,Thankot, Kathmandu
+380,380,429, 26 Cr,176,3.3,10-12 Feet,,3.0,,,,,,Kalanki, Kathmandu
+381,381,430, 24 Cr,293,4.0,14 Feet,East,2.0,,4.0,2.0,,,Maharajgunj, Kathmandu
+382,382,431, 38 Cr,104,4.0,10 Feet,East,2.5,,3.0,3.0,,,Dhumbarahi, Kathmandu
+383,383,433, 255 Cr,178,4.2,20 Feet,North-East,2.0,,5.0,4.0,,,Kalanki, Kathmandu
+384,384,434, 31 Cr,213,4.0,12 Feet,North,3.5,,8.0,3.0,,,Kapan, Kathmandu
+385,385,435, 24 Cr,75 ,3.2,26 Feet,West,3.5,,,3.0,,,Lolang, Kathmandu
+386,386,436, 425 Cr,3.2,6.305332359386413,20 Feet,South-East,2.5,,4.0,4.0,,"Earthquake Resistant,Marbel,Parquet,Sofa,Dining Room,Microwave,AirCon,Water Purifier,Washing Machine,Power Backup,Bed Room,+ 13 See More",Imadol, Lalitpur
+387,387,437, 19 Cr,1k ,13.0,20 Feet,South-East,,,4.0,5.0,,,Maharajgunj, Kathmandu
+388,388,438, 345 Cr,236,4.0,13 Feet,,2.5,,6.0,3.0,,,Budhanilkantha, Kathmandu
+389,389,439, 138 Cr,146,16.0,8-10 Feet,West,4.0,,,,,,Ratopool, Kathmandu
+390,390,440, 74 Cr,2k ,11.0,13 Feet,South,3.5,,8.0,4.0,,,Sanobharyang, Kathmandu
+391,391,441, 225 Cr,272,4.0,11 Feet,East,3.5,,6.0,7.0,,,Nepaltar, Kathmandu
+392,392,442, 375 Cr,295,7.596785975164353,20 Feet,,2.5,,4.0,4.0,,,Sunakothi, Lalitpur
+393,393,443, 85 Cr,253,9.934258582907232,14 Feet,,2.5,,5.0,7.0,,,Bhaisepati, Lalitpur
+394,394,444, 2 Cr,254,3.0,9-12 Feet,,2.0,,2.0,2.0,,,Bhaktapur, Bhaktapur
+395,395,445, 345 Cr,146,6.1,14 Feet,,2.0,,7.0,4.0,,,Hattigaunda, Kathmandu
+396,396,446, 65 Cr,112,3.2,12-18 Feet,,3.5,,,,,,Panipokhari, Kathmandu
+397,397,447, 3 Cr,105,4.0,32+ Feet,,3.5,,,,,,Gokarna, Kathmandu
+398,398,448, 34 Cr,124,4.0,13 Feet,South-East,2.5,,5.0,4.0,,,Pasikot, Kathmandu
+399,399,449, 675 Cr,95 ,8.0,11-12 Feet,South-East,2.0,,9.0,6.0,,,Dhumbarahi, Kathmandu
+400,400,450, 18 Cr,1.4,16.0,,,2.0,,5.0,3.0,,,Budhanilkantha, Kathmandu
+401,401,451, 5 Cr,403,6.0,9-12 Feet,,3.0,,,,,,Chabahil, Kathmandu
+402,402,452, 60 Cr,215,40.0,20+ Feet,West,4.0,,,,,,Gongabu, Kathmandu
+403,403,453, 33 Cr,204,4.0,13 Feet,,2.0,,5.0,4.0,,,Khadka Gaun, Kathmandu
+404,404,454, 14 Cr,164,17.0,12-18 Feet,,2.5,,,,,,Dhumbarahi, Kathmandu
+405,405,455, 34 Cr,122,4.0,13 Feet,,2.5,,6.0,3.0,,,Budhanilkantha, Kathmandu
+406,406,456, 42 Cr,124,4.3,12 Feet,North-East,2.5,,,3.0,,,Lazimpat, Kathmandu
+407,407,457, 345 Cr,124,4.0,13 Feet,,2.5,,6.0,3.0,,,Budhanilkantha, Kathmandu
+408,408,458, 375 Cr,280,5.0,20 Feet,North-East,2.5,,3.0,4.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Microwave,Dining Room,CC Camera,Sofa,AirCon,Iron,Swimming Pool,+ 16 See More",Sunakothi, Lalitpur
+409,409,459, 78 Cr,422,6.0,13 Feet,North-East,2.5,,4.0,5.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Microwave,Dining Room,CC Camera,Sofa,Amphitheatre,AirCon,Water Purifier,+ 14 See More",Bhaisepati, Lalitpur
+410,410,460, 77 Cr,1.2,6.2,20 Feet,West,2.5,,4.0,5.0,,,Hattigaunda, Kathmandu
+411,411,461, 38 Cr,77 ,4.0,18 Feet,South-East,2.5,,4.0,3.0,,,Syuchatar, Kathmandu
+412,412,462, 155 Cr,240,2.3,13 Feet,South,1.0,,2.0,1.0,,,Gwarko, Lalitpur
+413,413,463, 105 Cr,174,11.0,10-12 Feet,East,2.0,,4.0,4.0,,,Maharajgunj, Kathmandu
+414,414,464, 125 Cr,60 ,10.0,15 Feet,,5.0,,,,,,Chhetrapati, Kathmandu
+415,415,465, 235 Cr,100,3.0,13 Feet,East,2.5,,4.0,4.0,,,Imadol, Lalitpur
+416,416,466, 35 Cr,125,2.0,14-20 Feet,,4.0,,,,,,Baluwatar, Kathmandu
+417,417,467, 625 Cr,117,7.2,14-20 Feet,,2.5,,4.0,5.0,,,Sitapaila, Kathmandu
+418,418,468, 18 Cr,262,3.3,20 Feet,South,2.5,,4.0,3.0,,,Thaiba, Lalitpur
+419,419,469, 27 Cr,117,3.2,13 Feet,South,2.5,,5.0,3.0,,,Ochu Height, Lalitpur
+420,420,470, 415 Cr,84 ,4.0,6 Feet,South,4.0,,5.0,5.0,,,Koteshwor, Kathmandu
+421,421,471, 315 Cr,114,3.0,10 Feet,South-East,3.0,,4.0,3.0,,"Earthquake Resistant,Fridge,Marbel,Parquet,Dining Room,Washing Machine,Parking,Internet,Drinking Water,Bathroom,TV,+ 2 See More",Shankhamul, Kathmandu
+422,422,472, 204 Cr,258,3.0,10/13 Feet,South-West,2.5,,4.0,3.0,,,Sanagaun, Lalitpur
+423,423,473, 78 Cr,313,6.0,13 Feet,,2.0,,4.0,5.0,,,Bhaisepati, Lalitpur
+424,424,474, 41 Cr,630,4.2,20 Feet,South,3.5,,6.0,6.0,,,Chardobato, Bhaktapur
+425,425,475, 4 Cr,244,4.3,13 Feet,West,2.5,,4.0,3.0,,,Mandikhatar, Kathmandu
+426,426,476, 435 Cr,2.3,6.0,13 Feet,North,3.0,,6.0,4.0,,,Deuwa chowk, Kathmandu
+427,427,477, 58 Cr,178,10.0,13 Feet,East,2.0,,4.0,4.0,,,Dhapasi, Kathmandu
+428,428,479, 38 Cr,77 ,4.0,10 Feet,East,2.5,,8.0,5.0,,,Gothatar, Kathmandu
+429,429,480, 3 Cr,149,3.2,13 Feet,North-West,3.0,,12.0,5.0,,,Grande Hospital, Kathmandu
+430,430,481, 15 Cr,189,3.0,10-24 Feet,South,2.5,,,,,,Danchhi, Kathmandu
+431,431,482, 3 Cr,246,4.0,15 Feet,North,2.5,,,,,,Sainbu, Lalitpur
+432,432,483, 35 Cr,143,6.0,13-20 Feet,North,2.5,,7.0,4.0,,,Harisiddhi, Lalitpur
+433,433,484, 1 Cr,120,3.0,8 Feet,East,1.0,,2.0,1.0,,,Phutung, Kathmandu
+434,434,485, 155 Cr,484,3.5,10 Feet,,2.5,,4.0,2.0,,,Thali, Kathmandu
+435,435,486, 3 Cr,130,3.3,13 Feet,South-East,3.0,,6.0,5.0,,"Internet,Bathroom,TV,Drainage,Drinking Water,Garden,Parking,Bed Room,Parquet,Earthquake Resistant,Marbel,+ 6 See More",Chunikhel, Kathmandu
+436,436,487, 295 Cr,281,4.1,13 Feet,,2.5,,6.0,5.0,,,Kapan, Kathmandu
+437,437,488, 335 Cr,757,3.2,16 Feet,North,2.5,,,,,,Budhanilkantha, Kathmandu
+438,438,490, 55 Cr,119,5.0,13 Feet,South,3.0,,3.0,4.0,,,Khumaltar, Lalitpur
+439,439,491, 75 Cr,221,4.2,14-20 Feet,East,4.0,,,,,,Maharajgunj, Kathmandu
+440,440,492, 295 Cr,241,3.2,10-12 Feet,,2.5,,,,,,Bhangal , Kathmandu
+441,441,493, 195 Cr,411,2.2,10 Feet,South-West,2.5,,4.0,3.0,,,Chunikhel, Kathmandu
+442,442,494, 68 Cr,214,6.2,20-26 Feet,North-East,3.5,,7.0,3.0,,,Shankhamul, Kathmandu
+443,443,495, 23 Cr,239,3.0,13 Feet,West,2.5,,,,,,Gaurighat, Kathmandu
+444,444,497, 18 Cr,330,5.2,11 Feet,East,3.5,,4.0,4.0,,,Mandikhatar, Kathmandu
+446,446,499, 27 Cr,301,3.1,13 Feet,South,2.5,,4.0,3.0,,,Gwarko, Lalitpur
+447,447,500, 29 Cr,286,4.0,13 Feet,North,2.5,,5.0,4.0,,,Imadol, Lalitpur
+448,448,501, 275 Cr,424,3.2,13 Feet,East,2.5,,4.0,4.0,,,Imadol, Lalitpur
+449,449,502, 35 Cr,162,3.0,14 Feet,North-East,4.0,,4.0,7.0,,,Kirtipur, Kathmandu
+450,450,503, 115 Cr,201,3.5,14-22 Feet,South,4.0,,3.0,1.0,,,Thankot, Kathmandu
+451,451,504, 165 Cr,150,3.1,13 Feet,West,2.0,,5.0,1.0,,,Thankot, Kathmandu
+452,452,505, 28 Cr,121,3.5,26 Feet,West,4.0,,11.0,8.0,,,Balaju, Kathmandu
+453,453,506, 28 Cr,258,3.1,11 Feet,East,3.5,,8.0,6.0,,,Manamaiju, Kathmandu
+454,454,507, 35 Cr,138,4.2,12 Feet,East,3.5,,12.0,6.0,,"Earthquake Resistant,Marbel,Parquet,Dining Room,Microwave,AirCon,Internet,Parking,Bed Room,Modular Kitchen,Drinking Water,+ 2 See More",Narayantar, Kathmandu
+455,455,508, 133 Cr,412,3.2,10 Feet,West,1.0,,2.0,1.0,,,Thali, Kathmandu
+456,456,509, 285 Cr,227,3.2,8-10 Feet,East,2.5,,4.0,3.0,,,Bhangal , Kathmandu
+457,457,510, 58 Cr,304,10.0,13 Feet,East,2.0,,4.0,3.0,,,Dhapasi, Kathmandu
+458,458,511, 82 Cr,111,6.0,10 Feet,South-East,3.0,,8.0,3.0,,,Suryabinayak, Bhaktapur
+459,459,512, 46 Cr,337,5.3,27 Feet,North-East,3.5,,6.0,,,,Budhanilkantha, Kathmandu
+460,460,513, 17 Cr,221,2.2,13 Feet,North-East,2.5,,5.0,2.0,,,Lubhu, Lalitpur
+461,461,514, 8 Cr,387,9.0,10-12 Feet,,2.5,,,,,,Golfutar, Kathmandu
+462,462,515, 39 Cr,817,6.0,13-16 Feet,South-West,3.0,,6.0,6.0,,,Budhanilkantha, Kathmandu
+463,463,516, 16 Cr,656,3.2,10 Feet,South-West,2.5,,4.0,3.0,,,Jarankhu, Kathmandu
+464,464,517, 75 Cr,208,7.2,12-18 Feet,,3.0,,,,,,Basundhara, Kathmandu
+465,465,518, 53 Lac/aana,301,122.0,10-12 Feet,East,,,,,,,Sinamangal, Kathmandu
+466,466,519, 35 Cr,555,8.0,13 Feet,North,2.5,,5.0,4.0,,,Katunje, Bhaktapur
+467,467,520, 24 Cr,190,3.0,20 Feet,,2.5,,,,,,Chyau Danda, Lalitpur
+468,468,521, 65 Cr,120,6.1,12-18 Feet,,2.5,,,,,,Bansbari, Kathmandu
+469,469,522, 265 Cr,588,3.1,20 Feet,South,2.5,,4.0,3.0,,,Imadol, Lalitpur
+470,470,523, 33 Cr,318,4.0,10 Feet,,2.5,,5.0,4.0,,,Naya Bazar, Kathmandu
+471,471,524, 415 Cr,1.1,4.0,20 Feet,,2.5,,4.0,4.0,,,Nagdaha, Lalitpur
+472,472,525, 19 Cr,252,4.0,16 Feet,,2.5,,,,,,Thecho, Lalitpur
+473,473,526, 305 Cr,297,4.0,13 Feet,,2.5,,5.0,4.0,,,Icimod, Lalitpur
+474,474,527, 4 Cr,195,4.0,26 Feet,North,2.5,,3.0,3.0,,,Imadol, Lalitpur
+475,475,528, 7 Cr,230,4.0,12-18 Feet,North-East,3.5,,3.0,,,,Nakhipot, Lalitpur
+476,476,529, 419 Cr,7.3,5.0,20 Feet,,2.5,,5.0,4.0,,,Godawari, Lalitpur
+477,477,530, 25 Cr,241,3.0,10 Feet,South,3.5,,7.0,3.0,,,Chunikhel, Kathmandu
+478,478,531, 51 Cr,347,5.0,12 Feet,North,2.5,,,,,,Gairidhara, Kathmandu
+479,479,532, 56 Cr,156,6.0,10-12 Feet,,2.5,,5.0,4.0,,,Lazimpat, Kathmandu
+480,480,533, 35 Cr,241,6.2,8 Feet,West,2.5,,4.0,2.0,,,Chabahil, Kathmandu
+482,482,535, 22 Cr,388,3.1,12 Feet,South,3.0,,,,,,Sano thimi, Bhaktapur
+483,483,536, 35 Cr,369,3.0,12-16 Feet,,3.5,,4.0,4.0,,,Chappal karkhana, Kathmandu
+484,484,537, 18 Cr,185,4.0,13 Feet,North-East,1.0,,3.0,2.0,,,Matatirtha, Kathmandu
+485,485,538, 55 Cr,255,6.2,13 Feet,South-East,2.5,,6.0,5.0,,,Bansbari, Kathmandu
+486,486,539, 29 Cr,294,5.3,13-20 Feet,,2.5,,4.0,5.0,,,Dahachowk, Kathmandu
+487,487,540, 55 Cr,481,4.2,40 Feet,South-East,2.5,,3.0,4.0,,,Bhaisepati, Lalitpur
+488,488,541, 275 Cr,226,2.2,20 Feet,South,2.5,,,3.0,,,Swoyambhu, Kathmandu
+489,489,542, 365 Cr,237,5.0,13 Feet,South,3.0,,5.0,4.0,,,Bafal, Kathmandu
+490,490,543, 615 Cr,1.1,6.0,13 Feet,South,2.5,,5.0,3.0,,,Chapali, Kathmandu
+491,491,545, 17 Cr,178,3.2,10 Feet,South-East,2.5,,6.0,3.0,,,Chandragiri, Kathmandu
+492,492,546, 17 Cr,290,3.1,11 Feet,North,2.5,,6.0,,,,Thankot, Kathmandu
+493,493,547, 135 Cr,219,3.0,22 Feet,West,3.0,,7.0,2.0,,,Thankot, Kathmandu
+494,494,548, 165 Cr,637,3.3,10-12 Feet,North-East,3.0,,4.0,,,,Kalanki, Kathmandu
+495,495,549, 255 Cr,351,3.0,13 Feet,West,2.5,,4.0,4.0,,,Imadol, Lalitpur
+496,496,551, 25 Cr,262,4.2,12 Feet,South-West,2.5,,6.0,3.0,,,Manamaiju, Kathmandu
+497,497,552, 29 Cr,230,12.0,13 Feet,South,2.5,,14.0,6.0,,,Godamchaur, Lalitpur
+498,498,553, 398 Cr,180,5.0,13 Feet,,3.5,,5.0,3.0,,,Naya Thimi, Bhaktapur
+499,499,554, 465 Cr,585,4.3,16 Feet,,2.5,,4.0,4.0,,,Budhanilkantha, Kathmandu
+500,500,555, 32 Cr,1.3,5.0,8 Feet,North,2.5,,,3.0,,,Tripureshwor, Kathmandu
+501,501,556, 515 Cr,221,8.3,13 Feet,South-West,2.0,,5.0,3.0,,"Earthquake Resistant,Parquet,Fridge,Sofa,Dining Room,Microwave,Water Purifier,Washing Machine,Bed Room,Iron,Parking,+ 8 See More",Budhanilkantha, Kathmandu
+502,502,557, 58 Cr,427,10.0,13 Feet,East,2.5,,4.0,2.0,,,Dhapasi, Kathmandu
+503,503,558, 22 Cr,370,3.3,30 Feet,West,3.0,,4.0,,,,Kadaghari, Kathmandu
+504,504,559, 14 Cr,196,5.0,40 Feet,East,6.5,,,,,,Kupandole, Lalitpur
+505,505,560, 235 Cr,553,2.5,13 Feet,East,4.0,,3.0,3.0,,,Banasthali, Kathmandu
+506,506,561, 45 Cr,454,6.0,5 Feet,South,3.5,,7.0,4.0,,,Kumaripati, Lalitpur
+507,507,562, 315 Cr,1.3,3.1,10 Feet,North-West,3.5,,,,,,Swoyambhu, Kathmandu
+508,508,563, 498 Cr,221,5.3,9 Feet,,4.0,,11.0,4.0,,,Shantinagar, Kathmandu
+510,510,565, 37 Cr,201,3.2,12-14 Feet,North-East,2.5,,4.0,3.0,,,Bafal, Kathmandu
+511,511,567, 27 Cr,432,3.2,13 Feet,South,3.5,,,,,,Sundarbasti, Kathmandu
+512,512,568, 38 Cr,4.9,4.2,20 Feet,,2.5,,5.0,4.0,,"Earthquake Resistant,Parquet,Gym,CC Camera,Power Backup,Modular Kitchen,Parking,Bathroom,Drinking Water,Internet,Swimming Pool,+ 3 See More",Taukhel, Lalitpur
+513,513,569, 135 Cr,421,2.2,10 Feet,East,1.0,,,,,,Tahachal, Kathmandu
+514,514,570, 395 Cr,849,5.0,20 Feet,,2.5,,6.0,5.0,,,Sundarbasti, Kathmandu
+515,515,572, 325 Cr,158,5.3,13 Feet,South-East,3.0,,6.0,3.0,,,Kapan, Kathmandu
+516,516,573, 27 Cr,451,3.2,20 Feet,West,2.5,,5.0,4.0,,,Imadol, Lalitpur
+517,517,574, 285 Cr,572,3.3,13 Feet,North-West,2.5,,4.0,4.0,,,Imadol, Lalitpur
+518,518,575, 15 Cr,1k ,3.0,10-24 Feet,South,2.5,,4.0,3.0,,,Danchhi, Kathmandu
+519,519,577, 275 Cr,829,3.0,13 Feet,South-East,3.0,,5.0,3.0,,,Imadol, Lalitpur
+520,520,578, 675 Cr,317,4.0,12-15 Feet,,2.5,,8.0,8.0,,,Bhaisepati, Lalitpur
+521,521,579, 29 Cr,270,3.3,13 Feet,,2.5,,,,,,Bhangal , Kathmandu
+522,522,580, 298 Cr,154,4.0,20 Feet,,2.5,,,,,,Sundarbasti, Kathmandu
+523,523,582, 14 Cr,165,4.1,10 Feet,North-East,3.0,,2.0,,,,Jhaukhel, Bhaktapur
+524,524,583, 38 Cr,429,3.3,12-15 Feet,,2.5,,4.0,5.0,,,Bhaisepati, Lalitpur
+525,525,584, 675 Cr,180,4.0,10-12 Feet,,2.5,,8.0,8.0,,,Budhanilkantha, Kathmandu
+526,526,585, 65 Cr,540,9.5,10-15 Feet,,2.0,,4.0,4.0,,,Budhanilkantha, Kathmandu
+527,527,586, 18 Cr,132,4.0,13 Feet,North-East,1.0,,3.0,2.0,,,Matatirtha, Kathmandu
+528,528,587, 275 Cr,246,3.2,13 Feet,,2.5,,4.0,,,,Imadol, Lalitpur
+529,529,588, 235 Cr,278,2.2,8-12 Feet,South,2.5,,8.0,,,,Imadol, Lalitpur
+530,530,589, 275 Cr,239,3.0,8-10 Feet,,2.5,,5.0,4.0,,,Imadol, Lalitpur
+531,531,590, 26 Cr,165,3.1,13 Feet,,2.5,,5.0,4.0,,,Imadol, Lalitpur
+532,532,591, 245 Cr,293,3.0,10 Feet,North-East,2.5,,7.0,4.0,,,Tyanglafat, Kathmandu
+533,533,592, 255 Cr,138,3.0,13 Feet,West,3.0,,5.0,3.0,,,Kageshwori, Kathmandu
+534,534,593, 225 Cr,110,4.0,13 Feet,,2.5,,,,,,Chandragiri, Kathmandu
+535,535,594, 131 Cr,260,3.0,12 Feet,,2.0,,6.0,,,,Chandragiri, Kathmandu
+536,536,596, 22 Cr,267,3.1,13 Feet,East,2.5,,,,,,Thaiba, Lalitpur
+537,537,597, 235 Cr,214,3.1,13 Feet,North,2.5,,4.0,5.0,,,Imadol, Lalitpur
+538,538,598, 21 Cr,226,46.0,13 Feet,North,2.5,,4.0,4.0,,,Imadol, Lalitpur
+539,539,599, 425 Cr,223,4.0,13 Feet,South,2.5,,6.0,4.0,,,Imadol, Lalitpur
+540,540,600, 19 Cr,181,3.0,10 Feet,,2.5,,,,,,Chandragiri, Kathmandu
+542,542,605, 4 Cr,444,5.0,15 Feet,South-East,2.5,,6.0,6.0,,,Budhanilkantha, Kathmandu
+543,543,606, 3 Cr,2.8,3.0,13 Feet,West,2.5,,4.0,3.0,,,Thulobharyang, Kathmandu
+544,544,608, 55 Cr,408,4.2,12-15 Feet,South,2.0,,3.0,4.0,,,Bhaisepati, Lalitpur
+545,545,609, 62 Cr,416,10.0,14 Feet,South-East,2.5,,4.0,,,,Chappal karkhana, Kathmandu
+546,546,610, 4 Cr,353,5.0,15 Feet,South-East,2.5,,6.0,6.0,,,Budhanilkantha, Kathmandu
+547,547,611, 38 Cr,225,5.1,14 Feet,South,2.5,,5.0,3.0,,,Pasikot, Kathmandu
+548,548,612, 12 Cr,464,4.1,3 Feet,West,3.0,,,,,,Tarkeshwor, Kathmandu
+549,549,613, 267 Cr,255,5.0,20 Feet,West,2.5,,6.0,,,,Chandragiri, Kathmandu
+550,550,614, 285 Cr,305,3.4,10 Feet,North-East,3.0,,17.0,,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,Solar,Dining Room,AirCon,Bed Room,Parking,Internet,+ 4 See More",Paiyuntar, Kathmandu
+551,551,615, 18 Cr,283,4.2,20 Feet,North-East,3.0,,2.0,,,,Kapan, Kathmandu
+552,552,616, 33 Cr,155,4.2,20 Feet,West,3.5,,6.0,,,,Battisputali, Kathmandu
+553,553,617, 255 Cr,141,3.2,20 Feet,East,2.5,,9.0,7.0,,,Nakhipot, Lalitpur
+554,554,618, 21 Cr,166,2.3,13 Feet,,2.5,,,2.0,,,Imadol, Lalitpur
+555,555,619, 765 Cr,451,9.0,12-15 Feet,,2.5,,5.0,4.0,,,Dhobighat, Lalitpur
+556,556,620, 125 Cr,686,22.0,12-18 Feet,,2.5,,6.0,,,,Budhanilkantha, Kathmandu
+557,557,621, 25 Cr,1.5,3.1,10 Feet,North,3.0,,,,,,Gairi Gaun, Kathmandu
+558,558,624, 31 Cr,680,3.3,15 Feet,South-West,2.5,,5.0,4.0,,,Bhaisepati, Lalitpur
+559,559,627, 398 Cr,572,6.0,12-15 Feet,South,2.5,,,,,,Sukedhara, Kathmandu
+560,560,629, 675 Cr,323,7.2,13 Feet,North-East,2.5,,6.0,4.0,,,Kupandole, Lalitpur
+561,561,630, 175 Cr,143,3.0,13 Feet,South,3.0,,,,,,Satungal, Kathmandu
+562,562,631, 15 Cr,264,2.2,13 Feet,East,2.5,,,,,,Goldhunga, Kathmandu
+563,563,632, 11 Cr,577,11.0,13 Feet,South,2.5,,,,,,Thapathali, Kathmandu
+564,564,633, 55 Cr,479,5.2,16 Feet,South-East,2.5,,5.0,4.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,AirCon,Microwave,Dining Room,Solar,CC Camera,Water Purifier,+ 13 See More",Bhaisepati, Lalitpur
+565,565,634, 325 Cr,512,3.3,13 Feet,South-East,2.5,,4.0,4.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,AirCon,Microwave,Dining Room,Solar,CC Camera,Water Purifier,+ 13 See More",Bhaisepati, Lalitpur
+566,566,635, 36 Cr,239,7.0,10-15 Feet,North-East,2.5,,6.0,2.0,,,Imadol, Lalitpur
+567,567,636, 25 Cr,133,4.3,10 Feet,,3.5,,,,,,Lolang, Kathmandu
+568,568,637, 275 Cr,214,3.2,13 Feet,South-East,3.0,,3.0,,,,Bhangal , Kathmandu
+569,569,638, 275 Cr,393,3.1,16 Feet,South-West,2.5,,3.0,3.0,,,Golfutar, Kathmandu
+570,570,639, 43 Cr,199,5.0,10 Feet,South,3.5,,17.0,10.0,,,Lainchaur, Kathmandu
+571,571,641, 295 Cr,399,5.0,13 Feet,,2.5,,,,,,Balkot, Bhaktapur
+572,572,642, 775 Cr,957,9.0,20 Feet,South-West,2.5,,5.0,4.0,,"Marbel,Parquet,Fridge,Sofa,Microwave,Dining Room,Solar,Water Purifier,CC Camera,Washing Machine,Bed Room,+ 14 See More",Thado Dhunga, Lalitpur
+573,573,643, 425 Cr,389,6.0,20 Feet,South-East,2.5,,3.0,3.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Gym,Sofa,AirCon,Microwave,Dining Room,CC Camera,Solar,+ 15 See More",Sunakothi, Lalitpur
+574,574,644, 35 Cr,305,3.3,22 Feet,,2.5,,5.0,4.0,,,Bhaisepati, Lalitpur
+575,575,645, 54 Cr,259,5.3,20 Feet,South-East,2.5,,7.0,4.0,,,Bagdol, Lalitpur
+576,576,646, 45 Cr,1k ,5.0,15 Feet,North-West,2.5,,5.0,6.0,,,Budhanilkantha, Kathmandu
+577,577,647, 38 Cr,357,5.1,14 Feet,South-West,2.5,,5.0,3.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,Solar,Dining Room,Microwave,AirCon,Garden,Bed Room,+ 11 See More",Pasikot, Kathmandu
+578,578,648, 295 Cr,185,3.3,13 Feet,,2.5,,,,,,Bhangal , Kathmandu
+579,579,649, 345 Cr,367,4.0,13 Feet,,2.5,,6.0,5.0,,,Baluwakhani, Kathmandu
+580,580,651, 285 Cr,275,3.1,13 Feet,,3.5,,,,,,Aakasedhara, Kathmandu
+581,581,652, 205 Cr,368,3.0,20 Feet,South-East,3.0,,4.0,3.0,,"Earthquake Resistant,Marbel,Solar,Garden,Modular Kitchen,Parking,Playground,Internet,Drinking Water,Bathroom,Drainage,+ 1 See More",Katunje, Bhaktapur
+582,582,653, 5 Cr,287,5.1,13 Feet,South,2.5,,4.0,5.0,,"Marbel,Parquet,AirCon,Solar,CC Camera,Water Purifier,Playground,TV,Drainage,Bathroom,Drinking Water,+ 2 See More",Rudreshwor, Kathmandu
+583,583,654, 29 Cr,367,3.2,16 Feet,West,2.5,,5.0,5.0,,"Earthquake Resistant,Marbel,Parquet,CC Camera,Water Purifier,Drinking Water,Internet,Modular Kitchen,Parking,Playground,AirCon,+ 3 See More",Golfutar, Kathmandu
+584,584,655, 29 Cr,204,3.2,12-15 Feet,South-East,2.5,,3.0,3.0,,,Dhapakhel, Lalitpur
+585,585,658, 25 Cr,213,4.1,12 Feet,West,2.5,,6.0,5.0,,,Bauthali, Kathmandu
+586,586,661, 27 Cr,229,2.5,28 Feet,East,4.0,,,,,,Narephat, Kathmandu
+587,587,662, 295 Cr,228,3.2,13 Feet,East,2.0,,5.0,5.0,,,Tikathali, Lalitpur
+588,588,663, 3 Cr,431,4.2,4 Feet,South,1.0,,2.0,2.0,,,Kalopool, Kathmandu
+589,589,664, 625 Cr,755,5.3,16 Feet,South-West,2.5,,3.0,3.0,,"Marbel,Parquet,Gym,Sofa,AirCon,Garden,Bed Room,Water Purifier,Modular Kitchen,Power Backup,Internet,+ 7 See More",Bhaisepati, Lalitpur
+590,590,665, 39 Cr,456,5.0,13 Feet,East,2.5,,4.0,4.0,,,Nakkhu, Lalitpur
+591,591,666, 10 Cr,309,12.0,13 Feet,East,2.0,,,,,,Mid Baneshwor, Kathmandu
+592,592,667, 31 Cr,981,4.0,13 Feet,South-East,2.5,,5.0,4.0,,,Sitapaila, Kathmandu
+593,593,668, 22 Cr,297,3.1,12 Feet,East,3.0,,5.0,,,,Magar Gaun, Bhaktapur
+594,594,669, 172 Cr,262,3.0,10 Feet,South,3.0,,5.0,,,,Khahare, Kathmandu
+595,595,670, 325 Cr,154,3.5,12 Feet,East,3.0,,6.0,,,,Kadaghari, Kathmandu
+596,596,671, 275 Cr,280,3.2,4 Feet,West,3.0,,6.0,,,,Kamerotar, Bhaktapur
+597,597,673, 26 Cr,135,3.1,13 Feet,North,2.0,,4.0,5.0,,,Imadol, Lalitpur
+598,598,674, 41 Cr,316,4.0,13 Feet,South-West,2.0,,5.0,5.0,,,Bhaisepati, Lalitpur
+599,599,675, 445 Cr,380,5.0,14 Feet,,2.5,,5.0,5.0,,,Mandikatar, Kathmandu
+600,600,677, 4 Cr,336,4.3,13 Feet,West,2.5,,5.0,4.0,,,Budhanilkantha, Kathmandu
+601,601,678, 45 Cr,165,5.3,20 Feet,East,3.5,,,,,,Tilingtar, Kathmandu
+602,602,679, 95 Cr,178,6.1,0 Feet,South-West,3.5,,23.0,8.0,,,Naya Bazar, Kathmandu
+603,603,682, 29 Cr,310,4.0,10 Feet,South-East,3.0,,,,,,Paiyuntar, Kathmandu
+604,604,683, 175 Cr,246,3.0,8-10 Feet,,2.5,,,,,,Chandragiri, Kathmandu
+605,605,685, 17 Cr,530,3.0,10 Feet,West,3.0,,4.0,,,,Tokha, Kathmandu
+606,606,686, 325 Cr,523,3.3,13 Feet,South-West,2.5,,4.0,4.0,,,Bhaisepati, Lalitpur
+607,607,687, 26 Cr,307,3.5,0 Feet,,2.5,,,,,,High Vision Colony, Kathmandu
+608,608,689, 43 Cr,495,5.0,18 Feet,South,2.5,,5.0,3.0,,,Nakkhu, Lalitpur
+609,609,690, 65 Cr,265,12.0,13 Feet,South,3.0,,7.0,3.0,,,Imadol, Lalitpur
+610,610,692, 265 Cr,409,4.0,12 Feet,North-East,4.0,,7.0,,,,Buddhanagar, Kathmandu
+611,611,693, 155 Cr,382,3.3,8 Feet,East,2.0,,1.0,,,,Tahachal, Kathmandu
+612,612,694, 38 Cr,277,4.0,22 Feet,South,4.0,,18.0,,,,Suryabinayak, Bhaktapur
+613,613,695, 385 Cr,285,4.2,12-15 Feet,South,2.0,,3.0,4.0,,,Bhaisepati, Lalitpur
+614,614,697, 375 Cr,722,7.0,13 Feet,South,2.5,,4.0,3.0,,,Sitapaila, Kathmandu
+615,615,698, 2 Cr,528,4.0,12 Feet,North-West,3.0,,4.0,,,,Sitapaila, Kathmandu
+616,616,699, 90 Lac,307,3.0,4 Feet,North,1.0,,2.0,,,,Kavresthali, Kathmandu
+617,617,700, 37 Cr,313,4.0,10 Feet,North,3.0,,6.0,4.0,,,Syuchatar, Kathmandu
+618,618,701, 265 Cr,755,60.0,13 Feet,North,3.0,,6.0,,,,Koteshwor, Kathmandu
+619,619,702, 145 Cr/aana,754,11.0,13 Feet,West,3.0,,11.0,,,,Bouddha, Kathmandu
+620,620,703, 235 Cr,147,5.0,10-12 Feet,South,2.0,,,,,,Naya Basti, Kathmandu
+621,621,704, 55 Cr,614,7.5,15-24 Feet,South-West,3.5,,7.0,8.0,,,Budhanilkantha, Kathmandu
+622,622,706, 535 Cr,704,7.1,13-24 Feet,South-West,3.5,,7.0,5.0,,,Pasikot, Kathmandu
+623,623,707, 14 Cr,310,5.0,22 Feet,East,5.5,,,10.0,,,Kupandole, Lalitpur
+624,624,709, 5 Cr,336,4.0,12-15 Feet,,2.5,,5.0,6.0,,,Bhaisepati, Lalitpur
+625,625,710, 35 Cr,580,3.3,22 Feet,,2.5,,5.0,4.0,,,Bhaisepati, Lalitpur
+626,626,712, 14 Cr,96 ,5.0,22 Feet,East,5.0,,,,,,Kupandole, Lalitpur
+627,627,713, 325 Cr,208,5.2,13 Feet,East,3.0,,,,,,Syuchatar, Kathmandu
+628,628,714, 17 Cr,481,14.0,13-20 Feet,,3.5,,6.0,4.0,,,Bhaisepati, Lalitpur
+629,629,716, 35 Cr,12.,4.1,20 Feet,East,2.5,,5.0,4.0,,"Marbel,Parquet,Gym,Earthquake Resistant,Drainage,Bathroom,Drinking Water,Power Backup,Internet,Modular Kitchen,Playground,+ 1 See More",Sunakothi, Lalitpur
+630,630,718, 7 Cr,1.2,6.3,11 Feet,South,2.0,,6.0,5.0,,,Gahana Pokhari, Kathmandu
+631,631,719, 85 Cr,383,8.0,32 Feet,,2.0,,4.0,4.0,,,Hattiban, Lalitpur
+632,632,720, 19 Cr,373,10.2,13 Feet,South-West,5.0,,10.0,8.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,Bed Room,Modular Kitchen,Parking,Playground,Internet,Bathroom,+ 2 See More",Tahachal, Kathmandu
+633,633,721, 102 Cr,507,9.0,20 Feet,West,2.5,,5.0,4.0,,,Bhimsengola, Kathmandu
+634,634,722, 95 Cr,436,10.0,13 Feet,South,2.5,,5.0,4.0,,,Battisputali, Kathmandu
+635,635,723, 39 Cr,408,5.0,13 Feet,North-East,2.5,,5.0,3.0,,,Sundarbasti, Kathmandu
+636,636,724, 27 Cr,145,3.1,13 Feet,South-East,2.5,,6.0,3.0,,,Besigaun, Kathmandu
+637,637,725, 13 Cr,385,3.0,13 Feet,East,1.0,,2.0,1.0,,,Gorkarneshwor, Kathmandu
+638,638,726, 405 Cr,388,5.5,13 Feet,North-East,2.0,,4.0,3.0,,,Kusunti, Lalitpur
+639,639,727, 33 Cr,393,6.0,13 Feet,South-East,2.5,,6.0,4.0,,,Pasikot, Kathmandu
+640,640,728, 625 Cr,567,6.2,15 Feet,North-East,2.5,,6.0,6.0,,,Budhanilkantha, Kathmandu
+641,641,729, 18 Cr,449,3.0,20 Feet,South,2.5,,,,,,Lamatar, Lalitpur
+642,642,730, 32 Cr,501,3.1,10-16 Feet,North-East,3.5,,,,,,Shankhamul, Kathmandu
+643,643,731, 33 Cr,776,4.2,13 Feet,South-East,2.5,,8.0,6.0,,,Sanagaun, Lalitpur
+644,644,732, 205 Cr,416,3.0,10 Feet,,2.5,,4.0,3.0,,,Baniyatar, Kathmandu
+645,645,734, 5 Cr,238,7.0,13 Feet,South,2.5,,4.0,4.0,,,Bansbari, Kathmandu
+646,646,735, 26 Cr,184,3.3,13 Feet,North-East,2.5,,5.0,3.0,,,Imadol, Lalitpur
+647,647,736, 235 Cr,272,3.1,13 Feet,North,2.5,,3.0,4.0,,,Imadol, Lalitpur
+648,648,737, 7 Cr,307,9.1,10 Feet,East,4.5,,12.0,4.0,,,Satdobato, Lalitpur
+649,649,738, 295 Cr,161,3.3,15 Feet,West,3.0,,,,,,Samakhushi chowk, Kathmandu
+650,650,739, 95 Cr,879,17.0,17 Feet,,3.5,,6.0,5.0,,,Budhanilkantha, Kathmandu
+651,651,740, 325 Cr,351,4.0,13 Feet,East,2.5,,11.0,2.0,,,Gaushala, Kathmandu
+652,652,742, 32 Cr,324,4.0,20 Feet,North,2.5,,4.0,4.0,,,Goldhunga, Kathmandu
+653,653,743, 125 Cr,598,18.0,15 Feet,East,2.5,,5.0,5.0,,,Budhanilkantha, Kathmandu
+654,654,744, 325 Cr,324,3.5,14 Feet,South-West,2.5,,5.0,5.0,,,Ganesh Chowk, Kathmandu
+655,655,745, 16 Cr,274,16.0,20 Feet,,,,,,,,Samakhusi, Kathmandu
+656,656,746, 55 Cr,738,8.0,12 Feet,West,2.5,,,,,,Dhumbarahi, Kathmandu
+657,657,747, 22 Cr,254,4.0,12-18 Feet,East,2.5,,,,,,Goldhunga, Kathmandu
+658,658,748, 13 Cr,107,16.0,20 Feet,,3.5,,,,,,Ranibari, Kathmandu
+659,659,749, 25 Cr,3.3,3.1,16 Feet,North-East,2.5,,4.0,3.0,,,Nagarjun, Kathmandu
+660,660,750, 525 Cr,159,7.2,14 Feet,North-East,2.5,,,,,,Narayanthan , Kathmandu
+661,661,751, 315 Cr,262,4.1,12-18 Feet,South,2.5,,,,,,Bhangal , Kathmandu
+662,662,752, 29 Cr,317,2.3,20 Feet,East,2.5,,,2.0,,,Pepsicola, Kathmandu
+663,663,753, 19 Cr,671,16.0,18 Feet,,3.0,,5.0,5.0,,,Sanepa, Lalitpur
+664,664,754, 41 Cr,235,5.2,13 Feet,South-West,3.0,,5.0,4.0,,,Wasik, Kathmandu
+665,665,755, 45 Cr,204,7.0,12-18 Feet,East,2.5,,4.0,3.0,,,Sukedhara, Kathmandu
+666,666,756, 5 Cr,285,5.2,20 Feet,South-West,2.5,,4.0,3.0,,,Thaiba, Lalitpur
+667,667,757, 95 Cr,363,11.0,14-20 Feet,North-West,2.5,,6.0,4.0,,,Katunje, Bhaktapur
+668,668,758, 475 Cr,698,6.1,12-18 Feet,South-East,2.5,,3.0,4.0,,,Dhapasi, Kathmandu
+669,669,759, 875 Cr,129,6.3,20+ Feet,South,3.5,,7.0,6.0,,,Basundhara, Kathmandu
+670,670,760, 35 Cr,254,5.0,10 Feet,East,3.5,,,,,,Bhaisepati, Lalitpur
+671,671,761, 14 Cr,216,3.0,13 Feet,West,2.5,,,2.0,,,Thankot, Kathmandu
+672,672,762, 535 Cr,172,8.1,12 Feet,North-West,4.0,,8.0,4.0,,,Narayantar, Kathmandu
+673,673,763, 39 Cr,352,4.0,14 Feet,South,2.5,,6.0,4.0,,,Sukedhara, Kathmandu
+674,674,764, 35 Cr,253,4.0,22 Feet,,3.0,,,,,,Ranibari, Kathmandu
+675,675,765, 25 Cr,182,3.2,10 Feet,West,2.5,,5.0,,,,Goldhunga, Kathmandu
+676,676,767, 29 Cr,100,3.0,13 Feet,East,2.5,,,,,,Sundarbasti, Kathmandu
+677,677,769, 35 Cr,158,4.0,12-15 Feet,South,2.5,,,,,,Sitapaila, Kathmandu
+678,678,770, 31 Cr,178,4.2,12-15 Feet,West,3.5,,,,,,Kapan, Kathmandu
+679,679,771, 315 Cr,146,4.0,13 Feet,,2.5,,,,,,Baluwakhani, Kathmandu
+680,680,772, 265 Cr,166,3.3,13 Feet,East,2.0,,,,,,Tenzing Chowk, Kathmandu
+681,681,773, 35 Cr,297,5.0,14 Feet,,2.5,,,,,,Sukedhara, Kathmandu
+682,682,775, 55 Cr,199,11.0,15 Feet,East,2.5,,4.0,5.0,,,Narayanthan , Kathmandu
+683,683,776, 49 Cr,231,5.1,13 Feet,East,2.5,,5.0,6.0,,,Rudreshwor, Kathmandu
+684,684,777, 285 Cr,316,4.0,13 Feet,,2.5,,7.0,4.0,,,Bafal, Kathmandu
+685,685,779, 147 Cr,292,3.0,12-15 Feet,North,2.5,,,,,,Imadol, Lalitpur
+686,686,781, 185 Cr,275,2.3,15 Feet,East,2.5,,,,,,Gwarko, Lalitpur
+687,687,782, 147 Cr,478,3.0,12-15 Feet,South,1.0,,,,,,Imadol, Lalitpur
+688,688,783, 21 Cr,319,3.0,16 Feet,North,2.5,,,,,,Gothatar, Kathmandu
+689,689,784, 175 Cr,350,2.2,12 Feet,South,2.5,,,,,,Tikathali, Lalitpur
+690,690,785, 27 Cr,247,4.0,12-15 Feet,South,2.5,,,,,,Tikathali, Lalitpur
+691,691,786, 55 Lac/aana,1.6,14.0,36 Feet,,,,,,,,Sitapaila, Kathmandu
+692,692,787, 22 Cr,1.8,3.0,10 Feet,South,2.5,,,,,,Basanti Chowk, Kathmandu
+693,693,788, 22 Cr,688,3.0,26 Feet,,2.5,,,,,,Tindhara, Kathmandu
+694,694,789, 24 Cr,1.1,3.0,10 Feet,,2.5,,,,,,Buddha Chowk, Kathmandu
+695,695,790, 88 Cr,365,12.0,12-18 Feet,,2.5,,6.0,3.0,,,Bansbari, Kathmandu
+696,696,791, 365 Cr,208,6.2,13 Feet,North-East,3.0,,4.0,3.0,,,Hattigaunda, Kathmandu
+697,697,792, 26 Cr,302,4.0,13-20 Feet,North,2.5,,,,,,Bhangal , Kathmandu
+698,698,793, 27 Cr,280,3.3,13 Feet,East,2.5,,6.0,4.0,,,Dhapakhel, Lalitpur
+699,699,794, 22 Cr,236,3.1,32 Feet,West,2.5,,,,,,Sundarbasti, Kathmandu
+700,700,795, 21 Cr,366,4.0,20 Feet,East,3.0,,,,,,Mulpani, Kathmandu
+701,701,796, 33 Cr,197,4.0,12-15 Feet,West,2.5,,5.0,4.0,,,Dholahiti, Lalitpur
+702,702,798, 399 Cr,270,5.0,13 Feet,East,2.5,,,,,,Sundarbasti, Kathmandu
+703,703,799, 28 Cr,413,3.0,13 Feet,North,3.5,,8.0,4.0,,,Lokanthali, Bhaktapur
+704,704,800, 135 Cr,363,2.2,12 Feet,South-West,2.5,,,3.0,,,Mulpani, Kathmandu
+705,705,801, 75 Cr,171,13.0,20 Feet,East,2.0,,,,,,Thankot, Kathmandu
+706,706,802, 24 Cr,215,3.0,13/16 Feet,North-West,3.0,,7.0,3.0,,,Birendra Chowk, Kathmandu
+707,707,803, 27 Cr,364,3.1,13 Feet,South,3.0,,5.0,4.0,,,Gwarko, Lalitpur
+708,708,804, 465 Cr,670,4.0,13-15 Feet,South-East,2.5,,4.0,4.0,,,Bhaisepati, Lalitpur
+709,709,805, 2 Cr,1.3,5.1,26 Feet,South,3.0,,3.0,3.0,,,Matatirtha, Kathmandu
+710,710,806, 36 Cr,212,7.0,20 Feet,North-East,2.5,,5.0,2.0,,,Imadol, Lalitpur
+711,711,809, 3 Cr,332,3.0,12 Feet,West,2.0,,5.0,4.0,,,Bhaisepati, Lalitpur
+712,712,810, 51 Cr,225,5.0,20 Feet,West,2.5,,5.0,4.0,,,Bhaisepati, Lalitpur
+713,713,811, 298 Cr,210,4.1,13 Feet,,3.0,,,,,,Kapan, Kathmandu
+714,714,812, 13 Cr,282,1.3,12 Feet,South,2.5,,7.0,4.0,,,Mahalaxmisthan, Lalitpur
+715,715,813, 48 Cr,414,8.3,12-18 Feet,,2.5,,,,,,Budhanilkantha, Kathmandu
+716,716,814, 21 Cr,641,18.0,20 Feet,East,2.5,,6.0,5.0,,,Bhaisepati, Lalitpur
+717,717,815, 235 Cr,214,3.0,13 Feet,East,2.5,,5.0,3.0,,,Imadol, Lalitpur
+718,718,816, 7 Cr,205,10.0,13 Feet,South,4.5,,13.0,9.0,,,Satdobato, Lalitpur
+719,719,817, 25 Cr,1k ,3.2,13 Feet,South,2.5,,6.0,2.0,,,Syuchatar, Kathmandu
+720,720,818, 4 Cr,188,5.0,5-8 Feet,North,2.0,,5.0,2.0,,,Tinthana, Kathmandu
+721,721,819, 32 Cr,107,3.2,9-12 Feet,West,3.0,,8.0,4.0,,,Kumarigal, Kathmandu
+722,722,820, 2 Cr,124,3.1,5-8 Feet,South,2.0,,,,,,Chandragiri, Kathmandu
+723,723,821, 22 Cr,273,6.2,13-20 Feet,North,3.0,,,,,,Jhaukhel, Bhaktapur
+724,724,822, 115 Cr,329,18.0,13 Feet,South-West,2.5,,5.0,4.0,,,Budhanilkantha, Kathmandu
+725,725,823, 8 Cr,213,10.0,13 Feet,West,3.0,,6.0,5.0,,,Tripureshwor, Kathmandu
+726,726,824, 295 Cr,455,4.2,16 Feet,South,2.5,,4.0,3.0,,,Sitapaila, Kathmandu
+727,727,826, 40 Cr,168,15.0,10 Feet,South-West,7.0,,,,,,Anamnagar, Kathmandu
+728,728,827, 27 Lac/aana,162,5.2,13 Feet,,,,,,,,Naya Naikap, Kathmandu
+729,729,829, 48 Cr,588,8.2,13 Feet,North-East,3.0,,7.0,5.0,,,Purano Naikap, Kathmandu
+730,730,831, 315 Cr,180,5.0,13 Feet,East,2.5,,5.0,5.0,,,Sitapaila, Kathmandu
+731,731,832, 26 Cr,568,4.2,18 Feet,East,2.5,,5.0,4.0,,,Dhapakhel, Lalitpur
+732,732,833, 185 Cr,249,3.2,10-14 Feet,North-West,2.5,,,,,,Thankot, Kathmandu
+733,733,834, 39 Cr,499,5.0,13-20 Feet,East,2.5,,,,,,Kapan, Kathmandu
+734,734,835, 615 Cr,140,2.2,20 Feet,South-East,4.5,,21.0,21.0,,,Tilganga, Kathmandu
+735,735,836, 35 Cr,472,3.2,16 Feet,North,2.0,,3.0,3.0,,"Earthquake Resistant,Marbel,Parquet,Drainage,Bathroom,Drinking Water,Parking,TV,AirCon,Fridge,Washing Machine,+ 2 See More",Bhaisepati, Lalitpur
+736,736,837, 21 Cr,250,4.0,20 Feet,East,2.0,,4.0,3.0,,,Mulpani, Kathmandu
+737,737,838, 22 Cr,251,3.1,32 Feet,West,2.5,,,,,,Mandikhatar, Kathmandu
+738,738,839, 23 Cr,1.5,3.2,10 Feet,South,2.5,,5.0,3.0,,,Jorpati, Kathmandu
+739,739,840, 2 Cr,2.4,3.1,20 Feet,,2.0,,,,,,Nil Barahi Mandir, Bhaktapur
+740,740,841, 575 Cr,2.3,9.1,10 Feet,West,2.5,,,,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,CC Camera,Solar,Microwave,Dining Room,Water Purifier,Washing Machine,+ 9 See More",Balaju, Kathmandu
+741,741,842, 12 Cr,2.5,2.3,4 Feet,North-East,2.5,,3.0,,,,Sitapaila, Kathmandu
+742,742,843, 2 Cr,1.2,3.1,10 Feet,North,2.5,,4.0,2.0,,,Naikap, Kathmandu
+743,743,844, 3 Cr,1.6,4.0,10 Feet,East,2.5,,,,,,Machhapokhari, Kathmandu
+744,744,845, 3 Cr,1.9,64.0,13 Feet,South,3.0,,6.0,3.0,,,Rai Chowk, Kathmandu
+745,745,846, 365 Cr,448,4.2,20 Feet,North-East,2.5,,4.0,3.0,,,Sitapaila, Kathmandu
+746,746,847, 3 Cr,181,3.2,12 Feet,North,2.5,,6.0,4.0,,,Bhangal , Kathmandu
+747,747,851, 31 Cr,116,3.2,20 Feet,,3.5,,,,,,Kageshwari Manohara, Kathmandu
+748,748,852, 13 Cr,187,200.0,14 Feet,South-West,2.5,,4.0,4.0,,,Bishalnagar, Kathmandu
+749,749,853, 95 Cr,336,14.0,40 Feet,North,3.0,,9.0,10.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,Water Purifier,Garden,Iron,Modular Kitchen,Parking,Playground,+ 3 See More",Simaltar, Kathmandu
+750,750,854, 425 Cr,453,6.0,12-18 Feet,East,2.5,,3.0,3.0,,,Sunakothi, Lalitpur
+751,751,855, 5 Cr,154,4.2,36 Feet,North-East,3.5,,3.0,5.0,,,Pepsicola, Kathmandu
+752,752,856, 535 Cr,367,8.0,13 Feet,West,2.5,,13.0,5.0,,,Budhanilkantha, Kathmandu
+753,753,857, 26 Cr,497,3.0,13 Feet,East,2.5,,4.0,3.0,,,Satdobato, Lalitpur
+754,754,858, 24 Cr,881,3.1,13 Feet,,2.5,,5.0,3.0,,,Bafal, Kathmandu
+755,755,860, 55 Cr,387,5.0,12-20 Feet,South-West,2.5,,4.0,5.0,,,Bhaisepati, Lalitpur
+756,756,861, 16 Cr,348,2.2,13-20 Feet,,2.5,,4.0,3.0,,,Imadol, Lalitpur
+757,757,862, 57 Cr,170,10.0,12-16 Feet,North-West,3.0,,,,,,Ganesh Chowk, Kathmandu
+758,758,863, 65 Lac/aana,512,27.0,15 Feet,West,2.5,,9.0,6.0,,,Budhanilkantha, Kathmandu
+759,759,864, 36 Cr,258,4.0,15 Feet,West,2.5,,4.0,5.0,,,Budhanilkantha, Kathmandu
+760,760,865, 275 Cr,183,4.0,12 Feet,,3.5,,,,,,Manamaiju, Kathmandu
+761,761,866, 425 Cr,190,5.0,18 Feet,South,2.5,,6.0,5.0,,,Dhapasi, Kathmandu
+762,762,867, 425 Cr,169,4.2,36 Feet,North-East,4.0,,16.0,4.0,,,Balkumari, Lalitpur
+763,763,868, 27 Cr,227,3.2,13 Feet,North,2.5,,6.0,3.0,,,Kadaghari, Kathmandu
+764,764,869, 285 Cr,284,3.2,16 Feet,East,2.5,,4.0,4.0,,,Dhapasi, Kathmandu
+765,765,870, 25 Lac/aana,234,3.0,12 Feet,North-East,,,,,,,Lolang, Kathmandu
+766,766,871, 29 Cr,317,4.2,13 Feet,East,2.5,,,,,,Tokha, Kathmandu
+767,767,872, 365 Cr,202,4.0,12 Feet,South,2.5,,5.0,4.0,,,Bafal, Kathmandu
+768,768,873, 32 Cr,297,4.2,20 Feet,West,2.5,,5.0,4.0,,,Nakhipot, Lalitpur
+769,769,874, 3 Cr,522,4.2,20 Feet,East,2.5,,,,,,Goldhunga, Kathmandu
+770,770,875, 775 Cr,374,8.1,20 Feet,East,3.0,,5.0,5.0,,,Italitar, Kathmandu
+771,771,876, 5 Cr,301,5.1,16 Feet,East,3.0,,4.0,5.0,,,Rudreshwor, Kathmandu
+772,772,877, 165 Cr,309,3.0,13 Feet,,1.0,,2.0,1.0,,,Imadol, Lalitpur
+773,773,878, 14 Cr,199,9.0,26 Feet,West,6.0,,,,,,Chamati, Kathmandu
+774,774,879, 24 Cr,351,3.0,13 Feet,,3.0,,4.0,4.0,,,Nakhipot, Lalitpur
+775,775,880, 28 Cr,221,3.3,13 Feet,North-East,3.0,,5.0,3.0,,,Chapali, Kathmandu
+776,776,881, 92 Cr,340,10.0,20 Feet,South-East,2.5,,6.0,5.0,,,Phulbari Colony, Kathmandu
+777,777,882, 35 Cr,142,80.0,13 Feet,West,3.5,,7.0,4.0,,,Jarankhu, Kathmandu
+779,779,885, 125 Cr/aana,316,24.0,13 Feet,South-East,3.0,,8.0,6.0,,,Charkhal, Kathmandu
+780,780,886, 365 Cr,242,6.1,14 Feet,,2.5,,7.0,7.0,,,Hattigaunda, Kathmandu
+781,781,887, 45 Cr,257,5.0,15 Feet,North-East,2.5,,6.0,5.0,,,Hattigaunda, Kathmandu
+782,782,888, 2 Cr,227,8.0,16 Feet,,2.5,,8.0,,,,Matatirtha, Kathmandu
+783,783,889, 72 Cr,224,8.0,20 Feet,West,2.5,,7.0,5.0,,,Balkhu, Kathmandu
+784,784,890, 35 Cr,214,2.3,12-18 Feet,,3.0,,,,,,Baneshwor, Kathmandu
+785,785,891, 3 Cr,212,4.2,8 Feet,North,2.5,,,,,,Taukhel, Lalitpur
+786,786,892, 65 Lac/aana,329,27.0,13 Feet,South,2.5,,6.0,5.0,,,Mandikhatar, Kathmandu
+787,787,894, 45 Cr,333,4.3,13 Feet,South,2.5,,5.0,4.0,,,Deuwa chowk, Kathmandu
+788,788,895, 45 Cr,195,5.0,13 Feet,North,3.0,,6.0,4.0,,,Hattigaunda, Kathmandu
+789,789,896, 395 Cr,220,5.0,13 Feet,East,2.5,,4.0,4.0,,,Nakkhu, Lalitpur
+790,790,897, 45 Cr,438,4.2,20 Feet,South-West,3.0,,3.0,3.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,Microwave,Dining Room,Solar,CC Camera,Water Purifier,Washing Machine,+ 12 See More",Hepali Height, Kathmandu
+791,791,899, 41 Cr,157,4.0,20 Feet,South-East,3.0,,5.0,4.0,,,Dhapasi, Kathmandu
+792,792,900, 38 Cr,399,3.3,13 Feet,East,3.0,,4.0,4.0,,,Bhaisepati, Lalitpur
+793,793,901, 375 Cr,153,4.0,13 Feet,East,3.0,,6.0,4.0,,,Dhapasi, Kathmandu
+794,794,902, 65 Cr,253,6.2,14 Feet,East,2.5,,6.0,7.0,,,Hattigaunda, Kathmandu
+795,795,903, 9 Cr,235,8.0,20 Feet,South,2.0,,4.0,5.0,,,Hattiban, Lalitpur
+796,796,904, 249 Cr,161,2.3,20 Feet,North,2.5,,3.0,3.0,,,Balkhu, Lalitpur
+797,797,905, 45 Cr,452,5.0,16 Feet,South,2.0,,4.0,4.0,,,Bhaisepati, Lalitpur
+798,798,906, 14 Cr,235,3.2,12-16 Feet,West,2.0,,3.0,2.0,,,Bhaktapur, Bhaktapur
+799,799,907, 595 Cr,228,6.0,13 Feet,South,3.0,,5.0,5.0,,"Earthquake Resistant,Marbel,Parquet,Sofa,Fridge,Microwave,Dining Room,Solar,CC Camera,Water Purifier,Washing Machine,+ 10 See More",Rudreshwor, Kathmandu
+800,800,908, 35 Cr,167,4.0,13 Feet,,3.5,,,,,,Jarankhu, Kathmandu
+801,801,909, 3 Cr,175,4.3,12 Feet,West,2.5,,5.0,4.0,,,Paiyuntar, Kathmandu
+802,802,910, 5 Cr,338,5.1,15 Feet,East,2.5,,4.0,5.0,,,Budhanilkantha, Kathmandu
+803,803,911, 45 Cr,198,5.2,13 Feet,South-West,2.5,,5.0,4.0,,,Ganesh Chowk, Kathmandu
+804,804,912, 465 Cr,359,4.2,20+ Feet,South-West,2.5,,4.0,4.0,,,Hattiban, Lalitpur
+805,805,913, 82 Cr,321,10.0,20-26 Feet,,2.5,,,,,,Kalimati, Kathmandu
+806,806,914, 25 Cr,178,1.3,30 Feet,East,2.5,,4.0,,,,Kalikasthan, Kathmandu
+807,807,915, 298 Cr,581,4.1,13 Feet,,2.5,,,,,,Budhanilkantha, Kathmandu
+808,808,918, 29 Cr,223,4.0,10-14 Feet,,2.5,,,,,,Thulobharyang, Kathmandu
+809,809,919, 96 Cr,401,16.0,15 Feet,South-East,2.5,,7.0,6.0,,,Bansbari, Kathmandu
+810,810,921, 125 Cr,64 ,4.0,20 Feet,North,1.0,,,,,,Bhadrabas, Kathmandu
+811,811,922, 55 Cr,433,6.0,16 Feet,East,3.5,,,,,,Bagdol, Lalitpur
+812,812,923, 125 Cr,313,30.0,12-18 Feet,,2.0,,5.0,5.0,,,Dhapasi, Kathmandu
+813,813,924, 675 Cr,139,6.1,12 Feet,,2.5,,6.0,5.0,,,Ganesh Chowk, Kathmandu
+814,814,925, 15 Cr,654,8.0,12-15 Feet,,2.0,,5.0,6.0,,,Bhaisepati, Lalitpur
+815,815,926, 36 Cr,179,5.0,13 Feet,North,3.5,,6.0,5.0,,,Kapan, Kathmandu
+816,816,928, 135 Cr,204,21.0,20 Feet,East,2.5,,6.0,6.0,,,Siddhartha Colony, Kathmandu
+817,817,929, 425 Cr,216,3.3,16 Feet,South,2.5,,5.0,5.0,,,Narayanthan , Kathmandu
+818,818,930, 53 Cr,236,5.2,13 Feet,South-West,2.5,,4.0,4.0,,"Earthquake Resistant,Marbel,Parquet,Solar,Garden,Bed Room,Water Purifier,Modular Kitchen,Parking,Drinking Water,Internet,+ 1 See More",Nakkhu, Lalitpur
+819,819,931, 4 Cr,374,5.0,20 Feet,West,2.5,,5.0,4.0,,,Bhaisepati, Lalitpur
+820,820,932, 15 Cr,420,8.2,13 Feet,South,2.5,,6.0,7.0,,"Earthquake Resistant,Marbel,Parquet,Drainage,Garden,Bathroom,Parking,Washing Machine,AirCon,Internet,Fridge,+ 3 See More",Bhaisepati, Lalitpur
+821,821,933, 365 Cr,115,6.2,15 Feet,East,2.5,,5.0,5.0,,,Hattigaunda, Kathmandu
+822,822,934, 399 Cr,276,5.0,15 Feet,East,2.5,,4.0,4.0,,,Bhaisepati, Lalitpur
+823,823,935, 385 Cr,228,4.2,20 Feet,,2.5,,6.0,5.0,,,Sundarbasti, Kathmandu
+824,824,936, 385 Cr,134,5.0,13 Feet,,2.5,,6.0,5.0,,,Sundarbasti, Kathmandu
+825,825,937, 674 Cr,435,10.2,20 Feet,North-West,2.0,,4.0,3.0,,,Sitapaila, Kathmandu
+826,826,938, 11 Cr,320,15.0,15 Feet,North-East,2.5,,5.0,6.0,,,Budhanilkantha, Kathmandu
+827,827,939, 14 Cr,260,3.2,20 Feet,,1.0,,,,,,Gothatar, Kathmandu
+828,828,940, 315 Cr,149,4.0,13 Feet,South,2.5,,11.0,5.0,,,Gongabu, Kathmandu
+829,829,941, 475 Cr,389,4.2,13 Feet,South-East,2.5,,5.0,4.0,,,Bhaisepati, Lalitpur
+830,830,942, 37 Lac/aana,405,75.0,22 Feet,,2.5,,6.0,4.0,,,Thaiba, Lalitpur
+831,831,943, 25 Cr,171,4.0,12 Feet,South-East,2.5,,5.0,3.0,,,Jarankhu, Kathmandu
+832,832,944, 185 Cr,559,4.2,26 Feet,West,2.5,,4.0,3.0,,,Dhapakhel, Lalitpur
+833,833,945, 21 Cr,230,3.3,10 Feet,East,3.5,,10.0,3.0,,,Sudal, Bhaktapur
+834,834,946, 35 Cr,262,6.0,22 Feet,North-East,2.5,,6.0,4.0,,,Khumaltar, Lalitpur
+835,835,947, 275 Cr,617,4.0,14-20 Feet,,2.5,,4.0,4.0,,,Nakhipot, Lalitpur
+836,836,949, 19 Cr,133,3.2,13 Feet,North,2.5,,,,,,Baluwa, Kathmandu
+837,837,950, 525 Cr,159,8.0,12 Feet,East,3.0,,8.0,4.0,,,Deuwa chowk, Kathmandu
+838,838,951, 45 Cr,179,8.0,13 Feet,North-East,2.5,,5.0,4.0,,"Earthquake Resistant,Marbel,Parquet,Solar,Iron,Modular Kitchen,Parking,Bathroom,Drainage,Drinking Water,Internet,+ 1 See More",Machhegaun , Kathmandu
+839,839,952, 265 Cr,179,3.2,11 Feet,North-West,2.5,,4.0,4.0,,,Imadol, Lalitpur
+840,840,953, 45 Cr,364,6.1,10-14 Feet,,2.5,,,,,,Satdobato, Lalitpur
+841,841,954, 11 Cr,239,19.0,12-18 Feet,North,2.5,,11.0,9.0,,,Swoyambhu, Kathmandu
+842,842,955, 215 Cr,315,4.0,13 Feet,East,2.0,,6.0,,,,Sanagaun, Lalitpur
+843,843,956, 35 Lac/aana,234,8.0,15 Feet,East,,,,,,,Gothatar, Kathmandu
+844,844,957, 45 Cr,230,5.2,13 Feet,,2.5,,5.0,5.0,,,Sinamangal, Kathmandu
+845,845,958, 425 Cr,202,5.2,18 Feet,West,2.5,,7.0,4.0,,,Khumaltar, Lalitpur
+846,846,959, 625 Cr,349,8.0,13/16 Feet,South-East,2.5,,6.0,3.0,,,Radhe Radhe, Bhaktapur
+847,847,960, 42 Cr,640,8.2,13 Feet,North-East,2.0,,4.0,3.0,,,Dhapakhel, Lalitpur
+848,848,961, 155 Cr,497,3.0,12-26 Feet,South,1.0,,4.0,,,,Chunikhel, Kathmandu
+849,849,962, 335 Cr,204,4.0,13-18 Feet,,2.5,,,,,,Kapan, Kathmandu
+850,850,963, 29 Cr,253,3.0,26 Feet,South-East,2.5,,3.0,3.0,,,Dhapakhel, Lalitpur
+851,851,964, 32 Cr,486,4.0,20 Feet,South,2.5,,4.0,4.0,,,Budhanilkantha, Kathmandu
+852,852,965, 325 Cr,359,4.1,20 Feet,,2.5,,,,,,Budhanilkantha, Kathmandu
+853,853,966, 495 Cr,110,4.0,12 Feet,,2.0,,,,,,Sukedhara, Kathmandu
+854,854,967, 55 Cr,397,5.0,14-20 Feet,,2.5,,3.0,3.0,,,Bhaisepati, Lalitpur
+855,855,969, 775 Cr,373,9.2,16 Feet,East,2.5,,4.0,4.0,,,Sanepa, Lalitpur
+856,856,970, 2 Cr,175,3.0,13 Feet,East,2.0,,5.0,2.0,,,Boharatar, Kathmandu
+857,857,971, 48 Cr,266,4.0,25 Feet,North-East,2.5,,6.0,5.0,,,Budhanilkantha, Kathmandu
+858,858,972, 15 Cr,380,10.0,20 Feet,,1.0,,,,,,Gundu, Bhaktapur
+859,859,973, 60 Lac/aana,216,16.0,26 Feet,South,,,,,,,Raniban, Kathmandu
+860,860,974, 4 Cr,617,3.0,20 Feet,South,2.5,,4.0,4.0,Full-Furnished,,Jhamsikhel, Lalitpur
+861,861,975, 36 Cr,256,5.0,40/50 Meter,South,2.5,,6.0,3.0,Un-Furnished,,Ekantakuna, Lalitpur
+862,862,976, 365 Cr,14.,3.2,20 Feet,,2.5,,5.0,4.0,Semi-Furnished,,Bhaisepati, Lalitpur
+863,863,977, 55 Cr,282,0.0,16 Feet,North,2.5,,4.0,4.0,,,Godawari, Lalitpur
+864,864,978, 535 Cr,168,5.2,21 Feet,,2.5,,5.0,5.0,,,Grande Villa, Kathmandu
+865,865,979, 5 Cr,239,5.1,12-18 Feet,,2.5,,5.0,,,,Budhanilkantha, Kathmandu
+866,866,980, 55 Cr,140,5.0,20 Feet,South-West,2.5,,4.0,5.0,,,Bhaisepati, Lalitpur
+867,867,981, 325 Cr,247,20.0,18 Feet,North,2.5,,4.0,4.0,,,Muhanpokhari, Kathmandu
+868,868,982, 135 Cr,304,21.0,20 Feet,East,2.0,,6.0,6.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+869,869,983, 3 Cr,206,4.0,0 Feet,North,2.5,,4.0,,,,Sainbu, Lalitpur
+870,870,984, 26 Cr,162,3.0,10 Feet,North,3.5,,8.0,4.0,,,Pepsicola, Kathmandu
+871,871,985, 195 Cr,166,3.2,13 Feet,,2.5,,,,,,Thankot, Kathmandu
+872,872,987, 13 Cr,210,6.0,20 Feet,South-East,2.0,,,,,,Thamel, Kathmandu
+873,873,988, 45 Cr,157,5.0,20 Feet,North,2.5,,4.0,5.0,,,Sanobharyang, Kathmandu
+874,874,989, 105 Cr,151,7.1,16 Feet,South,4.5,,10.0,8.0,,,Khusibu, Kathmandu
+875,875,990, 7 Cr,133,7.0,12 Feet,East,2.5,,4.0,3.0,Semi-Furnished,,Sukedhara, Kathmandu
+876,876,992, 35 Cr,198,3.0,13 Feet,North,3.0,,,,,,Thulobharyang, Kathmandu
+877,877,993, 205 Cr,247,2.2,13 Feet,North,2.5,,4.0,4.0,Semi-Furnished,,Imadol, Lalitpur
+878,878,994, 3 Cr,74 ,4.0,13 Feet,,1.5,,7.0,,Full-Furnished,,Thankot, Kathmandu
+879,879,996, 225 Cr,215,2.2,10 Feet,South,2.5,,4.0,2.0,,,Lazimpat, Kathmandu
+880,880,997, 24 Cr,82 ,3.0,11 Feet,South,3.0,,5.0,3.0,,,Tokha, Kathmandu
+881,881,999, 65 Cr,151,6.0,12-18 Feet,,2.5,,,,,,Ganesh Chowk, Kathmandu
+882,882,1000, 55 Cr,206,4.2,16-40 Feet,South-East,2.5,,3.0,4.0,Full-Furnished,,Bhaisepati, Lalitpur
+883,883,1001, 185 Cr,154,3.2,10 Feet,,2.5,,8.0,,,,Chandragiri, Kathmandu
+884,884,1002, 9 Cr,615,12.1,16 Feet,South,2.5,,5.0,4.0,Full-Furnished,,Maharajgunj, Kathmandu
+885,885,1003, 4 Cr,236,4.0,26 Feet,,2.5,,4.0,5.0,Semi-Furnished,,Khumaltar, Lalitpur
+886,886,1004, 16 Cr,237,3.1,13 Feet,East,1.0,,4.0,,,,Kapan, Kathmandu
+887,887,1005, 39 Cr,236,5.0,20 Feet,North-West,,,6.0,5.0,,,Budhanilkantha, Kathmandu
+888,888,1006, 625 Cr,213,9.2,13 Feet,South,2.0,,4.0,3.0,,,Bansbari, Kathmandu
+889,889,1008, 85 Cr,576,7.0,12-18 Feet,,3.5,,6.0,7.0,,,Putalisadak, Kathmandu
+890,890,1009, 32 Cr,134,4.0,12-18 Feet,,2.5,,,,,,Kalanki, Kathmandu
+891,891,1010, 7 Cr,165,8.0,20 Feet,West,2.5,,6.0,5.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+892,892,1011, 315 Cr,160,3.2,20 Feet,North-East,2.5,,5.0,5.0,,,Golfutar, Kathmandu
+893,893,1012, 33 Cr,370,4.2,16 Feet,,3.0,,,4.0,,,Pasikot, Kathmandu
+894,894,1013, 7 Cr,118,11.0,12 Feet,East,3.5,,9.0,10.0,,,Lolang, Kathmandu
+895,895,1014, 26 Cr,172,4.0,10 Feet,North-East,2.5,,6.0,3.0,,,Tokha, Kathmandu
+896,896,1015, 14 Cr,3.1,10.0,14 Feet,West,3.5,,6.0,6.0,Full-Furnished,,Baluwatar, Kathmandu
+897,897,1016, 55 Cr,92 ,5.2,12 Feet,South-East,2.5,,5.0,,Full-Furnished,,Mid Baneshwor, Kathmandu
+898,898,1017, 575 Cr,106,6.0,15 Feet,South,2.5,,5.0,5.0,,,Rudreshwor, Kathmandu
+899,899,1018, 295 Cr,156,6.0,8-12 Feet,East,3.5,,,,,,Kapan, Kathmandu
+900,900,1019, 225 Cr,160,4.0,13 Feet,,2.5,,,,,,Sukedhara, Kathmandu
+901,901,1020, 10 Cr,112,8.0,16 Feet,South,3.0,,5.0,3.0,,,Bishalnagar, Kathmandu
+902,902,1022, 335 Cr,139,5.0,13 Feet,South,2.5,,5.0,4.0,,,Pasikot, Kathmandu
+903,903,1023, 175 Cr,185,17.0,12-18 Feet,South-East,2.5,,5.0,5.0,,,Budhanilkantha, Kathmandu
+904,904,1024, 415 Cr,1k ,4.0,14-20 Feet,,2.5,,4.0,4.0,,,Deuwa Niwas, Kathmandu
+905,905,1025, 3 Cr,14 ,3.1,10-16 Feet,South,2.5,,,,,,Harisiddhi, Lalitpur
+906,906,1026, 21 Cr,86 ,3.0,10 Feet,,2.5,,,,,,Nepaltar, Kathmandu
+907,907,1027, 26 Cr,75 ,4.0,13 Feet,,3.0,,,,,,Thankot, Kathmandu
+908,908,1029, 31 Cr,69 ,4.0,12-18 Feet,,,,,,,,Setipakha, Lalitpur
+909,909,1030, 16 Cr,226,2.2,10-12 Feet,South,2.5,,4.0,5.0,,,Ekatabasti, Kathmandu
+910,910,1031, 335 Cr,113,4.0,13 Feet,,2.5,,6.0,5.0,,,Budhanilkantha, Kathmandu
+911,911,1032, 45 Cr,101,3.2,12 Feet,,5.5,,,15.0,Un-Furnished,,Sorhakhutte, Kathmandu
+912,912,1033, 215 Cr,151,3.2,12 Feet,,3.0,,4.0,3.0,,,Pasikot, Kathmandu
+913,913,1034, 345 Cr,193,4.0,13 Feet,East,1.5,,5.0,,,,Imadol, Lalitpur
+914,914,1035, 145 Cr,225,3.0,11 Feet,North,1.5,,4.0,1.0,,,Imadol, Lalitpur
+915,915,1036, 26 Cr,192,4.2,16 Feet,South,2.5,,5.0,3.0,,,Banasthali, Kathmandu
+916,916,1038, 185 Cr,226,3.2,13 Feet,,1.0,,4.0,,,,Budhanilkantha, Kathmandu
+917,917,1039, 775 Cr,804,9.3,20 Feet,East,,,,,,,Naya Bazar, Kathmandu
+918,918,1041, 44 Cr,132,3.3,20 Feet,North,2.5,,4.0,4.0,Full-Furnished,,Bhaisepati, Lalitpur
+919,919,1042, 36 Cr,175,4.1,20 Feet,North-East,2.5,,7.0,,,,Imadol, Lalitpur
+920,920,1043, 75 Cr,182,7.3,24 Feet,,2.5,,4.0,5.0,,,Budhanilkantha, Kathmandu
+921,921,1044, 215 Cr,8k ,3.3,13 Feet,West,2.5,,5.0,3.0,,,Duwakot, Bhaktapur
+922,922,1045, 395 Cr,90 ,5.0,13 Feet,South-East,3.0,,7.0,5.0,,,Budhanilkantha, Kathmandu
+923,923,1046, 14 Cr,120,21.116143170197223,13 Feet,East,6.0,,,,Semi-Furnished,,New Road, Kathmandu
+924,924,1048, 225 Cr,152,3.506208911614317,13 Feet,South,7.0,,,,,,New Road, Kathmandu
+925,925,1049, 35 Cr,104,6.1,10 Feet,South-West,2.5,,6.0,,,,Makalbari, Kathmandu
+926,926,1050, 3 Cr,43 ,4.2,12 Feet,North,2.5,,6.0,3.0,Semi-Furnished,,Sitapaila, Kathmandu
+928,928,1052, 235 Cr,190,3.0,20 Feet,,3.5,,4.0,3.0,,,Tikathali, Lalitpur
+929,929,1053, 23 Cr,237,3.0,12 Feet,East,2.5,,4.0,4.0,,,Imadol, Lalitpur
+930,930,1054, 375 Cr,227,6.0,25 Feet,South,2.5,,3.0,,,,Dhapasi, Kathmandu
+931,931,1055, 338 Cr,129,4.2,13 Feet,,2.5,,6.0,5.0,,,Kapan, Kathmandu
+932,932,1056, 14 Cr,94 ,3.0,12 Feet,South-West,1.0,,2.0,1.0,,,Kapan, Kathmandu
+933,933,1058, 26 Cr,97 ,4.0,13 Feet,,2.5,,,,,,Budhanilkantha, Kathmandu
+934,934,1059, 11 Cr,212,10.2,12 Feet,North-East,5.0,,,,,,Balaju, Kathmandu
+935,935,1060, 285 Cr,191,4.0,12-18 Feet,,2.5,,,,,,Gopikrishna Hall, Kathmandu
+936,936,1061, 39 Cr,128,4.3,16 Feet,North,2.0,,,,,,Grande Villa, Kathmandu
+937,937,1062, 29 Cr,109,6.5566106647187725,20 Feet,South,2.5,,4.0,4.0,Un-Furnished,,Nakhipot, Lalitpur
+938,938,1064, 335 Cr,243,3.2,13 Feet,,2.5,,6.0,2.0,,,Budhanilkantha, Kathmandu
+939,939,1065, 265 Cr,186,7.3,10-16 Feet,North-East,2.0,,,,,,Sirutar, Bhaktapur
+940,940,1066, 275 Cr,193,4.0,12 Feet,,4.0,,13.0,4.0,,,Panga, Kathmandu
+941,941,1068, 285 Cr,150,5.0,10-18 Feet,South,1.0,,1.0,,,,Khumaltar, Lalitpur
+942,942,1070, 59 Lac/aana,229,16.0,36 Feet,North-West,2.5,,5.0,4.0,,,Thimi, Bhaktapur
+943,943,1072, 39 Cr,289,5.2,13 Feet,,2.5,,,,,,Golfutar, Kathmandu
+944,944,1073, 425 Cr,157,5.0,12-18 Feet,,2.5,,,,,,Budhanilkantha, Kathmandu
+945,945,1075, 175 Cr,102,17.0,50 Feet,South-East,2.5,,5.0,5.0,,,Budhanilkantha, Kathmandu
+946,946,1076, 365 Cr,217,3.2,13 Feet,East,2.5,,3.0,4.0,Semi-Furnished,,Khumaltar, Lalitpur
+947,947,1078, 35 Cr,88 ,8.0,12-18 Feet,West,,,,,,,Balkumari, Lalitpur
+948,948,1079, 24 Cr,301,4.0,12-16 Feet,,2.5,,,,,,Kalanki, Kathmandu
+949,949,1081, 85 Lac,176,3.2,16 Feet,,2.0,,,,,,Tarkeshwor, Kathmandu
+950,950,1082, 25 Cr,118,2.2,10-16 Feet,East,2.5,,3.0,,,,Bafal, Kathmandu
+951,951,1083, 595 Cr,131,6.0,13-20 Feet,South-West,2.5,,5.0,5.0,,,Bhaisepati, Lalitpur
+952,952,1084, 265 Cr,153,2.3,13 Feet,South-East,4.0,,9.0,3.0,,,Jadibuti, Kathmandu
+953,953,1085, 70 Lac/aana,107,7.3,10-16 Feet,,2.5,,,,,,Dhumbarahi, Kathmandu
+954,954,1086, 41 Cr,200,3.3,20 Feet,North,2.5,,4.0,4.0,,,Bhaisepati, Lalitpur
+955,955,1087, 7 Cr,160,9.0,13 Feet,,2.5,,,,,,Mid Baneshwor, Kathmandu
+956,956,1088, 55 Cr,55 ,6.2,13 Feet,South,5.0,,20.0,22.0,Semi-Furnished,,Gongabu, Kathmandu
+957,957,1089, 59 Cr,126,7.3,12-18 Feet,,2.5,,5.0,5.0,,,Hattigaunda, Kathmandu
+958,958,1090, 455 Cr,59 ,5.0,12-18 Feet,,2.5,,6.0,5.0,,,Hepali Height, Kathmandu
+959,959,1091, 205 Cr,143,3.0,10 Feet,,2.5,,7.0,3.0,,,Naya Basti, Kathmandu
+960,960,1092, 4 Cr,65 ,6.3,25 Feet,South,2.5,,4.0,3.0,Semi-Furnished,,Gothatar, Kathmandu
+961,961,1093, 375 Cr,53 ,3.1,10 Feet,West,3.5,,8.0,3.0,,,Gongabu, Kathmandu
+962,962,1094, 435 Cr,268,4.2,16 Feet,West,2.5,,3.0,3.0,Full-Furnished,,Golfutar, Kathmandu
+963,963,1095, 325 Cr,135,3.214024835646457,16 Feet,South,3.5,,,,,,Manamaiju, Kathmandu
+964,964,1096, 31 Cr,129,3.3,13 Feet,South-West,2.5,,5.0,3.0,,,Dhapasi, Kathmandu
+965,965,1097, 31 Cr,183,4.0,10/14 Feet,South,2.5,,4.0,4.0,,,Banasthali, Kathmandu
+966,966,1098, 475 Cr,603,4.3,13 Feet,South,2.5,,,,,,Budhanilkantha, Kathmandu
+967,967,1099, 275 Cr,296,4.0,13 Feet,South,2.0,,5.0,3.0,Semi-Furnished,,Manjushree Marga, Lalitpur
+968,968,1100, 32 Cr,260,3.0,15 Feet,North-West,2.5,,6.0,5.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+969,969,1101, 525 Cr,386,7.2,15 Feet,South,2.5,,7.0,5.0,,,Handigaun, Kathmandu
+970,970,1102, 6 Cr,260,6.0,13 Feet,South,3.5,,5.0,5.0,Semi-Furnished,,Chakupat, Lalitpur
+971,971,1103, 245 Cr,498,3.2,12-18 Feet,,2.5,,,,,,Sundarbasti, Kathmandu
+972,972,1104, 7 Cr,306,7.1,13 Feet,,4.0,,8.0,12.0,,,Deuwa chowk, Kathmandu
+973,973,1105, 215 Cr,314,4.3,14 Feet,North,1.0,,2.0,1.0,,,Satungal, Kathmandu
+974,974,1106, 575 Cr,344,6.0,15 Feet,South-East,2.5,,6.0,5.0,Semi-Furnished,,Hattigaunda, Kathmandu
+975,975,1107, 55 Cr,392,6.2,13 Feet,South-East,2.5,,6.0,5.0,Semi-Furnished,,Bansbari, Kathmandu
+976,976,1108, 195 Cr,255,3.0,12-18 Feet,,3.5,,,,,,Kapan, Kathmandu
+977,977,1109, 285 Cr,350,3.1,13 Feet,East,2.5,,,,,,Mandikhatar, Kathmandu
+978,978,1110, 15 Cr,280,21.3,14 Feet,,2.5,,5.0,4.0,Semi-Furnished,,Bhimsengola, Kathmandu
+979,979,1111, 35 Cr,245,3.1,13-20 Feet,South,4.5,,4.0,2.0,,,Ghattekulo, Kathmandu
+980,980,1112, 65 Cr,176,6.1,13-20 Feet,South,3.5,,10.0,4.0,,,Ghattekulo, Kathmandu
+981,981,1114, 225 Cr,157,3.0,12-18 Feet,,2.5,,,,,,Kapan, Kathmandu
+982,982,1115, 675 Cr,207,8.0,12-18 Feet,,2.5,,3.0,3.0,,,Hattigaunda, Kathmandu
+983,983,1116, 43 Cr,359,5.1,12-18 Feet,,2.5,,4.0,4.0,,,Bhaisepati, Lalitpur
+984,984,1117, 305 Cr,123,3.3,15 Feet,West,3.0,,5.0,4.0,,,Samakhusi, Kathmandu
+985,985,1118, 69 Cr,163,5.0,20 Feet,North,3.5,,8.0,,,,Budhanilkantha, Kathmandu
+986,986,1119, 4 Cr,284,4.0,10-16 Feet,,2.5,,3.0,3.0,Full-Furnished,,Bhaisepati, Lalitpur
+987,987,1120, 82 Cr,529,10.0,15-20 Feet,South-East,2.5,,4.0,5.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+988,988,1121, 47 Cr,498,6.0,15 Feet,South,2.0,,4.0,,,,Budhanilkantha, Kathmandu
+989,989,1122, 19 Cr,114,3.2,13 Feet,South-East,2.0,,,,,,Budhanilkantha, Kathmandu
+990,990,1123, 335 Cr,188,4.0,20 Feet,,2.5,,,,Full-Furnished,,Mahankal, Kathmandu
+991,991,1125, 33 Cr,225,4.2,10 Feet,,2.5,,,,,,Dhumbarahi, Kathmandu
+992,992,1126, 3 Cr,252,3.2,13 Feet,South,3.0,,6.0,3.0,,,Narayantar, Kathmandu
+993,993,1127, 465 Cr,355,5.0,16 Feet,South,2.5,,5.0,4.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+994,994,1128, 35 Cr,172,4.2,15 Feet,,,,,,,,Gongabu, Kathmandu
+995,995,1129, 3 Cr,215,3.2,10-14 Feet,,3.5,,,,,,Naya Basti, Kathmandu
+996,996,1130, 6 Cr,1.3,8.0,15 Feet,West,,,,,,,Budhanilkantha, Kathmandu
+997,997,1131, 255 Cr,225,5.0,14-15 Feet,,3.5,,5.0,,,,Budhanilkantha, Kathmandu
+998,998,1132, 24 Cr,781,3.0,11 Feet,South,3.0,,6.0,3.0,,,Narayantar, Kathmandu
+999,999,1133, 35 Cr,272,10.2,12 Feet,,3.5,,,,,,Bhairabchaur, Kathmandu
+1000,1000,1134, 25 Cr,439,6.0,12 Feet,,2.5,,8.0,,,,Budhanilkantha, Kathmandu
+1001,1001,1135, 32 Cr,247,4.0,13 Feet,,2.5,,6.0,4.0,,,Budhanilkantha, Kathmandu
+1002,1002,1136, 33 Cr,16.,3.2,20 Feet,,2.5,,4.0,4.0,Semi-Furnished,"Drainage,Bathroom,Drinking Water,Water Purifier,Earthquake Resistant,Marbel,Parquet,Garden,Modular Kitchen,Parking,Solar,+ 3 See More",Nagdaha, Lalitpur
+1003,1003,1137, 475 Cr,206,11.921110299488678,12 Feet,South,3.5,,9.0,4.0,Un-Furnished,"Earthquake Resistant,Marbel,Sofa,CC Camera,Solar,Water Purifier,Modular Kitchen,Parking,Internet,Drinking Water,Bathroom,+ 2 See More",Sorhakhutte, Kathmandu
+1004,1004,1138, 28 Cr,213,5.551497443389335,20 Feet,South,2.5,,6.0,4.0,Semi-Furnished,,Raniban, Kathmandu
+1005,1005,1139, 375 Cr,219,6.0,12-18 Feet,,2.5,,4.0,4.0,,,Dhapasi, Kathmandu
+1006,1006,1140, 29 Cr,408,3.2,12 Feet,North,2.5,,6.0,5.0,,,Budhanilkantha, Kathmandu
+1007,1007,1141, 37 Cr,234,5.0,10 Feet,West,2.0,,4.0,2.0,,,Gongabu, Kathmandu
+1008,1008,1142, 385 Cr,263,5.2,13 Feet,,2.5,,,,,,Sampang Chowk, Lalitpur
+1009,1009,1143, 475 Cr,501,4.3,12-18 Feet,South,2.5,,5.0,,,,Budhanilkantha, Kathmandu
+1010,1010,1144, 715 Cr,310,6.0,11-14 Feet,East,3.5,,8.0,7.0,,,Baluwatar, Kathmandu
+1011,1011,1145, 62 Cr,470,6.1,15 Feet,South,2.5,,6.0,5.0,,,Ganesh Chowk, Kathmandu
+1012,1012,1146, 225 Cr,342,2.2,13 Feet,East,4.0,,20.0,10.0,,,Gongabu, Kathmandu
+1013,1013,1147, 45 Cr,1.6,5.0,13 Feet,West,2.5,,6.0,5.0,,,Budhanilkantha, Kathmandu
+1014,1014,1148, 375 Cr,392,4.2,13 Feet,,2.5,,5.0,5.0,,,Budhanilkantha, Kathmandu
+1015,1015,1149, 31 Cr,258,4.2,13-20 Feet,North,2.5,,6.0,5.0,Full-Furnished,,Nakkhu, Lalitpur
+1016,1016,1150, 55 Cr,318,8.0,10 Feet,South,2.5,,4.0,3.0,,,Baluwatar, Kathmandu
+1017,1017,1151, 355 Cr,261,4.2,14 Feet,South,3.5,,6.0,5.0,Semi-Furnished,,Gwarko, Lalitpur
+1018,1018,1152, 56 Cr,329,7.0,14 Feet,West,3.5,,7.0,6.0,,,Gothatar, Kathmandu
+1019,1019,1153, 925 Cr,195,9.2,13 Feet,South-East,3.0,,5.0,5.0,,,Kalimati, Kathmandu
+1020,1020,1154, 11 Cr,286,3.0,8 Feet,North,2.5,,3.0,,,,Nalinchwok, Bhaktapur
+1021,1021,1155, 7 Cr,326,8.0,12-18 Feet,South,2.5,,3.0,,,,Ganesh Chowk, Kathmandu
+1022,1022,1156, 39 Cr,231,4.3,16 Feet,North,,,4.0,,,,Grande Villa, Kathmandu
+1023,1023,1157, 795 Cr,1.8,9.0,13-18 Feet,,3.0,,5.0,5.0,Full-Furnished,,Thecho, Lalitpur
+1024,1024,1158, 33 Cr,321,4.0,13 Feet,North,2.5,,6.0,5.0,,,Samakhushi chowk, Kathmandu
+1025,1025,1159, 32 Cr,576,4.0,12-18 Feet,,2.5,,,,,,Aakasedhara, Kathmandu
+1026,1026,1160, 65 Cr,1.1,6.0,20 Feet,South-East,2.5,,5.0,4.0,,,Dhumbarahi, Kathmandu
+1027,1027,1161, 235 Cr,375,3.0,13 Feet,,3.0,,6.0,4.0,,,Kharibot, Kathmandu
+1028,1028,1162, 13 Cr,603,13.0,30 Feet,North-West,3.5,,5.0,5.0,,,Lazimpat, Kathmandu
+1029,1029,1163, 388 Cr,238,5.0,15 Feet,East,2.5,,,,,,Mandikhatar, Kathmandu
+1030,1030,1164, 285 Cr,100,3.0,20 Feet,,2.5,,,,,,Sukedhara, Kathmandu
+1031,1031,1165, 23 Cr,257,3.0,13 Feet,South-East,2.5,,10.0,,,,Ochu Height, Lalitpur
+1033,1033,1168, 36 Cr,257,4.1,10 Feet,North-East,3.0,,5.0,3.0,,,Nakkhu, Lalitpur
+1034,1034,1169, 225 Cr,189,3.2,13 Feet,West,2.5,,,,,,Ochu Height, Lalitpur
+1035,1035,1170, 25 Cr,245,3.1,16 Feet,North,2.0,,,,,,Imadol, Lalitpur
+1036,1036,1171, 23 Cr,284,3.0,13 Feet,South-East,2.5,,,,,,Tikathali, Lalitpur
+1037,1037,1173, 15 Cr,149,3.0,13 Feet,North,1.0,,,,,,Tikathali, Lalitpur
+1038,1038,1174, 3 Cr,243,3.2,13 Feet,West,2.5,,,,,,Imadol, Lalitpur
+1039,1039,1175, 35 Cr,342,3.2,22 Feet,North,2.5,,,,,,Hattiban, Lalitpur
+1040,1040,1176, 25 Cr,185,3.2,13 Feet,South,2.5,,,,,,Hattiban, Lalitpur
+1041,1041,1177, 195 Cr,304,2.2,13 Feet,South,2.5,,,,,,Tikathali, Lalitpur
+1042,1042,1178, 375 Cr,209,4.0,13 Feet,South,2.5,,,,,,Imadol, Lalitpur
+1043,1043,1179, 195 Cr,177,2.2,13 Feet,South,2.5,,,,,,Tikathali, Lalitpur
+1044,1044,1180, 385 Cr,238,5.1,13 Feet,South-East,2.5,,,,,,Kapan, Kathmandu
+1045,1045,1181, 215 Cr,208,5.2,5 Feet,South-East,2.5,,5.0,2.0,,,Chabahil, Kathmandu
+1046,1046,1182, 335 Cr,114,4.1,15 Feet,South-West,2.5,,5.0,5.0,Semi-Furnished,,Chapali, Kathmandu
+1047,1047,1183, 378 Cr,271,5.2,13-18 Feet,,2.5,,4.0,5.0,,,Hattigaunda, Kathmandu
+1048,1048,1184, 265 Cr,176,3.1,18 Feet,North,2.5,,4.0,4.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+1049,1049,1185, 37 Cr,147,6.0,13 Feet,North,2.5,,6.0,5.0,Full-Furnished,,Budhanilkantha, Kathmandu
+1050,1050,1186, 12 Cr,168,3.0,13 Feet,South-East,1.0,,2.0,1.0,,,Lamatar, Lalitpur
+1051,1051,1187, 6 Cr,64 ,8.3,13 Feet,East,3.5,,4.0,5.0,,,Bafal, Kathmandu
+1052,1052,1188, 29 Cr,143,4.0,10/16 Feet,North-East,4.5,,11.0,4.0,Semi-Furnished,,Kadaghari, Kathmandu
+1053,1053,1190, 47 Cr,128,5.0,12-16 Feet,,2.5,,,,,,Hattigaunda, Kathmandu
+1054,1054,1191, 82 Cr,217,10.0,15 Feet,South,2.5,,4.0,5.0,,,Budhanilkantha, Kathmandu
+1055,1055,1192, 44 Cr,143,5.0,12-16 Feet,,2.5,,6.0,,,,Hattigaunda, Kathmandu
+1056,1056,1193, 395 Cr,281,4.1,13 Feet,North-East,3.0,,7.0,5.0,,,Hattiban, Lalitpur
+1057,1057,1194, 35 Cr,98 ,3.0,20 Feet,South,2.5,,3.0,4.0,Full-Furnished,,Karyabinayak, Lalitpur
+1058,1058,1195, 25 Cr,132,2.1,13 Feet,West,2.0,,6.0,2.0,Semi-Furnished,,Gwarko, Lalitpur
+1059,1059,1196, 625 Cr,115,6.2,13 Feet,South-West,2.5,,5.0,6.0,Semi-Furnished,,Bhaisepati, Lalitpur
+1060,1060,1198, 525 Cr,122,6.2,13 Feet,North,4.0,,36.0,17.0,Semi-Furnished,,Shantinagar, Kathmandu
+1061,1061,1199, 15 Cr,225,2.2,13 Feet,South,2.5,,,,,,Sipadol, Bhaktapur
+1062,1062,1200, 6 Cr,166,6.1,13 Feet,,5.5,,,,,,Machhapokhari, Kathmandu
+1063,1063,1201, 82 Cr,85 ,10.0,15 Feet,South,2.5,,4.0,5.0,,,Budhanilkantha, Kathmandu
+1064,1064,1202, 24 Cr,125,3.1,13 Feet,,2.5,,,,,,Kapan, Kathmandu
+1065,1065,1204, 495 Cr,125,8.0,13 Feet,East,2.5,,8.0,5.0,Semi-Furnished,,Deuwa chowk, Kathmandu
+1066,1066,1205, 18 Cr,154,3.0,10-16 Feet,,2.5,,,,,,Taudaha, Kathmandu
+1067,1067,1206, 335 Cr,233,4.1,15 Feet,South-West,2.5,,5.0,5.0,Semi-Furnished,,Chapali, Kathmandu
+1068,1068,1207, 45 Cr,189,8.2,12-13 Feet,South-East,2.5,,6.0,3.0,,,Budhanilkantha, Kathmandu
+1069,1069,1208, 3 Cr,229,9.0,13 Feet,North,2.5,,5.0,4.0,,,Muhanpokhari, Kathmandu
+1070,1070,1209, 875 Cr,119,11.0,12-18 Feet,East,2.5,,5.0,7.0,,,Mandikhatar, Kathmandu
+1071,1071,1210, 41 Cr,175,5.0,13 Feet,North,2.0,,,,,,Dholahiti, Lalitpur
+1072,1072,1212, 34 Cr,128,5.0,13 Feet,North-East,2.5,,6.0,5.0,,,Pasikot, Kathmandu
+1073,1073,1215, 445 Cr,159,5.0,15 Feet,West,2.5,,5.0,5.0,Semi-Furnished,,Golfutar, Kathmandu
+1074,1074,1216, 11 Cr,190,18.0,18 Feet,West,2.5,,5.0,4.0,Semi-Furnished,,Narayanthan , Kathmandu
+1075,1075,1217, 85 Cr,247,11.0,12-18 Feet,North,2.5,,5.0,5.0,Semi-Furnished,,Narayanthan , Kathmandu
+1076,1076,1219, 285 Cr,166,4.1,13 Feet,South,2.5,,6.0,5.0,,,Chunikhel, Kathmandu
+1077,1077,1220, 275 Cr,297,4.0,13 Feet,South,2.5,,5.0,4.0,Semi-Furnished,,Bhaisepati, Lalitpur
+1078,1078,1221, 17 Cr,108,3.2,13 Feet,,1.0,,2.0,1.0,,,Baluwakhani, Kathmandu
+1079,1079,1222, 485 Cr,82 ,8.0,20 Feet,,2.5,,4.0,4.0,Semi-Furnished,,Hasantar, Kathmandu
+1080,1080,1223, 65 Cr,135,6.1,14 Feet,South,2.5,,5.0,4.0,Full-Furnished,"Earthquake Resistant,Marbel,Fridge,Sofa,Solar,Dining Room,Microwave,Washing Machine,Bed Room,Garden,Modular Kitchen,+ 8 See More",Golfutar, Kathmandu
+1081,1081,1225, 495 Cr,164,4.0,13 Feet,South-East,2.5,,4.0,4.0,Full-Furnished,,Bhaisepati, Lalitpur
+1082,1082,1226, 35 Cr,42 ,5.0,18 Feet,East,2.5,,,,,,Jyotinagar, Kathmandu
+1083,1083,1227, 24 Cr,190,2.3,10 Feet,East,3.0,,,3.0,,,Dhobichaur, Kathmandu
+1084,1084,1228, 535 Cr,282,25.2,64-72 Feet,,4.0,,,,,,Balkumari, Lalitpur
+1085,1085,1230, 30 Lac/aana,118,9.0,4 Feet,East,2.5,,4.0,2.0,Un-Furnished,,Tinthana, Kathmandu
+1086,1086,1231, 245 Cr,92 ,3.0,20 Feet,,2.5,,,,,,Baluwakhani, Kathmandu
+1087,1087,1232, 17 Cr,131,3.3,10 Feet,South,2.5,,5.0,3.0,,,Goldhunga, Kathmandu
+1088,1088,1235, 25 Cr,845,3.0,16 Feet,South-East,3.5,,4.0,5.0,Semi-Furnished,,Bhaisepati, Lalitpur
+1089,1089,1236, 8 Cr,127,10.0,10 Feet,South-East,2.5,,,5.0,,,Baluwatar, Kathmandu
+1090,1090,1240, 375 Cr,158,4.0,14 Feet,,2.5,,7.0,5.0,Full-Furnished,,Jyotinagar, Kathmandu
+1091,1091,1241, 35 Cr,87 ,6.0,16 Feet,,2.5,,,,,,Bhangal , Kathmandu
+1092,1092,1242, 3 Cr,162,4.0,12 Feet,,2.5,,7.0,5.0,,,Sitapaila, Kathmandu
+1093,1093,1243, 45 Cr,138,5.0,20 Feet,South-East,3.5,,7.0,7.0,,,Pingalasthan, Kathmandu
+1094,1094,1246, 35 Cr,110,5.0,13 Feet,West,2.5,,5.0,5.0,,,Rudreshwor, Kathmandu
+1095,1095,1247, 6 Cr,146,9.1,13 Feet,South-West,2.5,,4.0,5.0,,,Budhanilkantha, Kathmandu
+1096,1096,1248, 22 Cr,66 ,2.3,10-20 Feet,North-West,3.5,,7.0,3.0,,,Sitapaila, Kathmandu
+1097,1097,1249, 85 Cr,253,4.1,20 Feet,South,3.5,,7.0,4.0,Full-Furnished,,Syuchatar, Kathmandu
+1098,1098,1253, 249 Cr,99 ,3.2,13 Feet,,2.5,,,,,,Sundarbasti, Kathmandu
+1099,1099,1254, 315 Cr,150,4.1,13 Feet,East,3.5,,,,,,Chunikhel, Kathmandu
+1100,1100,1255, 19 Cr,218,4.0,20 Feet,North,2.5,,,,,,Tokha, Kathmandu
+1101,1101,1257, 26 Cr,130,3.0,12-16 Feet,South-West,2.5,,3.0,4.0,Un-Furnished,,Grande Hospital, Kathmandu
+1102,1102,1260, 225 Cr,155,3.5,13 Feet,,2.5,,,,,,Jyotinagar, Kathmandu
+1103,1103,1263, 145 Cr,185,15.0,20 Feet,North-East,2.5,,4.0,5.0,Semi-Furnished,,Mandikhatar, Kathmandu
+1104,1104,1266, 275 Cr,251,4.2,13 Feet,South,2.5,,4.0,4.0,Semi-Furnished,,Bafal, Kathmandu
+1105,1105,1267, 11 Cr,116,6.0,14-20 Feet,,8.0,,,,,,New Buspark, Kathmandu
+1106,1106,1268, 322 Cr,67 ,5.2,12 Feet,,2.5,,,,,,Suryabinayak, Bhaktapur
+1107,1107,1269, 35 Cr,106,4.2,20 Feet,North,3.5,,,,,,Mhaipi, Kathmandu
+1108,1108,1270, 17 Cr,30 ,4.1,12 Feet,North,6.0,,,,,,Ason, Kathmandu
+1109,1109,1271, 51 Cr,67 ,4.3,20 Feet,West,2.5,,4.0,3.0,Full-Furnished,,Vinayak Colony, Lalitpur
+1110,1110,1272, 275 Cr,219,3.2,20 Feet,South,2.5,,4.0,5.0,,,Bhaisepati, Lalitpur
+1111,1111,1273, 4 Cr,57 ,4.0,27 Feet,South-West,2.5,,4.0,5.0,,,Dhapakhel, Lalitpur
+1112,1112,1274, 17 Cr,171,8.0,20 Feet,South-West,5.5,,,8.0,,,Baluwatar, Kathmandu
+1113,1113,1275, 61 Cr,136,6.0,15 Feet,North-East,2.5,,6.0,5.0,,,Budhanilkantha, Kathmandu
+1114,1114,1276, 165 Cr,215,9.0,32 Feet,West,6.5,,4.0,9.0,,,Jalpa Chowk, Kathmandu
+1115,1115,1277, 26 Cr,152,3.0,13 Feet,South-West,2.5,,5.0,3.0,,,Kadaghari, Kathmandu
+1116,1116,1278, 39 Cr,159,4.0,20 Feet,South,2.5,,4.0,,Semi-Furnished,,Syuchatar, Kathmandu
+1117,1117,1279, 285 Cr,101,4.0,12-16 Feet,,2.5,,3.0,6.0,,,Bafal, Kathmandu
+1118,1118,1280, 195 Cr,109,3.0,13 Feet,West,2.5,,5.0,3.0,,,Makalbari, Kathmandu
+1119,1119,1281, 325 Cr,36 ,5.0,10-13 Feet,West,3.0,,12.0,,Semi-Furnished,,Imadol, Lalitpur
+1120,1120,1282, 4 Cr,111,104.0,12 Feet,,3.5,,7.0,5.0,,,Dhapakhel, Lalitpur
+1121,1121,1283, 155 Cr,221,3.1,12-16 Feet,,1.0,,,,,,Budhanilkantha, Kathmandu
+1122,1122,1284, 655 Cr,237,8.2,12 Feet,South-East,2.5,,6.0,4.0,Semi-Furnished,,Tenzing Chowk, Kathmandu
+1123,1123,1286, 32 Cr,250,3.3,13-20 Feet,North-East,2.5,,4.0,4.0,,,Bhaisepati, Lalitpur
+1124,1124,1288, 155 Cr,573,18.3,14 Feet,South,3.0,,5.0,5.0,,,Siddhartha Colony, Kathmandu
+1125,1125,1290, 36 Cr,39 ,4.1,16 Feet,South-East,3.5,,7.0,7.0,,,Dhapasi, Kathmandu
+1126,1126,1291, 18 Cr,323,1.1,5 Feet,East,4.5,,7.0,,,,Nardevi, Kathmandu
+1127,1127,1292, 325 Cr,118,4.0,13 Feet,,2.0,,5.0,4.0,,,Ganesh Chowk, Kathmandu
+1128,1128,1293, 185 Cr,155,3.1,10 Feet,West,4.0,,7.0,5.0,,,Paiyuntar, Kathmandu
+1129,1129,1295, 10 Cr,98 ,14.0,13 Feet,South,3.5,,8.0,6.0,,,Maitidevi, Kathmandu
+1130,1130,1296, 27 Cr,34 ,3.0,20 Feet,North-East,2.5,,5.0,4.0,Semi-Furnished,,Dhapakhel, Lalitpur
+1131,1131,1297, 285 Cr,117,4.3,13 Feet,South,2.0,,4.0,2.0,Full-Furnished,,Changathali, Lalitpur
+1132,1132,1298, 33 Cr,109,4.0,13 Feet,South-East,2.5,,,,,,Imadol, Lalitpur
+1133,1133,1299, 365 Cr,44 ,3.3,20 Feet,,3.5,,,,,,Imadol, Lalitpur
+1134,1134,1300, 365 Cr,98 ,4.2,13 Feet,East,2.5,,,,,,Imadol, Lalitpur
+1135,1135,1301, 51 Cr,110,4.3,20 Feet,West,2.5,,4.0,2.0,Full-Furnished,,Vinayak Colony, Lalitpur
+1136,1136,1305, 22 Cr,61 ,4.0,13 Feet,East,2.0,,4.0,,,,Tikathali, Lalitpur
+1137,1137,1306, 35 Cr,200,4.0,12-14 Feet,,2.5,,4.0,3.0,,,Tokha, Kathmandu
+1138,1138,1308, 23 Cr,163,3.0,12 Feet,East,2.5,,,,,,Imadol, Lalitpur
+1139,1139,1309, 22 Cr,96 ,3.1,16 Feet,South,2.5,,,,,,Sanagaun, Lalitpur
+1140,1140,1310, 35 Cr,326,4.0,13 Feet,North,3.5,,,,,,Imadol, Lalitpur
+1141,1141,1311, 23 Cr,79 ,3.1,10/11 Feet,South-East,2.5,,,,,,Imadol, Lalitpur
+1142,1142,1312, 285 Cr,112,3.3,13 Feet,East,2.5,,,,,,Imadol, Lalitpur
+1143,1143,1313, 425 Cr,152,6.0,10-15 Feet,South-West,3.0,,8.0,3.0,,,Balkhu, Kathmandu
+1144,1144,1315, 24 Cr,121,5.1,12-18 Feet,East,2.5,,,,,,Khumaltar, Lalitpur
+1145,1145,1318, 45 Cr,164,5.1,15 Feet,,2.5,,6.0,5.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+1146,1146,1319, 85 Cr,144,6.1,14 Feet,East,3.5,,,,,,Mid Baneshwor, Kathmandu
+1147,1147,1320, 223 Cr,69 ,3.0,16 Feet,North,2.5,,3.0,3.0,Semi-Furnished,,Balkhu, Kathmandu
+1148,1148,1321, 10 Cr,220,20.0,13 Feet,North,2.5,,5.0,3.0,,,Thulobharyang, Kathmandu
+1149,1149,1322, 275 Cr,84 ,4.0,13 Feet,,2.5,,6.0,6.0,,,Mandikhatar, Kathmandu
+1150,1150,1323, 125 Cr,189,14.0,40 Feet,South,3.0,,,,,,Imadol, Lalitpur
+1151,1151,1324, 3 Cr,235,4.3,12-18 Feet,West,3.5,,6.0,3.0,,,Suryadarshan Height, Kathmandu
+1152,1152,1325, 25 Cr,188,3.3,13 Feet,South-West,2.5,,5.0,4.0,,,Imadol, Lalitpur
+1153,1153,1326, 575 Cr,60 ,5.0,16 Feet,,2.0,,4.0,5.0,,,Baluwatar, Kathmandu
+1154,1154,1327, 7 Cr,78 ,10.0,11 Feet,,2.5,,7.0,6.0,,,Satdobato, Lalitpur
+1155,1155,1328, 16 Cr,231,17.2,16 Feet,,2.5,,3.0,3.0,,,Budhanilkantha, Kathmandu
+1156,1156,1329, 255 Cr,183,4.1,5-8 Feet,,2.0,,7.0,4.0,,,Ghattekulo, Kathmandu
+1157,1157,1330, 565 Cr,403,5.0,16 Feet,,2.5,,5.0,5.0,,,Gyaneshwor, Kathmandu
+1158,1158,1331, 218 Cr,112,3.1,13 Feet,East,2.5,,4.0,4.0,,,Imadol, Lalitpur
+1159,1159,1332, 80 Lac/aana,146,10.0,14 Feet,East,3.5,,,,,,Maitidevi, Kathmandu
+1160,1160,1333, 5 Cr,84 ,4.2,36 Feet,East,3.5,,,,,,Pepsicola, Kathmandu
+1161,1161,1334, 3 Cr,33 ,4.3,20 Feet,South,2.5,,5.0,4.0,,,Pasikot, Kathmandu
+1162,1162,1335, 299 Cr,60 ,4.5,10 Feet,West,3.5,,8.0,4.0,,,Goldhunga, Kathmandu
+1163,1163,1336, 70 Lac/aana,291,8.2,20 Feet,North,2.5,,6.0,3.0,,,Baneshwor, Kathmandu
+1164,1164,1337, 45 Cr,120,5.0,22 Feet,South-East,3.5,,21.0,5.0,,,Samakhushi chowk, Kathmandu
+1165,1165,1338, 1 Cr,361,18.0,13 Feet,South,2.5,,5.0,7.0,,,Kaushaltar, Bhaktapur
+1166,1166,1339, 299 Cr,122,5.000657414170927,10 Feet,West,3.5,,8.0,4.0,Semi-Furnished,"Earthquake Resistant,Marbel,Gym,Fridge,Sofa,Dining Room,Bed Room,Garden,Modular Kitchen,Drinking Water,Bathroom,+ 5 See More",Goldhunga, Kathmandu
+1167,1167,1341, 15 Cr,131,18.0,20 Feet,South-East,2.5,,6.0,5.0,,,Siddhartha Colony, Kathmandu
+1168,1168,1343, 4 Cr,111,4.0,14-20 Feet,,2.5,,5.0,5.0,Semi-Furnished,,Nakhudole, Lalitpur
+1169,1169,1345, 133 Cr,281,3.0,12 Feet,,1.0,,,,,,Chunikhel, Kathmandu
+1170,1170,1348, 19 Cr,118,2.2,10 Feet,South,2.5,,4.0,2.0,,,Imadol, Lalitpur
+1171,1171,1350, 4 Cr,120,13.3,16 Feet,North-East,3.0,,,,Semi-Furnished,"Fridge,Sofa,CC Camera,Solar,Dining Room,Microwave,Garden,Bed Room,Washing Machine,Modular Kitchen,Playground,+ 6 See More",Matatirtha, Kathmandu
+1172,1172,1351, 7 Cr,222,15.0,36 Feet,South,2.5,,7.0,2.0,Semi-Furnished,,Dhunchepakha, Bhaktapur
+1173,1173,1352, 33 Cr,91 ,3.3,22 Feet,,2.5,,,,,,Kapan, Kathmandu
+1174,1174,1353, 16 Cr,180,1.0,12-18 Feet,,4.0,,3.0,4.0,,,Patan, Lalitpur
+1175,1175,1354, 325 Cr,70 ,6.0,10 Feet,East,2.5,,5.0,1.0,,,Dhapasi, Kathmandu
+1176,1176,1355, 45 Cr,154,5.2,15 Feet,,2.5,,6.0,5.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+1177,1177,1356, 375 Cr,37 ,6.0,14 Feet,North-East,2.5,,7.0,5.0,Semi-Furnished,"Earthquake Resistant,Marbel,Fridge,Sofa,Solar,Dining Room,Microwave,Washing Machine,Bed Room,Garden,Modular Kitchen,+ 8 See More",Hattigaunda, Kathmandu
+1178,1178,1357, 125 Cr,60 ,15.3,22 Feet,North,4.0,,6.0,4.0,Un-Furnished,,Imadol, Lalitpur
+1179,1179,1358, 345 Cr,176,5.1,13 Feet,East,2.5,,7.0,5.0,,,Baluwakhani, Kathmandu
+1180,1180,1361, 143 Cr,215,2.2,12 Feet,South,2.5,,3.0,3.0,Semi-Furnished,,Jorpati, Kathmandu
+1181,1181,1362, 65 Cr,51 ,6.0,12-20 Feet,South-West,5.0,,9.0,9.0,Un-Furnished,,Uttardhoka, Kathmandu
+1182,1182,1363, 85 Cr,161,9.0,13 Feet,East,3.5,,,,,,New Buspark, Kathmandu
+1183,1183,1364, 95 Cr,144,10.0,13 Feet,East,3.5,,,,,,Mitrapark, Kathmandu
+1184,1184,1365, 23 Cr,177,3.1,13 Feet,East,2.5,,,,,,Boharatar, Kathmandu
+1185,1185,1366, 75 Cr,115,8.3,13 Feet,South,2.5,,5.0,6.0,,,Chappal karkhana, Kathmandu
+1186,1186,1367, 60 Lac/aana,123,18.0,12-18 Feet,North,2.5,,,,,,Thulobharyang, Kathmandu
+1187,1187,1368, 21 Cr,292,3.1,13 Feet,South,2.5,,,,,,Balkot, Bhaktapur
+1188,1188,1369, 235 Cr,210,3.1,20 Feet,North,3.0,,4.0,,Full-Furnished,,Darjeeling Height, Bhaktapur
+1189,1189,1372, 105 Cr,163,3.2,10 Feet,South,1.0,,3.0,1.0,,,Sudal, Bhaktapur
+1190,1190,1373, 5 Cr,215,6.0,13 Feet,South,2.5,,4.0,5.0,Semi-Furnished,,Bhaisepati, Lalitpur
+1191,1191,1375, 12 Cr,219,12.0,10 Feet,South-East,3.5,,,4.0,,,Maharajgunj, Kathmandu
+1192,1192,1376, 235 Cr,100,3.0,13 Feet,East,2.5,,,,,,Imadol, Lalitpur
+1193,1193,1377, 295 Cr,99 ,4.0,13 Feet,South,2.5,,3.0,3.0,Full-Furnished,"Earthquake Resistant,Parquet,Fridge,Sofa,CC Camera,Solar,Dining Room,Modular Kitchen,Parking,Drainage,Bathroom,+ 2 See More",Dhapasi, Kathmandu
+1194,1194,1378, 32 Cr,190,3.3,13/20 Feet,North-East,2.5,,4.0,4.0,,,Bhaisepati, Lalitpur
+1195,1195,1379, 925 Cr,38 ,17.0,17 Feet,South,3.5,,7.0,5.0,Semi-Furnished,,Narayanthan , Kathmandu
+1196,1196,1380, 4 Cr,140,4.0,27 Feet,South-West,2.5,,4.0,5.0,Semi-Furnished,,Dholahiti, Lalitpur
+1197,1197,1381, 35 Cr,88 ,4.0,14 Feet,South-East,2.5,,7.0,4.0,Full-Furnished,,Jyotinagar, Kathmandu
+1198,1198,1382, 21 Cr,325,2.2,20 Feet,South-East,2.0,,3.0,3.0,,,Thecho, Lalitpur
+1199,1199,1383, 225 Cr,330,3.1,13 Feet,North,2.5,,,,,,Imadol, Lalitpur
+1200,1200,1384, 225 Cr,521,3.0,13 Feet,West,2.5,,,,,,Ochu Height, Lalitpur
+1201,1201,1385, 27 Cr,59 ,4.0,18 Feet,,2.5,,,,,,Bhangal , Kathmandu
+1202,1202,1386, 295 Cr,273,5.0,13 Feet,North,2.5,,5.0,5.0,Semi-Furnished,,Sitapaila, Kathmandu
+1203,1203,1388, 375 Cr,219,7.0,13 Feet,South,2.5,,4.0,,,,Sitapaila, Kathmandu
+1204,1204,1389, 205 Cr,87 ,3.0,16 Feet,East,2.5,,4.0,3.0,,,Goldhunga, Kathmandu
+1205,1205,1390, 25 Cr,137,3.0,13 Feet,South-East,2.5,,10.0,5.0,,,Mandikhatar, Kathmandu
+1206,1206,1391, 38 Cr,82 ,4.1,12 Feet,North-East,2.5,,4.0,1.0,,,Bhaisepati, Lalitpur
+1207,1207,1392, 47 Cr,33 ,6.2,20 Feet,West,2.5,,5.0,3.0,,,Sitapaila, Kathmandu
+1208,1208,1393, 34 Cr,118,4.0,13 Feet,South,2.5,,4.0,2.0,Semi-Furnished,,Imadol, Lalitpur
+1209,1209,1394, 3 Cr,90 ,3.2,13 Feet,East,3.0,,8.0,3.0,,,Attarkhel, Kathmandu
+1210,1210,1395, 34 Cr,56 ,5.0,13 Feet,,2.5,,5.0,3.0,,,Baluwakhani, Kathmandu
+1211,1211,1396, 44 Cr,67 ,3.1,16 Feet,,4.5,,6.0,,,,Shankhamul, Kathmandu
+1212,1212,1397, 435 Cr,84 ,3.1,14 Feet,,3.5,,7.0,,,,Buddhanagar, Kathmandu
+1213,1213,1399, 22 Cr,45 ,3.2,14 Feet,North,2.0,,4.0,2.0,,,Syuchatar, Kathmandu
+1214,1214,1400, 225 Cr,79 ,3.2,13 Feet,,2.5,,,,,,Kapan, Kathmandu
+1215,1215,1401, 6 Cr,50 ,11.0,14-20 Feet,North,2.5,,3.0,3.0,,,Grande Villa, Kathmandu
+1216,1216,1402, 499 Cr,290,4.0,12-16 Feet,,3.5,,,,Semi-Furnished,,Baneshwor, Kathmandu
+1217,1217,1404, 5 Cr,181,6.0,13 Feet,South,2.5,,4.0,5.0,Semi-Furnished,,Bhaisepati, Lalitpur
+1218,1218,1406, 106 Cr,329,15.2,15 Feet,West,2.5,,6.0,4.0,,,Lazimpat, Kathmandu
+1219,1219,1408, 62 Cr,168,9.2,20 Feet,,2.5,,4.0,6.0,,,Budhanilkantha, Kathmandu
+1220,1220,1409, 26 Cr,82 ,4.0,11 Feet,South,2.5,,6.0,3.0,,,Lambagar, Kathmandu
+1221,1221,1412, 27 Cr,56 ,3.0,32 Feet,,2.5,,,,,,Kathmandu,
+1222,1222,1413, 275 Cr,26 ,3.1,16 Feet,West,3.0,,,,,,Baluwakhani, Kathmandu
+1223,1223,1414, 425 Cr,37 ,4.0,20 Feet,,2.5,,,,,,Mandikhatar, Kathmandu
+1224,1224,1415, 35 Cr,144,6.0,20 Feet,West,2.5,,6.0,4.0,Semi-Furnished,"Earthquake Resistant,Power Backup,Internet,Drinking Water,Bathroom,TV,Drainage,Playground,Parking,Water Purifier,Washing Machine,+ 5 See More",Ochu Height, Lalitpur
+1225,1225,1416, 325 Cr,83 ,5.0,10-26 Feet,South-East,3.0,,5.0,4.0,,,Pepsicola, Kathmandu
+1226,1226,1417, 185 Cr,202,2.3,13 Feet,,2.5,,,,,,Kapan, Kathmandu
+1227,1227,1418, 275 Cr,32 ,3.1,16 Feet,West,2.5,,,,,,Nikhileshwor, Kathmandu
+1228,1228,1420, 195 Cr,191,2.2,13 Feet,West,2.5,,5.0,3.0,,,Tikathali, Lalitpur
+1229,1229,1421, 12 Cr,146,3.1,20 Feet,North-East,1.0,,2.0,1.0,,,Danchhi, Kathmandu
+1230,1230,1423, 455 Cr,72 ,6.0,12-18 Feet,,2.5,,5.0,3.0,Semi-Furnished,,Kapan, Kathmandu
+1231,1231,1424, 47 Cr,65 ,9.0,12 Feet,East,2.5,,6.0,2.0,,,Dhapasi, Kathmandu
+1232,1232,1425, 90 Lac,160,3.2,13 Feet,East,2.0,,5.0,1.0,,,Jagdol, Kathmandu
+1233,1233,1426, 45 Cr,66 ,6.0,13 Feet,,2.5,,4.0,,,,Pasikot, Kathmandu
+1234,1234,1427, 625 Cr,89 ,9.2,12-18 Feet,,2.5,,4.0,,,,Budhanilkantha, Kathmandu
+1235,1235,1428, 275 Cr,114,4.0,14 Feet,,2.5,,4.0,,,,Bhangal , Kathmandu
+1236,1236,1430, 28 Cr,230,4.0,13 Feet,,2.5,,6.0,,,,Suryadarshan Height, Kathmandu
+1237,1237,1431, 9 Cr,156,6.0,12-18 Feet,South-East,2.5,,5.0,5.0,Semi-Furnished,,Bhaisepati, Lalitpur
+1238,1238,1432, 295 Cr,139,3.2,13 Feet,,2.5,,6.0,,,,Budhanilkantha, Kathmandu
+1239,1239,1434, 45 Cr,63 ,4.2,13 Feet,South-East,2.5,,5.0,4.0,Full-Furnished,,Bhaisepati, Lalitpur
+1240,1240,1435, 6 Cr,107,7.2,13 Feet,,2.5,,5.0,5.0,Full-Furnished,,Budhanilkantha, Kathmandu
+1241,1241,1436, 75 Cr,129,7.3,24 Feet,,2.5,,4.0,5.0,,,Budhanilkantha, Kathmandu
+1242,1242,1437, 265 Cr,92 ,3.1,13 Feet,West,2.5,,6.0,4.0,Full-Furnished,,Mandikhatar, Kathmandu
+1243,1243,1439, 41 Cr,81 ,4.2,30 Feet,,4.0,,6.0,5.0,,,Manabahadur Marga, Kathmandu
+1244,1244,1440, 215 Cr,51 ,3.2,12 Feet,,3.0,,4.0,3.0,,,Pasikot, Kathmandu
+1245,1245,1441, 58 Cr,102,6.0,14 Feet,South,2.5,,5.0,5.0,,,Budhanilkantha, Kathmandu
+1246,1246,1444, 385 Cr,124,5.0,13 Feet,,2.5,,6.0,4.0,Full-Furnished,,Mandikhatar, Kathmandu
+1247,1247,1447, 245 Cr,41 ,3.1,12-14 Feet,,2.5,,,,,,Imadol, Lalitpur
+1248,1248,1448, 335 Cr,77 ,4.0,13 Feet,North-East,2.5,,4.0,5.0,Semi-Furnished,,Hepali Height, Kathmandu
+1249,1249,1450, 675 Cr,147,8.765522279035793,20 Feet,South,2.5,,5.0,4.0,,,Pepsicola, Kathmandu
+1250,1250,1451, 4 Cr,92 ,4.2,20 Feet,South-East,2.5,,6.0,4.0,,,Bhaisepati, Lalitpur
+1251,1251,1452, 39 Cr,115,4.2,14 Feet,South,2.5,,4.0,4.0,,,Khumaltar, Lalitpur
+1252,1252,1453, 31 Cr,200,4.2,14 Feet,South-West,3.5,,6.0,5.0,,,Raniban, Kathmandu
+1253,1253,1454, 4 Cr,123,4.2,11 Feet,West,2.5,,4.0,4.0,,,Kusunti, Lalitpur
+1254,1254,1456, 125 Cr,93 ,19.0,12 Feet,South,2.5,,6.0,4.0,,,Golfutar, Kathmandu
+1255,1255,1457, 315 Cr,207,5.0,12 Feet,South-West,2.5,,6.0,5.0,,,Aakasedhara, Kathmandu
+1256,1256,1458, 4 Cr,82 ,4.1,13 Feet,North-East,3.0,,7.0,5.0,,,Hattiban, Lalitpur
+1257,1257,1460, 32 Cr,68 ,4.1,13 Feet,North-East,2.5,,,,Full-Furnished,,Bhangal , Kathmandu
+1258,1258,1461, 325 Cr,618,66.0,13 Feet,West,2.5,,5.0,4.0,Semi-Furnished,,Nakhipot, Lalitpur
+1259,1259,1462, 1 Cr,160,2.2,13 Feet,North-West,1.0,,3.0,1.0,,,Tokha, Kathmandu
+1260,1260,1463, 13 Cr,202,8.2,27 Feet,South-West,5.0,,,,,,Maijubahal, Kathmandu
+1261,1261,1464, 265 Cr,155,5.0,36 Feet,North-East,2.5,,8.0,4.0,,,Dharmasthali, Kathmandu
+1262,1262,1466, 325 Cr,22 ,4.0,13 Feet,East,2.5,,4.0,2.0,,,Golfutar, Kathmandu
+1263,1263,1467, 675 Cr,197,4.0,20 Feet,North,3.5,,4.0,6.0,Semi-Furnished,,Lazimpat, Kathmandu
+1264,1264,1468, 62 Cr,131,7.2,13 Feet,West,5.0,,17.0,10.0,Semi-Furnished,,Manbhawan, Lalitpur
+1265,1265,1469, 135 Cr,90 ,3.0,13 Feet,,1.0,,2.0,1.0,,,Kapan, Kathmandu
+1266,1266,1470, 50 Lac/aana,233,12.0,13 Feet,South-East,4.0,,8.0,4.0,,,Gwarko, Lalitpur
+1267,1267,1471, 42 Cr,142,4.2,20 Feet,North-East,2.5,,6.0,,,,Bhaisepati, Lalitpur
+1268,1268,1472, 335 Cr,77 ,4.0,13 Feet,North-East,2.5,,4.0,5.0,Semi-Furnished,,Hepali Height, Kathmandu
+1269,1269,1473, 36 Cr,73 ,5.0,14 Feet,South-West,2.5,,6.0,5.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+1270,1270,1477, 335 Cr,176,3.0,20 Feet,North,5.0,,16.0,7.0,,,Machhapokhari, Kathmandu
+1271,1271,1478, 32 Cr,333,1.3,10/16 Feet,South,4.0,,,,,,Yetkha, Kathmandu
+1272,1272,1483, 75 Cr,228,6.2,20 Feet,South-East,2.5,,6.0,5.0,,,Bhaisepati, Lalitpur
+1273,1273,1484, 165 Cr,181,20.0,13 Feet,East,2.5,,5.0,7.0,,,Sitapaila, Kathmandu
+1274,1274,1485, 45 Cr,123,8.0,15 Feet,North-East,2.5,,4.0,3.0,,,Pasikot, Kathmandu
+1275,1275,1486, 58 Cr,89 ,9.1,15-20 Feet,South,3.5,,5.0,5.0,,,Dhapasi, Kathmandu
+1276,1276,1487, 65 Cr,61 ,124.0,12-18 Feet,,2.5,,5.0,5.0,Full-Furnished,,Baluwatar, Kathmandu
+1277,1277,1488, 24 Cr,102,3.3,28 Feet,North-West,2.5,,5.0,3.0,,,Gothatar, Kathmandu
+1278,1278,1489, 5 Cr,96 ,6.0,9-12 Feet,,3.0,,5.0,5.0,,,Gaurighat, Kathmandu
+1279,1279,1490, 65 Cr,140,15.2,24 Feet,West,3.0,,6.0,6.0,,,Bhangal , Kathmandu
+1280,1280,1491, 225 Cr,41 ,3.0,14 Feet,,3.0,,,,,,Baluwakhani, Kathmandu
+1281,1281,1492, 21 Cr,131,3.0,13 Feet,,2.5,,3.0,3.0,,,Imadol, Lalitpur
+1282,1282,1493, 105 Cr,682,13.0,13 Feet,,2.5,,4.0,4.0,,,Budhanilkantha, Kathmandu
+1283,1283,1494, 46 Cr,171,6.0,13 Feet,,2.5,,4.0,4.0,,,Budhanilkantha, Kathmandu
+1284,1284,1495, 36 Cr,191,4.1,16 Feet,South-East,2.5,,,,,,Ekatabasti, Kathmandu
+1285,1285,1496, 345 Cr,89 ,4.3,13 Feet,,2.5,,,,Semi-Furnished,,Mandikhatar, Kathmandu
+1286,1286,1497, 275 Cr,136,3.2,13 Feet,North,2.5,,,3.0,,,Jalpa Chowk, Kathmandu
+1287,1287,1498, 44 Cr,66 ,7.0,13 Feet,North-East,2.5,,5.0,4.0,,,Dhapasi, Kathmandu
+1288,1288,1499, 138 Cr,101,3.0,13 Feet,,1.0,,2.0,1.0,,,Lolang, Kathmandu
+1289,1289,1500, 185 Cr,74 ,3.0,13 Feet,South,2.5,,,,,,Ekatabasti, Kathmandu
+1290,1290,1502, 24 Cr,245,2.2,24 Feet,North,4.0,,4.0,4.0,Semi-Furnished,,Radhe Radhe, Bhaktapur
+1291,1291,1503, 24 Cr,83 ,3.0,13 Feet,East,2.5,,,,,,Deuwa chowk, Kathmandu
+1292,1292,1504, 375 Cr,104,5.0,13 Feet,West,2.5,,,,,,Bhangal , Kathmandu
+1293,1293,1505, 295 Cr,51 ,4.0,13 Feet,East,3.0,,,,,,Bhangal , Kathmandu
+1294,1294,1506, 378 Cr,29 ,5.0,13 Feet,,2.5,,6.0,4.0,Full-Furnished,,Mandikhatar, Kathmandu
+1295,1295,1507, 85 Cr,205,8.0,10 Feet,,3.5,,,,,,New Baneshwor, Kathmandu
+1296,1296,1508, 6 Cr,156,8.0,12 Feet,North,2.5,,6.0,4.0,Semi-Furnished,,Bhaisepati, Lalitpur
+1297,1297,1509, 38 Cr,126,6.3,10/13 Feet,East,3.5,,7.0,7.0,,,Sitapaila, Kathmandu
+1298,1298,1510, 24 Cr,20 ,3.2,20 Feet,East,2.5,,6.0,3.0,Semi-Furnished,,Pepsicola, Kathmandu
+1299,1299,1511, 15 Cr,71 ,2.2,13 Feet,South,3.0,,,3.0,Un-Furnished,,Sitapaila, Kathmandu
+1300,1300,1513, 315 Cr,97 ,4.0,14 Feet,West,3.0,,,,,,Narephat, Kathmandu
+1301,1301,1514, 775 Cr,104,3.0,13 Feet,East,6.0,,,6.0,,,Putalisadak, Kathmandu
+1302,1302,1515, 25 Cr,405,11.0,13 Feet,South-East,,,25.0,30.0,Full-Furnished,,Thamel, Kathmandu
+1303,1303,1516, 11 Cr,161,19.0,12-16 Feet,,2.5,,4.0,4.0,,,Kusunti, Lalitpur
+1304,1304,1518, 35 Cr,153,4.0,13 Feet,East,2.5,,5.0,4.0,Semi-Furnished,,Ganesh Chowk, Kathmandu
+1305,1305,1519, 28 Cr,132,4.0,13 Feet,South-West,2.5,,,,,,Chunikhel, Kathmandu
+1306,1306,1520, 35 Cr,261,6.0,25 Feet,West,2.5,,,,,,Baluwatar, Kathmandu
+1307,1307,1521, 33 Cr,96 ,4.0,20 Feet,North,3.0,,4.0,4.0,Semi-Furnished,,Mhaipi, Kathmandu
+1308,1308,1522, 67 Cr,111,7.1,13 Feet,West,2.5,,3.0,3.0,Full-Furnished,,Basundhara, Kathmandu
+1309,1309,1523, 22 Cr,33 ,1.7531044558071585,12 Feet,South-East,2.5,,6.0,4.0,Semi-Furnished,"Earthquake Resistant,Marbel,Fridge,Solar,Dining Room,Garden,Parking,Internet,Drinking Water,Bathroom,TV,+ 1 See More",Tikathali, Lalitpur
+1310,1310,1524, 285 Cr,479,3.2,20 Feet,North-East,2.5,,7.0,4.0,,,Imadol, Lalitpur
+1311,1311,1525, 36 Cr,139,5.0,13 Feet,,2.5,,5.0,4.0,,,Budhanilkantha, Kathmandu
+1312,1312,1526, 105 Cr,95 ,3.2,10 Feet,West,1.0,,2.0,1.0,,,Sudal, Bhaktapur
+1313,1313,1527, 21 Cr,65 ,3.1,12 Feet,East,2.5,,5.0,3.0,,,Dhapasi, Kathmandu
+1314,1314,1528, 235 Cr,130,3.2,20 Feet,South,2.5,,5.0,3.0,Semi-Furnished,,Harisiddhi, Lalitpur
+1315,1315,1529, 68 Cr,98 ,6.3,14 Feet,East,2.5,,5.0,4.0,Full-Furnished,,Rudreshwor, Kathmandu
+1316,1316,1530, 64 Cr,34 ,8.0,12-18 Feet,,3.0,,8.0,6.0,,,Nakkhu, Lalitpur
+1317,1317,1531, 6 Cr,151,7.0,14 Feet,East,2.0,,5.0,4.0,,,Thapathali, Kathmandu
+1318,1318,1532, 35 Cr,39 ,6.2,8 Feet,North,3.5,,5.0,3.0,,"Marbel,Parquet,Solar,Dining Room,Drinking Water,Bathroom,Garden,Playground,Bed Room,Water Purifier,Fridge,+ 3 See More",Maijubahal, Kathmandu
+1319,1319,1533, 14 Cr,1.2,23.0,15 Feet,North,2.5,,6.0,7.0,,,Budhanilkantha, Kathmandu
+1320,1320,1535, 24 Cr,142,3.2,13 Feet,South,2.5,,5.0,4.0,,,Kusunti, Lalitpur
+1321,1321,1536, 19 Cr,89 ,2.2,13 Feet,South,3.0,,6.0,4.0,Semi-Furnished,,Dhapakhel, Lalitpur
+1322,1322,1537, 255 Cr,116,3.2,12 Feet,,3.0,,,,,,Sundarbasti, Kathmandu
+1323,1323,1538, 4 Cr,107,15.2,14 Feet,South,2.5,,5.0,4.0,,,Chandragiri, Kathmandu
+1324,1324,1539, 35 Cr,81 ,5.2,16 Feet,,2.5,,,,,,Basundhara, Kathmandu
+1325,1325,1540, 375 Cr,181,5.2,14 Feet,South,3.0,,5.0,4.0,,,Wasik, Kathmandu
+1326,1326,1541, 45 Cr,1.3,4.0,26 Feet,East,3.5,,5.0,6.0,Full-Furnished,,Koteshwor, Kathmandu
+1327,1327,1543, 515 Cr,204,8.0,10 Feet,South-West,2.5,,,,,,Gongabu, Kathmandu
+1328,1328,1544, 35 Cr,116,4.2,13 Feet,South-West,2.5,,,,,,Budhanilkantha, Kathmandu
+1329,1329,1545, 35 Cr,110,4.2,13 Feet,South-West,2.5,,,,,,Budhanilkantha, Kathmandu
+1330,1330,1547, 23 Cr,77 ,3.0,13 Feet,West,2.5,,4.0,3.0,,,Ochu Height, Lalitpur
+1331,1331,1548, 395 Cr,82 ,5.0,16 Feet,,2.5,,5.0,5.0,,,Mandikhatar, Kathmandu
+1332,1332,1549, 21 Cr,51 ,3.0,13 Feet,,2.5,,,,Semi-Furnished,,Thankot, Kathmandu
+1333,1333,1551, 38 Cr,85 ,4.1,10 Feet,South-East,2.5,,4.0,3.0,,,Bhaisepati, Lalitpur
+1334,1334,1552, 31 Cr,253,8.0,13 Feet,North-East,1.0,,2.0,1.0,,,Makalbari, Kathmandu
+1335,1335,1553, 24 Cr,54 ,3.1,13 Feet,East,3.0,,4.0,4.0,Semi-Furnished,,Imadol, Lalitpur
+1336,1336,1554, 57 Cr,113,7.1,8-12 Feet,East,3.5,,8.0,8.0,Semi-Furnished,,Dhumbarahi, Kathmandu
+1337,1337,1555, 15 Cr,75 ,3.1,11 Feet,East,2.5,,,,,,Changathali, Lalitpur
+1338,1338,1556, 24 Cr,60 ,2.2,20 Feet,East,3.0,,4.0,4.0,Semi-Furnished,"Power Backup,Drainage,Bathroom,TV,Internet,Drinking Water,Parking,Bed Room,Garden,Sofa,Fridge,+ 1 See More",Pepsicola, Kathmandu
+1339,1339,1557, 7 Cr,74 ,13.2,20 Feet,East,2.5,,5.0,5.0,Full-Furnished,,Banasthali, Kathmandu
+1340,1340,1558, 275 Cr,120,3.2,20 Feet,West,2.5,,5.0,4.0,,,Imadol, Lalitpur
+1341,1341,1559, 7 Cr,107,9.0,12-18 Feet,North,2.5,,3.0,4.0,Full-Furnished,,Wasik, Kathmandu
+1342,1342,1560, 275 Cr,178,4.0,16 Feet,,2.5,,5.0,4.0,,,Kusunti, Lalitpur
+1343,1343,1561, 3 Cr,8 v,7.012417823228634,13 Feet,South,2.5,,3.0,3.0,Full-Furnished,"Earthquake Resistant,Parquet,Fridge,Sofa,Solar,Dining Room,AirCon,Water Purifier,Washing Machine,Bed Room,Garden,+ 8 See More",Soltidobato, Kathmandu
+1344,1344,1562, 485 Cr,88 ,10.0,13 Feet,West,2.0,,4.0,4.0,,,Boharatar, Kathmandu
+1345,1345,1563, 365 Cr,141,5.0,13 Feet,North,3.5,,,,,,Ekatabasti, Kathmandu
+1346,1346,1564, 13 Cr,141,30.0,12-18 Feet,South,2.5,,,,,,Hepali Height, Kathmandu
+1347,1347,1565, 375 Cr,15 ,4.236669101533966,14 Feet,South-West,,,,,,,Baniyatar, Kathmandu
+1348,1348,1566, 12 Cr,123,3.0,16 Feet,,1.5,,,,,,Machhe Gaun, Kathmandu
+1349,1349,1567, 295 Cr,216,4.0,13 Feet,North-East,2.5,,,,,,Ekatabasti, Kathmandu
+1350,1350,1568, 305 Cr,79 ,5.0,12-16 Feet,,2.5,,,,,,Kharibot, Kathmandu
+1351,1351,1569, 45 Cr,51 ,3.2,13 Feet,South,2.5,,8.0,8.0,,,Shankhamul, Kathmandu
+1352,1352,1570, 265 Cr,117,3.2,16 Feet,North-West,2.5,,5.0,5.0,,,Bhaisepati, Lalitpur
+1353,1353,1571, 375 Cr,120,4.0,13 Feet,,2.5,,4.0,3.0,Full-Furnished,,Golfutar, Kathmandu
+1354,1354,1572, 13 Cr,169,4.3,20 Feet,North-West,2.5,,3.0,2.0,Semi-Furnished,,Jharuwarasi, Lalitpur
+1355,1355,1573, 36 Cr,108,5.0,14 Feet,South-West,2.5,,6.0,5.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+1356,1356,1574, 725 Cr,135,9.0,8-12 Feet,,3.0,,,,Semi-Furnished,,Paknajol, Kathmandu
+1357,1357,1575, 55 Cr,76 ,2.3,30 Feet,,3.0,,,,,,Mahankal, Kathmandu
+1358,1358,1576, 49 Cr,187,4.1,20 Feet,,2.5,,,,,,Sinamangal, Kathmandu
+1359,1359,1577, 33 Cr,62 ,4.2,16 Feet,North-East,2.5,,5.0,4.0,Semi-Furnished,,Manabahadur Marga, Kathmandu
+1360,1360,1578, 265 Cr,71 ,3.2,13 Feet,North,2.5,,5.0,4.0,,,Imadol, Lalitpur
+1361,1361,1579, 55 Cr,170,8.0,9-12 Feet,South-East,3.5,,6.0,4.0,Semi-Furnished,,Machhapokhari, Kathmandu
+1362,1362,1580, 585 Cr,35 ,8.2,18 Feet,South-East,3.5,,13.0,4.0,Semi-Furnished,"Marbel,Parquet,Solar,Bed Room,Garden,Modular Kitchen,Parking,Playground,Internet,Drinking Water,Bathroom,+ 2 See More",Manamaiju, Kathmandu
+1363,1363,1581, 38 Cr,321,4.0,15 Feet,East,3.0,,,,Full-Furnished,,Gatthaghar, Bhaktapur
+1364,1364,1582, 195 Cr,94 ,2.3,13 Feet,East,2.5,,4.0,3.0,,,Imadol, Lalitpur
+1365,1365,1584, 31 Cr,87 ,4.0,13 Feet,East,2.5,,,,,,Bhangal , Kathmandu
+1366,1366,1585, 75 Cr,193,10.0,20 Feet,North-East,2.5,,6.0,6.0,Full-Furnished,,Bhimsengola, Kathmandu
+1367,1367,1586, 765 Cr,22 ,8.0,22 Feet,South-East,2.5,,5.0,6.0,Full-Furnished,,Kathmandu,
+1368,1368,1587, 36 Cr,140,5.0,14 Feet,South-West,2.5,,6.0,5.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+1369,1369,1588, 35 Cr,46 ,4.0,20 Feet,West,3.5,,5.0,6.0,Full-Furnished,,Manabahadur Marga, Kathmandu
+1370,1370,1589, 295 Cr,82 ,5.0,13 Feet,,2.5,,,,,,Bhangal , Kathmandu
+1371,1371,1591, 22 Cr,124,3.2,12-18 Feet,North-West,,,,,Full-Furnished,,Chunikhel, Kathmandu
+1372,1372,1593, 145 Cr,285,32.0,13 Feet,South-East,2.5,,5.0,5.0,,,Rudreshwor, Kathmandu
+1373,1373,1594, 45 Cr,162,5.0,10 Feet,South-East,2.5,,5.0,4.0,,,Sanepa, Lalitpur
+1374,1374,1595, 105 Cr,154,11.0,13 Feet,East,2.5,,5.0,6.0,,,Narayanthan , Kathmandu
+1375,1375,1596, 265 Cr,124,3.2,11 Feet,South-West,2.5,,5.0,3.0,,,Bhelpa, Lalitpur
+1376,1376,1597, 65 Cr,157,5.0,16 Feet,North-East,2.5,,6.0,5.0,Semi-Furnished,,Sanepa, Lalitpur
+1377,1377,1598, 155 Cr,980,4.0,20 Feet,West,2.5,,3.0,2.0,Semi-Furnished,,Lamatar, Lalitpur
+1378,1378,1599, 38 Cr,63 ,4.0,12 Feet,South,3.5,,9.0,4.0,Semi-Furnished,,Manamaiju, Kathmandu
+1379,1379,1600, 39 Cr,60 ,5.1,13 Feet,North,3.5,,5.0,7.0,,,Hattigaunda, Kathmandu
+1380,1380,1601, 45 Cr,180,5.0,16/20 Feet,North-East,2.5,,5.0,5.0,,,Bhaisepati, Lalitpur
+1381,1381,1602, 45 Cr,225,4.2,20 Feet,South-East,2.5,,4.0,5.0,,,Bhaisepati, Lalitpur
+1382,1382,1604, 375 Cr,30 ,4.1,13 Feet,,2.5,,4.0,3.0,Full-Furnished,,Golfutar, Kathmandu
+1383,1383,1605, 205 Cr,229,3.1,13 Feet,South-East,2.5,,,,,,Chunikhel, Kathmandu
+1384,1384,1606, 222 Cr,69 ,3.2,13 Feet,,2.5,,,,,,Mandikhatar, Kathmandu
+1385,1385,1607, 305 Cr,107,4.1,13/16 Feet,North-East,3.0,,5.0,5.0,,,Sanagaun, Lalitpur
+1386,1386,1608, 185 Cr,210,4.2,10 Feet,East,3.0,,4.0,3.0,,,Gurjudhara, Kathmandu
+1387,1387,1609, 27 Cr,132,4.0,13 Feet,East,2.5,,,,,,Chyasindol, Kathmandu
+1388,1388,1610, 45 Cr,158,3.2,20 Feet,East,4.5,,6.0,5.0,Semi-Furnished,,Dallu, Kathmandu
+1389,1389,1611, 85 Lac,97 ,1.7355734112490868,13 Feet,North-West,4.0,,,,,,Chhauni, Kathmandu
+1390,1390,1612, 52 Cr,158,5.0,12-18 Feet,,2.5,,6.0,6.0,Full-Furnished,,Budhanilkantha, Kathmandu
+1391,1391,1613, 48 Cr,48 ,5.0,13 Feet,,2.5,,4.0,6.0,,,Budhanilkantha, Kathmandu
+1392,1392,1614, 69 Cr,110,6.1,36 Feet,South-East,4.5,,7.0,7.0,,,Dhumbarahi, Kathmandu
+1393,1393,1615, 165 Cr,68 ,18.0,15 Feet,South-East,2.5,,5.0,6.0,,,Budhanilkantha, Kathmandu
+1394,1394,1616, 29 Cr,139,3.3,10/26 Feet,South,2.5,,3.0,4.0,,,Nakhudole, Lalitpur
+1395,1395,1617, 38 Cr,196,5.2,13/18 Feet,,2.5,,5.0,5.0,,,Bhaisepati, Lalitpur
+1396,1396,1618, 675 Cr,241,8.0,20 Feet,South,2.5,,6.0,6.0,Semi-Furnished,,Taulung, Kathmandu
+1397,1397,1619, 45 Cr,219,4.0,26 Feet,East,4.5,,6.0,5.0,Full-Furnished,"Marbel,Fridge,Sofa,CC Camera,Solar,Dining Room,Parquet,Microwave,Water Purifier,Bed Room,Washing Machine,+ 10 See More",Koteshwor, Kathmandu
+1398,1398,1620, 38 Cr,158,5.2,18 Feet,North-East,2.5,,5.0,5.0,,,Bhaisepati, Lalitpur
+1399,1399,1621, 55 Cr,57 ,8.2,13 Feet,North-East,2.5,,4.0,4.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+1400,1400,1622, 425 Cr,179,3.3,11 Feet,South-West,3.5,,6.0,5.0,Semi-Furnished,,Anamnagar, Kathmandu
+1401,1401,1623, 335 Cr,35 ,5.0,13 Feet,South,2.5,,,,,,Bhangal , Kathmandu
+1402,1402,1624, 26 Cr,87 ,4.2,18 Feet,West,3.0,,5.0,3.0,Full-Furnished,,Phutung, Kathmandu
+1403,1403,1625, 295 Cr,212,3.2,20 Feet,South-East,2.5,,6.0,5.0,,,Bhaisepati, Lalitpur
+1404,1404,1626, 635 Cr,126,7.2,20 Feet,North-East,2.5,,11.0,4.0,Semi-Furnished,,Bhimsengola, Kathmandu
+1405,1405,1627, 38 Cr,136,5.1,10/15 Feet,West,2.5,,4.0,4.0,Semi-Furnished,,Nakkhu, Lalitpur
+1406,1406,1628, 45 Cr,213,5.0,20 Feet,,2.5,,,,Full-Furnished,,Aakasedhara, Kathmandu
+1407,1407,1629, 13 Cr,102,3.1,12 Feet,East,1.0,,2.0,1.0,Semi-Furnished,,Gokarna, Kathmandu
+1408,1408,1630, 75 Cr,131,10.2,12-18 Feet,South-East,2.5,,4.0,6.0,,,Hattiban, Lalitpur
+1409,1409,1631, 525 Cr,369,2.3,20 Feet,,3.5,,4.0,4.0,,,Lazimpat, Kathmandu
+1410,1410,1632, 155 Cr,99 ,2.2,12 Feet,,2.5,,,,,,Kapan, Kathmandu
+1411,1411,1633, 38 Cr,87 ,4.3,13 Feet,,2.5,,,,,,Mandikhatar, Kathmandu
+1412,1412,1634, 38 Cr,43 ,5.0,13 Feet,West,3.0,,,,,,Baluwakhani, Kathmandu
+1413,1413,1635, 29 Cr,101,4.0,13 Feet,,2.5,,,,,,Bhangal , Kathmandu
+1414,1414,1636, 275 Cr,46 ,3.2,32 Feet,,2.5,,,,,,Mandikhatar, Kathmandu
+1415,1415,1637, 16 Cr,148,6.0,20/6 Feet,,1.0,,2.0,1.0,,,Sunakothi, Lalitpur
+1416,1416,1638, 95 Lac,206,4.0,16 Feet,,1.0,,2.0,1.0,,,Chhaling, Bhaktapur
+1417,1417,1639, 125 Cr,256,4.2,8 Feet,,1.5,,3.0,2.0,,,Sunakothi, Lalitpur
+1418,1418,1640, 35 Cr,5 v,5.2,12 Feet,South,3.5,,14.0,4.0,Un-Furnished,,Panga, Kathmandu
+1419,1419,1641, 75 Cr,60 ,19.0,12-18 Feet,,2.5,,,,,,Mandikhatar, Kathmandu
+1420,1420,1642, 8 Cr,77 ,9.0,12-18 Feet,,2.5,,5.0,4.0,Full-Furnished,,Golfutar, Kathmandu
+1421,1421,1643, 16 Cr,121,3.3,13 Feet,,2.5,,,,,,Thankot, Kathmandu
+1422,1422,1644, 36 Cr,47 ,5.0,13/20 Feet,,2.5,,6.0,4.0,,,Budhanilkantha, Kathmandu
+1423,1423,1645, 225 Cr,272,3.2,13 Feet,South,2.5,,,,,,Jyotinagar, Kathmandu
+1424,1424,1646, 38 Cr,210,5.1,12-18 Feet,South-East,2.5,,4.0,4.0,Semi-Furnished,,Bhaisepati, Lalitpur
+1425,1425,1647, 105 Cr,367,3.1,13 Feet,,2.5,,,,,,Machhegaun , Kathmandu
+1426,1426,1648, 275 Cr,50 ,4.0,18 Feet,,2.5,,,,,,Sundarbasti, Kathmandu
+1427,1427,1649, 628 Cr,100,3.2,12 Feet,,5.5,,,,,,Anamnagar, Kathmandu
+1428,1428,1650, 225 Cr,163,3.0,13 Feet,West,3.0,,7.0,4.0,Un-Furnished,,Chyasal, Lalitpur
+1429,1429,1651, 46 Cr,103,3.3,12-18 Feet,South,2.5,,4.0,5.0,Full-Furnished,,Hattiban, Lalitpur
+1430,1430,1652, 185 Cr,105,3.1,13 Feet,North,2.5,,5.0,,Semi-Furnished,,Kavresthali, Kathmandu
+1431,1431,1653, 16 Cr,51 ,3.1,20 Feet,East,3.0,,,,Un-Furnished,,Hattiban, Lalitpur
+1432,1432,1656, 35 Cr,174,4.2,10-16 Feet,West,2.0,,5.0,5.0,,,Taukhel, Lalitpur
+1433,1433,1658, 475 Cr,134,7.0,14 Feet,West,2.5,,6.0,3.0,,,Bafal, Kathmandu
+1434,1434,1659, 24 Cr,70 ,3.3,12 Feet,West,2.5,,6.0,5.0,,,Kapan, Kathmandu
+1435,1435,1660, 22 Cr,143,0.3,26 Feet,North,,,,,,,Bagbazar, Kathmandu
+1436,1436,1661, 37 Cr,160,4.0,16 Feet,North-West,2.5,,6.0,5.0,,,Bhaisepati, Lalitpur
+1437,1437,1662, 25 Cr,320,3.1,14-22 Feet,North-East,6.0,,,,,,New Road, Kathmandu
+1438,1438,1663, 425 Cr,155,6.0,10 Feet,South,3.5,,4.0,4.0,,,Balkot, Bhaktapur
+1439,1439,1664, 315 Cr,193,4.0,20 Feet,North,2.5,,5.0,4.0,Semi-Furnished,"Earthquake Resistant,Parquet,Gym,Washing Machine,Bed Room,Modular Kitchen,Parking,Playground,Internet,Drinking Water,Bathroom,+ 2 See More",Mulpani, Kathmandu
+1440,1440,1665, 5 Cr,226,3.2,22 Feet,West,5.0,,,5.0,,,Kalanki, Kathmandu
+1441,1441,1668, 19 Cr,63 ,3.0,13 Feet,West,2.5,,,,,,Tikathali, Lalitpur
+1442,1442,1669, 185 Cr,84 ,2.3,13 Feet,West,2.5,,,,,,Tikathali, Lalitpur
+1443,1443,1670, 6 Cr,138,4.0,15 Feet,North-West,5.5,,8.0,8.0,Semi-Furnished,,Kalikasthan, Kathmandu
+1444,1444,1671, 35 Cr,80 ,3.2,15 Feet,South-East,3.0,,4.0,5.0,,,Sainbu, Lalitpur
+1445,1445,1673, 15 Cr,1.7,4.0,10/20 Feet,,2.5,,,3.0,,,Bhairabchaur, Kathmandu
+1446,1446,1674, 2 Cr,94 ,5.0,8/10 Feet,North-East,3.0,,3.0,2.0,,,Padma Colony, Kathmandu
+1447,1447,1675, 7 Cr,34 ,9.0,12 Feet,,4.5,,,,,,Dallu, Kathmandu
+1448,1448,1676, 36 Cr,191,5.0,13 Feet,,2.5,,5.0,4.0,,,Buddha Colony, Kathmandu
+1449,1449,1677, 25 Cr,223,3.2,20 Feet,West,2.5,,,,,,Balkot, Bhaktapur
+1450,1450,1678, 34 Cr,206,5.0,13 Feet,South-West,2.5,,3.0,5.0,Semi-Furnished,,Bhangal , Kathmandu
+1451,1451,1679, 35 Cr,29 ,4.2,13 Feet,,3.5,,,,Full-Furnished,,Mandikhatar, Kathmandu
+1452,1452,1680, 375 Cr,72 ,4.2,12 Feet,,2.5,,,,,,Kapan, Kathmandu
+1453,1453,1681, 41 Cr,220,5.0,12 Feet,West,4.5,,12.0,4.0,,,Maharajgunj, Kathmandu
+1454,1454,1682, 34 Cr,71 ,3.2,13 Feet,East,3.5,,8.0,4.0,,,Hattiban, Lalitpur
+1455,1455,1683, 8 Cr,183,8.1,8 Feet,East,3.5,,,,,,Teku, Kathmandu
+1456,1456,1684, 34 Lac/aana,196,11.0,16 Feet,North-East,2.0,,4.0,,,,Hattigaunda, Kathmandu
+1457,1457,1685, 215 Cr,283,3.2,12/20 Feet,North-West,3.5,,5.0,3.0,Semi-Furnished,,Sano thimi, Bhaktapur
+1458,1458,1686, 95 Cr,26 ,10.0,13/22 Feet,North-West,2.5,,4.0,4.0,Semi-Furnished,,Dhumbarahi, Kathmandu
+1459,1459,1687, 325 Cr,228,4.2,20 Feet,,2.5,,5.0,4.0,,,Sanobharyang, Kathmandu
+1460,1460,1688, 525 Cr,343,3.0,72 Feet,,2.5,,,,,,Maharajgunj, Kathmandu
+1461,1461,1689, 185 Cr,233,3.2,13 Feet,,2.5,,,,,,Satungal, Kathmandu
+1462,1462,1692, 7 Cr,91 ,8.2,18 Feet,West,2.5,,5.0,6.0,Semi-Furnished,"Earthquake Resistant,Parquet,CC Camera,Solar,Parking,Drinking Water,Bathroom,Drainage,Power Backup,Water Purifier,Garden,+ 1 See More",Grande Hospital, Kathmandu
+1463,1463,1694, 295 Cr,105,5.1,12 Feet,East,2.5,,,,,,Golfutar, Kathmandu
+1464,1464,1695, 3 Cr,91 ,4.0,12 Feet,South,2.5,,,,,,Sukedhara, Kathmandu
+1465,1465,1696, 9 Cr,36 ,9.0,26 Feet,East,,,,,,,Chandol, Kathmandu
+1466,1466,1697, 3 Cr,204,4.0,13 Feet,West,3.5,,5.0,5.0,Full-Furnished,,Gatthaghar, Bhaktapur
+1467,1467,1698, 36 Cr,160,5.0,13 Feet,North,2.5,,5.0,4.0,Full-Furnished,,Pasikot, Kathmandu
+1468,1468,1699, 495 Cr,296,5.3,16 Feet,North-East,3.5,,7.0,8.0,,,Bhaisepati, Lalitpur
+1469,1469,1700, 6 Cr,153,9.2,20 Feet,South-East,3.5,,7.0,4.0,,,Koteshwor, Kathmandu
+1470,1470,1701, 21 Cr,176,3.2,13 Feet,,2.5,,,,,,Bhangal , Kathmandu
+1471,1471,1702, 29 Cr,31 ,6.0,10 Feet,South-East,2.5,,5.0,3.0,,,Gurjudhara, Kathmandu
+1472,1472,1703, 165 Cr,391,17.0,20 Feet,East,2.5,,5.0,6.0,,,Minbhawan, Kathmandu
+1473,1473,1704, 85 Lac,74 ,3.1,32 Feet,West,1.0,,2.0,1.0,Un-Furnished,,Naikap, Kathmandu
+1474,1474,1705, 195 Cr,106,3.0,12 Feet,West,2.5,,,,,,Baniyatar, Kathmandu
+1475,1475,1706, 24 Cr,91 ,3.2,13 Feet,West,3.0,,5.0,4.0,Full-Furnished,,Padamsal, Kathmandu
+1476,1476,1707, 17 Cr,8 v,2.2,13 Feet,South,,,3.0,3.0,Full-Furnished,,Imadol, Lalitpur
+1477,1477,1708, 355 Cr,178,5.3,10 Feet,West,4.0,,,4.0,,,Dillibazar, Kathmandu
+1478,1478,1709, 11 Cr/aana,130,38.0,65 Feet,West,,,,,,,Galkopakha, Kathmandu
+1479,1479,1710, 175 Cr,86 ,3.0,13 Feet,South-East,2.5,,11.0,3.0,Full-Furnished,"Marbel,Parquet,Fridge,Sofa,Dining Room,Water Purifier,Washing Machine,Bed Room,Iron,Internet,Drinking Water,+ 4 See More",Paiyatar, Kathmandu
+1480,1480,1711, 675 Cr,119,9.2,8-14 Feet,North-East,4.0,,8.0,6.0,Full-Furnished,"Parquet,Fridge,Sofa,Solar,Dining Room,Microwave,AirCon,Water Purifier,Washing Machine,Bed Room,Iron,+ 7 See More",Bouddha, Kathmandu
+1481,1481,1712, 44 Cr,60 ,1.2,12/8 Feet,West,5.5,,,7.0,,,Putalisadak, Kathmandu
+1482,1482,1713, 75 Cr,414,8.1,14 Feet,,3.0,,6.0,8.0,,,Maharajgunj, Kathmandu
+1483,1483,1714, 29 Cr,52 ,3.0387143900657416,20 Feet,South,2.5,,,,Semi-Furnished,"Earthquake Resistant,Parquet,Dining Room,Microwave,Water Purifier,Bed Room,Garden,Modular Kitchen,Parking,Playground,Internet,+ 4 See More",Lubhu, Lalitpur
+1484,1484,1715, 21 Cr,69 ,3.2,20 Feet,,2.5,,,,Full-Furnished,,Bhangal , Kathmandu
+1485,1485,1716, 335 Cr,31 ,5.3,13 Feet,,2.5,,,,,,Jyotinagar, Kathmandu
+1486,1486,1717, 195 Cr,52 ,3.0,12 Feet,East,2.5,,5.0,3.0,,,Dhapasi, Kathmandu
+1487,1487,1718, 5 Cr,24 ,6.135865595325055,16 Feet,South,3.0,,5.0,4.0,Full-Furnished,"Earthquake Resistant,Marbel,Parquet,Sofa,Dining Room,Solar,Bed Room,Modular Kitchen,Parking,Playground,Drinking Water,+ 2 See More",Hattiban, Lalitpur
+1488,1488,1719, 6 Cr,193,8.2,12-18 Feet,South-East,3.0,,6.0,6.0,Semi-Furnished,,Nakhipot, Lalitpur
+1489,1489,1721, 299 Cr,243,3.2,13 Feet,South-East,3.5,,5.0,5.0,,,Megha City, Kathmandu
+1490,1490,1722, 2 Cr,86 ,3.0,11 Feet,,2.5,,,,,,Sitapaila, Kathmandu
+1491,1491,1723, 225 Cr,287,4.1,12 Feet,South,2.5,,,,,,Setipakha, Lalitpur
+1492,1492,1724, 65 Cr,70 ,16.0,12 Feet,West,2.5,,5.0,3.0,,,Jarankhu, Kathmandu
+1493,1493,1725, 20 Cr,212,11.0,12 Feet,West,4.0,,,,,,Bouddha, Kathmandu
+1494,1494,1726, 24 Cr,31 ,4.0,20 Feet,South-East,2.5,,5.0,2.0,Un-Furnished,,Pasikot, Kathmandu
+1495,1495,1727, 385 Cr,28 ,4.0,18 Feet,North,3.0,,5.0,5.0,Full-Furnished,"Marbel,Fridge,Sofa,Solar,Dining Room,AirCon,Bed Room,Parking,TV,Drinking Water,Internet,+ 3 See More",Jaya Bageshwori, Kathmandu
+1496,1496,1728, 375 Cr,186,6.1,20 Feet,North-East,2.5,,,,,,Sallaghari, Bhaktapur
+1497,1497,1729, 11 Cr,93 ,19.0,12 Feet,South,2.5,,,,,,Golfutar, Kathmandu
+1498,1498,1730, 55 Cr,128,6.0,13 Feet,South-East,2.5,,,,,,Dhungedhara, Kathmandu
+1499,1499,1731, 35 Lac/aana,175,32.0,18 Feet,West,2.5,,5.0,,,,Raniban, Kathmandu
+1500,1500,1732, 25 Cr,76 ,3.0,10 Feet,North-East,4.0,,,,,,Kapan, Kathmandu
+1501,1501,1733, 135 Cr,265,3.0,13 Feet,East,1.0,,2.0,1.0,Semi-Furnished,,Dhaneshwor, Kathmandu
+1502,1502,1735, 675 Cr,188,36.0,13 Feet,,3.0,,3.0,3.0,,,Godawari, Lalitpur
+1503,1503,1736, 7 Cr,114,9.2,13 Feet,East,2.5,,3.0,4.0,Full-Furnished,,Bafal, Kathmandu
+1504,1504,1737, 4 Cr,181,3.1,12-16 Feet,East,5.0,,3.0,5.0,,,Baluwatar, Kathmandu
+1505,1505,1738, 225 Cr,135,3.2,20 Feet,North-West,3.0,,7.0,3.0,Semi-Furnished,,Srijananagar, Bhaktapur
+1506,1506,1739, 65 Cr,37 ,7.0,12-18 Feet,North,,,,,,,Baniyatar, Kathmandu
+1507,1507,1740, 29 Cr,104,5.0,12-18 Feet,South,2.5,,4.0,4.0,,,Bagdol, Lalitpur
+1508,1508,1741, 26 Cr,98 ,4.2,12-18 Feet,,2.5,,,,,,Baluwakhani, Kathmandu
+1509,1509,1742, 33 Cr,77 ,5.3,13 Feet,,2.5,,,,,,Ekatabasti, Kathmandu
+1510,1510,1743, 21 Cr,76 ,3.0,13 Feet,,2.5,,,,,,Mandikhatar, Kathmandu
+1511,1511,1744, 235 Cr,68 ,4.0,16 Feet,,2.5,,,,,,Bhangal , Kathmandu
+1512,1512,1745, 135 Cr,344,3.2,13 Feet,,1.0,,2.0,1.0,,,Bhangal , Kathmandu
+1513,1513,1746, 17 Cr,101,2.2,13 Feet,,2.5,,,,,,Sukedhara, Kathmandu
+1514,1514,1747, 15 Cr,117,3.1,11 Feet,East,2.5,,,,,,Lubhu, Lalitpur
+1515,1515,1749, 5 Cr,114,8.0,60 Feet,East,4.0,,,,,,Sano thimi, Bhaktapur
+1516,1516,1750, 30 Cr,741,50.0,12-18 Feet,,2.5,,6.0,8.0,,,Chapali, Kathmandu
+1517,1517,1751, 19 Cr,234,4.0,10 Feet,,2.5,,,,,,Aakasedhara, Kathmandu
+1518,1518,1752, 22 Cr,128,4.2,12 Feet,East,2.5,,6.0,4.0,Semi-Furnished,"Earthquake Resistant,Marbel,Fridge,Sofa,Dining Room,Water Purifier,Bed Room,Garden,Modular Kitchen,Parking,Internet,+ 4 See More",Paiyatar, Kathmandu
+1519,1519,1755, 325 Cr,196,4.2,13 Feet,South,2.5,,,,,,Ganesh Chowk, Kathmandu
+1520,1520,1756, 28 Cr,171,5.0,10 Feet,East,3.0,,7.0,5.0,Semi-Furnished,,Naya Basti, Kathmandu
+1521,1521,1757, 165 Cr,31 ,4.0,13 Feet,,2.5,,,,,,Thankot, Kathmandu
+1522,1522,1758, 38 Cr,107,9.0,20 Feet,South-West,1.0,,2.0,2.0,,,Hattiban, Lalitpur
+1523,1523,1759, 325 Cr,179,3.2,20 Feet,West,2.5,,3.0,3.0,Full-Furnished,,Hattiban, Lalitpur
+1524,1524,1760, 6 Cr,181,7.0,10 Feet,South,5.0,,9.0,7.0,Semi-Furnished,,Gaurighat, Kathmandu
+1525,1525,1761, 22 Cr,86 ,4.1,13 Feet,,2.5,,,,,,Bhangal , Kathmandu
+1526,1526,1762, 25 Cr,163,4.0,13 Feet,East,2.5,,6.0,3.0,,,Sai Baba chowk, Kathmandu
+1527,1527,1763, 45 Cr,165,9.0,10 Feet,East,2.5,,7.0,4.0,Full-Furnished,"Earthquake Resistant,Marbel,Parquet,Fridge,Solar,Dining Room,Bed Room,Garden,Playground,Parking,Bathroom,+ 4 See More",Greenland Chowk, Kathmandu
+1528,1528,1764, 53 Lac/aana,21 ,2.3,20+ Feet,East,,,,,,,Bajrabarahi, Lalitpur
+1529,1529,1765, 4 Cr,767,4.0,14-20 Feet,North,2.5,,3.0,3.0,,,Bhaisepati, Lalitpur
+1530,1530,1766, 25 Cr,257,4.0,12/16 Feet,East,4.0,,7.0,,Semi-Furnished,,Katunje, Bhaktapur
+1531,1531,1767, 4 Cr,129,7.0,13 Feet,North-East,2.5,,4.0,4.0,,,Saraswotinagar, Kathmandu
+1532,1532,1768, 235 Cr,111,3.2,16 Feet,East,2.5,,6.0,4.0,,,Imadol, Lalitpur
+1533,1533,1769, 245 Cr,329,3.2,13 Feet,,2.5,,4.0,5.0,,,Bhaisepati, Lalitpur
+1534,1534,1770, 26 Cr,38 ,6.1,12-18 Feet,South,2.5,,8.0,3.0,,,Hattiban, Lalitpur
+1535,1535,1771, 3 Cr,306,3.2,20 Feet,East,2.5,,4.0,3.0,,,Sanepa, Lalitpur
+1536,1536,1772, 185 Cr,271,3.1,13 Feet,,2.5,,,,,,Bhangal , Kathmandu
+1537,1537,1773, 2 Cr,185,3.1,13 Feet,,2.5,,,,,,Sundarbasti, Kathmandu
+1538,1538,1774, 95 Cr,166,21.0,20/14 Feet,East,3.0,,5.0,4.0,Semi-Furnished,,Dhobighat, Lalitpur
+1539,1539,1775, 22 Cr,121,4.1,13 Feet,South,2.5,,,,Full-Furnished,,Sipadol, Bhaktapur
+1540,1540,1776, 52 Cr,136,7.2,20 Feet,West,2.5,,6.0,3.0,,,Bansbari, Kathmandu
+1541,1541,1777, 8 Cr,149,17.2,9 Feet,South-West,3.5,,9.0,4.0,,,Kupandole, Lalitpur
+1542,1542,1778, 6 Cr,20 ,9.1,40 Feet,North,,,,,,,Kalopool, Kathmandu
+1543,1543,1779, 625 Cr,240,9.2,13 Feet,East,2.5,,,,,,Grande Villa, Kathmandu
+1544,1544,1780, 19 Cr,250,4.2,12/13 Feet,North-West,3.0,,8.0,3.0,,,Tathali, Bhaktapur
+1545,1545,1781, 25 Cr,294,6.0,20 Feet,South-East,2.5,,4.0,4.0,Semi-Furnished,,Bhatkepati, Kathmandu
+1546,1546,1782, 25 Cr,229,4.0,20 Feet,South-East,3.5,,12.0,4.0,,,Dadhikot, Bhaktapur
+1547,1547,1783, 55 Lac/aana,47 ,8.0,13 Feet,West,2.5,,,,,,New Buspark, Kathmandu
+1548,1548,1784, 298 Cr,196,4.1,13 Feet,South-West,2.5,,7.0,,,,Dhungeadda, Kathmandu
+1549,1549,1785, 31 Cr,266,4.3,20 Feet,South-East,2.5,,4.0,4.0,,,Kusunti, Lalitpur
+1550,1550,1786, 32 Cr,175,4.2,20 Feet,West,3.0,,8.0,6.0,,,Chabahil, Kathmandu
+1551,1551,1787, 27 Cr,68 ,3.2,20 Feet,South,2.5,,4.0,4.0,Full-Furnished,,Sitapaila, Kathmandu
+1552,1552,1788, 38 Cr,105,5.0,12-18 Feet,,2.5,,,,,,Pasikot, Kathmandu
+1553,1553,1789, 22 Cr,294,5.0,13 Feet,West,2.5,,,,,,Duwakot, Bhaktapur
+1554,1554,1790, 16 Cr,25 ,4.0,13 Feet,,1.0,,3.0,1.0,,,Golfutar, Kathmandu
+1555,1555,1791, 155 Cr,80 ,2.3,12 Feet,West,3.5,,6.0,3.0,,,Lolang, Kathmandu
+1556,1556,1792, 3 Cr,171,4.0,14 Feet,,2.5,,4.0,4.0,,,Nakkhu, Lalitpur
+1557,1557,1793, 42 Cr,114,8.2,12 Feet,South,2.5,,8.0,4.0,,,Banasthali, Kathmandu
+1558,1558,1794, 23 Cr,36 ,3.0,13 Feet,,2.5,,3.0,3.0,,,Nakkhu, Lalitpur
+1559,1559,1795, 135 Cr,170,3.2,13 Feet,,2.5,,,,,,Thankot, Kathmandu
+1560,1560,1796, 325 Cr,132,4.3,20 Feet,East,3.5,,9.0,4.0,,,Machhapokhari, Kathmandu
+1561,1561,1797, 7 Cr,200,0.3,22 Feet,East,5.0,,,,,,Lagankhel, Lalitpur
+1562,1562,1798, 34 Cr,153,6.1,12-18 Feet,,3.5,,10.0,4.0,Un-Furnished,,Samakhusi, Kathmandu
+1563,1563,1799, 28 Cr,60 ,3.1,25 Feet,South,4.0,,10.0,3.0,,,Sukedhara, Kathmandu
+1564,1564,1800, 295 Cr,59 ,5.3,16 Feet,East,2.5,,6.0,4.0,,,Imadol, Lalitpur
+1565,1565,1801, 335 Cr,297,5.0,13 Feet,East,2.5,,5.0,3.0,,,Bhaisepati, Lalitpur
+1566,1566,1802, 195 Cr,60 ,4.0,10 Feet,North-East,2.5,,4.0,5.0,,,Goldhunga, Kathmandu
+1567,1567,1803, 195 Cr,132,3.2,14 Feet,,2.5,,,,,,Lubhu, Lalitpur
+1568,1568,1804, 25 Cr,201,4.0,13 Feet,North-West,2.5,,6.0,3.0,Semi-Furnished,,Sallaghari, Bhaktapur
+1569,1569,1805, 16 Cr,189,3.3,8 Feet,East,2.5,,5.0,3.0,Semi-Furnished,,Srijana Chowk, Kathmandu
+1570,1570,1806, 275 Cr,102,4.0,13 Feet,South,2.5,,5.0,6.0,Full-Furnished,,Dhungedhara, Kathmandu
+1571,1571,1807, 56 Cr,119,7.1,10 Feet,South,3.5,,7.0,6.0,,,Dhumbarahi, Kathmandu
+1572,1572,1808, 22 Cr,49 ,4.0,16 Feet,North-West,3.0,,8.0,3.0,,,Baniyatar, Kathmandu
+1573,1573,1809, 18 Cr,261,20.0,12-18 Feet,,2.5,,5.0,6.0,,,Maharajgunj, Kathmandu
+1574,1574,1810, 575 Cr,211,9.2,12-18 Feet,,2.5,,4.0,,,,Mandikhatar, Kathmandu
+1575,1575,1811, 27 Cr,94 ,4.0,13 Feet,,2.5,,,,,,Sukedhara, Kathmandu
+1576,1576,1812, 36 Cr,163,7.2,20 Feet,East,2.5,,5.0,5.0,,,Chyasindol, Kathmandu
+1577,1577,1813, 18 Cr,156,64.0,18 Feet,East,2.5,,4.0,3.0,Semi-Furnished,,Dahachowk, Kathmandu
+1578,1578,1814, 275 Cr,114,5.3,12 Feet,East,3.5,,7.0,5.0,Semi-Furnished,,Thecho, Lalitpur
+1579,1579,1815, 235 Cr,200,3.1,15 Feet,North-West,2.5,,4.0,4.0,,,Nakhipot, Lalitpur
+1580,1580,1816, 4 Cr,35 ,5.2,14 Feet,South-East,2.5,,,,Full-Furnished,,Sukedhara, Kathmandu
+1581,1581,1817, 47 Cr,174,6.0,15 Feet,South,2.5,,4.0,5.0,Semi-Furnished,,Deuwa chowk, Kathmandu
+1582,1582,1818, 51 Cr,180,3.0,42 Feet,West,5.5,,1.0,6.0,,,Shankhamul, Kathmandu
+1583,1583,1819, 475 Cr,140,5.0,20 Feet,West,3.5,,7.0,6.0,,,Maijubahal, Kathmandu
+1584,1584,1820, 315 Cr,74 ,4.2,10 Feet,West,4.5,,12.0,7.0,,,Gongabu, Kathmandu
+1585,1585,1822, 16 Cr,194,3.0,13 Feet,West,3.0,,3.0,3.0,,,Pepsicola, Kathmandu
+1586,1586,1823, 399 Cr,337,4.2,13 Feet,North,4.5,,9.0,6.0,,,Kamalbinayak, Bhaktapur
+1587,1587,1824, 285 Cr,80 ,5.0,13 Feet,,2.5,,,,,,Khumaltar, Lalitpur
+1588,1588,1825, 2 Cr,81 ,4.1,10 Feet,West,2.5,,6.0,3.0,,,Goldhunga, Kathmandu
+1589,1589,1826, 285 Cr,269,5.0,16 Feet,,2.5,,6.0,4.0,,,Ram Mandir, Kathmandu
+1590,1590,1827, 24 Cr,92 ,4.0,10 Feet,North,2.5,,5.0,3.0,,,Mahadevtar, Kathmandu
+1591,1591,1828, 36 Cr,73 ,4.0,24 Feet,South-East,4.5,,10.0,5.0,,,Kapan, Kathmandu
+1592,1592,1829, 425 Cr,98 ,5.1,29 Feet,West,5.0,,18.0,15.0,,,Satungal, Kathmandu
+1593,1593,1830, 425 Cr,128,7.2,26 Feet,North,2.5,,3.0,3.0,,,Raniban, Kathmandu
+1594,1594,1831, 26 Cr,172,2.0,20 Feet,South,5.0,,,4.0,,,Bagbazar, Kathmandu
+1595,1595,1832, 225 Cr,188,2.2,13 Feet,South,2.5,,6.0,3.0,,,Khusibu, Kathmandu
+1596,1596,1833, 31 Cr,286,4.2,14 Feet,South-East,2.5,,4.0,3.0,,,Chhauni, Kathmandu
+1597,1597,1834, 155 Cr,300,3.0,13 Feet,,2.5,,,,,,Gurjudhara, Kathmandu
+1598,1598,1835, 325 Cr,70 ,4.0,15 Feet,,2.5,,5.0,5.0,,,Hattigaunda, Kathmandu
+1599,1599,1836, 10 Cr,204,18.0,13 Feet,,2.5,,6.0,8.0,,,Budhanilkantha, Kathmandu
+1600,1600,1838, 285 Cr,26 ,10.0,12-18 Feet,,3.0,,,,,,Kirtipur, Kathmandu
+1601,1601,1839, 68 Cr,135,8.0,8-12 Feet,South-East,2.5,,6.0,6.0,,,Sanepa, Lalitpur
+1602,1602,1840, 297 Cr,42 ,4.1,16 Feet,,2.5,,,,,,Ekatabasti, Kathmandu
+1603,1603,1841, 725 Cr,130,16.0,12 Feet,North,2.5,,5.0,6.0,,,Dhungeadda, Kathmandu
+1604,1604,1842, 287 Cr,187,4.1,13 Feet,South,3.0,,6.0,6.0,Semi-Furnished,,Hattiban, Lalitpur
+1605,1605,1843, 195 Cr,48 ,4.3,13 Feet,East,2.5,,4.0,3.0,,,Syuchatar, Kathmandu
+1606,1606,1844, 92 Cr,123,12.0,20 Feet,South-West,3.5,,7.0,6.0,Semi-Furnished,,Basundhara, Kathmandu
+1607,1607,1845, 69 Cr,106,8.2,13 Feet,East,2.5,,,,Full-Furnished,,Bhangal , Kathmandu
+1608,1608,1846, 158 Cr,32 ,2.3,30 Feet,,2.5,,,,,,Sundarbasti, Kathmandu
+1609,1609,1847, 298 Cr,83 ,5.0,12 Feet,,2.5,,,,,,Bhangal , Kathmandu
+1610,1610,1850, 35 Cr,156,5.0,13 Feet,South,2.5,,,5.0,,,Ganesh Chowk, Kathmandu
+1611,1611,1851, 59 Cr,76 ,7.0,12-18 Feet,,2.5,,4.0,7.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+1612,1612,1852, 33 Cr,157,4.1,15 Feet,South-West,2.5,,4.0,4.0,Full-Furnished,,Nakkhu, Lalitpur
+1613,1613,1853, 27 Cr,134,4.0,15 Feet,South,2.5,,5.0,3.0,,,Kusunti, Lalitpur
+1614,1614,1854, 235 Cr,110,3.2,12-18 Feet,,2.5,,,,,,Baluwakhani, Kathmandu
+1615,1615,1855, 35 Cr,174,5.0,13 Feet,,2.5,,,,,,Sukedhara, Kathmandu
+1616,1616,1856, 265 Cr,229,4.0,20 Feet,,2.5,,,,,,Aakasedhara, Kathmandu
+1617,1617,1857, 275 Cr,57 ,4.0,16 Feet,,2.5,,,,,,Nikhileshwor, Kathmandu
+1618,1618,1858, 228 Cr,131,4.0,13 Feet,,2.5,,,,,,Sundarbasti, Kathmandu
+1619,1619,1859, 6 Cr,67 ,6.1,12-18 Feet,,2.5,,4.0,2.0,,,Bishalnagar, Kathmandu
+1620,1620,1860, 295 Cr,221,4.2,12 Feet,,3.0,,8.0,6.0,,,Mulpani, Kathmandu
+1621,1621,1861, 27 Cr,100,4.0,11 Feet,West,4.5,,8.0,4.0,Semi-Furnished,,Gorkarneshwor, Kathmandu
+1622,1622,1862, 28 Cr,96 ,4.0,18 Feet,East,2.5,,6.0,,,,Golfutar, Kathmandu
+1623,1623,1863, 199 Cr,244,3.1,18 Feet,North-West,2.5,,4.0,,,,Bhaisepati, Lalitpur
+1624,1624,1866, 128 Cr,87 ,3.1,13 Feet,,1.0,,3.0,1.0,,,Kapan, Kathmandu
+1625,1625,1867, 55 Cr,234,6.3,25 Feet,East,3.5,,7.0,5.0,,,Khusibu, Kathmandu
+1626,1626,1868, 325 Cr,214,5.0,10 Feet,West,3.0,,,,,,Banasthali, Kathmandu
+1627,1627,1869, 25 Cr,56 ,5.0,16 Feet,East,2.5,,4.0,3.0,,,Syuchatar, Kathmandu
+1628,1628,1870, 625 Cr,145,10.2,20/22 Feet,South-West,2.0,,,,,,Banasthali, Kathmandu
+1629,1629,1871, 11 Cr,135,20.0,13 Feet,,2.5,,10.0,5.0,,,Manbhawan, Lalitpur
+1630,1630,1872, 35 Cr,155,5.0,13 Feet,South,2.5,,5.0,5.0,,,Ganesh Chowk, Kathmandu
+1631,1631,1873, 32 Cr,125,4.2,15 Feet,South-West,2.5,,5.0,5.0,,,Ganesh Chowk, Kathmandu
+1632,1632,1874, 23 Cr,121,3.2,12-18 Feet,,2.5,,3.0,4.0,,,Manabahadur Marga, Kathmandu
+1633,1633,1875, 55 Cr,39 ,7.2,13 Feet,North-East,2.5,,4.0,5.0,,,Narayanthan , Kathmandu
+1634,1634,1876, 35 Cr,67 ,4.0,13 Feet,North-East,2.5,,5.0,5.0,,,Narayanthan , Kathmandu
+1635,1635,1877, 235 Cr,128,3.0,20 Feet,,2.5,,4.0,5.0,,,Nakkhu, Lalitpur
+1636,1636,1878, 23 Cr,145,3.0,16 Feet,South,2.5,,4.0,3.0,,,Nakkhu, Lalitpur
+1637,1637,1879, 195 Cr,60 ,3.0,12-18 Feet,,2.5,,,,,,Imadol, Lalitpur
+1638,1638,1880, 28 Cr,327,4.3,16 Feet,East,2.5,,4.0,4.0,Semi-Furnished,,Bhaisepati, Lalitpur
+1639,1639,1881, 235 Cr,50 ,3.1,15 Feet,North-West,2.5,,4.0,4.0,Semi-Furnished,,Kusunti, Lalitpur
+1640,1640,1882, 175 Cr,81 ,3.2,12-18 Feet,,2.5,,6.0,2.0,,,Makalbari, Kathmandu
+1641,1641,1883, 65 Lac/aana,178,9.3,22+ Feet,East,1.0,,,,,,Banasthali, Kathmandu
+1642,1642,1884, 4 Cr,161,4.0,13 Feet,West,2.5,,7.0,3.0,Full-Furnished,"Earthquake Resistant,Marbel,Fridge,Sofa,Solar,Dining Room,Microwave,Water Purifier,Washing Machine,Bed Room,Iron,+ 6 See More",Shankhamul, Kathmandu
+1643,1643,1885, 13 Cr,262,4.2,13 Feet,North,1.0,,3.0,1.0,,,Taukhel, Lalitpur
+1644,1644,1886, 65 Lac/aana,72 ,2.3,12 Feet,East,1.0,,3.0,1.0,,,Thulobharyang, Kathmandu
+1645,1645,1887, 215 Cr,43 ,4.0,12 Feet,East,2.5,,6.0,4.0,Semi-Furnished,,Hattiban, Lalitpur
+1646,1646,1888, 4 Cr,121,6.0,20 Feet,South-West,2.5,,4.0,3.0,Semi-Furnished,,Gothatar, Kathmandu
+1647,1647,1889, 21 Cr,160,3.0,12-18 Feet,,3.5,,,,,,Imadol, Lalitpur
+1648,1648,1890, 205 Cr,168,3.0,13 Feet,South,2.5,,6.0,3.0,,,Syuchatar, Kathmandu
+1649,1649,1891, 45 Cr,7 v,7.0,20 Feet,East,2.5,,5.0,,Semi-Furnished,,Budhanilkantha, Kathmandu
+1650,1650,1892, 265 Cr,314,52.0,18 Feet,East,2.5,,,,Semi-Furnished,,Mandikhatar, Kathmandu
+1651,1651,1893, 62 Lac/aana,103,12.3,22 Feet,East,2.5,,6.0,3.0,,,Swoyambhu, Kathmandu
+1652,1652,1894, 24 Cr,202,3.0,12-15 Feet,,2.5,,4.0,3.0,,,Bhaisepati, Lalitpur
+1653,1653,1895, 435 Cr,129,7.3,13 Feet,West,3.0,,7.0,3.0,,,Shantinagar, Kathmandu
+1654,1654,1896, 15 Cr,188,14.0,22 Feet,West,3.5,,,,,,Manbhawan, Lalitpur
+1655,1655,1897, 325 Cr,137,4.0,13-16 Feet,South-West,3.0,,7.0,4.0,,,Nakkhu, Lalitpur
+1656,1656,1898, 35 Cr,130,3.0,12-14 Feet,,2.5,,3.0,3.0,,,Samakhusi, Kathmandu
+1657,1657,1899, 211 Cr,82 ,4.0,13 Feet,,,,,,,,Hattiban, Lalitpur
+1658,1658,1900, 14 Cr,80 ,3.2,13 Feet,East,2.5,,3.0,2.0,Un-Furnished,,Kapan Gumba, Kathmandu
+1659,1659,1901, 275 Cr,91 ,4.2,16-20 Feet,East,2.5,,3.0,4.0,,,Narayantar, Kathmandu
+1660,1660,1902, 485 Cr,430,6.0,20 Feet,North-East,2.5,,4.0,4.0,,,Thaiba, Lalitpur
+1661,1661,1903, 13 Cr,191,16.0,15 Feet,South-East,2.5,,4.0,5.0,,,Dhumbarahi, Kathmandu
+1662,1662,1904, 165 Cr,101,2.2,16 Feet,,2.5,,,,,,Jyotinagar, Kathmandu
+1663,1663,1905, 35 Lac/aana,144,66.0,12 Feet,,2.5,,4.0,5.0,,,Syuchatar, Kathmandu
+1664,1664,1906, 22 Cr,133,1.2,12-18 Feet,,8.5,,4.0,7.0,,,New Road, Kathmandu
+1665,1665,1907, 395 Cr,157,4.3,20 Feet,North-East,4.5,,21.0,7.0,,,Jadibuti, Bhaktapur
+1666,1666,1909, 46 Cr,51 ,6.0,12-18 Feet,,2.0,,5.0,,Semi-Furnished,,Chandol, Kathmandu
+1667,1667,1910, 115 Cr,132,26.0,13 Feet,South,2.5,,7.0,5.0,,,Budhanilkantha, Kathmandu
+1668,1668,1911, 375 Cr,160,4.0,16 Feet,North-West,2.5,,6.0,6.0,,,Bhaisepati, Lalitpur
+1669,1669,1912, 4 Cr,119,5.0,22 Feet,South,4.0,,12.0,4.0,Semi-Furnished,,Lokanthali, Bhaktapur
+1670,1670,1913, 24 Cr,163,4.0,14/22 Feet,East,2.5,,4.0,4.0,,,Imadol, Lalitpur
+1671,1671,1914, 195 Cr,100,3.2,14 Feet,,2.5,,,,,,Lubhu, Lalitpur
+1672,1672,1915, 22 Cr,70 ,3.2,12-18 Feet,,2.5,,,,,,Bhangal , Kathmandu
+1673,1673,1916, 35 Cr,50 ,5.0,13 Feet,,2.5,,,,Semi-Furnished,,Baluwakhani, Kathmandu
+1674,1674,1917, 12 Cr,79 ,31.0,20 Feet,West,2.5,,4.0,5.0,,,Raniban, Kathmandu
+1675,1675,1919, 8 Cr,138,11.0,14 Feet,South-East,2.5,,6.0,,,,Narayanthan , Kathmandu
+1676,1676,1920, 135 Cr,318,17.0,16 Feet,South,2.5,,5.0,,,,Naxal, Kathmandu
+1677,1677,1921, 33 Cr,127,6.0,20 Feet,South,2.5,,6.0,,,,Dhapasi, Kathmandu
+1678,1678,1922, 33 Cr,79 ,4.0,12-14 Feet,,2.5,,,,,,Hepali Height, Kathmandu
+1679,1679,1923, 285 Cr,75 ,5.0,13 Feet,,2.5,,,,,,Bhangal , Kathmandu
+1680,1680,1924, 325 Cr,154,4.2,16 Feet,,2.5,,,,Full-Furnished,,Mandikhatar, Kathmandu
+1681,1681,1925, 22 Cr,43 ,3.1,16 Feet,,2.5,,,,Semi-Furnished,,Baluwakhani, Kathmandu
+1682,1682,1926, 235 Cr,21 ,3.2,13 Feet,,2.5,,,,,,Jyotinagar, Kathmandu
+1683,1683,1927, 31 Cr,172,5.2,16 Feet,,2.5,,,,Semi-Furnished,,Nikhileshwor, Kathmandu
+1684,1684,1928, 26 Cr,37 ,4.1,20/13 Feet,South,2.5,,5.0,3.0,,,Sitapaila, Kathmandu
+1685,1685,1929, 375 Cr,164,5.1,13 Feet,West,4.5,,12.0,4.0,,,Lokanthali, Bhaktapur
+1686,1686,1930, 24 Cr,261,4.2,16 Feet,North,2.5,,4.0,4.0,,,Sitapaila, Kathmandu
+1687,1687,1931, 46 Cr,135,5.2,13-20 Feet,South,3.5,,17.0,4.0,,,Bafal, Kathmandu
+1688,1688,1932, 17 Cr,99 ,2.2,12 Feet,North-East,3.5,,6.0,5.0,,,Makalbari, Kathmandu
+1689,1689,1933, 265 Cr,72 ,4.0,20 Feet,South-East,2.5,,,,,,Hattiban, Lalitpur
+1690,1690,1934, 45 Cr,44 ,6.0,18-20 Feet,,2.0,,,,Semi-Furnished,,Narayanthan , Kathmandu
+1691,1691,1935, 285 Cr,185,4.0,18-20 Feet,,2.5,,4.0,4.0,,,Bhaisepati, Lalitpur
+1692,1692,1936, 25 Cr,286,3.2,20 Feet,,2.5,,4.0,4.0,Full-Furnished,,Bhaisepati, Lalitpur
+1693,1693,1937, 15 Cr,60 ,2.2,10/13 Feet,North-East,2.0,,,2.0,,,Jarankhu, Kathmandu
+1694,1694,1938, 8 Cr,92 ,20.0,12-18 Feet,,2.0,,4.0,,,,Budhanilkantha, Kathmandu
+1695,1695,1941, 35 Cr,136,4.0,15-16 Feet,West,2.5,,4.0,,,,Chandol, Kathmandu
+1696,1696,1943, 4 Cr,98 ,6.0,12 Feet,South-East,2.5,,5.0,3.0,,,Sukedhara, Kathmandu
+1697,1697,1944, 625 Cr,193,16.070124178232287,12 Feet,South,3.0,,,,,,Dhumbarahi, Kathmandu
+1698,1698,1945, 27 Cr,49 ,3.2,13 Feet,,2.5,,,,Semi-Furnished,,Mandikhatar, Kathmandu
+1699,1699,1946, 25 Cr,68 ,4.0,20 Feet,North,3.5,,6.0,3.0,,,Sitapaila, Kathmandu
+1700,1700,1947, 17 Cr,172,2.2,13 Feet,East,2.5,,3.0,3.0,,,Imadol, Lalitpur
+1701,1701,1950, 255 Cr,10 ,3.0,10 Feet,North,3.5,,6.0,4.0,,,Samakhusi, Kathmandu
+1702,1702,1951, 195 Cr,83 ,4.0,15 Feet,West,2.0,,5.0,3.0,Semi-Furnished,,Gwarko, Lalitpur
+1703,1703,1952, 37 Cr,67 ,4.0,20 Feet,South,2.5,,5.0,,,,Golfutar, Kathmandu
+1704,1704,1953, 15 Cr,144,3.0,13 Feet,,,,,,,,Thankot, Kathmandu
+1705,1705,1954, 32 Cr,147,5.0,13 Feet,East,2.5,,6.0,6.0,,,Dhapasi, Kathmandu
+1706,1706,1955, 42 Cr,69 ,7.2,14 Feet,South,2.5,,5.0,5.0,,,Rudreshwor, Kathmandu
+1707,1707,1957, 475 Cr,88 ,6.0,18 Feet,,2.5,,5.0,6.0,,,Narayanthan , Kathmandu
+1708,1708,1958, 325 Cr,314,4.1,14 Feet,South-West,2.5,,5.0,5.0,Semi-Furnished,,Deuwa chowk, Kathmandu
+1709,1709,1959, 18 Cr,184,9.0,18-22 Feet,,6.0,,,,,,Gopikrishna Hall, Kathmandu
+1710,1710,1960, 55 Cr,18 ,5.0,13 Feet,South-East,2.5,,4.0,4.0,,,Baluwatar, Kathmandu
+1711,1711,1961, 27 Cr,195,4.0,13 Feet,,2.5,,,,,,Sukedhara, Kathmandu
+1712,1712,1962, 197 Cr,50 ,3.1,13 Feet,,2.5,,,,,,Sukedhara, Kathmandu
+1713,1713,1963, 215 Cr,127,4.0,13 Feet,East,2.5,,,,,,Kapan, Kathmandu
+1714,1714,1964, 35 Cr,90 ,7.2,22 Feet,South,2.5,,5.0,5.0,Semi-Furnished,,Sitapaila, Kathmandu
+1715,1715,1965, 179 Cr,296,27.0,20 Feet,,2.5,,8.0,9.0,Semi-Furnished,,Bhaisepati, Lalitpur
+1716,1716,1966, 375 Cr,98 ,5.0,18 Feet,North-West,2.5,,7.0,3.0,,,Rudreshwor, Kathmandu
+1717,1717,1967, 38 Cr,68 ,4.0,20 Feet,,2.5,,4.0,4.0,Semi-Furnished,,Bhaisepati, Lalitpur
+1718,1718,1968, 315 Cr,59 ,5.0,13 Feet,,3.0,,,,Full-Furnished,,Mandikhatar, Kathmandu
+1719,1719,1969, 245 Cr,179,3.2,20 Feet,,2.5,,4.0,5.0,Semi-Furnished,,Bhaisepati, Lalitpur
+1720,1720,1972, 3 Cr,89 ,5.0,13 Feet,West,2.5,,4.0,3.0,Semi-Furnished,,Badeli, Kathmandu
+1721,1721,1973, 35 Cr,14 ,7.2,13 Feet,East,2.5,,3.0,2.0,Full-Furnished,"Earthquake Resistant,Marbel,Fridge,Sofa,Solar,Dining Room,Microwave,Bed Room,Garden,Parking,Modular Kitchen,+ 5 See More",Liwali, Bhaktapur
+1722,1722,1974, 27 Cr,84 ,4.0,14 Feet,,2.5,,,,Full-Furnished,,Golfutar, Kathmandu
+1723,1723,1975, 25 Cr,138,4.1,13 Feet,West,3.5,,5.0,3.0,,,Gurjudhara, Kathmandu
+1724,1724,1976, 265 Cr,125,3.0,12-18 Feet,East,2.5,,4.0,3.0,Full-Furnished,,Kusunti, Lalitpur
+1725,1725,1977, 275 Cr,206,4.0,20 Feet,West,2.5,,4.0,4.0,,,Dholahiti, Lalitpur
+1726,1726,1978, 19 Cr,57 ,3.0,13 Feet,,2.5,,4.0,3.0,,,Imadol, Lalitpur
+1727,1727,1979, 39 Cr,186,3.0,30 Feet,South,3.5,,10.0,4.0,,,Shantinagar, Kathmandu
+1728,1728,1980, 105 Cr,88 ,3.0,5 Feet,,2.5,,,,,,Thankot, Kathmandu
+1729,1729,1981, 115 Cr,138,3.0,13 Feet,,1.0,,2.0,1.0,,,Thankot, Kathmandu
+1730,1730,1985, 25 Cr,79 ,4.1,13 Feet,West,4.0,,11.0,6.0,,,Katunje, Bhaktapur
+1731,1731,1986, 165 Cr,36 ,3.2,13 Feet,,1.0,,2.0,1.0,,,Sundarbasti, Kathmandu
+1732,1732,1987, 2 Cr,271,4.2,20 Feet,,2.5,,,,,,Duwakot, Bhaktapur
+1733,1733,1988, 425 Cr,227,8.0,12-16 Feet,,3.0,,,3.0,,,Kalanki, Kathmandu
+1734,1734,1989, 3 Cr,106,4.0,14 Feet,,2.5,,6.0,4.0,Semi-Furnished,,Bafal, Kathmandu
+1735,1735,1990, 3 Cr,141,4.0,32 Feet,,3.0,,,,,,Banasthali, Kathmandu
+1736,1736,1991, 155 Cr,287,4.0,20 Feet,North,2.0,,4.0,2.0,,,Ramkot, Kathmandu
+1737,1737,1992, 175 Cr,103,5.0,20 Feet,North,2.0,,4.0,2.0,,,Ramkot, Kathmandu
+1738,1738,1993, 41 Cr,50 ,4.2,20 Feet,East,3.5,,7.0,7.0,Semi-Furnished,,Khusibu, Kathmandu
+1739,1739,1995, 13 Cr,72 ,3.2,13 Feet,,1.0,,2.0,1.0,,,Basantanagar, Kathmandu
+1740,1740,1996, 415 Cr,209,5.1,13 Feet,North-West,2.5,,6.0,6.0,,,Budhanilkantha, Kathmandu
+1741,1741,1997, 7 Cr,173,13.0,16-20 Feet,,2.5,,,,,,Mandikhatar, Kathmandu
+1742,1742,1998, 26 Cr,69 ,4.0,26 Feet,,2.5,,,,,,Grande Villa, Kathmandu
+1743,1743,1999, 28 Cr,206,4.0,26 Feet,,2.5,,6.0,,,,Grande Villa, Kathmandu
+1744,1744,2000, 19 Cr,72 ,3.0,12-18 Feet,,2.5,,4.0,,,,Grande Villa, Kathmandu
+1745,1745,2001, 36 Cr,167,6.0,14 Feet,East,2.5,,6.0,,,,Deuwa chowk, Kathmandu
+1746,1746,2002, 345 Cr,50 ,5.0,14 Feet,,2.5,,,,,,Hattigaunda, Kathmandu
+1747,1747,2003, 215 Cr,143,4.0,14 Feet,South,3.0,,,,,,Ganesh Chowk, Kathmandu
+1748,1748,2004, 197 Cr,77 ,3.1,12 Feet,,3.0,,,,,,Jyotinagar, Kathmandu
+1749,1749,2007, 3 Cr,182,4.2,13 Feet,South,2.5,,5.0,4.0,Semi-Furnished,,Gwarko, Lalitpur
+1750,1750,2008, 29 Cr,172,2.3,26 Feet,West,3.5,,7.0,4.0,,,Naya Bazar, Kathmandu
+1751,1751,2009, 35 Cr,149,6.2,13 Feet,South,2.5,,3.0,4.0,Semi-Furnished,,Thasikhel, Lalitpur
+1752,1752,2010, 5 Cr,202,11.1,12-18 Feet,,2.5,,7.0,5.0,,,Dhapasi, Kathmandu
+1753,1753,2012, 675 Cr,66 ,12.0,18-20 Feet,,2.5,,4.0,4.0,,,Narayanthan , Kathmandu
+1754,1754,2013, 29 Cr,152,4.1,10 Feet,South,2.5,,5.0,4.0,Semi-Furnished,,Kalanki, Kathmandu
+1755,1755,2014, 28 Cr,232,4.3,12-18 Feet,South,2.5,,5.0,5.0,Semi-Furnished,,Grande Hospital, Kathmandu
+1756,1756,2016, 55 Cr,69 ,9.0,12-16 Feet,,2.5,,4.0,4.0,,,Budhanilkantha, Kathmandu
+1757,1757,2017, 395 Cr,46 ,7.0,13 Feet,,2.5,,7.0,5.0,,,Thulobharyang, Kathmandu
+1758,1758,2018, 35 Cr,83 ,4.0,14-20 Feet,,2.5,,5.0,5.0,,,Golfutar, Kathmandu
+1759,1759,2019, 475 Cr,52 ,5.2,20 Feet,,2.5,,5.0,,,,Chandol, Kathmandu
+1760,1760,2020, 26 Cr,37 ,3.0,13 Feet,,2.5,,,,,,New Buspark, Kathmandu
+1761,1761,2021, 98 Lac,268,3.0,13 Feet,West,1.0,,2.0,1.0,,,Mahadevsthan, Kathmandu
+1762,1762,2022, 225 Cr,277,4.0,13 Feet,,2.5,,3.0,2.0,,,Hepali Height, Kathmandu
+1763,1763,2023, 28 Cr,10 ,4.0,20 Feet,East,2.5,,4.0,5.0,,,Nakkhu, Lalitpur
+1764,1764,2024, 215 Cr,216,3.2,16 Feet,,2.5,,,,,,Nikhileshwor, Kathmandu
+1765,1765,2025, 15 Cr,73 ,2.3,10 Feet,West,,,6.0,3.0,,,Halchowk, Kathmandu
+1766,1766,2026, 85 Cr,42 ,12.0,33 Feet,South,2.5,,7.0,3.0,Semi-Furnished,,Bhaisepati, Lalitpur
+1767,1767,2027, 265 Cr,147,4.2,13 Feet,South,2.5,,,,,,Pepsicola, Kathmandu
+1768,1768,2028, 115 Cr,224,3.2,10 Feet,,2.0,,2.0,2.0,,,Bageshwori, Bhaktapur
+1769,1769,2029, 55 Cr,303,6.0,20 Feet,North-West,5.0,,,,,,Pepsicola, Kathmandu
+1770,1770,2030, 16 Cr,98 ,3.0,13 Feet,,3.0,,3.0,3.0,,,Pepsicola, Kathmandu
+1771,1771,2031, 10 Cr,76 ,8.0,20 Feet,,5.5,,,38.0,,,Basantanagar, Kathmandu
+1772,1772,2032, 38 Cr,13 ,6.1,14/16/20 Feet,South-East,2.5,,4.0,3.0,,,Budhanilkantha, Kathmandu
+1773,1773,2033, 8 Cr,416,8.2,14-20 Feet,,2.5,,4.0,5.0,,,Lazimpat, Kathmandu
+1774,1774,2034, 125 Cr,58 ,4.373995617238861,10 Feet,South-East,2.5,,4.0,3.0,Un-Furnished,,Mulpani, Kathmandu
+1775,1775,2036, 202 Cr,180,4.2,13 Feet,,2.5,,,,,,Bhangal , Kathmandu
+1776,1776,2038, 13 Cr,99 ,3.2,12-16 Feet,,1.0,,,,,,Bhangal , Kathmandu
+1777,1777,2039, 24 Cr,148,2.755588020452885,13 Feet,West,4.0,,7.0,4.0,Un-Furnished,,Chyasal, Lalitpur
+1778,1778,2040, 305 Cr,43 ,5.0,12 Feet,,2.5,,,,,,Mandikhatar, Kathmandu
+1779,1779,2041, 21 Cr,186,30.0,22 Feet,,2.5,,7.0,7.0,,,Kupandole, Lalitpur
+1780,1780,2042, 225 Cr,249,4.2,10 Feet,East,3.5,,6.0,3.0,,,Gongabu, Kathmandu
+1781,1781,2043, 24 Cr,105,3.2,16 Feet,,,,,,,,Thulobharyang, Kathmandu
+1782,1782,2044, 315 Cr,53 ,5.2,14-18 Feet,,2.5,,5.0,5.0,,,Hattigaunda, Kathmandu
+1783,1783,2045, 54 Cr,65 ,5.2,20 Feet,East,3.0,,4.0,5.0,,,Panipokhari, Kathmandu
+1784,1784,2046, 21 Cr,86 ,4.0,14 Feet,East,2.5,,6.0,,,,Kapan, Kathmandu
+1785,1785,2047, 17 Cr,11 ,3.0,12-18 Feet,,2.5,,,,,,Kamitar, Kathmandu
+1786,1786,2048, 29 Cr,104,5.0,12-18 Feet,,3.0,,4.0,5.0,Full-Furnished,,Ichangu Narayan, Kathmandu
+1787,1787,2049, 445 Cr,83 ,6.2,16-18 Feet,North-West,2.5,,3.0,5.0,Full-Furnished,"Drainage,Bathroom,Drinking Water,Parking,Sofa,Dining Room,Bed Room,Parquet,Marbel,Modular Kitchen,Fridge,+ 1 See More",Bhaisepati, Lalitpur
+1788,1788,2050, 27 Cr,36 ,4.0,12-18 Feet,East,2.5,,5.0,,,,Hepali Height, Kathmandu
+1789,1789,2051, 445 Cr,144,5.0,12-18 Feet,,2.5,,6.0,4.0,,,Budhanilkantha, Kathmandu
+1790,1790,2052, 45 Cr,166,8.0,20 Feet,,2.5,,6.0,4.0,,,Bansbari, Kathmandu
+1791,1791,2053, 55 Lac,65 ,4.0,26 Feet,East,2.0,,,,,,Goldhunga, Kathmandu
+1792,1792,2054, 3 Cr,143,4.0,13 Feet,,3.5,,,,,,Thankot, Kathmandu
+1793,1793,2055, 475 Cr,108,5.0,20 Feet,West,3.5,,,,,,Maijubahal, Kathmandu
+1794,1794,2056, 19 Cr,82 ,4.0,16 Feet,,2.0,,,,,,Thankot, Kathmandu
+1795,1795,2057, 35 Cr,151,7.1,14 Feet,East,2.5,,,,,,Pepsicola, Kathmandu
+1796,1796,2058, 35 Cr,109,4.2,20 Feet,,3.5,,,,,,Gongabu, Kathmandu
+1797,1797,2060, 675 Cr,47 ,12.0,12-18 Feet,,2.5,,4.0,4.0,,,Narayanthan , Kathmandu
+1798,1798,2061, 555 Cr,168,4.0,15 Feet,,4.5,,,,,,Shankhamul, Kathmandu
+1799,1799,2062, 19 Cr,398,20.0,12-20 Feet,,3.0,,,,,,Jawalakhel, Lalitpur
+1800,1800,2063, 27 Cr,130,4.0,13 Feet,,2.5,,5.0,,,,Manabahadur Marga, Kathmandu
+1801,1801,2064, 5 Cr,293,4.2,20 Feet,,2.5,,4.0,,Full-Furnished,,Hattigaunda, Kathmandu
+1802,1802,2065, 38 Cr,1.1,32.0,12-18 Feet,,2.5,,6.0,,,,Bansbari, Kathmandu
+1803,1803,2068, 5 Cr,102,10.2,15-20 Feet,,,,6.0,4.0,,,Balkumari, Lalitpur
+1804,1804,2069, 325 Cr,32 ,5.0,16 Feet,,2.5,,,,,,Thankot, Kathmandu
+1805,1805,2070, 16 Cr,258,4.0,16 Feet,South,2.5,,,,,,Thankot, Kathmandu
+1806,1806,2071, 16 Cr,98 ,3.1,13 Feet,,2.5,,5.0,2.0,,,Thankot, Kathmandu
+1807,1807,2073, 155 Cr,188,3.0,20 Feet,South,2.5,,,,,,Darjeeling Height, Bhaktapur
+1808,1808,2074, 21 Cr,263,4.0,13 Feet,South,2.5,,,,,,Harsha Chowk, Bhaktapur
+1809,1809,2075, 2 Cr,91 ,3.0,20 Feet,West,3.5,,,,,,Suryabinayak, Bhaktapur
+1810,1810,2076, 295 Cr,34 ,3.3,13 Feet,East,3.0,,7.0,3.0,Semi-Furnished,"Marbel,Parquet,Sofa,Solar,Dining Room,Bed Room,Modular Kitchen,Parking,Internet,Drinking Water,Bathroom,+ 1 See More",Chapali, Kathmandu
+1811,1811,2078, 31 Cr,53 ,3.3,15 Feet,North-East,2.5,,5.0,3.0,,,Bafal, Kathmandu
+1812,1812,2079, 21 Cr,146,3.0,12 Feet,South-East,2.5,,5.0,5.0,,,Bhaisepati, Lalitpur
+1813,1813,2081, 35 Cr,20 ,5.0,14 Feet,,,,3.0,,,,Bhangal , Kathmandu
+1814,1814,2082, 33 Cr,300,4.0,8-12 Feet,,3.5,,,,,,Katyani Chowk, Kathmandu
+1815,1815,2083, 78 Lac,373,3.1,8-12 Feet,,1.0,,,,,,Jarankhu, Kathmandu
+1816,1816,2084, 12 Cr,62 ,3.0,8-12 Feet,,1.0,,,,,,Jarankhu, Kathmandu
+1817,1817,2085, 285 Cr,56 ,8.0,13 Feet,,1.0,,,,,,Makalbari, Kathmandu
+1818,1818,2086, 218 Cr,51 ,3.2,13 Feet,East,,,,,,,Sundarbasti, Kathmandu
+1819,1819,2087, 25 Cr,120,4.2,13 Feet,East,,,,,,,Baluwakhani, Kathmandu
+1820,1820,2088, 23 Cr,57 ,3.2,14 Feet,,2.5,,,,,,Mandikhatar, Kathmandu
+1821,1821,2089, 265 Cr,142,4.0,12 Feet,,2.5,,,,,,Jyotinagar, Kathmandu
+1822,1822,2090, 21 Cr,10 ,5.0,16 Feet,South,,,,,,,Setipakha, Lalitpur
+1823,1823,2092, 105 Cr,65 ,2.2,10 Feet,,2.5,,5.0,3.0,,,Rudreshwor, Kathmandu
+1824,1824,2093, 23 Cr,37 ,3.3,10 Feet,North-West,2.5,,5.0,4.0,,,Ramkot, Kathmandu
+1825,1825,2094, 3 Cr,52 ,4.3,20 Feet,East,3.5,,9.0,4.0,,,Machhapokhari, Kathmandu
+1826,1826,2095, 4 Cr,64 ,5.2,12 Feet,North,,,5.0,2.0,Semi-Furnished,,Baluwatar, Kathmandu
+1827,1827,2096, 17 Cr,29 ,3.0,13 Feet,South,2.0,,5.0,3.0,,,Lamathumki, Kathmandu
+1828,1828,2098, 225 Cr,54 ,4.0,12 Feet,West,3.5,,,4.0,,,Sitapaila, Kathmandu
+1829,1829,2100, 22 Cr,160,3.2,13 Feet,South,2.5,,,,,,Imadol, Lalitpur
+1830,1830,2101, 215 Cr,84 ,3.1,13 Feet,East,2.5,,,,,,Imadol, Lalitpur
+1831,1831,2102, 245 Cr,129,4.2,13 Feet,South,2.5,,,,,,Imadol, Lalitpur
+1832,1832,2103, 207 Cr,175,3.2,12 Feet,West,,,5.0,,,,Syuchatar, Kathmandu
+1833,1833,2104, 22 Cr,28 ,3.2,14 Feet,West,,,4.0,,,,Syuchatar, Kathmandu
+1834,1834,2105, 68 Lac,284,2.2,13 Feet,,2.5,,,,,,Jarankhu, Kathmandu
+1835,1835,2106, 155 Cr,191,3.1,8-12 Feet,,2.5,,,,,,Lolang, Kathmandu
+1836,1836,2107, 115 Cr,159,3.1,13 Feet,,1.0,,3.0,1.0,,,Thankot, Kathmandu
+1837,1837,2108, 985 Lac,102,2.2,16 Feet,West,1.0,,,,,,Tikathali, Lalitpur
+1838,1838,2109, 285 Cr,35 ,5.0,10 Feet,South-East,3.5,,6.0,3.0,,,Baniyatar, Kathmandu
+1839,1839,2110, 125 Cr,56 ,3.1,20 Feet,South-East,,,,,,,Thaiba, Lalitpur
+1840,1840,2111, 215 Cr,63 ,3.1,13 Feet,South,2.5,,4.0,3.0,,,Imadol, Lalitpur
+1841,1841,2113, 175 Cr,208,3.3,13 Feet,South,,,,,,,Bhatkepati, Kathmandu
+1842,1842,2114, 43 Cr,80 ,12.0,20 Feet,West,2.0,,3.0,2.0,Semi-Furnished,,Dhungeadda, Kathmandu
+1843,1843,2115, 5 Cr,90 ,10.0,10-12 Feet,North,2.0,,5.0,3.0,,,Tinkune, Kathmandu
+1844,1844,2116, 185 Cr,362,3.0,25 Feet,West,3.5,,,,,,Darjeeling Height, Bhaktapur
+1845,1845,2117, 27 Cr,118,3.2,13 Feet,South,3.5,,,,,,Khahare, Kathmandu
+1846,1846,2118, 2 Cr,111,3.0,13 Feet,,2.5,,,,,,Chhapro, Kathmandu
+1847,1847,2120, 24 Cr,161,5.0,13 Feet,East,2.5,,6.0,3.0,,,Balkot, Bhaktapur
+1848,1848,2121, 28 Cr,247,4.2,20 Feet,North-East,2.5,,,,,,Rose Village, Bhaktapur
+1849,1849,2122, 122 Cr,115,2.0,13 Feet,South-East,2.0,,,,,,Pepsicola, Kathmandu
+1850,1850,2123, 37 Cr,62 ,6.0,25/13 Feet,,3.5,,,,,,Balkot, Bhaktapur
+1851,1851,2124, 14 Cr,181,3.0,13 Feet,East,2.0,,,2.0,,,Darjeeling Height, Bhaktapur
+1852,1852,2125, 205 Cr,129,3.0,13 Feet,East,2.5,,,,,,Khahare, Kathmandu
+1853,1853,2126, 125 Cr,413,3.1,13 Feet,South,1.0,,,,,,Darjeeling Height, Bhaktapur
+1854,1854,2127, 12 Cr,283,2.3,13 Feet,South,1.0,,2.0,1.0,,,Darjeeling Height, Bhaktapur
+1855,1855,2128, 15 Cr,115,4.0,13 Feet,South,1.0,,2.0,1.0,,,Balkot, Bhaktapur
+1856,1856,2129, 2 Cr,165,4.0,20 Feet,North,2.5,,,,,,Mibachhe, Bhaktapur
+1857,1857,2130, 13 Cr,188,5.0,13 Feet,,2.5,,,,,,Matatirtha, Kathmandu
+1858,1858,2131, 207 Cr,126,3.1,13 Feet,,2.5,,5.0,,,,Imadol, Lalitpur
+1859,1859,2132, 182 Cr,109,3.0,13 Feet,South,,,4.0,,,,Imadol, Lalitpur
+1860,1860,2133, 224 Cr,71 ,4.0,13 Feet,North,,,6.0,,Semi-Furnished,,Syuchatar, Kathmandu
+1861,1861,2134, 245 Cr,35 ,4.0,12 Feet,North-East,,,6.0,,,,Syuchatar, Kathmandu
+1862,1862,2135, 325 Cr,32 ,5.0,0 Feet,,2.5,,7.0,,,,Hattigaunda, Kathmandu
+1863,1863,2138, 275 Cr,30 ,4.0,16 Feet,East,,,6.0,,,,Jyotinagar, Kathmandu
+1864,1864,2139, 225 Cr,68 ,3.2,13 Feet,South,2.5,,6.0,,,,Jyotinagar, Kathmandu
+1865,1865,2140, 23 Cr,92 ,4.1,12 Feet,South-West,2.5,,5.0,3.0,Semi-Furnished,,Sipadol, Bhaktapur
+1866,1866,2141, 115 Cr,102,2.2,13-14 Feet,,2.0,,,,,,Thankot, Kathmandu
+1867,1867,2143, 115 Cr,216,3.2,15 Feet,,1.5,,2.0,1.0,,,Mahadevsthan, Kathmandu
+1868,1868,2144, 12 Cr,98 ,3.2,15-16 Feet,,1.5,,,,,,Thankot, Kathmandu
+1869,1869,2145, 14 Cr,44 ,2.2,15 Feet,,2.5,,,,,,Katunje, Bhaktapur
+1870,1870,2146, 135 Cr,212,5.0,13 Feet,,2.0,,,,,,Katunje, Bhaktapur
+1871,1871,2147, 25 Cr,286,3.3,20 Feet,,2.5,,,,,,Balkot, Bhaktapur
+1872,1872,2148, 21 Cr,105,4.2,13 Feet,,2.5,,,,,,Khumaltar, Lalitpur
+1873,1873,2149, 115 Cr,123,3.0,13 Feet,,1.5,,,,,,Mahadevsthan, Kathmandu
+1874,1874,2150, 3 Cr,160,4.2,12-13 Feet,,3.5,,,,,,Chamati, Kathmandu
+1875,1875,2151, 5 Cr,118,2.0,0 Feet,,5.0,,,,,,Kalimati, Kathmandu
+1876,1876,2152, 225 Cr,80 ,1.0,20 Feet,,,,,,,,Kalimati, Kathmandu
+1877,1877,2153, 29 Cr,174,5.0,12 Feet,West,,,4.0,3.0,,,Ichangu Narayan, Kathmandu
+1878,1878,2154, 285 Cr,59 ,3.2,15 Feet,North,3.5,,,,,,Syuchatar, Kathmandu
+1879,1879,2155, 27 Cr,68 ,4.0,12/20 Feet,,,,,,,,Sitapaila, Kathmandu
+1880,1880,2156, 315 Cr,50 ,5.1,12 Feet,,,,,,,,Hattigaunda, Kathmandu
+1881,1881,2158, 295 Cr,124,4.0,0 Feet,,,,5.0,,,,Taulung, Kathmandu
+1882,1882,2159, 11 Cr,37 ,26.0,15 Feet,South-East,,,6.0,,,,Budhanilkantha, Kathmandu
+1883,1883,2161, 245 Cr,126,3.2,12 Feet,,2.5,,,,Semi-Furnished,,Grande Hospital, Kathmandu
+1884,1884,2162, 225 Cr,186,3.2,13 Feet,,3.5,,6.0,4.0,,,Manamaiju, Kathmandu
+1885,1885,2163, 285 Cr,101,4.1,0 Feet,,2.5,,7.0,4.0,,,Basundhara, Kathmandu
+1886,1886,2164, 25 Cr,90 ,3.0,0 Feet,,2.5,,,,,,Samakhusi, Kathmandu
+1887,1887,2165, 155 Cr,76 ,4.2,0 Feet,,1.0,,2.0,1.0,,,Panchetar, Kathmandu
+1888,1888,2166, 17 Cr,111,3.3,13 Feet,,3.5,,,,,,Baluwakhani, Kathmandu
+1889,1889,2167, 128 Cr,134,3.0,13 Feet,,2.5,,,,,,Thankot, Kathmandu
+1890,1890,2168, 12 Cr,128,4.0,13 Feet,,1.0,,,,,,Mahadevsthan, Kathmandu
+1891,1891,2169, 98 Lac,137,3.2,13 Feet,,1.0,,,,,,Thankot, Kathmandu
+1892,1892,2170, 17 Cr,4 v,3.0,13 Feet,,2.5,,,,,,Thankot, Kathmandu
+1893,1893,2171, 10 Cr,105,12.0,14/26 Feet,East,2.0,,5.0,,,,Naxal, Kathmandu
+1894,1894,2173, 118 Cr,189,24.0,16 Feet,South-East,2.5,,4.0,4.0,,,Bhaisepati, Lalitpur
+1895,1895,2174, 38 Cr,94 ,4.0,15 Feet,,2.5,,5.0,6.0,,,Naxal, Kathmandu
+1896,1896,2175, 55 Cr,44 ,8.2,13 Feet,,2.5,,,,,,Pasikot, Kathmandu
+1897,1897,2176, 975 Cr,206,16.0,14 Feet,South,,,4.0,4.0,Semi-Furnished,,Sanepa, Lalitpur
+1898,1898,2177, 43 Cr,56 ,5.2,0 Feet,East,2.5,,5.0,5.0,,,Golfutar, Kathmandu
+1899,1899,2178, 3 Cr,294,4.0,0 Feet,East,2.5,,6.0,6.0,,,Samakhusi, Kathmandu
+1900,1900,2179, 3 Cr,131,5.2,20 Feet,North-East,2.5,,4.0,5.0,,,Pasikot, Kathmandu
+1901,1901,2180, 32 Cr,18 ,5.5,0 Feet,,,,4.0,6.0,,,Pasikot, Kathmandu
+1902,1902,2181, 9 Cr,105,10.1,0 Feet,,,,6.0,,,,Shantinagar, Kathmandu
+1903,1903,2182, 41 Cr,19 ,5.0,0 Feet,,,,,,,,Hepali Height, Kathmandu
+1904,1904,2183, 13 Cr,20 ,10.0,0 Feet,,,,,,,,Baluwatar, Kathmandu
+1905,1905,2184, 31 Cr,50 ,4.2,18-20 Feet,South-West,2.5,,5.0,5.0,,,Budhanilkantha, Kathmandu
+1906,1906,2185, 25 Cr,164,4.2,20 Feet,South,2.5,,11.0,5.0,,,Dhapasi, Kathmandu
+1907,1907,2186, 12 Cr,165,15.2,26 Feet,,,,9.0,7.0,,,Baluwatar, Kathmandu
+1908,1908,2187, 22 Cr,348,3.0,26 Feet,,2.5,,3.0,4.0,,,Golfutar, Kathmandu
+1909,1909,2189, 14 Cr,37 ,32.0,0 Feet,,,,5.0,,,,Rudreshwor, Kathmandu
+1910,1910,2191, 19 Cr,21 ,3.0,0 Feet,West,2.5,,,,,,Bhangal , Kathmandu
+1911,1911,2192, 13 Cr,35 ,3.5,13 Feet,East,1.0,,,,,,Chunikhel, Kathmandu
+1912,1912,2193, 2 Cr,61 ,4.3,13 Feet,,2.5,,5.0,4.0,,,Kapan, Kathmandu
+1913,1913,2195, 125 Cr,306,3.0,6 Feet,,2.0,,2.0,,,,Kapan, Kathmandu
+1914,1914,2196, 18 Cr,178,4.0,13 Feet,,2.0,,,,,,Bhangal , Kathmandu
+1915,1915,2197, 46 Cr,121,6.3,13 Feet,East,2.5,,,,,,Chandol, Kathmandu
+1916,1916,2198, 385 Cr,44 ,7.0,12 Feet,East,3.5,,,,,,Chappal karkhana, Kathmandu
+1917,1917,2199, 49 Cr,96 ,4.0,0 Feet,,,,4.0,5.0,,,Maharajgunj, Kathmandu
+1918,1918,2200, 12 Cr,44 ,30.0,15 Feet,,,,5.0,6.0,,,Dhapasi, Kathmandu
+1919,1919,2201, 34 Cr,46 ,4.0,0 Feet,,,,5.0,3.0,,,Golfutar, Kathmandu
+1920,1920,2202, 328 Cr,47 ,4.1,0 Feet,,,,6.0,5.0,,,Grande Hospital, Kathmandu
+1921,1921,2203, 225 Cr,18 ,3.1,13 Feet,North-East,3.0,,6.0,3.0,,,Golfutar, Kathmandu
+1922,1922,2205, 5 Cr,74 ,5.0,13 Feet,East,2.5,,4.0,3.0,Full-Furnished,,Bhaisepati, Lalitpur
+1923,1923,2207, 68 Lac/aana,304,5.1,20 Feet,East,,,,,,,Sorhakhutte, Kathmandu
+1924,1924,2208, 125 Cr,156,6.0,13 Feet,South-East,6.0,,,,Full-Furnished,,Thamel, Kathmandu
+1925,1925,2209, 115 Cr,56 ,2.2,10 Feet,,2.5,,,,,,Thankot, Kathmandu
+1926,1926,2210, 13 Cr,189,2.3,13 Feet,,,,,,,,Kalanki, Kathmandu
+1927,1927,2211, 21 Cr,66 ,5.0,0 Feet,,,,5.0,,,,Thankot, Kathmandu
+1928,1928,2212, 135 Cr,42 ,2.3,11 Feet,,2.5,,,,,,Thankot, Kathmandu
+1929,1929,2213, 175 Cr,143,6.2,11 Feet,,2.5,,,,,,Thankot, Kathmandu
+1930,1930,2214, 19 Cr,11 ,4.0,16 Feet,,,,,,,,Thankot, Kathmandu
+1931,1931,2215, 12 Cr,41 ,3.2,13 Feet,,,,,,,,Thankot, Kathmandu
+1932,1932,2216, 12 Cr,51 ,3.0,13 Feet,,2.5,,,,,,Thankot, Kathmandu
+1933,1933,2217, 14 Cr,29 ,3.2,013 Feet,,2.5,,,,,,Thankot, Kathmandu
+1934,1934,2218, 82 Lac,20 ,2.3,13 Feet,,,,,,,,Thankot, Kathmandu
+1935,1935,2219, 13 Cr,99 ,3.0,20 Feet,,,,,,,,Thankot, Kathmandu
+1936,1936,2220, 36 Cr,20 ,6.0,0 Feet,,,,6.0,6.0,,,Bansbari, Kathmandu
+1937,1937,2221, 165 Cr,107,3.0,13 Feet,,,,,,,,Thankot, Kathmandu
+1938,1938,2222, 135 Cr,145,3.0,16 Feet,East,,,,,,,Thankot, Kathmandu
+1940,1940,2224, 265 Cr,60 ,4.0,13 Feet,,,,,,,,Mandikatar, Kathmandu
+1941,1941,2225, 115 Cr,323,3.0,13 Feet,,,,,,,,Thankot, Kathmandu
+1942,1942,2228, 265 Cr,48 ,4.5,20 Feet,,,,5.0,4.0,,,Sitapaila, Kathmandu
+1943,1943,2229, 37 Cr,40 ,6.0,10/20 Feet,,,,5.0,5.0,,,Bansbari, Kathmandu
+1944,1944,2230, 203 Cr,35 ,3.5,0 Feet,,,,,,,,Bafal, Kathmandu
+1945,1945,2231, 43 Cr,24 ,5.5,0 Feet,,,,5.0,7.0,,,Hepali Height, Kathmandu
+1946,1946,2232, 22 Cr,19 ,3.0,26 Feet,,2.5,,3.0,4.0,,,Dhapasi, Kathmandu
+1947,1947,2233, 29 Cr,187,4.2,15 Feet,South,,,7.0,,,,Bhaisepati, Lalitpur
+1948,1948,2234, 23 Cr,217,4.3,15 Feet,South,,,4.0,,,,Ramkot, Kathmandu
+1949,1949,2235, 52 Cr,60 ,10.0,20 Feet,South,3.5,,,,,,Samakhusi, Kathmandu
+1950,1950,2236, 55 Cr,5 v,6.2,15 Feet,South,,,5.0,,,,Lainchaur, Kathmandu
+1951,1951,2237, 76 Cr,40 ,8.1,15 Feet,South,,,6.0,6.0,,,Naxal, Kathmandu
+1952,1952,2238, 38 Cr,72 ,4.0,15 Feet,South,,,6.0,5.0,,,Naxal, Kathmandu
+1953,1953,2239, 32 Cr,108,69.0,13 Feet,East,,,4.0,,,,Syuchatar, Kathmandu
+1954,1954,2240, 132 Cr,115,23.0,0 Feet,South,,,4.0,5.0,Full-Furnished,,Dhapasi, Kathmandu
+1955,1955,2242, 29 Cr,64 ,5.1,13 Feet,,,,4.0,,,,Ichangu Narayan, Kathmandu
+1956,1956,2243, 15 Cr,139,22.0,20 Feet,,,,6.0,,,,Kupandole, Lalitpur
+1957,1957,2244, 215 Cr,71 ,3.75,20/14 Feet,,,,5.0,,,,Nakhipot, Lalitpur
+1958,1958,2247, 158 Cr,57 ,15.1,12-18 Feet,,,,,,,,Sanepa, Lalitpur
+1959,1959,2248, 31 Cr,18 ,5.1,0 Feet,,,,,,,,Dhapasi, Kathmandu
+1960,1960,2249, 151 Cr,231,20.0,12-18 Feet,,,,,,,,Battisputali, Kathmandu
+1961,1961,2250, 235 Cr,151,3.1,12 Feet,East,2.5,,6.0,3.0,,,Budhanilkantha, Kathmandu
+1962,1962,2251, 465 Cr,27 ,3.5,0 Feet,,,,8.0,7.0,,,Maitidevi, Kathmandu
+1963,1963,2252, 28 Cr,125,4.0,20/12 Feet,East,,,7.0,,,,Bafal, Kathmandu
+1964,1964,2253, 25 Cr,109,4.0,0 Feet,,,,,,,,Kalanki, Kathmandu
+1965,1965,2254, 32 Cr,249,3.0,20/12 Feet,West,,,5.0,,,,Chappal karkhana, Kathmandu
+1966,1966,2255, 34 Cr,18 ,6.2,0 Feet,,,,,,,,Chandol, Kathmandu
+1967,1967,2256, 32 Cr,83 ,4.0,20/13 Feet,,,,6.0,4.0,,,Samakhusi, Kathmandu
+1968,1968,2258, 64 Lac/aana,50 ,32.0,0 Feet,,,,,,,,Baluwatar, Kathmandu
+1969,1969,2259, 18 Cr,72 ,6.0,20 Feet,South-East,2.5,,4.0,4.0,,,Kirtipur, Kathmandu
+1970,1970,2260, 7 Cr,25 ,10.0,12 Feet,South,2.5,,5.0,5.0,Full-Furnished,,Banasthali, Kathmandu
+1971,1971,2261, 98 Cr,133,21.0,0 Feet,,2.5,,7.0,7.0,,,Budhanilkantha, Kathmandu
+1972,1972,2262, 205 Cr,357,23.0,20 Feet,,3.5,,6.0,9.0,,,Samakhusi, Kathmandu
+1973,1973,2265, 675 Cr,59 ,12.0,0 Feet,,2.5,,4.0,4.0,,,Budhanilkantha, Kathmandu
+1974,1974,2269, 32 Cr,27 ,4.0,0 Feet,,2.5,,6.0,5.0,,,Samakhusi, Kathmandu
+1975,1975,2270, 415 Cr,29 ,7.5,14-21 Feet,,3.0,,8.0,7.0,,,Kalanki, Kathmandu
+1976,1976,2271, 187 Cr,18 ,5.1,16 Feet,,1.0,,,,,,Bhangal , Kathmandu
+1977,1977,2272, 147 Cr,104,4.0,0 Feet,,1.0,,,,,,Bhangal , Kathmandu
+1978,1978,2273, 118 Cr,47 ,3.0,13 Feet,,1.0,,2.0,1.0,,,Chunikhel, Kathmandu
+1979,1979,2274, 19 Cr,32 ,3.0,20 Feet,,3.5,,,,,,Kapan, Kathmandu
+1980,1980,2275, 12 Cr,31 ,8.0,0 Feet,,1.0,,1.0,1.0,,,Samakhusi, Kathmandu
+1981,1981,2276, 6 Cr,126,7.0,0 Feet,,1.0,,1.0,1.0,,,Bouddha, Kathmandu
+1982,1982,2277, 45 Cr,61 ,6.0,0 Feet,,1.0,,1.0,1.0,,,Budhanilkantha, Kathmandu
+1983,1983,2278, 55 Cr,18 ,8.0,24 Feet,,2.5,,1.0,1.0,,,Sitapaila, Kathmandu
+1984,1984,2279, 9 Cr,34 ,15.0,0 Feet,,1.0,,1.0,1.0,,,Naxal, Kathmandu
+1985,1985,2280, 32 Cr,17 ,4.5,0 Feet,,2.5,,6.0,1.0,,,Dhapasi, Kathmandu
+1986,1986,2281, 95 Cr,210,12.0,12-18 Feet,,2.0,,1.0,1.0,,,Naxal, Kathmandu
+1987,1987,2282, 34 Cr,13 ,4.1,0 Feet,,2.5,,5.0,2.0,,,Hepali Height, Kathmandu
+1988,1988,2284, 8 Cr,32 ,13.0,15 Feet,,2.5,,6.0,1.0,,,Gongabu, Kathmandu
+1989,1989,2285, 105 Cr,66 ,14.0,2 min to bus stop Feet,,1.0,,5.0,7.0,,,Sukedhara, Kathmandu
+1990,1990,2286, 102 Cr,52 ,21.0,5 min to bustop Feet,,1.0,,1.0,7.0,,,Hepali Height, Kathmandu
+1991,1991,2287, 105 Cr,304,19.0,has access Feet,,2.5,,1.0,1.0,,,Budhanilkantha, Kathmandu
+1992,1992,2289, 19 Cr,360,16.0,has access Feet,,2.0,,,,,,Budhanilkantha, Kathmandu
+1994,1994,2291, 67 Cr,64 ,17.0,5 minute from bus stop Feet,,3.0,,10.0,8.0,,,Budhanilkantha, Kathmandu
+1995,1995,2294, 22 Cr,17 ,3.5,13 Feet,,3.0,,1.0,1.0,,,Bhangal , Kathmandu
+1996,1996,2295, 265 Cr,205,4.0,0 Feet,,2.5,,1.0,1.0,,,Mandikatar, Kathmandu
+1997,1997,2296, 235 Cr,33 ,4.0,12-18 Feet,,3.0,,1.0,1.0,,,Golfutar, Kathmandu
+1998,1998,2297, 225 Cr,117,3.5,13 Feet,,2.5,,1.0,1.0,,,Sukedhara, Kathmandu
+1999,1999,2298, 22 Cr,20 ,4.0,20 Feet,,2.5,,1.0,1.0,,,Kapan, Kathmandu
+2000,2000,2299, 268 Cr,42 ,4.2,12-18 Feet,,2.5,,1.0,1.0,,,Budhanilkantha, Kathmandu
+2001,2001,2300, 232 Cr,98 ,4.0,13 Feet,,2.5,,1.0,1.0,,,Bhangal , Kathmandu
+2002,2002,2302, 27 Cr,896,4.0,13 Feet,,2.5,,,,,,Budhanilkantha, Kathmandu
+2003,2003,2309, 215 Cr,259,3.1,13 Feet,,2.5,,4.0,4.0,Semi-Furnished,,Nakhipot, Lalitpur
+2004,2004,2310, 23 Cr,262,3.0,13 Feet,East,2.5,,4.0,3.0,,,Kusunti, Lalitpur
+2005,2005,2311, 37 Cr,152,5.0,10 Feet,,3.5,,4.0,5.0,Full-Furnished,,Sorhakhutte, Kathmandu
+2006,2006,2312, 375 Cr,207,6.5,13 Feet,North-West,2.5,,4.0,4.0,,,Bhaisepati, Lalitpur
+2007,2007,2313, 275 Cr,91 ,4.0,13 Feet,West,2.5,,3.0,4.0,,,Bhaisepati, Lalitpur
+2008,2008,2316, 11 Cr,83 ,19.0,0 Feet,,2.5,,4.0,4.0,,,Kusunti, Lalitpur
+2009,2009,2317, 36 Cr,2 v,4.0,24 Feet,South-East,4.5,,12.0,5.0,,,Kapan, Kathmandu
+2010,2010,2318, 37 Cr,251,5.0,13 Feet,North-East,3.5,,8.0,4.0,,,Gongabu, Kathmandu
+2011,2011,2319, 425 Cr,525,5.1,29 Feet,West,5.0,,18.0,15.0,,,Thankot, Kathmandu
+2012,2012,2320, 24 Cr,1.3,68.0,12 Feet,South-East,2.5,,4.0,5.0,,,Syuchatar, Kathmandu
+2013,2013,2321, 15 Cr,24 ,3.0,16 Feet,West,2.0,,,,Un-Furnished,,Rudreshwor, Kathmandu
+2014,2014,2322, 18 Cr,164,4.2,10 Feet,East,1.0,,4.0,3.0,Un-Furnished,,Kalanki, Kathmandu
+2015,2015,2323, 275 Cr,137,5.0,0 Feet,West,3.5,,7.0,4.0,Un-Furnished,,Kalanki, Kathmandu
+2016,2016,2324, 215 Cr,345,4.2,10 Feet,South-West,2.5,,,,,,Dhapakhel, Lalitpur
+2017,2017,2325, 25 Cr,154,5.0,33 Feet,North-West,1.0,,1.0,1.0,Semi-Furnished,,Kirtipur, Kathmandu
+2018,2018,2326, 57 Cr,36 ,14.0,0 Feet,,3.5,,6.0,1.0,,,Basundhara, Kathmandu
+2019,2019,2327, 215 Cr,35 ,3.3,12 Feet,North,2.5,,6.0,4.0,Semi-Furnished,,Imadol, Lalitpur
+2020,2020,2328, 41 Cr,7 v,6.0,20 Feet,East,3.5,,1.0,1.0,,,Kapan, Kathmandu
+2021,2021,2330, 75 Cr,209,21.2,11-20 Feet,South,2.5,,1.0,1.0,Semi-Furnished,,Tutepani, Lalitpur
+2022,2022,2331, 3 Cr,182,4.3,10-20 Feet,South-East,2.5,,1.0,1.0,,,Kapan, Kathmandu
+2023,2023,2332, 54 Cr,355,8.2,13 Feet,South-West,2.5,,1.0,1.0,Semi-Furnished,,sitapaila, Kathmandu
+2024,2024,2333, 35 Cr,124,5.0,13-20 Feet,South-West,2.5,,4.0,3.0,Un-Furnished,,Samakhushi chowk, Kathmandu
+2025,2025,2334, 65 Cr,254,12.0,13-20 Feet,North-West,2.5,,5.0,6.0,,,Maligaon, Kathmandu
+2026,2026,2335, 10 Cr,49 ,12.0,13-20 Feet,North,2.5,,5.0,6.0,Semi-Furnished,,Banasthali, Kathmandu
+2027,2027,2336, 27 Cr,41 ,4.0,11 Feet,West,4.5,,8.0,4.0,Semi-Furnished,,Gorkarneshwor, Kathmandu
+2028,2028,2337, 5 Cr,368,6.0,14 Feet,South-East,3.0,,10.0,5.0,Un-Furnished,,Bijulibajar, Kathmandu
+2029,2029,2338, 425 Cr,64 ,5.2,15 Feet,South-West,2.5,,4.0,4.0,Un-Furnished,,Kusunti, Lalitpur
+2030,2030,2339, 251 Cr,514,162.0,16 Feet,North-East,3.0,,,,Semi-Furnished,,Godawari, Lalitpur
