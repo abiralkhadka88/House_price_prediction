@@ -1,0 +1,2002 @@
+price,views,land area,road access,facing,floor,parking,bedroom,bathroom,furnish status,amenity,city,district
+46500000.0,183,4.3,13.0,West,3.0,5.0,6.0,6.0,Full-Furnished,"Earthquake Resistant,Parquet,Marbel,Drainage,Garden,Parking,Drinking Water,Balcony,Terrace,Living Room,Bathroom,+ 3 See More",Hepali Height, Kathmandu
+35000000.0,95 ,2.5,13.0,South-East,3.0,3.0,3.0,2.0,Semi-Furnished,"Drainage,Solar,Parking,Drinking Water,Balcony,Terrace,Reserve Tank,Servant Quarter,Earthquake Resistant,Dining Room,Bed Room,+ 13 See More",Sanepa, Lalitpur
+28000000.0,400,3.2,6.0,East,6.0,,22.0,8.0,Un-Furnished,,Old Baneshwor, Kathmandu
+76000000.0,29 ,6.0,10.0,South,3.5,6.0,8.0,10.0,Semi-Furnished,"Earthquake Resistant,Parquet,Marbel,CC Camera,Drainage,Solar,Garden,Parking,Drinking Water,Balcony,Reserve Tank,+ 18 See More",Baluwatar, Kathmandu
+73500000.0,40 ,9.1,13.0,South-East,3.5,6.0,4.0,3.0,Semi-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Solar,Garden,Parking,Drinking Water,Balcony,Reserve Tank,Bathtub,+ 10 See More",Manamaiju, Kathmandu
+23000000.0,1k ,3.0,13.0,South-East,2.5,4.0,5.0,3.0,Un-Furnished,,Greenhill City, Kathmandu
+39000000.0,506,6.0,14.0,South-West,2.5,5.0,6.0,6.0,Un-Furnished,"Earthquake Resistant,Drainage,Parking,Drinking Water,Balcony,Power Backup,Dining Room,Bathroom,Bed Room,Living Room,Kitchen,+ 1 See More",Budhanilkantha, Kathmandu
+35000000.0,52 ,4.0,18.0,South-East,3.0,3.0,7.0,4.0,Full-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Parking,Drinking Water,Balcony,Terrace,Power Backup,Dining Room,Bed Room,+ 5 See More",Sainbu, Lalitpur
+16000000.0,196,2.2,12.0,East,2.5,5.0,5.0,3.0,Semi-Furnished,"Earthquake Resistant,Marbel,Drainage,Solar,Parking,Balcony,Reserve Tank,Terrace,Boring Water,Water Purifier,Modular Kitchen,+ 6 See More",Thali, Kathmandu
+28000000.0,150,3.3,13.0,West,3.0,8.0,5.0,5.0,Semi-Furnished,"Earthquake Resistant,Marbel,Parquet,CC Camera,Solar,Parking,Balcony,Reserve Tank,Lawn,Terrace,Well,+ 13 See More",Balkot, Bhaktapur
+40000000.0,762,4.0,16.0,West,3.0,,10.0,4.0,Semi-Furnished,"Earthquake Resistant,Drainage,Solar,Parking,Balcony,Drinking Water,Terrace,Power Backup,Dining Room,Bed Room,Bathroom,+ 2 See More",Budhanilkantha, Kathmandu
+22500000.0,476,3.2,20.0,South,2.5,,,,Un-Furnished,,Pasikot, Kathmandu
+19000000.0,873,4.0,5.0,South,2.5,,4.0,3.0,Semi-Furnished,,Bhaisepati, Lalitpur
+26500000.0,1.1,3.0,20.0,South,2.0,,,,Un-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Parking,Balcony,Terrace,Power Backup,Dining Room,Bed Room,Bathroom,+ 2 See More",Jyotinagar, Kathmandu
+30000000.0,231,4.0,13.0,South,4.5,,,,Un-Furnished,,Bagdurbar, Kathmandu
+55500000.0,65 ,6.2,20.0,South,3.5,7.0,6.0,6.0,Semi-Furnished,,Pepsicola, Kathmandu
+85000000.0,102,6.0,12.0,South-East,4.0,10.0,8.0,6.0,Un-Furnished,"Marbel,Drainage,Solar,Parking,Drinking Water,Balcony,Reserve Tank,Terrace,Well,Attic,Kitchen,+ 2 See More",Bijulibajar, Kathmandu
+33800000.0,185,3.2,13.0,East,2.5,5.0,4.0,3.0,Un-Furnished,,Sundarbasti, Kathmandu
+26000000.0,404,3.2,13.0,East,2.5,,5.0,3.0,Un-Furnished,"Earthquake Resistant,Marbel,Drainage,Drinking Water,Reserve Tank,Terrace,Parking,Internet,Bed Room,Bathroom,Living Room,+ 2 See More",Harisiddhi, Lalitpur
+32500000.0,86 ,3.2,18.0,East,3.5,,6.0,3.0,Un-Furnished,,Ghattekulo, Kathmandu
+45000000.0,991,5.1,13.0,South-West,3.0,2.0,7.0,6.0,Semi-Furnished,,Bhangal , Kathmandu
+27500000.0,811,3.2,10.0,West,2.5,4.0,6.0,4.0,Un-Furnished,"Earthquake Resistant,Marbel,Drainage,Parking,Drinking Water,Balcony,Terrace,Bathtub,Power Backup,Dining Room,Bed Room,+ 3 See More",Baluwakhani, Kathmandu
+73000000.0,570,64.0,20.0,South-East,2.5,6.0,4.0,3.0,Un-Furnished,,Lele, Lalitpur
+25000000.0,1k ,5.0,16.0,East,2.5,3.0,4.0,3.0,,"Earthquake Resistant,Marbel,Parquet,Drainage,Drinking Water,Balcony,Power Backup,Bed Room,Bathroom,Kitchen,Living Room,+ 1 See More",Syuchatar, Kathmandu
+32000000.0,155,4.0,13.0,South-East,2.5,2.0,5.0,4.0,Semi-Furnished,"Marbel,Drainage,Parking,Reserve Tank,Drinking Water,Terrace,Solar,Bed Room,Bathroom,Living Room,Prayer Room,+ 1 See More",Kapan, Kathmandu
+39000000.0,55 ,4.0,26.0,West,2.5,1.0,4.0,3.0,Un-Furnished,,Khusibu Town Planning, Kathmandu
+60000000.0,530,9.0,13.0,East,2.5,5.0,6.0,,Semi-Furnished,"Earthquake Resistant,Drainage,Garden,Parking,Drinking Water,Balcony,Terrace,Power Backup,Bed Room,Bathroom,Living Room,+ 1 See More",Imadol, Lalitpur
+6500000.0,111,1.2,20.0,East,,2.0,2.0,1.0,Un-Furnished,,Kirtipur, Kathmandu
+46000000.0,422,7.0,13.0,South-East,2.5,3.0,6.0,5.0,Semi-Furnished,"Parquet,Marbel,Drainage,Solar,Parking,Terrace,Balcony,Boring Water,Reserve Tank,Living Room,Bathroom,+ 4 See More",Nakhipot, Lalitpur
+49500000.0,1.2,8.2,12.0,South-East,3.5,3.0,8.0,7.0,Un-Furnished,"Marbel,Drainage,Solar,Parking,Drinking Water,Balcony,Terrace,Reserve Tank,Closet,Bed Room,Living Room,+ 2 See More",Sitapaila, Kathmandu
+28000000.0,137,5.0,13.0,South,3.5,4.0,8.0,4.0,Un-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Garden,Drinking Water,Balcony,Terrace,Power Backup,Bed Room,Kitchen,+ 2 See More",Pasikot, Kathmandu
+12500000.0,151,2.0,12.0,South-West,2.5,3.0,4.0,3.0,Semi-Furnished,"Earthquake Resistant,Marbel,Drainage,Solar,Parking,Drinking Water,Balcony,Reserve Tank,Well,Bed Room,Living Room,+ 2 See More",Kapan, Kathmandu
+160000000.0,115,16.0,24.0,East,5.0,17.0,,,Un-Furnished,,Samakhusi, Kathmandu
+21500000.0,142,2.3,13.0,East,3.0,4.0,3.0,3.0,Semi-Furnished,"Earthquake Resistant,Marbel,Parquet,Parking,Drinking Water,Balcony,Reserve Tank,Terrace,Boring Water,Well,Modular Kitchen,+ 6 See More",Imadol, Lalitpur
+21500000.0,1.1,3.0,12.0,South-East,3.0,2.0,4.0,3.0,Un-Furnished,"Earthquake Resistant,Marbel,Drainage,Parking,Balcony,Terrace,Power Backup,Bed Room,Living Room,Bathroom,Kitchen,+ 2 See More",Baluwakhani, Kathmandu
+60000000.0,432,10.2,13.0,South-West,3.5,5.0,5.0,4.0,Un-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Garden,Parking,Drinking Water,Balcony,Terrace,Power Backup,Bathroom,+ 2 See More",Mahadevtar, Kathmandu
+38000000.0,416,4.2,13.0,North-East,2.5,2.0,7.0,4.0,Semi-Furnished,,Sampang Chowk, Lalitpur
+29000000.0,118,4.0,13.0,South-East,2.5,6.0,5.0,4.0,Semi-Furnished,"Earthquake Resistant,Marbel,Parquet,Drinking Water,Balcony,Reserve Tank,Terrace,Well,Modular Kitchen,Internet,Dining Room,+ 7 See More",Balambu, Kathmandu
+58000000.0,78 ,6.0,20.0,North,3.5,5.0,8.0,3.0,Un-Furnished,,Ganesh Chowk, Kathmandu
+42500000.0,105,5.0,20.0,South,3.0,2.0,7.0,3.0,Semi-Furnished,,Bhaisepati, Lalitpur
+27500000.0,105,3.3,12.0,South-East,3.0,5.0,8.0,3.0,Semi-Furnished,"Earthquake Resistant,Marbel,Drainage,Parking,Drinking Water,Boring Water,Terrace,Reserve Tank,Balcony,Closet,Dining Room,+ 4 See More",Makalbari, Kathmandu
+50000000.0,139,6.0,20.0,South,2.5,3.0,3.0,3.0,Semi-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Garden,Parking,Drinking Water,Balcony,Terrace,Power Backup,Kitchen,+ 4 See More",Thaiba, Lalitpur
+39000000.0,799,4.3,13.0,West,2.5,,,,Semi-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Parking,Reserve Tank,Balcony,Terrace,Bathroom,Bed Room,Living Room,+ 1 See More",Icimod, Lalitpur
+42500000.0,115,4.0,14.0,South,2.5,2.0,3.0,3.0,Full-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Parking,Drinking Water,Balcony,Terrace,Power Backup,Bed Room,Bathroom,+ 2 See More",Imadol, Lalitpur
+56500000.0,129,4.1,20.0,North,2.5,5.0,4.0,5.0,Full-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Parking,Drinking Water,Balcony,Terrace,Power Backup,Bed Room,Bathroom,+ 2 See More",Tahachal, Kathmandu
+31000000.0,951,4.1,13.0,East,2.5,7.0,4.0,3.0,Un-Furnished,,Lasuntar, Kathmandu
+22500000.0,434,3.0,16.0,East,1.0,4.0,6.0,3.0,Full-Furnished,"Earthquake Resistant,Drainage,Parking,Reserve Tank,Terrace,Well,Modular Kitchen,Dining Room,Bed Room,Bathroom,Living Room,+ 2 See More",Imadol, Lalitpur
+45000000.0,402,7.0,16.0,South,2.5,4.0,4.0,3.0,Semi-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Parking,Drinking Water,Balcony,Terrace,Power Backup,Bathroom,Kitchen,+ 3 See More",Imadol, Lalitpur
+42500000.0,133,4.0,14.0,South,2.5,2.0,3.0,3.0,Full-Furnished,,Imadol, Lalitpur
+22000000.0,720,3.0,13.0,South,2.5,4.0,5.0,4.0,Un-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Parking,Drinking Water,Terrace,Power Backup,Bed Room,Bathroom,Living Room,+ 1 See More",Lubhu, Lalitpur
+85000000.0,507,9.3,12.0,South,2.5,3.0,6.0,5.0,Full-Furnished,"Earthquake Resistant,Marbel,Parquet,Drainage,Parking,Drinking Water,Balcony,Terrace,Bathroom,Bed Room,Dining Room,+ 4 See More",Thecho, Lalitpur
+20000000.0,2.2,2.5,13.0,East,2.5,2.0,4.0,3.0,Full-Furnished,"Marbel,Parquet,Earthquake Resistant,Drainage,Parking,Drinking Water,Balcony,Terrace,Power Backup,Bathroom,Bed Room,+ 2 See More",Nakhipot, Lalitpur
+23000000.0,301,4.0,27.0,North,3.5,3.0,4.0,4.0,Full-Furnished,"Drainage,Parking,Balcony,Terrace,Dining Room,Bathroom,Bed Room,Living Room,Kitchen,Marbel,Parquet,+ 3 See More",Hattiban, Lalitpur
+55000000.0,637,4.0,13.0,West,2.5,3.0,3.0,3.0,Full-Furnished,,Naxal, Kathmandu
+36000000.0,696,12.0,20.0,East,2.5,8.0,7.0,7.0,Semi-Furnished,,Dhaksi, Kathmandu
+37000000.0,149,3.2,14.0,North-East,2.5,2.0,4.0,3.0,Full-Furnished,,Bafal, Kathmandu
+34000000.0,667,4.0,13.0,East,3.0,3.0,6.0,4.0,Full-Furnished,"Parking,Garden,Drinking Water,Drainage,Parquet,Marbel,Balcony,Terrace,Dining Room,Bathroom,Living Room,+ 2 See More",Banasthali, Kathmandu
+57500000.0,213,9.0,12.0,South,2.5,4.0,4.0,3.0,Full-Furnished,"Drinking Water,Balcony,Parking,Garden,Drainage,Marbel,Parquet,Terrace,Bed Room,Bathroom,Living Room,+ 3 See More",Budhanilkantha, Kathmandu
+120000000.0,490,12.0,16.0,North,1.5,9.0,3.0,2.0,Full-Furnished,,Chabahil, Kathmandu
+22000000.0,95 ,5.0,10.0,West,2.5,5.0,6.0,3.0,Full-Furnished,"Marbel,Parquet,Drainage,Garden,Parking,Drinking Water,Balcony,Bed Room,Dining Room,Bathroom,Living Room,+ 1 See More",Thankot, Kathmandu
+23000000.0,129,2.3,13.0,South,2.5,3.0,5.0,5.0,Un-Furnished,,Sampang Chowk, Lalitpur
+15000000.0,815,3.1,10.0,South,1.0,3.0,2.0,1.0,Un-Furnished,,Danchhi, Kathmandu
+16800000.0,207,1.1,20.0,East,3.5,2.0,3.0,3.0,Un-Furnished,"Parquet,Drainage,Solar,Drinking Water,Reserve Tank,Terrace,Internet,Dining Room,Bed Room,Bathroom,Prayer Room,+ 3 See More",New Baneshwor, Kathmandu
+17300000.0,147,3.0,5.0,South,2.5,6.0,1.0,1.0,Full-Furnished,,Kadaghari, Kathmandu
+12500000.0,135,2.0,12.0,South-West,2.5,3.0,4.0,3.0,Semi-Furnished,"Earthquake Resistant,Marbel,Drainage,Solar,Parking,Drinking Water,Balcony,Reserve Tank,Well,Bed Room,Bathroom,+ 1 See More",Kapan, Kathmandu
+77000000.0,286,6.2,30.0,West,2.5,2.0,4.0,5.0,Semi-Furnished,"Earthquake Resistant,Marbel,Parquet,CC Camera,Drainage,Solar,Garden,Parking,Gazebo,Boring Water,Well,+ 23 See More",Hattigaunda, Kathmandu
+22000000.0,266,5.0,10.0,South,2.5,5.0,6.0,3.0,Semi-Furnished,"Marbel,Drainage,Garden,Parking,Drinking Water,Balcony,Terrace,Lawn,Well,Internet,Dining Room,+ 4 See More",Mahadevsthan, Kathmandu
+31000000.0,150,3.8,13.0,East,2.5,2.0,5.0,3.0,Un-Furnished,,Pasikot, Kathmandu
+29900000.000000004,2.1,4.0,13.0,South-East,2.5,,,,Un-Furnished,,Pasikot, Kathmandu
+135000000.0,877,13.0,16.0,South,2.5,8.0,7.0,5.0,Un-Furnished,"Marbel,Drainage,Garden,Parking,Boring Water,Well,Terrace,Lawn,Reserve Tank,Balcony,Drinking Water,+ 6 See More",Bhaisepati, Lalitpur
+21000000.0,613,3.0,10.0,South,2.5,4.0,5.0,3.0,Semi-Furnished,"Earthquake Resistant,Marbel,Drainage,Parking,Drinking Water,Reserve Tank,Terrace,Boring Water,Modular Kitchen,Bed Room,Bathroom,+ 5 See More",Gothatar, Kathmandu
+13000000.0,276,4.2,13.0,North-East,1.0,,2.0,1.0,Un-Furnished,,Dharmasthali, Kathmandu
+18500000.0,1.5,5.2,16.0,,1.0,,2.0,1.0,Un-Furnished,,Dulal Gaun, Kathmandu
+60000000.0,103,3.0,10.0,West,5.0,6.0,1.0,1.0,Semi-Furnished,,Kalanki, Kathmandu
+26500000.0,93 ,3.2,13.0,,2.5,3.0,6.0,4.0,Semi-Furnished,,Dhalmal, Kathmandu
+19500000.0,253,4.0,13.0,South,2.5,2.0,5.0,4.0,Semi-Furnished,,Imadol, Lalitpur
+85000000.0,134,7.3,17.0,North-East,2.5,7.0,5.0,4.0,Full-Furnished,,Sainbu, Lalitpur
+23000000.0,143,3.0,27.0,West,2.0,1.0,3.0,2.0,Un-Furnished,,Saraswotinagar, Kathmandu
+32500000.0,183,4.0,13.0,North,2.5,2.0,5.0,5.0,Full-Furnished,,Thecho, Lalitpur
+26000000.0,180,4.0,10.0,South,2.5,2.0,4.0,3.0,Full-Furnished,,Thecho, Lalitpur
+29500000.0,129,3.2,13.0,North,2.5,4.0,8.0,3.0,Semi-Furnished,"Earthquake Resistant,Drainage,Reserve Tank,Balcony,Terrace,Marbel,Parking,Well,Solar,Internet,Prayer Room,+ 3 See More",Imadol, Lalitpur
+22500000.0,677,3.0,13.0,East,2.5,2.0,4.0,3.0,Un-Furnished,,Bhelpa, Lalitpur
+19000000.0,592,2.3,13.0,South,2.5,4.0,4.0,3.0,Semi-Furnished,"Earthquake Resistant,Marbel,Parquet,Parking,Balcony,Reserve Tank,Well,Dining Room,Bed Room,Bathroom,Living Room,+ 5 See More",Lalitpur,
+100000000.0,588,16.0,32.0,South-West,2.5,1.0,8.0,5.0,Un-Furnished,"Marbel,Drainage,Drinking Water,Parking,Solar,Terrace,Boring Water,Bed Room,Dining Room,Bathroom,Living Room,+ 2 See More",Taukhel, Lalitpur
+68000000.0,324,8.2,14.0,East,2.5,4.0,6.0,3.0,Un-Furnished,,Baluwatar, Kathmandu
+15500000.0,173,2.2,5.0,South,1.0,1.0,4.0,2.0,Full-Furnished,,Dhapasi, Kathmandu
+22000000.0,211,3.0,13.0,South-East,2.5,4.0,6.0,5.0,Semi-Furnished,"Earthquake Resistant,Marbel,Parquet,Parking,Drinking Water,Reserve Tank,Well,Modular Kitchen,Bed Room,Bathroom,Prayer Room,+ 4 See More",Tikathali, Lalitpur
+43000000.0,647,7.0,16.5,,2.5,,5.0,4.0,,,Gamcha, Bhaktapur
+34500000.0,1.3,3.2,13.0,,2.5,,6.0,3.0,,,Budhanilkantha, Kathmandu
+25000000.0,171,3.2,13.0,East,2.5,,6.0,3.0,,,Hattidanda, Kathmandu
+36500000.0,256,5.1,14.0,North-East,2.5,,5.0,3.0,,,Sainbu, Lalitpur
+54900000.0,184,7.0,13.0,North-East,2.0,,5.0,5.0,,,Golfutar, Kathmandu
+75000000.0,56 ,9.2,13.0,,2.5,,6.0,6.0,,,Dhapasi, Kathmandu
+7000000.0,258,6.0,11.0,,2.0,,,,,,Chhauni, Kathmandu
+38000000.0,164,4.0,20.0,West,3.5,,,,,,Dhapakhel, Lalitpur
+67500000.0,266,7.0,26.0,East,2.5,,5.0,4.0,,,Mid Baneshwor, Kathmandu
+40000000.0,159,5.2,13.0,West,2.5,,,,,,Gatthaghar, Bhaktapur
+55000000.0,154,5.2,15.0,North-East,2.5,,5.0,5.0,,,Hepali Height, Kathmandu
+31000000.0,148,4.3,13.0,South-East,2.0,,,,,,Kapan, Kathmandu
+22000000.0,172,3.3,13.0,South-East,2.5,,4.0,3.0,,,Thulobharyang, Kathmandu
+33000000.0,194,3.2,20.0,South,2.5,,6.0,4.0,,,Nakhipot, Lalitpur
+29500000.0,320,4.2,13.0,North-West,2.5,,4.0,4.0,,,Satungal, Kathmandu
+52500000.0,305,7.2,15.0,,4.0,,,,,,Satdobato, Lalitpur
+39900000.0,78 ,3.4,16.0,North-West,2.5,,6.0,3.0,,,Imadol, Lalitpur
+55000000.0,138,7.0,20.0,South,3.0,,5.0,5.0,,,Hattiban, Lalitpur
+27500000.0,91 ,3.1,20.0,South,2.5,,7.0,5.0,,,Imadol, Lalitpur
+32000000.0,525,3.1,13.0,North,2.5,,5.0,6.0,,,Bhangal , Kathmandu
+35000000.0,512,5.0,20.0,West,2.5,,5.0,4.0,,,Naya Basti, Kathmandu
+28000000.0,245,3.0,10.0,South-East,3.5,,,4.0,,,Basundhara, Kathmandu
+38500000.0,316,4.0,13.0,,2.5,,,,,,Sukedhara, Kathmandu
+25000000.0,207,3.0,13.0,,2.5,,,,,,Kapan, Kathmandu
+28000000.0,174,4.2,11.0,,3.5,,,,,,Aakasedhara, Kathmandu
+34500000.0,875,4.0,13.0,West,2.5,,6.0,5.0,,,Budhanilkantha, Kathmandu
+40000000.0,207,3.2,11.0,,2.5,,4.0,6.0,,,Nagarjun, Kathmandu
+32500000.0,625,4.0,14.0,,2.0,,3.0,3.0,,,Grande Villa, Kathmandu
+12000000.0,82 ,3.0,12.0,North-East,1.5,,2.0,2.0,,,Matatirtha, Kathmandu
+19000000.0,153,3.2,10.0,North,1.0,,3.0,1.0,,,Grande Hospital, Kathmandu
+100000000.0,442,17.0,12.5,,2.0,,4.0,3.0,,,Bhaisepati, Lalitpur
+60000000.0,1.3,9.0,11.0,,2.5,,3.0,3.0,,,Budhanilkantha, Kathmandu
+24500000.0,290,3.3,13.0,West,2.5,,3.0,3.0,,,Budhanilkantha, Kathmandu
+21000000.0,1.3,3.0,13.0,South-East,3.0,,7.0,3.0,,,Satungal, Kathmandu
+39000000.0,154,3.2,12.0,East,3.5,,6.0,3.0,,,Kapan, Kathmandu
+45000000.0,406,9.130752373995618,14.0,West,2.5,,5.0,5.0,,"Earthquake Resistant,Marbel,Parquet,Sofa,CC Camera,Dining Room,Bed Room,Drainage,Solar,Microwave,Modular Kitchen,+ 4 See More",Bhaisepati, Lalitpur
+100000000.0,700,10.0,16.0,South,2.5,,4.0,3.0,,,Kupandole, Lalitpur
+31000000.0,127,3.0,13.0,East,2.5,,6.0,4.0,,,Ekatabasti, Kathmandu
+23500000.0,185,2.2,13.0,South-East,2.5,,3.0,3.0,,,Sitapaila, Kathmandu
+47000000.0,1.6,4.3,13.0,South,3.0,,5.0,4.0,,,Balkumari, Lalitpur
+30500000.0,181,4.2,13.0,South,2.5,,5.0,4.0,,,Birendra Chowk, Kathmandu
+30000000.0,156,3.0,12.0,South,2.5,,,,,,Kaushaltar, Bhaktapur
+28000000.0,233,3.2,15.0,South,2.5,,,,,,Imadol, Lalitpur
+36000000.0,165,4.1,13.0,South-West,2.5,,4.0,5.0,,,Nakkhu, Lalitpur
+25000000.0,1.1,3.1,14.0,South-East,2.5,,2.0,3.0,,,Imadol, Lalitpur
+550000000.0,182,40.0,20.0,West,6.0,,,,,,Gongabu, Kathmandu
+113000000.0,929,15.0,30.0,North-West,3.5,,5.0,5.0,,,Lazimpat, Kathmandu
+22000000.0,937,3.3,13.0,South-East,2.5,,5.0,3.0,,,Gairi Gaun, Kathmandu
+22000000.0,216,3.1,12.0,East,2.5,,5.0,3.0,,,Dhalmal, Kathmandu
+42500000.0,94 ,3.0,13.0,North,6.0,,19.0,19.0,,,Kalanki, Kathmandu
+250000000.0,495,40.0,13.0,South-West,2.5,,6.0,5.0,,,Swoyambhu, Kathmandu
+19000000.0,885,4.0,16.0,,2.5,,6.0,4.0,,,Sanagaun, Lalitpur
+30000000.0,271,4.0,26.0,South-East,2.5,,8.0,6.0,,,Gurjudhara, Kathmandu
+10000000.0,529,5.0,13.0,,1.0,,,,,,Bansbari, Kathmandu
+20000000.0,201,3.0,14.0,South-East,2.0,,4.0,2.0,,,Hattiban, Lalitpur
+35000000.0,715,4.0,12.0,East,2.5,,5.0,3.0,,,Aarubari, Kathmandu
+24000000.0,690,3.2,13.0,East,2.5,,4.0,3.0,,,Imadol, Lalitpur
+26500000.0,2.1,3.0,13.0,West,2.5,,6.0,3.0,,,Tokha, Kathmandu
+27000000.0,969,3.2,14.0,South-West,2.5,,5.0,3.0,,,Imadol, Lalitpur
+30000000.0,750,5.0,15.0,,2.5,,,,,,Budhanilkantha, Kathmandu
+85000000.0,176,7.0,20.0,North,4.5,,34.0,34.0,,,New Buspark, Kathmandu
+37500000.0,208,3.2,9.0,South-West,4.5,,,,,,Ghattekulo, Kathmandu
+40000000.0,76 ,5.0,20.0,East,2.5,,5.0,4.0,,,Bhangal , Kathmandu
+40000000.0,357,4.1,12.0,North,2.5,,,,,,Lazimpat, Kathmandu
+35000000.0,315,6.0,10.0,East,2.5,,,,,,Rudreshwor, Kathmandu
+27000000.0,2.1,4.1,13.0,East,2.5,,4.0,3.0,,,Sitapaila, Kathmandu
+16800000.0,361,1.1,20.0,East,4.0,,3.0,3.0,,"Solar,Parquet,Bathroom,Drinking Water,Internet,Drainage,Terrace,Bed Room,Dining Room,Prayer Room,Shutter,+ 2 See More",New Baneshwor, Kathmandu
+29000000.0,1.1,4.2,13.0,North-West,3.0,,5.0,6.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,Bed Room,Dining Room,Solar,Modular Kitchen,Parking,Internet,+ 4 See More",Matatirtha, Kathmandu
+13000000.0,90 ,3.2,13.0,West,1.0,,3.0,1.0,,,Dharmasthali, Kathmandu
+35000000.0,119,4.0,12.0,South,3.5,,5.0,3.0,,,Gongabu, Kathmandu
+35500000.0,267,4.1,13.0,West,2.5,,5.0,1.0,,,Kapan, Kathmandu
+115000000.0,253,17.0,13.0,,2.5,,6.0,4.0,,,Dhapasi, Kathmandu
+140000000.0,337,12.0,13.0,East,2.0,,,,,,Naxal, Kathmandu
+36000000.0,236,5.0,13.0,North,3.0,,4.0,1.0,,,Imadol, Lalitpur
+19800000.0,1.6,4.2,13.0,,3.5,,,,,,Nepaltar, Kathmandu
+13000000.0,616,4.2,13.0,North-East,1.0,,2.0,1.0,,,Dharmasthali, Kathmandu
+12000000.0,129,3.0,10.0,East,1.0,,2.0,1.0,,,Goldhunga, Kathmandu
+17000000.0,360,2.2,13.0,North-East,2.5,,6.0,2.0,,,Lubhu, Lalitpur
+28500000.0,207,4.0,13.0,,3.0,,,,,,Thaiba, Lalitpur
+27500000.0,175,3.1,20.0,East,2.5,,5.0,3.0,,,Imadol, Lalitpur
+65000000.0,308,8.0,16.0,,2.5,,7.0,5.0,,,Hattiban, Lalitpur
+59000000.0,171,5.0,15.0,,2.5,,4.0,4.0,,,Bhaisepati, Lalitpur
+36500000.0,229,4.0,13.0,,2.5,,6.0,3.0,,,Budhanilkantha, Kathmandu
+27500000.0,1k ,3.0,15.0,,3.0,,,,,,Nayabazar, Kathmandu
+16000000.0,191,3.3,15.0,,2.5,,,,,,Chardhara, Kathmandu
+37500000.0,225,5.0,19.5,,3.5,,,,,,Kirtipur, Kathmandu
+25000000.0,395,4.0,15.0,,3.5,,,,,,Nagaun, Kathmandu
+38700000.0,34 ,4.0,30.0,North,3.0,,7.0,6.0,,,Nagarjun, Kathmandu
+45000000.0,105,5.2,12.0,North-East,2.5,,5.0,3.0,,,Tokha, Kathmandu
+24500000.0,160,3.0,15.0,East,2.5,,5.0,3.0,,,Mulpani, Kathmandu
+34000000.0,78 ,4.0,13.0,South-East,3.0,7.0,4.0,3.0,Semi-Furnished,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,Dining Room,Bed Room,Washing Machine,TV,Drainage,Solar,+ 19 See More",Hattigaunda, Kathmandu
+26500000.0,1.2,3.3,20.0,West,2.5,,6.0,4.0,,,Sitapaila, Kathmandu
+16500000.0,234,3.0,15.0,,1.0,,,,,,Kapan, Kathmandu
+36000000.0,410,5.0,20.0,South-West,2.5,,7.0,7.0,,,Bhaisepati, Lalitpur
+23000000.0,186,3.0,15.0,,2.5,,,,,,Pasikot, Kathmandu
+16000000.0,381,3.0,12.0,East,2.5,,,,,,Chunikhel, Kathmandu
+47500000.0,208,8.2,13.0,North,3.0,,7.0,6.0,,,Naikap, Kathmandu
+29000000.0,614,4.0,12.0,South,2.5,,,,,,Thulobharyang, Kathmandu
+62500000.0,792,6.0,20.0,East,2.5,,4.0,5.0,,,Budhanilkantha, Kathmandu
+34000000.0,152,3.1,15.0,East,2.5,,5.0,3.0,,,Khusibu, Kathmandu
+140000000.0,1.3,11.2,22.0,North-East,2.5,,,,,,Thulobharyang, Kathmandu
+37500000.0,141,4.0,13.0,East,2.0,,7.0,4.0,,,Bafal, Kathmandu
+42500000.0,362,4.2,20.0,East,2.5,,6.0,4.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,Dining Room,Bed Room,AirCon,Washing Machine,TV,Drainage,+ 9 See More",Khumaltar, Lalitpur
+46500000.0,148,4.2,25.0,East,3.5,,,,,,Koteshwor, Kathmandu
+90000000.0,196,8.0,20.0,South,3.0,,6.0,4.0,,,Bafal, Kathmandu
+85000000.0,147,7.2,30.0,,6.0,,30.0,11.0,,,Ramkot, Kathmandu
+26500000.0,321,3.3,13.0,,2.5,,7.0,5.0,,,Kapan, Kathmandu
+39900000.0,194,4.0,15.5,,2.5,,,,,,Dhapasi, Kathmandu
+33500000.0,165,3.0,15.0,,4.5,,6.0,4.0,,,Kuleshwor, Kathmandu
+49000000.0,1.1,4.0,15.0,East,2.5,,6.0,5.0,,,Sano thimi, Bhaktapur
+37000000.0,571,6.1,11.0,,2.5,,5.0,3.0,,,Makalbari, Kathmandu
+27500000.0,331,3.0,20.0,,2.5,,5.0,3.0,,,Imadol, Lalitpur
+64000000.0,545,6.0,20.0,,2.5,,4.0,5.0,,,Bhaisepati, Lalitpur
+40000000.0,300,5.0,14.0,,1.5,,2.0,2.0,,,Taulung, Kathmandu
+29900000.000000004,64 ,4.0,20.0,West,2.5,,4.0,4.0,,,Phutung, Kathmandu
+235000000.0,113,6.2,20.0,East,,,,,,,Bouddha, Kathmandu
+38500000.0,370,4.0,13.0,North-East,2.5,,7.0,5.0,,,Budhanilkantha, Kathmandu
+32500000.0,148,5.0,16.5,South-West,3.0,,,,,,Duwakot, Bhaktapur
+37500000.0,112,3.2,16.0,South-West,2.5,,7.0,4.0,,"Earthquake Resistant,Marbel,Sofa,Dining Room,Bed Room,Water Purifier,Drainage,Solar,Power Backup,Garden,Internet,+ 3 See More",Narayantar, Kathmandu
+25000000.0,238,3.0,20.0,,2.5,,,,,,Imadol, Lalitpur
+19600000.0,137,3.0,9.0,East,4.0,,11.0,5.0,,"Earthquake Resistant,Marbel,Dining Room,Water Purifier,Drainage,Solar,Power Backup,Garden,Modular Kitchen,Parking,Internet,+ 2 See More",Nepaltar, Kathmandu
+28400000.0,182,5.0,22.0,East,3.0,,5.0,5.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,Dining Room,Bed Room,Water Purifier,Drainage,Solar,Power Backup,+ 7 See More",Jarankhu, Kathmandu
+16200000.000000002,160,3.0,9.0,East,4.0,,9.0,6.0,,"Earthquake Resistant,Marbel,Dining Room,Water Purifier,Drainage,Solar,Power Backup,Garden,Modular Kitchen,Parking,Internet,+ 2 See More",Nepaltar, Kathmandu
+55000000.0,246,6.0,13.0,North-East,3.5,,10.0,6.0,,,Maitrinagar, Kathmandu
+190000000.0,1.6,24.0,20.0,North-West,4.5,,8.0,6.0,,,Thimi, Bhaktapur
+33000000.0,716,3.2,20.5,South-West,2.5,,6.0,4.0,,,Imadol, Lalitpur
+27500000.0,450,4.0,11.0,,2.5,,,,,,Bhangal , Kathmandu
+42500000.0,44 ,5.0,16.0,East,3.0,,7.0,6.0,,"Earthquake Resistant,Marbel,CC Camera,Amphitheatre,Dining Room,AirCon,Water Purifier,Washing Machine,TV,Drainage,Solar,+ 3 See More",Kharibot, Kathmandu
+21000000.0,512,4.0,20.0,North,2.0,,4.0,2.0,,,Dharmasthali, Kathmandu
+42500000.0,310,3.3,20.0,South,2.5,,5.0,,,,Imadol, Lalitpur
+70000000.0,422,6.0,13.0,West,3.5,,4.0,5.0,,,Bhaisepati, Lalitpur
+24000000.0,125,4.0,15.0,South,1.0,,2.0,1.0,,,Kapan, Kathmandu
+41000000.0,340,5.0,13.0,East,3.5,,8.0,6.0,,,Ochu Height, Lalitpur
+44500000.0,1.6,6.2,12.0,South,3.0,,6.0,3.0,,,Thapathali, Kathmandu
+45000000.0,632,10.3,13.0,North-East,2.5,,,,,,Kharibot, Kathmandu
+27500000.0,257,3.0,22.0,South,3.5,,6.0,7.0,,,Manamaiju, Kathmandu
+45000000.0,629,3.2,20.0,East,2.5,,4.0,4.0,,,Imadol, Lalitpur
+68000000.0,284,8.0,20.0,South-West,3.0,,5.0,6.0,,,Budhanilkantha, Kathmandu
+46500000.0,227,5.1,13.0,,2.5,,,,,,Jyotinagar, Kathmandu
+34500000.0,310,4.2,13.0,,2.0,,5.0,5.0,,,Hattigaunda, Kathmandu
+42000000.0,281,4.2,16.0,South-East,2.5,,6.0,5.0,,,Basundhara, Kathmandu
+43000000.0,305,3.2,14.0,East,2.5,,4.0,4.0,,,Imadol, Lalitpur
+27000000.0,190,3.0,20.0,West,2.5,,4.0,4.0,,,Harisiddhi, Lalitpur
+24000000.0,96 ,3.2,13.0,East,2.5,,4.0,3.0,,,Thaiba, Lalitpur
+29000000.0,265,3.2,14.0,North,2.5,,4.0,3.0,,,Dhapasi, Kathmandu
+36000000.0,266,5.0,12.0,North,2.5,,7.0,,,,Chandol, Kathmandu
+57000000.0,1.1,7.2,20.0,East,2.5,,4.0,3.0,,,Tyanglafat, Kathmandu
+41700000.0,841,4.0,13.0,,2.5,,4.0,5.0,,,Ganesh Chowk, Kathmandu
+29900000.000000004,744,3.1,13.0,,2.5,,6.0,5.0,,,Budhanilkantha, Kathmandu
+20000000.0,174,3.2,12.0,East,3.0,,6.0,2.0,,,Imadol, Lalitpur
+33000000.0,186,4.0,11.0,,2.5,,,,,,Grande Hospital, Kathmandu
+26500000.0,164,4.0,13.0,West,3.0,,8.0,8.0,,"Earthquake Resistant,Marbel,Parquet,Gym,Fridge,Sofa,Amphitheatre,Dining Room,Bed Room,Garden,Modular Kitchen,+ 3 See More",Setipakha, Lalitpur
+28000000.0,1.4,64.0,13.0,South,2.5,,6.0,4.0,,,Imadol, Lalitpur
+52500000.0,140,8.0,13.0,North,3.0,,9.0,4.0,,,Budhanilkantha, Kathmandu
+33500000.0,242,5.0,20.0,East,2.5,,7.0,4.0,,,Sanagaun, Lalitpur
+22500000.0,277,3.1,18.0,North,2.5,,4.0,3.0,,,Sitapaila, Kathmandu
+23000000.0,197,3.0,13.0,South,2.5,,7.0,3.0,,,Tikathali, Lalitpur
+35000000.0,194,4.0,13.0,South-East,2.5,,5.0,4.0,,,Pasikot, Kathmandu
+26500000.0,132,3.1,20.0,South,2.5,,4.0,4.0,,,Imadol, Lalitpur
+16000000.0,177,3.1,13.0,North-East,1.0,,2.0,1.0,,,Tikathali, Lalitpur
+27000000.0,297,6.962746530314098,13.0,East,3.5,,6.0,4.0,,"Earthquake Resistant,Fridge,Parquet,Dining Room,Bed Room,Washing Machine,Solar,Modular Kitchen,Iron,Parking,Internet,+ 2 See More",Chapali, Kathmandu
+23000000.0,324,3.0,13.0,South,2.5,,7.0,3.0,,,Tikathali, Lalitpur
+23000000.0,108,3.0,13.0,South,2.5,,4.0,3.0,,,Tikathali, Lalitpur
+38800000.0,482,4.2,13.0,,3.5,,6.0,5.0,,,Sundarbasti, Kathmandu
+39800000.0,282,4.1,13.0,,2.5,,7.0,5.0,,,Mandikhatar, Kathmandu
+43500000.0,423,5.0,13.0,,2.5,,5.0,5.0,,,Budhanilkantha, Kathmandu
+23000000.0,526,3.0,10.0,North-West,3.0,,4.0,2.0,,,Syuchatar, Kathmandu
+23000000.0,494,3.0,10.0,South,2.5,,5.0,3.0,,,Kalanki, Kathmandu
+34000000.0,214,3.1,20.0,North,2.5,,,,,,Pepsicola, Kathmandu
+15000000.0,456,2.2,4.0,,3.0,,3.0,3.0,,,Satungal, Kathmandu
+38000000.0,95 ,3.0,20.0,South-West,3.5,,6.0,4.0,,,Baneshwor, Kathmandu
+35000000.0,496,6.0,11.0,,2.5,,12.0,4.0,,,Kapan, Kathmandu
+37500000.0,547,4.0,13.0,,2.5,,6.0,5.0,,,Mandikhatar, Kathmandu
+34500000.0,310,4.1,13.0,North,2.5,,5.0,4.0,,,Imadol, Lalitpur
+26500000.0,189,3.0,13.0,North,3.5,,5.0,5.0,,,Imadol, Lalitpur
+27000000.0,187,3.2,15.0,South,2.5,,4.0,4.0,,,Nakhipot, Lalitpur
+39000000.0,316,5.2,13.0,East,2.5,,5.0,4.0,,,Buddha Chowk, Kathmandu
+40000000.0,111,6.0,4.0,West,2.5,,6.0,4.0,,,New Buspark, Kathmandu
+55000000.0,183,3.0,26.0,North,6.0,,,,,,Samakhushi chowk, Kathmandu
+35000000.0,136,3.0,13.0,West,5.0,,17.0,12.0,,,New Buspark, Kathmandu
+35000000.0,1.2,3.2,13.0,South,2.5,,5.0,3.0,,,Chhauni, Kathmandu
+58600000.0,1.1,4.1,20.0,,3.0,,4.0,5.0,,,Bhaisepati, Lalitpur
+45000000.0,228,9.0,26.0,North,2.5,,5.0,2.0,,,Balkot, Bhaktapur
+55000000.0,217,5.2,13.0,North-West,3.5,,8.0,7.0,,,Dhumbarahi, Kathmandu
+51000000.0,800,4.2,12.0,South,2.5,,5.0,5.0,,,Bansbari, Kathmandu
+26000000.0,270,3.2,10.0,North,2.5,,5.0,2.0,,,Naya Basti, Kathmandu
+27000000.0,313,3.0,13.0,North,2.5,,5.0,3.0,,,Dhapasi, Kathmandu
+12000000.0,351,3.2,13.0,North,1.5,,,,,,Megha City, Kathmandu
+38500000.0,100,5.2,18.0,East,3.0,,7.0,5.0,,,Imadol, Lalitpur
+52000000.0,206,4.3,12.0,South,2.5,,4.0,5.0,,,Bansbari, Kathmandu
+25500000.0,325,3.0,13.0,North,2.5,,6.0,3.0,,,Imadol, Lalitpur
+85000000.0,608,5.0,27.0,,4.0,,10.0,6.0,,,Koteshwor, Kathmandu
+51500000.0,470,7.0,20.0,,2.5,,4.0,4.0,,,Sunakothi, Lalitpur
+22000000.0,490,3.0,16.5,,2.5,,5.0,5.0,,,Sampang Chowk, Lalitpur
+27000000.0,285,3.3,13.0,South-West,2.5,,7.0,3.0,,,Baniyatar, Kathmandu
+29500000.0,463,3.2,13.0,,2.5,,6.0,5.0,,,Kapan, Kathmandu
+28000000.0,475,3.0,13.0,,2.5,,6.0,3.0,,,Budhanilkantha, Kathmandu
+35000000.0,215,2.3,15.0,South-West,3.5,,6.0,4.0,,,Banasthali, Kathmandu
+140000000.0,356,8.2,13.0,South,2.0,,4.0,5.0,,,Bhaisepati, Lalitpur
+17500000.0,215,3.1,11.0,West,2.0,,6.0,3.0,,,Godawari, Lalitpur
+28800000.0,249,3.2,10.0,,2.5,,,,,,Budhanilkantha, Kathmandu
+46500000.0,1k ,6.2,13.0,North-West,3.5,,4.0,5.0,,,Mandikhatar, Kathmandu
+27500000.0,610,9.0,4.0,North-East,,,,,,,Dhapakhel, Lalitpur
+23500000.0,428,3.1,13.0,,2.5,,5.0,4.0,,,Kalanki, Kathmandu
+25000000.0,395,4.0,8.0,South-East,3.5,,4.0,2.0,,,Bouddha, Kathmandu
+51000000.0,385,6.0,20.0,East,2.5,,4.0,2.0,,,Dhapasi, Kathmandu
+63500000.0,926,7.888970051132214,14.0,North-West,2.5,,5.0,5.0,,"Earthquake Resistant,Marbel,Parquet,Gym,Fridge,Sofa,AirCon,Bed Room,Dining Room,Amphitheatre,Water Purifier,+ 15 See More",Sanepa, Lalitpur
+70000000.0,308,5.3,17.0,,2.0,,4.0,4.0,,,Hepali Height, Kathmandu
+78000000.0,296,7.0,13.0,,2.5,,5.0,5.0,,,Bhaisepati, Lalitpur
+85000000.0,177,7.0,13.0,,2.5,,5.0,5.0,,,Bhaisepati, Lalitpur
+25000000.0,239,3.0,13.0,,2.5,,5.0,3.0,,,Imadol, Lalitpur
+16500000.0,297,3.0,13.0,,1.0,,2.0,1.0,,,Tikathali, Lalitpur
+34500000.0,195,4.0,13.0,,2.5,,6.0,3.0,,,Budhanilkantha, Kathmandu
+23500000.0,621,2.2,12.0,North,2.5,,6.0,2.0,,,Bafal, Kathmandu
+38500000.0,343,4.2,13.0,North,3.0,,4.0,5.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,Bed Room,Dining Room,AirCon,Water Purifier,Washing Machine,TV,+ 9 See More",Kalanki, Kathmandu
+21500000.0,247,2.3,13.0,East,2.5,,9.0,3.0,,,Tikathali, Lalitpur
+39000000.0,298,7.0,12.0,East,2.5,,7.0,4.0,,,Dhapasi, Kathmandu
+27500000.0,75 ,3.0,20.0,West,3.5,,5.0,3.0,,,Imadol, Lalitpur
+29500000.0,195,3.1,13.0,,3.0,,6.0,5.0,,,Mandikhatar, Kathmandu
+16000000.0,605,4.0,10.0,South-East,2.0,,2.0,2.0,,,Chandragiri, Kathmandu
+17000000.0,556,2.2,13.0,,2.5,,,,,,Imadol, Lalitpur
+72500000.0,925,10.0,13.0,North-East,2.5,,6.0,3.0,,,Maharajgunj, Kathmandu
+38500000.0,87 ,4.5,13.0,,3.5,,6.0,5.0,,,Sundarbasti, Kathmandu
+29500000.0,267,4.0,16.0,South,2.5,,4.0,3.0,,,Golfutar, Kathmandu
+120000000.0,752,14.0,20.0,East,3.5,,5.0,5.0,,,Maharajgunj, Kathmandu
+26000000.0,73 ,3.0,13.0,East,2.5,,3.0,3.0,,,Imadol, Lalitpur
+32500000.0,85 ,3.3,23.0,West,2.5,,6.0,4.0,,,Imadol, Lalitpur
+40000000.0,139,4.2,13.0,South,2.5,,6.0,3.0,,,Imadol, Lalitpur
+31500000.0,130,3.1,13.0,West,2.5,,4.0,4.0,,,Imadol, Lalitpur
+33000000.0,94 ,3.2,13.0,West,2.5,,5.0,4.0,,,Imadol, Lalitpur
+27000000.0,152,4.1,13.0,North-West,2.5,,7.0,4.0,,,Tikathali, Lalitpur
+22500000.0,180,2.3,13.0,East,2.5,,4.0,4.0,,,Setipakha, Lalitpur
+33000000.0,111,3.3,16.0,South,2.5,,6.0,4.0,,,Ochu Height, Lalitpur
+36000000.0,47 ,3.0,20.0,East,2.5,,6.0,5.0,,,Raniban, Kathmandu
+39900000.0,179,5.0,13.0,East,2.0,,4.0,4.0,,,Nakkhu, Lalitpur
+17000000.0,185,4.0,10.0,East,2.5,,7.0,3.0,,,Changathali, Lalitpur
+24500000.0,165,3.2,13.0,South,2.5,,5.0,4.0,,,Ochu Height, Lalitpur
+35000000.0,157,4.0,13.0,West,2.5,,5.0,5.0,,,Imadol, Lalitpur
+100000000.0,2.5,20.0,20.0,North-West,2.5,,4.0,4.0,,,Pasikot, Kathmandu
+30000000.0,206,0.3,20.0,South,5.0,,,,,,Kwalakhu, Lalitpur
+38000000.0,126,6.0,13.0,East,2.5,,6.0,6.0,,,Sitapaila, Kathmandu
+28000000.0,181,3.0,13.0,,2.5,,6.0,3.0,,,Budhanilkantha, Kathmandu
+75000000.0,360,13.0,13.0,North,2.5,,5.0,5.0,,,Pepsicola, Kathmandu
+31000000.0,364,3.3,10.0,North,2.5,,4.0,3.0,,,Ichangu Narayan, Kathmandu
+38000000.0,329,5.1,13.0,East,2.5,,4.0,,,,Sitapaila, Kathmandu
+32500000.0,150,5.1,10.0,East,3.5,,5.0,2.0,,,Pasikot, Kathmandu
+36700000.0,148,3.0,8.0,North-East,4.0,,4.0,4.0,,,Maitidevi, Kathmandu
+21600000.0,156,3.0,11.0,North,3.5,,8.0,4.0,,,Nepaltar, Kathmandu
+21900000.0,149,3.0,11.0,East,3.5,,,,,,Nepaltar, Kathmandu
+28000000.0,96 ,3.2,13.0,South,2.5,,5.0,3.0,,,Nakhipot, Lalitpur
+17500000.0,165,3.3,10.0,South-East,2.5,,3.0,3.0,,,Ramkot, Kathmandu
+27000000.0,273,3.5,20.0,South-West,2.5,,5.0,4.0,,,Nakhipot, Lalitpur
+58000000.0,104,8.3,12.0,,2.5,,,,,,Bafal, Kathmandu
+25500000.0,163,3.2,13.0,South,2.5,,6.0,5.0,,,Hattiban, Lalitpur
+36500000.0,165,4.0,13.0,East,2.5,,,,,,Tenzing Chowk, Kathmandu
+29500000.0,174,3.1,13.0,,2.5,,6.0,5.0,,,Mandikhatar, Kathmandu
+36000000.0,220,5.0,12.0,North,2.5,,7.0,3.0,,,Chandol, Kathmandu
+45000000.0,183,3.0,16.0,East,,,6.0,4.0,,,Old Baneshwor, Kathmandu
+46000000.0,332,12.733382030679328,27.0,North-East,3.5,,5.0,6.0,,,Dhobikhola, Kathmandu
+17800000.0,237,3.1,9.0,,1.5,,,,,,Bhangal , Kathmandu
+34500000.0,181,5.0,13.0,,,,,,,,Hattigaunda, Kathmandu
+18800000.0,308,2.2,12.0,East,2.5,,,,,,Kapan, Kathmandu
+15000000.0,245,3.0,13.0,West,1.5,,3.0,2.0,,,Phutung, Kathmandu
+65000000.0,80 ,5.2,15.0,,4.0,,,,,,Kadaghari, Kathmandu
+25500000.0,109,3.0,10.0,West,2.5,,8.0,3.0,,,Lolang, Kathmandu
+33000000.0,90 ,2.3,25.0,North,4.5,,,,,,Balkumari, Lalitpur
+25000000.0,80 ,3.1,13.0,North,2.5,,6.0,3.0,,,Tikathali, Lalitpur
+71000000.0,97 ,4.0,11.0,South-East,3.5,,,6.0,,,Nakhipot, Lalitpur
+37000000.0,156,5.0,13.0,South-West,2.5,,6.0,6.0,,,Imadol, Lalitpur
+39500000.0,222,5.2,13.0,East,2.5,,4.0,4.0,,,Kusunti, Lalitpur
+32500000.0,117,4.0,10.0,,3.5,,,,,,Kharibot, Kathmandu
+135000000.0,727,14.0,20.0,South-East,3.5,,5.0,6.0,,,Dhapasi, Kathmandu
+22000000.0,137,2.3,10.0,,3.0,,4.0,3.0,,,Imadol, Lalitpur
+125000000.0,121,6.0,13.0,South-East,6.0,,,,,,Thamel, Kathmandu
+12000000.0,356,3.0,20.0,West,2.5,,,,,,Dhapasi, Kathmandu
+70000000.0,110,5.1,12.0,North-East,5.5,,,,,,Bagbazar, Kathmandu
+55000000.0,89 ,5.2,13.0,South,2.5,,,,,,Sukedhara, Kathmandu
+28000000.0,84 ,5.2,12.5,North-East,1.0,,,,,,Pasikot, Kathmandu
+45000000.0,410,6.1,13.0,West,2.5,,5.0,5.0,,,Satdobato, Lalitpur
+46000000.0,123,3.0,10.0,South,4.0,,8.0,5.0,,,Shantinagar, Kathmandu
+30000000.0,114,3.0,8.0,South,2.5,,5.0,3.0,,"Earthquake Resistant,Marbel,Dining Room,Bed Room,Parking,Internet,Drinking Water,Bathroom,TV,Drainage,Solar,+ 1 See More",Maitidevi, Kathmandu
+32500000.0,183,3.3,13.0,South,2.5,,,,,,Imadol, Lalitpur
+37500000.0,122,4.0,16.0,East,2.5,,,,,,Imadol, Lalitpur
+14500000.0,210,3.0,10.0,,1.0,,2.0,,,,Thankot, Kathmandu
+26000000.0,176,3.3,11.0,,3.0,,,,,,Kalanki, Kathmandu
+24000000.0,293,4.0,14.0,East,2.0,,4.0,2.0,,,Maharajgunj, Kathmandu
+38000000.0,104,4.0,10.0,East,2.5,,3.0,3.0,,,Dhumbarahi, Kathmandu
+25500000.0,178,4.2,20.0,North-East,2.0,,5.0,4.0,,,Kalanki, Kathmandu
+31000000.0,213,4.0,12.0,North,3.5,,8.0,3.0,,,Kapan, Kathmandu
+24000000.0,75 ,3.2,26.0,West,3.5,,,3.0,,,Lolang, Kathmandu
+42500000.0,3.2,6.305332359386413,20.0,South-East,2.5,,4.0,4.0,,"Earthquake Resistant,Marbel,Parquet,Sofa,Dining Room,Microwave,AirCon,Water Purifier,Washing Machine,Power Backup,Bed Room,+ 13 See More",Imadol, Lalitpur
+190000000.0,1k ,13.0,20.0,South-East,,,4.0,5.0,,,Maharajgunj, Kathmandu
+34500000.0,236,4.0,13.0,,2.5,,6.0,3.0,,,Budhanilkantha, Kathmandu
+138000000.0,146,16.0,9.0,West,4.0,,,,,,Ratopool, Kathmandu
+74000000.0,2k ,11.0,13.0,South,3.5,,8.0,4.0,,,Sanobharyang, Kathmandu
+22500000.0,272,4.0,11.0,East,3.5,,6.0,7.0,,,Nepaltar, Kathmandu
+37500000.0,295,7.596785975164353,20.0,,2.5,,4.0,4.0,,,Sunakothi, Lalitpur
+85000000.0,253,9.934258582907232,14.0,,2.5,,5.0,7.0,,,Bhaisepati, Lalitpur
+20000000.0,254,3.0,10.5,,2.0,,2.0,2.0,,,Bhaktapur, Bhaktapur
+34500000.0,146,6.1,14.0,,2.0,,7.0,4.0,,,Hattigaunda, Kathmandu
+65000000.0,112,3.2,15.0,,3.5,,,,,,Panipokhari, Kathmandu
+34000000.0,124,4.0,13.0,South-East,2.5,,5.0,4.0,,,Pasikot, Kathmandu
+67500000.0,95 ,8.0,11.5,South-East,2.0,,9.0,6.0,,,Dhumbarahi, Kathmandu
+50000000.0,403,6.0,10.5,,3.0,,,,,,Chabahil, Kathmandu
+33000000.0,204,4.0,13.0,,2.0,,5.0,4.0,,,Khadka Gaun, Kathmandu
+140000000.0,164,17.0,15.0,,2.5,,,,,,Dhumbarahi, Kathmandu
+34000000.0,122,4.0,13.0,,2.5,,6.0,3.0,,,Budhanilkantha, Kathmandu
+42000000.0,124,4.3,12.0,North-East,2.5,,,3.0,,,Lazimpat, Kathmandu
+34500000.0,124,4.0,13.0,,2.5,,6.0,3.0,,,Budhanilkantha, Kathmandu
+37500000.0,280,5.0,20.0,North-East,2.5,,3.0,4.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Microwave,Dining Room,CC Camera,Sofa,AirCon,Iron,Swimming Pool,+ 16 See More",Sunakothi, Lalitpur
+78000000.0,422,6.0,13.0,North-East,2.5,,4.0,5.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Microwave,Dining Room,CC Camera,Sofa,Amphitheatre,AirCon,Water Purifier,+ 14 See More",Bhaisepati, Lalitpur
+77000000.0,1.2,6.2,20.0,West,2.5,,4.0,5.0,,,Hattigaunda, Kathmandu
+38000000.0,77 ,4.0,18.0,South-East,2.5,,4.0,3.0,,,Syuchatar, Kathmandu
+15500000.0,240,2.3,13.0,South,1.0,,2.0,1.0,,,Gwarko, Lalitpur
+105000000.0,174,11.0,11.0,East,2.0,,4.0,4.0,,,Maharajgunj, Kathmandu
+125000000.0,60 ,10.0,15.0,,5.0,,,,,,Chhetrapati, Kathmandu
+23500000.0,100,3.0,13.0,East,2.5,,4.0,4.0,,,Imadol, Lalitpur
+35000000.0,125,2.0,17.0,,4.0,,,,,,Baluwatar, Kathmandu
+62500000.0,117,7.2,17.0,,2.5,,4.0,5.0,,,Sitapaila, Kathmandu
+18000000.0,262,3.3,20.0,South,2.5,,4.0,3.0,,,Thaiba, Lalitpur
+27000000.0,117,3.2,13.0,South,2.5,,5.0,3.0,,,Ochu Height, Lalitpur
+41500000.0,84 ,4.0,6.0,South,4.0,,5.0,5.0,,,Koteshwor, Kathmandu
+31500000.0,114,3.0,10.0,South-East,3.0,,4.0,3.0,,"Earthquake Resistant,Fridge,Marbel,Parquet,Dining Room,Washing Machine,Parking,Internet,Drinking Water,Bathroom,TV,+ 2 See More",Shankhamul, Kathmandu
+20400000.0,258,3.0,11.5,South-West,2.5,,4.0,3.0,,,Sanagaun, Lalitpur
+78000000.0,313,6.0,13.0,,2.0,,4.0,5.0,,,Bhaisepati, Lalitpur
+41000000.0,630,4.2,20.0,South,3.5,,6.0,6.0,,,Chardobato, Bhaktapur
+40000000.0,244,4.3,13.0,West,2.5,,4.0,3.0,,,Mandikhatar, Kathmandu
+43500000.0,2.3,6.0,13.0,North,3.0,,6.0,4.0,,,Deuwa chowk, Kathmandu
+58000000.0,178,10.0,13.0,East,2.0,,4.0,4.0,,,Dhapasi, Kathmandu
+38000000.0,77 ,4.0,10.0,East,2.5,,8.0,5.0,,,Gothatar, Kathmandu
+30000000.0,149,3.2,13.0,North-West,3.0,,12.0,5.0,,,Grande Hospital, Kathmandu
+15000000.0,189,3.0,17.0,South,2.5,,,,,,Danchhi, Kathmandu
+30000000.0,246,4.0,15.0,North,2.5,,,,,,Sainbu, Lalitpur
+35000000.0,143,6.0,16.5,North,2.5,,7.0,4.0,,,Harisiddhi, Lalitpur
+10000000.0,120,3.0,8.0,East,1.0,,2.0,1.0,,,Phutung, Kathmandu
+15500000.0,484,3.5,10.0,,2.5,,4.0,2.0,,,Thali, Kathmandu
+30000000.0,130,3.3,13.0,South-East,3.0,,6.0,5.0,,"Internet,Bathroom,TV,Drainage,Drinking Water,Garden,Parking,Bed Room,Parquet,Earthquake Resistant,Marbel,+ 6 See More",Chunikhel, Kathmandu
+29500000.0,281,4.1,13.0,,2.5,,6.0,5.0,,,Kapan, Kathmandu
+33500000.0,757,3.2,16.0,North,2.5,,,,,,Budhanilkantha, Kathmandu
+55000000.0,119,5.0,13.0,South,3.0,,3.0,4.0,,,Khumaltar, Lalitpur
+75000000.0,221,4.2,17.0,East,4.0,,,,,,Maharajgunj, Kathmandu
+29500000.0,241,3.2,11.0,,2.5,,,,,,Bhangal , Kathmandu
+19500000.0,411,2.2,10.0,South-West,2.5,,4.0,3.0,,,Chunikhel, Kathmandu
+68000000.0,214,6.2,23.0,North-East,3.5,,7.0,3.0,,,Shankhamul, Kathmandu
+23000000.0,239,3.0,13.0,West,2.5,,,,,,Gaurighat, Kathmandu
+18000000.0,330,5.2,11.0,East,3.5,,4.0,4.0,,,Mandikhatar, Kathmandu
+27000000.0,301,3.1,13.0,South,2.5,,4.0,3.0,,,Gwarko, Lalitpur
+29000000.0,286,4.0,13.0,North,2.5,,5.0,4.0,,,Imadol, Lalitpur
+27500000.0,424,3.2,13.0,East,2.5,,4.0,4.0,,,Imadol, Lalitpur
+35000000.0,162,3.0,14.0,North-East,4.0,,4.0,7.0,,,Kirtipur, Kathmandu
+11500000.0,201,3.5,18.0,South,4.0,,3.0,1.0,,,Thankot, Kathmandu
+16500000.0,150,3.1,13.0,West,2.0,,5.0,1.0,,,Thankot, Kathmandu
+28000000.0,121,3.5,26.0,West,4.0,,11.0,8.0,,,Balaju, Kathmandu
+28000000.0,258,3.1,11.0,East,3.5,,8.0,6.0,,,Manamaiju, Kathmandu
+35000000.0,138,4.2,12.0,East,3.5,,12.0,6.0,,"Earthquake Resistant,Marbel,Parquet,Dining Room,Microwave,AirCon,Internet,Parking,Bed Room,Modular Kitchen,Drinking Water,+ 2 See More",Narayantar, Kathmandu
+13300000.0,412,3.2,10.0,West,1.0,,2.0,1.0,,,Thali, Kathmandu
+28500000.0,227,3.2,9.0,East,2.5,,4.0,3.0,,,Bhangal , Kathmandu
+58000000.0,304,10.0,13.0,East,2.0,,4.0,3.0,,,Dhapasi, Kathmandu
+82000000.0,111,6.0,10.0,South-East,3.0,,8.0,3.0,,,Suryabinayak, Bhaktapur
+46000000.0,337,5.3,27.0,North-East,3.5,,6.0,,,,Budhanilkantha, Kathmandu
+17000000.0,221,2.2,13.0,North-East,2.5,,5.0,2.0,,,Lubhu, Lalitpur
+80000000.0,387,9.0,11.0,,2.5,,,,,,Golfutar, Kathmandu
+39000000.0,817,6.0,14.5,South-West,3.0,,6.0,6.0,,,Budhanilkantha, Kathmandu
+16000000.0,656,3.2,10.0,South-West,2.5,,4.0,3.0,,,Jarankhu, Kathmandu
+75000000.0,208,7.2,15.0,,3.0,,,,,,Basundhara, Kathmandu
+5300000.0,301,122.0,11.0,East,,,,,,,Sinamangal, Kathmandu
+35000000.0,555,8.0,13.0,North,2.5,,5.0,4.0,,,Katunje, Bhaktapur
+24000000.0,190,3.0,20.0,,2.5,,,,,,Chyau Danda, Lalitpur
+65000000.0,120,6.1,15.0,,2.5,,,,,,Bansbari, Kathmandu
+26500000.0,588,3.1,20.0,South,2.5,,4.0,3.0,,,Imadol, Lalitpur
+33000000.0,318,4.0,10.0,,2.5,,5.0,4.0,,,Naya Bazar, Kathmandu
+41500000.0,1.1,4.0,20.0,,2.5,,4.0,4.0,,,Nagdaha, Lalitpur
+19000000.0,252,4.0,16.0,,2.5,,,,,,Thecho, Lalitpur
+30500000.0,297,4.0,13.0,,2.5,,5.0,4.0,,,Icimod, Lalitpur
+40000000.0,195,4.0,26.0,North,2.5,,3.0,3.0,,,Imadol, Lalitpur
+70000000.0,230,4.0,15.0,North-East,3.5,,3.0,,,,Nakhipot, Lalitpur
+41900000.00000001,7.3,5.0,20.0,,2.5,,5.0,4.0,,,Godawari, Lalitpur
+25000000.0,241,3.0,10.0,South,3.5,,7.0,3.0,,,Chunikhel, Kathmandu
+51000000.0,347,5.0,12.0,North,2.5,,,,,,Gairidhara, Kathmandu
+56000000.0,156,6.0,11.0,,2.5,,5.0,4.0,,,Lazimpat, Kathmandu
+35000000.0,241,6.2,8.0,West,2.5,,4.0,2.0,,,Chabahil, Kathmandu
+22000000.0,388,3.1,12.0,South,3.0,,,,,,Sano thimi, Bhaktapur
+35000000.0,369,3.0,14.0,,3.5,,4.0,4.0,,,Chappal karkhana, Kathmandu
+18000000.0,185,4.0,13.0,North-East,1.0,,3.0,2.0,,,Matatirtha, Kathmandu
+55000000.0,255,6.2,13.0,South-East,2.5,,6.0,5.0,,,Bansbari, Kathmandu
+29000000.0,294,5.3,16.5,,2.5,,4.0,5.0,,,Dahachowk, Kathmandu
+55000000.0,481,4.2,40.0,South-East,2.5,,3.0,4.0,,,Bhaisepati, Lalitpur
+27500000.0,226,2.2,20.0,South,2.5,,,3.0,,,Swoyambhu, Kathmandu
+36500000.0,237,5.0,13.0,South,3.0,,5.0,4.0,,,Bafal, Kathmandu
+61500000.0,1.1,6.0,13.0,South,2.5,,5.0,3.0,,,Chapali, Kathmandu
+17000000.0,178,3.2,10.0,South-East,2.5,,6.0,3.0,,,Chandragiri, Kathmandu
+17000000.0,290,3.1,11.0,North,2.5,,6.0,,,,Thankot, Kathmandu
+13500000.0,219,3.0,22.0,West,3.0,,7.0,2.0,,,Thankot, Kathmandu
+16500000.0,637,3.3,11.0,North-East,3.0,,4.0,,,,Kalanki, Kathmandu
+25500000.0,351,3.0,13.0,West,2.5,,4.0,4.0,,,Imadol, Lalitpur
+25000000.0,262,4.2,12.0,South-West,2.5,,6.0,3.0,,,Manamaiju, Kathmandu
+29000000.0,230,12.0,13.0,South,2.5,,14.0,6.0,,,Godamchaur, Lalitpur
+39800000.0,180,5.0,13.0,,3.5,,5.0,3.0,,,Naya Thimi, Bhaktapur
+46500000.0,585,4.3,16.0,,2.5,,4.0,4.0,,,Budhanilkantha, Kathmandu
+32000000.0,1.3,5.0,8.0,North,2.5,,,3.0,,,Tripureshwor, Kathmandu
+51500000.0,221,8.3,13.0,South-West,2.0,,5.0,3.0,,"Earthquake Resistant,Parquet,Fridge,Sofa,Dining Room,Microwave,Water Purifier,Washing Machine,Bed Room,Iron,Parking,+ 8 See More",Budhanilkantha, Kathmandu
+58000000.0,427,10.0,13.0,East,2.5,,4.0,2.0,,,Dhapasi, Kathmandu
+22000000.0,370,3.3,30.0,West,3.0,,4.0,,,,Kadaghari, Kathmandu
+140000000.0,196,5.0,40.0,East,6.5,,,,,,Kupandole, Lalitpur
+23500000.0,553,2.5,13.0,East,4.0,,3.0,3.0,,,Banasthali, Kathmandu
+45000000.0,454,6.0,5.0,South,3.5,,7.0,4.0,,,Kumaripati, Lalitpur
+31500000.0,1.3,3.1,10.0,North-West,3.5,,,,,,Swoyambhu, Kathmandu
+49800000.00000001,221,5.3,9.0,,4.0,,11.0,4.0,,,Shantinagar, Kathmandu
+37000000.0,201,3.2,13.0,North-East,2.5,,4.0,3.0,,,Bafal, Kathmandu
+27000000.0,432,3.2,13.0,South,3.5,,,,,,Sundarbasti, Kathmandu
+38000000.0,4.9,4.2,20.0,,2.5,,5.0,4.0,,"Earthquake Resistant,Parquet,Gym,CC Camera,Power Backup,Modular Kitchen,Parking,Bathroom,Drinking Water,Internet,Swimming Pool,+ 3 See More",Taukhel, Lalitpur
+13500000.0,421,2.2,10.0,East,1.0,,,,,,Tahachal, Kathmandu
+39500000.0,849,5.0,20.0,,2.5,,6.0,5.0,,,Sundarbasti, Kathmandu
+32500000.0,158,5.3,13.0,South-East,3.0,,6.0,3.0,,,Kapan, Kathmandu
+27000000.0,451,3.2,20.0,West,2.5,,5.0,4.0,,,Imadol, Lalitpur
+28500000.0,572,3.3,13.0,North-West,2.5,,4.0,4.0,,,Imadol, Lalitpur
+15000000.0,1k ,3.0,17.0,South,2.5,,4.0,3.0,,,Danchhi, Kathmandu
+27500000.0,829,3.0,13.0,South-East,3.0,,5.0,3.0,,,Imadol, Lalitpur
+67500000.0,317,4.0,13.5,,2.5,,8.0,8.0,,,Bhaisepati, Lalitpur
+29000000.0,270,3.3,13.0,,2.5,,,,,,Bhangal , Kathmandu
+29800000.0,154,4.0,20.0,,2.5,,,,,,Sundarbasti, Kathmandu
+14000000.0,165,4.1,10.0,North-East,3.0,,2.0,,,,Jhaukhel, Bhaktapur
+38000000.0,429,3.3,13.5,,2.5,,4.0,5.0,,,Bhaisepati, Lalitpur
+67500000.0,180,4.0,11.0,,2.5,,8.0,8.0,,,Budhanilkantha, Kathmandu
+65000000.0,540,9.5,12.5,,2.0,,4.0,4.0,,,Budhanilkantha, Kathmandu
+18000000.0,132,4.0,13.0,North-East,1.0,,3.0,2.0,,,Matatirtha, Kathmandu
+27500000.0,246,3.2,13.0,,2.5,,4.0,,,,Imadol, Lalitpur
+23500000.0,278,2.2,10.0,South,2.5,,8.0,,,,Imadol, Lalitpur
+27500000.0,239,3.0,9.0,,2.5,,5.0,4.0,,,Imadol, Lalitpur
+26000000.0,165,3.1,13.0,,2.5,,5.0,4.0,,,Imadol, Lalitpur
+24500000.0,293,3.0,10.0,North-East,2.5,,7.0,4.0,,,Tyanglafat, Kathmandu
+25500000.0,138,3.0,13.0,West,3.0,,5.0,3.0,,,Kageshwori, Kathmandu
+22500000.0,110,4.0,13.0,,2.5,,,,,,Chandragiri, Kathmandu
+13100000.0,260,3.0,12.0,,2.0,,6.0,,,,Chandragiri, Kathmandu
+22000000.0,267,3.1,13.0,East,2.5,,,,,,Thaiba, Lalitpur
+23500000.0,214,3.1,13.0,North,2.5,,4.0,5.0,,,Imadol, Lalitpur
+21000000.0,226,46.0,13.0,North,2.5,,4.0,4.0,,,Imadol, Lalitpur
+42500000.0,223,4.0,13.0,South,2.5,,6.0,4.0,,,Imadol, Lalitpur
+19000000.0,181,3.0,10.0,,2.5,,,,,,Chandragiri, Kathmandu
+40000000.0,444,5.0,15.0,South-East,2.5,,6.0,6.0,,,Budhanilkantha, Kathmandu
+30000000.0,2.8,3.0,13.0,West,2.5,,4.0,3.0,,,Thulobharyang, Kathmandu
+55000000.0,408,4.2,13.5,South,2.0,,3.0,4.0,,,Bhaisepati, Lalitpur
+62000000.0,416,10.0,14.0,South-East,2.5,,4.0,,,,Chappal karkhana, Kathmandu
+40000000.0,353,5.0,15.0,South-East,2.5,,6.0,6.0,,,Budhanilkantha, Kathmandu
+38000000.0,225,5.1,14.0,South,2.5,,5.0,3.0,,,Pasikot, Kathmandu
+12000000.0,464,4.1,3.0,West,3.0,,,,,,Tarkeshwor, Kathmandu
+26700000.0,255,5.0,20.0,West,2.5,,6.0,,,,Chandragiri, Kathmandu
+28500000.0,305,3.4,10.0,North-East,3.0,,17.0,,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,Solar,Dining Room,AirCon,Bed Room,Parking,Internet,+ 4 See More",Paiyuntar, Kathmandu
+18000000.0,283,4.2,20.0,North-East,3.0,,2.0,,,,Kapan, Kathmandu
+33000000.0,155,4.2,20.0,West,3.5,,6.0,,,,Battisputali, Kathmandu
+25500000.0,141,3.2,20.0,East,2.5,,9.0,7.0,,,Nakhipot, Lalitpur
+21000000.0,166,2.3,13.0,,2.5,,,2.0,,,Imadol, Lalitpur
+76500000.0,451,9.0,13.5,,2.5,,5.0,4.0,,,Dhobighat, Lalitpur
+125000000.0,686,22.0,15.0,,2.5,,6.0,,,,Budhanilkantha, Kathmandu
+25000000.0,1.5,3.1,10.0,North,3.0,,,,,,Gairi Gaun, Kathmandu
+31000000.0,680,3.3,15.0,South-West,2.5,,5.0,4.0,,,Bhaisepati, Lalitpur
+39800000.0,572,6.0,13.5,South,2.5,,,,,,Sukedhara, Kathmandu
+67500000.0,323,7.2,13.0,North-East,2.5,,6.0,4.0,,,Kupandole, Lalitpur
+17500000.0,143,3.0,13.0,South,3.0,,,,,,Satungal, Kathmandu
+15000000.0,264,2.2,13.0,East,2.5,,,,,,Goldhunga, Kathmandu
+110000000.0,577,11.0,13.0,South,2.5,,,,,,Thapathali, Kathmandu
+55000000.0,479,5.2,16.0,South-East,2.5,,5.0,4.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,AirCon,Microwave,Dining Room,Solar,CC Camera,Water Purifier,+ 13 See More",Bhaisepati, Lalitpur
+32500000.0,512,3.3,13.0,South-East,2.5,,4.0,4.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,AirCon,Microwave,Dining Room,Solar,CC Camera,Water Purifier,+ 13 See More",Bhaisepati, Lalitpur
+36000000.0,239,7.0,12.5,North-East,2.5,,6.0,2.0,,,Imadol, Lalitpur
+25000000.0,133,4.3,10.0,,3.5,,,,,,Lolang, Kathmandu
+27500000.0,214,3.2,13.0,South-East,3.0,,3.0,,,,Bhangal , Kathmandu
+27500000.0,393,3.1,16.0,South-West,2.5,,3.0,3.0,,,Golfutar, Kathmandu
+43000000.0,199,5.0,10.0,South,3.5,,17.0,10.0,,,Lainchaur, Kathmandu
+29500000.0,399,5.0,13.0,,2.5,,,,,,Balkot, Bhaktapur
+77500000.0,957,9.0,20.0,South-West,2.5,,5.0,4.0,,"Marbel,Parquet,Fridge,Sofa,Microwave,Dining Room,Solar,Water Purifier,CC Camera,Washing Machine,Bed Room,+ 14 See More",Thado Dhunga, Lalitpur
+42500000.0,389,6.0,20.0,South-East,2.5,,3.0,3.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Gym,Sofa,AirCon,Microwave,Dining Room,CC Camera,Solar,+ 15 See More",Sunakothi, Lalitpur
+35000000.0,305,3.3,22.0,,2.5,,5.0,4.0,,,Bhaisepati, Lalitpur
+54000000.0,259,5.3,20.0,South-East,2.5,,7.0,4.0,,,Bagdol, Lalitpur
+45000000.0,1k ,5.0,15.0,North-West,2.5,,5.0,6.0,,,Budhanilkantha, Kathmandu
+38000000.0,357,5.1,14.0,South-West,2.5,,5.0,3.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,Solar,Dining Room,Microwave,AirCon,Garden,Bed Room,+ 11 See More",Pasikot, Kathmandu
+29500000.0,185,3.3,13.0,,2.5,,,,,,Bhangal , Kathmandu
+34500000.0,367,4.0,13.0,,2.5,,6.0,5.0,,,Baluwakhani, Kathmandu
+28500000.0,275,3.1,13.0,,3.5,,,,,,Aakasedhara, Kathmandu
+20500000.0,368,3.0,20.0,South-East,3.0,,4.0,3.0,,"Earthquake Resistant,Marbel,Solar,Garden,Modular Kitchen,Parking,Playground,Internet,Drinking Water,Bathroom,Drainage,+ 1 See More",Katunje, Bhaktapur
+50000000.0,287,5.1,13.0,South,2.5,,4.0,5.0,,"Marbel,Parquet,AirCon,Solar,CC Camera,Water Purifier,Playground,TV,Drainage,Bathroom,Drinking Water,+ 2 See More",Rudreshwor, Kathmandu
+29000000.0,367,3.2,16.0,West,2.5,,5.0,5.0,,"Earthquake Resistant,Marbel,Parquet,CC Camera,Water Purifier,Drinking Water,Internet,Modular Kitchen,Parking,Playground,AirCon,+ 3 See More",Golfutar, Kathmandu
+29000000.0,204,3.2,13.5,South-East,2.5,,3.0,3.0,,,Dhapakhel, Lalitpur
+25000000.0,213,4.1,12.0,West,2.5,,6.0,5.0,,,Bauthali, Kathmandu
+27000000.0,229,2.5,28.0,East,4.0,,,,,,Narephat, Kathmandu
+29500000.0,228,3.2,13.0,East,2.0,,5.0,5.0,,,Tikathali, Lalitpur
+30000000.0,431,4.2,4.0,South,1.0,,2.0,2.0,,,Kalopool, Kathmandu
+62500000.0,755,5.3,16.0,South-West,2.5,,3.0,3.0,,"Marbel,Parquet,Gym,Sofa,AirCon,Garden,Bed Room,Water Purifier,Modular Kitchen,Power Backup,Internet,+ 7 See More",Bhaisepati, Lalitpur
+39000000.0,456,5.0,13.0,East,2.5,,4.0,4.0,,,Nakkhu, Lalitpur
+100000000.0,309,12.0,13.0,East,2.0,,,,,,Mid Baneshwor, Kathmandu
+31000000.0,981,4.0,13.0,South-East,2.5,,5.0,4.0,,,Sitapaila, Kathmandu
+22000000.0,297,3.1,12.0,East,3.0,,5.0,,,,Magar Gaun, Bhaktapur
+17200000.0,262,3.0,10.0,South,3.0,,5.0,,,,Khahare, Kathmandu
+32500000.0,154,3.5,12.0,East,3.0,,6.0,,,,Kadaghari, Kathmandu
+27500000.0,280,3.2,4.0,West,3.0,,6.0,,,,Kamerotar, Bhaktapur
+26000000.0,135,3.1,13.0,North,2.0,,4.0,5.0,,,Imadol, Lalitpur
+41000000.0,316,4.0,13.0,South-West,2.0,,5.0,5.0,,,Bhaisepati, Lalitpur
+44500000.0,380,5.0,14.0,,2.5,,5.0,5.0,,,Mandikatar, Kathmandu
+40000000.0,336,4.3,13.0,West,2.5,,5.0,4.0,,,Budhanilkantha, Kathmandu
+45000000.0,165,5.3,20.0,East,3.5,,,,,,Tilingtar, Kathmandu
+95000000.0,178,6.1,0.0,South-West,3.5,,23.0,8.0,,,Naya Bazar, Kathmandu
+29000000.0,310,4.0,10.0,South-East,3.0,,,,,,Paiyuntar, Kathmandu
+17500000.0,246,3.0,9.0,,2.5,,,,,,Chandragiri, Kathmandu
+17000000.0,530,3.0,10.0,West,3.0,,4.0,,,,Tokha, Kathmandu
+32500000.0,523,3.3,13.0,South-West,2.5,,4.0,4.0,,,Bhaisepati, Lalitpur
+26000000.0,307,3.5,0.0,,2.5,,,,,,High Vision Colony, Kathmandu
+43000000.0,495,5.0,18.0,South,2.5,,5.0,3.0,,,Nakkhu, Lalitpur
+65000000.0,265,12.0,13.0,South,3.0,,7.0,3.0,,,Imadol, Lalitpur
+26500000.0,409,4.0,12.0,North-East,4.0,,7.0,,,,Buddhanagar, Kathmandu
+15500000.0,382,3.3,8.0,East,2.0,,1.0,,,,Tahachal, Kathmandu
+38000000.0,277,4.0,22.0,South,4.0,,18.0,,,,Suryabinayak, Bhaktapur
+38500000.0,285,4.2,13.5,South,2.0,,3.0,4.0,,,Bhaisepati, Lalitpur
+37500000.0,722,7.0,13.0,South,2.5,,4.0,3.0,,,Sitapaila, Kathmandu
+20000000.0,528,4.0,12.0,North-West,3.0,,4.0,,,,Sitapaila, Kathmandu
+9000000.0,307,3.0,4.0,North,1.0,,2.0,,,,Kavresthali, Kathmandu
+37000000.0,313,4.0,10.0,North,3.0,,6.0,4.0,,,Syuchatar, Kathmandu
+26500000.0,755,60.0,13.0,North,3.0,,6.0,,,,Koteshwor, Kathmandu
+14500000.0,754,11.0,13.0,West,3.0,,11.0,,,,Bouddha, Kathmandu
+23500000.0,147,5.0,11.0,South,2.0,,,,,,Naya Basti, Kathmandu
+55000000.0,614,7.5,19.5,South-West,3.5,,7.0,8.0,,,Budhanilkantha, Kathmandu
+53500000.0,704,7.1,18.5,South-West,3.5,,7.0,5.0,,,Pasikot, Kathmandu
+140000000.0,310,5.0,22.0,East,5.5,,,10.0,,,Kupandole, Lalitpur
+50000000.0,336,4.0,13.5,,2.5,,5.0,6.0,,,Bhaisepati, Lalitpur
+35000000.0,580,3.3,22.0,,2.5,,5.0,4.0,,,Bhaisepati, Lalitpur
+140000000.0,96 ,5.0,22.0,East,5.0,,,,,,Kupandole, Lalitpur
+32500000.0,208,5.2,13.0,East,3.0,,,,,,Syuchatar, Kathmandu
+170000000.0,481,14.0,16.5,,3.5,,6.0,4.0,,,Bhaisepati, Lalitpur
+35000000.0,12.,4.1,20.0,East,2.5,,5.0,4.0,,"Marbel,Parquet,Gym,Earthquake Resistant,Drainage,Bathroom,Drinking Water,Power Backup,Internet,Modular Kitchen,Playground,+ 1 See More",Sunakothi, Lalitpur
+70000000.0,1.2,6.3,11.0,South,2.0,,6.0,5.0,,,Gahana Pokhari, Kathmandu
+85000000.0,383,8.0,32.0,,2.0,,4.0,4.0,,,Hattiban, Lalitpur
+190000000.0,373,10.2,13.0,South-West,5.0,,10.0,8.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,Bed Room,Modular Kitchen,Parking,Playground,Internet,Bathroom,+ 2 See More",Tahachal, Kathmandu
+102000000.0,507,9.0,20.0,West,2.5,,5.0,4.0,,,Bhimsengola, Kathmandu
+95000000.0,436,10.0,13.0,South,2.5,,5.0,4.0,,,Battisputali, Kathmandu
+39000000.0,408,5.0,13.0,North-East,2.5,,5.0,3.0,,,Sundarbasti, Kathmandu
+27000000.0,145,3.1,13.0,South-East,2.5,,6.0,3.0,,,Besigaun, Kathmandu
+13000000.0,385,3.0,13.0,East,1.0,,2.0,1.0,,,Gorkarneshwor, Kathmandu
+40500000.0,388,5.5,13.0,North-East,2.0,,4.0,3.0,,,Kusunti, Lalitpur
+33000000.0,393,6.0,13.0,South-East,2.5,,6.0,4.0,,,Pasikot, Kathmandu
+62500000.0,567,6.2,15.0,North-East,2.5,,6.0,6.0,,,Budhanilkantha, Kathmandu
+18000000.0,449,3.0,20.0,South,2.5,,,,,,Lamatar, Lalitpur
+32000000.0,501,3.1,13.0,North-East,3.5,,,,,,Shankhamul, Kathmandu
+33000000.0,776,4.2,13.0,South-East,2.5,,8.0,6.0,,,Sanagaun, Lalitpur
+20500000.0,416,3.0,10.0,,2.5,,4.0,3.0,,,Baniyatar, Kathmandu
+50000000.0,238,7.0,13.0,South,2.5,,4.0,4.0,,,Bansbari, Kathmandu
+26000000.0,184,3.3,13.0,North-East,2.5,,5.0,3.0,,,Imadol, Lalitpur
+23500000.0,272,3.1,13.0,North,2.5,,3.0,4.0,,,Imadol, Lalitpur
+70000000.0,307,9.1,10.0,East,4.5,,12.0,4.0,,,Satdobato, Lalitpur
+29500000.0,161,3.3,15.0,West,3.0,,,,,,Samakhushi chowk, Kathmandu
+95000000.0,879,17.0,17.0,,3.5,,6.0,5.0,,,Budhanilkantha, Kathmandu
+32500000.0,351,4.0,13.0,East,2.5,,11.0,2.0,,,Gaushala, Kathmandu
+32000000.0,324,4.0,20.0,North,2.5,,4.0,4.0,,,Goldhunga, Kathmandu
+125000000.0,598,18.0,15.0,East,2.5,,5.0,5.0,,,Budhanilkantha, Kathmandu
+32500000.0,324,3.5,14.0,South-West,2.5,,5.0,5.0,,,Ganesh Chowk, Kathmandu
+160000000.0,274,16.0,20.0,,,,,,,,Samakhusi, Kathmandu
+55000000.0,738,8.0,12.0,West,2.5,,,,,,Dhumbarahi, Kathmandu
+22000000.0,254,4.0,15.0,East,2.5,,,,,,Goldhunga, Kathmandu
+130000000.0,107,16.0,20.0,,3.5,,,,,,Ranibari, Kathmandu
+25000000.0,3.3,3.1,16.0,North-East,2.5,,4.0,3.0,,,Nagarjun, Kathmandu
+52500000.0,159,7.2,14.0,North-East,2.5,,,,,,Narayanthan , Kathmandu
+31500000.0,262,4.1,15.0,South,2.5,,,,,,Bhangal , Kathmandu
+29000000.0,317,2.3,20.0,East,2.5,,,2.0,,,Pepsicola, Kathmandu
+190000000.0,671,16.0,18.0,,3.0,,5.0,5.0,,,Sanepa, Lalitpur
+41000000.0,235,5.2,13.0,South-West,3.0,,5.0,4.0,,,Wasik, Kathmandu
+45000000.0,204,7.0,15.0,East,2.5,,4.0,3.0,,,Sukedhara, Kathmandu
+50000000.0,285,5.2,20.0,South-West,2.5,,4.0,3.0,,,Thaiba, Lalitpur
+95000000.0,363,11.0,17.0,North-West,2.5,,6.0,4.0,,,Katunje, Bhaktapur
+47500000.0,698,6.1,15.0,South-East,2.5,,3.0,4.0,,,Dhapasi, Kathmandu
+35000000.0,254,5.0,10.0,East,3.5,,,,,,Bhaisepati, Lalitpur
+14000000.0,216,3.0,13.0,West,2.5,,,2.0,,,Thankot, Kathmandu
+53500000.0,172,8.1,12.0,North-West,4.0,,8.0,4.0,,,Narayantar, Kathmandu
+39000000.0,352,4.0,14.0,South,2.5,,6.0,4.0,,,Sukedhara, Kathmandu
+35000000.0,253,4.0,22.0,,3.0,,,,,,Ranibari, Kathmandu
+25000000.0,182,3.2,10.0,West,2.5,,5.0,,,,Goldhunga, Kathmandu
+29000000.0,100,3.0,13.0,East,2.5,,,,,,Sundarbasti, Kathmandu
+35000000.0,158,4.0,13.5,South,2.5,,,,,,Sitapaila, Kathmandu
+31000000.0,178,4.2,13.5,West,3.5,,,,,,Kapan, Kathmandu
+31500000.0,146,4.0,13.0,,2.5,,,,,,Baluwakhani, Kathmandu
+26500000.0,166,3.3,13.0,East,2.0,,,,,,Tenzing Chowk, Kathmandu
+35000000.0,297,5.0,14.0,,2.5,,,,,,Sukedhara, Kathmandu
+55000000.0,199,11.0,15.0,East,2.5,,4.0,5.0,,,Narayanthan , Kathmandu
+49000000.0,231,5.1,13.0,East,2.5,,5.0,6.0,,,Rudreshwor, Kathmandu
+28500000.0,316,4.0,13.0,,2.5,,7.0,4.0,,,Bafal, Kathmandu
+14700000.0,292,3.0,13.5,North,2.5,,,,,,Imadol, Lalitpur
+18500000.0,275,2.3,15.0,East,2.5,,,,,,Gwarko, Lalitpur
+14700000.0,478,3.0,13.5,South,1.0,,,,,,Imadol, Lalitpur
+21000000.0,319,3.0,16.0,North,2.5,,,,,,Gothatar, Kathmandu
+17500000.0,350,2.2,12.0,South,2.5,,,,,,Tikathali, Lalitpur
+27000000.0,247,4.0,13.5,South,2.5,,,,,,Tikathali, Lalitpur
+5500000.0,1.6,14.0,36.0,,,,,,,,Sitapaila, Kathmandu
+22000000.0,1.8,3.0,10.0,South,2.5,,,,,,Basanti Chowk, Kathmandu
+22000000.0,688,3.0,26.0,,2.5,,,,,,Tindhara, Kathmandu
+24000000.0,1.1,3.0,10.0,,2.5,,,,,,Buddha Chowk, Kathmandu
+88000000.0,365,12.0,15.0,,2.5,,6.0,3.0,,,Bansbari, Kathmandu
+36500000.0,208,6.2,13.0,North-East,3.0,,4.0,3.0,,,Hattigaunda, Kathmandu
+26000000.0,302,4.0,16.5,North,2.5,,,,,,Bhangal , Kathmandu
+27000000.0,280,3.3,13.0,East,2.5,,6.0,4.0,,,Dhapakhel, Lalitpur
+22000000.0,236,3.1,32.0,West,2.5,,,,,,Sundarbasti, Kathmandu
+21000000.0,366,4.0,20.0,East,3.0,,,,,,Mulpani, Kathmandu
+33000000.0,197,4.0,13.5,West,2.5,,5.0,4.0,,,Dholahiti, Lalitpur
+39900000.0,270,5.0,13.0,East,2.5,,,,,,Sundarbasti, Kathmandu
+28000000.0,413,3.0,13.0,North,3.5,,8.0,4.0,,,Lokanthali, Bhaktapur
+13500000.0,363,2.2,12.0,South-West,2.5,,,3.0,,,Mulpani, Kathmandu
+75000000.0,171,13.0,20.0,East,2.0,,,,,,Thankot, Kathmandu
+24000000.0,215,3.0,14.5,North-West,3.0,,7.0,3.0,,,Birendra Chowk, Kathmandu
+27000000.0,364,3.1,13.0,South,3.0,,5.0,4.0,,,Gwarko, Lalitpur
+46500000.0,670,4.0,14.0,South-East,2.5,,4.0,4.0,,,Bhaisepati, Lalitpur
+20000000.0,1.3,5.1,26.0,South,3.0,,3.0,3.0,,,Matatirtha, Kathmandu
+36000000.0,212,7.0,20.0,North-East,2.5,,5.0,2.0,,,Imadol, Lalitpur
+30000000.0,332,3.0,12.0,West,2.0,,5.0,4.0,,,Bhaisepati, Lalitpur
+51000000.0,225,5.0,20.0,West,2.5,,5.0,4.0,,,Bhaisepati, Lalitpur
+29800000.0,210,4.1,13.0,,3.0,,,,,,Kapan, Kathmandu
+130000000.0,282,1.3,12.0,South,2.5,,7.0,4.0,,,Mahalaxmisthan, Lalitpur
+48000000.0,414,8.3,15.0,,2.5,,,,,,Budhanilkantha, Kathmandu
+210000000.0,641,18.0,20.0,East,2.5,,6.0,5.0,,,Bhaisepati, Lalitpur
+23500000.0,214,3.0,13.0,East,2.5,,5.0,3.0,,,Imadol, Lalitpur
+70000000.0,205,10.0,13.0,South,4.5,,13.0,9.0,,,Satdobato, Lalitpur
+25000000.0,1k ,3.2,13.0,South,2.5,,6.0,2.0,,,Syuchatar, Kathmandu
+40000000.0,188,5.0,6.5,North,2.0,,5.0,2.0,,,Tinthana, Kathmandu
+32000000.0,107,3.2,10.5,West,3.0,,8.0,4.0,,,Kumarigal, Kathmandu
+20000000.0,124,3.1,6.5,South,2.0,,,,,,Chandragiri, Kathmandu
+22000000.0,273,6.2,16.5,North,3.0,,,,,,Jhaukhel, Bhaktapur
+115000000.0,329,18.0,13.0,South-West,2.5,,5.0,4.0,,,Budhanilkantha, Kathmandu
+80000000.0,213,10.0,13.0,West,3.0,,6.0,5.0,,,Tripureshwor, Kathmandu
+29500000.0,455,4.2,16.0,South,2.5,,4.0,3.0,,,Sitapaila, Kathmandu
+400000000.0,168,15.0,10.0,South-West,7.0,,,,,,Anamnagar, Kathmandu
+2700000.0,162,5.2,13.0,,,,,,,,Naya Naikap, Kathmandu
+48000000.0,588,8.2,13.0,North-East,3.0,,7.0,5.0,,,Purano Naikap, Kathmandu
+31500000.0,180,5.0,13.0,East,2.5,,5.0,5.0,,,Sitapaila, Kathmandu
+26000000.0,568,4.2,18.0,East,2.5,,5.0,4.0,,,Dhapakhel, Lalitpur
+18500000.0,249,3.2,12.0,North-West,2.5,,,,,,Thankot, Kathmandu
+39000000.0,499,5.0,16.5,East,2.5,,,,,,Kapan, Kathmandu
+61500000.0,140,2.2,20.0,South-East,4.5,,21.0,21.0,,,Tilganga, Kathmandu
+35000000.0,472,3.2,16.0,North,2.0,,3.0,3.0,,"Earthquake Resistant,Marbel,Parquet,Drainage,Bathroom,Drinking Water,Parking,TV,AirCon,Fridge,Washing Machine,+ 2 See More",Bhaisepati, Lalitpur
+21000000.0,250,4.0,20.0,East,2.0,,4.0,3.0,,,Mulpani, Kathmandu
+22000000.0,251,3.1,32.0,West,2.5,,,,,,Mandikhatar, Kathmandu
+23000000.0,1.5,3.2,10.0,South,2.5,,5.0,3.0,,,Jorpati, Kathmandu
+20000000.0,2.4,3.1,20.0,,2.0,,,,,,Nil Barahi Mandir, Bhaktapur
+57500000.0,2.3,9.1,10.0,West,2.5,,,,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,CC Camera,Solar,Microwave,Dining Room,Water Purifier,Washing Machine,+ 9 See More",Balaju, Kathmandu
+12000000.0,2.5,2.3,4.0,North-East,2.5,,3.0,,,,Sitapaila, Kathmandu
+20000000.0,1.2,3.1,10.0,North,2.5,,4.0,2.0,,,Naikap, Kathmandu
+30000000.0,1.6,4.0,10.0,East,2.5,,,,,,Machhapokhari, Kathmandu
+30000000.0,1.9,64.0,13.0,South,3.0,,6.0,3.0,,,Rai Chowk, Kathmandu
+36500000.0,448,4.2,20.0,North-East,2.5,,4.0,3.0,,,Sitapaila, Kathmandu
+30000000.0,181,3.2,12.0,North,2.5,,6.0,4.0,,,Bhangal , Kathmandu
+31000000.0,116,3.2,20.0,,3.5,,,,,,Kageshwari Manohara, Kathmandu
+130000000.0,187,200.0,14.0,South-West,2.5,,4.0,4.0,,,Bishalnagar, Kathmandu
+95000000.0,336,14.0,40.0,North,3.0,,9.0,10.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,Water Purifier,Garden,Iron,Modular Kitchen,Parking,Playground,+ 3 See More",Simaltar, Kathmandu
+42500000.0,453,6.0,15.0,East,2.5,,3.0,3.0,,,Sunakothi, Lalitpur
+50000000.0,154,4.2,36.0,North-East,3.5,,3.0,5.0,,,Pepsicola, Kathmandu
+53500000.0,367,8.0,13.0,West,2.5,,13.0,5.0,,,Budhanilkantha, Kathmandu
+26000000.0,497,3.0,13.0,East,2.5,,4.0,3.0,,,Satdobato, Lalitpur
+24000000.0,881,3.1,13.0,,2.5,,5.0,3.0,,,Bafal, Kathmandu
+55000000.0,387,5.0,16.0,South-West,2.5,,4.0,5.0,,,Bhaisepati, Lalitpur
+16000000.0,348,2.2,16.5,,2.5,,4.0,3.0,,,Imadol, Lalitpur
+57000000.0,170,10.0,14.0,North-West,3.0,,,,,,Ganesh Chowk, Kathmandu
+6500000.0,512,27.0,15.0,West,2.5,,9.0,6.0,,,Budhanilkantha, Kathmandu
+36000000.0,258,4.0,15.0,West,2.5,,4.0,5.0,,,Budhanilkantha, Kathmandu
+27500000.0,183,4.0,12.0,,3.5,,,,,,Manamaiju, Kathmandu
+42500000.0,190,5.0,18.0,South,2.5,,6.0,5.0,,,Dhapasi, Kathmandu
+42500000.0,169,4.2,36.0,North-East,4.0,,16.0,4.0,,,Balkumari, Lalitpur
+27000000.0,227,3.2,13.0,North,2.5,,6.0,3.0,,,Kadaghari, Kathmandu
+28500000.0,284,3.2,16.0,East,2.5,,4.0,4.0,,,Dhapasi, Kathmandu
+2500000.0,234,3.0,12.0,North-East,,,,,,,Lolang, Kathmandu
+29000000.0,317,4.2,13.0,East,2.5,,,,,,Tokha, Kathmandu
+36500000.0,202,4.0,12.0,South,2.5,,5.0,4.0,,,Bafal, Kathmandu
+32000000.0,297,4.2,20.0,West,2.5,,5.0,4.0,,,Nakhipot, Lalitpur
+30000000.0,522,4.2,20.0,East,2.5,,,,,,Goldhunga, Kathmandu
+77500000.0,374,8.1,20.0,East,3.0,,5.0,5.0,,,Italitar, Kathmandu
+50000000.0,301,5.1,16.0,East,3.0,,4.0,5.0,,,Rudreshwor, Kathmandu
+16500000.0,309,3.0,13.0,,1.0,,2.0,1.0,,,Imadol, Lalitpur
+140000000.0,199,9.0,26.0,West,6.0,,,,,,Chamati, Kathmandu
+24000000.0,351,3.0,13.0,,3.0,,4.0,4.0,,,Nakhipot, Lalitpur
+28000000.0,221,3.3,13.0,North-East,3.0,,5.0,3.0,,,Chapali, Kathmandu
+92000000.0,340,10.0,20.0,South-East,2.5,,6.0,5.0,,,Phulbari Colony, Kathmandu
+35000000.0,142,80.0,13.0,West,3.5,,7.0,4.0,,,Jarankhu, Kathmandu
+12500000.0,316,24.0,13.0,South-East,3.0,,8.0,6.0,,,Charkhal, Kathmandu
+36500000.0,242,6.1,14.0,,2.5,,7.0,7.0,,,Hattigaunda, Kathmandu
+45000000.0,257,5.0,15.0,North-East,2.5,,6.0,5.0,,,Hattigaunda, Kathmandu
+20000000.0,227,8.0,16.0,,2.5,,8.0,,,,Matatirtha, Kathmandu
+72000000.0,224,8.0,20.0,West,2.5,,7.0,5.0,,,Balkhu, Kathmandu
+35000000.0,214,2.3,15.0,,3.0,,,,,,Baneshwor, Kathmandu
+30000000.0,212,4.2,8.0,North,2.5,,,,,,Taukhel, Lalitpur
+6500000.0,329,27.0,13.0,South,2.5,,6.0,5.0,,,Mandikhatar, Kathmandu
+45000000.0,333,4.3,13.0,South,2.5,,5.0,4.0,,,Deuwa chowk, Kathmandu
+45000000.0,195,5.0,13.0,North,3.0,,6.0,4.0,,,Hattigaunda, Kathmandu
+39500000.0,220,5.0,13.0,East,2.5,,4.0,4.0,,,Nakkhu, Lalitpur
+45000000.0,438,4.2,20.0,South-West,3.0,,3.0,3.0,,"Earthquake Resistant,Marbel,Parquet,Fridge,Sofa,Microwave,Dining Room,Solar,CC Camera,Water Purifier,Washing Machine,+ 12 See More",Hepali Height, Kathmandu
+41000000.0,157,4.0,20.0,South-East,3.0,,5.0,4.0,,,Dhapasi, Kathmandu
+38000000.0,399,3.3,13.0,East,3.0,,4.0,4.0,,,Bhaisepati, Lalitpur
+37500000.0,153,4.0,13.0,East,3.0,,6.0,4.0,,,Dhapasi, Kathmandu
+65000000.0,253,6.2,14.0,East,2.5,,6.0,7.0,,,Hattigaunda, Kathmandu
+90000000.0,235,8.0,20.0,South,2.0,,4.0,5.0,,,Hattiban, Lalitpur
+24900000.000000004,161,2.3,20.0,North,2.5,,3.0,3.0,,,Balkhu, Lalitpur
+45000000.0,452,5.0,16.0,South,2.0,,4.0,4.0,,,Bhaisepati, Lalitpur
+14000000.0,235,3.2,14.0,West,2.0,,3.0,2.0,,,Bhaktapur, Bhaktapur
+59500000.0,228,6.0,13.0,South,3.0,,5.0,5.0,,"Earthquake Resistant,Marbel,Parquet,Sofa,Fridge,Microwave,Dining Room,Solar,CC Camera,Water Purifier,Washing Machine,+ 10 See More",Rudreshwor, Kathmandu
+35000000.0,167,4.0,13.0,,3.5,,,,,,Jarankhu, Kathmandu
+30000000.0,175,4.3,12.0,West,2.5,,5.0,4.0,,,Paiyuntar, Kathmandu
+50000000.0,338,5.1,15.0,East,2.5,,4.0,5.0,,,Budhanilkantha, Kathmandu
+45000000.0,198,5.2,13.0,South-West,2.5,,5.0,4.0,,,Ganesh Chowk, Kathmandu
+82000000.0,321,10.0,23.0,,2.5,,,,,,Kalimati, Kathmandu
+25000000.0,178,1.3,30.0,East,2.5,,4.0,,,,Kalikasthan, Kathmandu
+29800000.0,581,4.1,13.0,,2.5,,,,,,Budhanilkantha, Kathmandu
+29000000.0,223,4.0,12.0,,2.5,,,,,,Thulobharyang, Kathmandu
+96000000.0,401,16.0,15.0,South-East,2.5,,7.0,6.0,,,Bansbari, Kathmandu
+12500000.0,64 ,4.0,20.0,North,1.0,,,,,,Bhadrabas, Kathmandu
+55000000.0,433,6.0,16.0,East,3.5,,,,,,Bagdol, Lalitpur
+125000000.0,313,30.0,15.0,,2.0,,5.0,5.0,,,Dhapasi, Kathmandu
+67500000.0,139,6.1,12.0,,2.5,,6.0,5.0,,,Ganesh Chowk, Kathmandu
+150000000.0,654,8.0,13.5,,2.0,,5.0,6.0,,,Bhaisepati, Lalitpur
+36000000.0,179,5.0,13.0,North,3.5,,6.0,5.0,,,Kapan, Kathmandu
+135000000.0,204,21.0,20.0,East,2.5,,6.0,6.0,,,Siddhartha Colony, Kathmandu
+42500000.0,216,3.3,16.0,South,2.5,,5.0,5.0,,,Narayanthan , Kathmandu
+53000000.0,236,5.2,13.0,South-West,2.5,,4.0,4.0,,"Earthquake Resistant,Marbel,Parquet,Solar,Garden,Bed Room,Water Purifier,Modular Kitchen,Parking,Drinking Water,Internet,+ 1 See More",Nakkhu, Lalitpur
+40000000.0,374,5.0,20.0,West,2.5,,5.0,4.0,,,Bhaisepati, Lalitpur
+150000000.0,420,8.2,13.0,South,2.5,,6.0,7.0,,"Earthquake Resistant,Marbel,Parquet,Drainage,Garden,Bathroom,Parking,Washing Machine,AirCon,Internet,Fridge,+ 3 See More",Bhaisepati, Lalitpur
+36500000.0,115,6.2,15.0,East,2.5,,5.0,5.0,,,Hattigaunda, Kathmandu
+39900000.0,276,5.0,15.0,East,2.5,,4.0,4.0,,,Bhaisepati, Lalitpur
+38500000.0,228,4.2,20.0,,2.5,,6.0,5.0,,,Sundarbasti, Kathmandu
+38500000.0,134,5.0,13.0,,2.5,,6.0,5.0,,,Sundarbasti, Kathmandu
+67400000.0,435,10.2,20.0,North-West,2.0,,4.0,3.0,,,Sitapaila, Kathmandu
+110000000.0,320,15.0,15.0,North-East,2.5,,5.0,6.0,,,Budhanilkantha, Kathmandu
+14000000.0,260,3.2,20.0,,1.0,,,,,,Gothatar, Kathmandu
+31500000.0,149,4.0,13.0,South,2.5,,11.0,5.0,,,Gongabu, Kathmandu
+47500000.0,389,4.2,13.0,South-East,2.5,,5.0,4.0,,,Bhaisepati, Lalitpur
+3700000.0,405,75.0,22.0,,2.5,,6.0,4.0,,,Thaiba, Lalitpur
+25000000.0,171,4.0,12.0,South-East,2.5,,5.0,3.0,,,Jarankhu, Kathmandu
+18500000.0,559,4.2,26.0,West,2.5,,4.0,3.0,,,Dhapakhel, Lalitpur
+21000000.0,230,3.3,10.0,East,3.5,,10.0,3.0,,,Sudal, Bhaktapur
+35000000.0,262,6.0,22.0,North-East,2.5,,6.0,4.0,,,Khumaltar, Lalitpur
+27500000.0,617,4.0,17.0,,2.5,,4.0,4.0,,,Nakhipot, Lalitpur
+19000000.0,133,3.2,13.0,North,2.5,,,,,,Baluwa, Kathmandu
+52500000.0,159,8.0,12.0,East,3.0,,8.0,4.0,,,Deuwa chowk, Kathmandu
+45000000.0,179,8.0,13.0,North-East,2.5,,5.0,4.0,,"Earthquake Resistant,Marbel,Parquet,Solar,Iron,Modular Kitchen,Parking,Bathroom,Drainage,Drinking Water,Internet,+ 1 See More",Machhegaun , Kathmandu
+26500000.0,179,3.2,11.0,North-West,2.5,,4.0,4.0,,,Imadol, Lalitpur
+45000000.0,364,6.1,12.0,,2.5,,,,,,Satdobato, Lalitpur
+110000000.0,239,19.0,15.0,North,2.5,,11.0,9.0,,,Swoyambhu, Kathmandu
+21500000.0,315,4.0,13.0,East,2.0,,6.0,,,,Sanagaun, Lalitpur
+3500000.0,234,8.0,15.0,East,,,,,,,Gothatar, Kathmandu
+45000000.0,230,5.2,13.0,,2.5,,5.0,5.0,,,Sinamangal, Kathmandu
+42500000.0,202,5.2,18.0,West,2.5,,7.0,4.0,,,Khumaltar, Lalitpur
+62500000.0,349,8.0,14.5,South-East,2.5,,6.0,3.0,,,Radhe Radhe, Bhaktapur
+42000000.0,640,8.2,13.0,North-East,2.0,,4.0,3.0,,,Dhapakhel, Lalitpur
+15500000.0,497,3.0,19.0,South,1.0,,4.0,,,,Chunikhel, Kathmandu
+33500000.0,204,4.0,15.5,,2.5,,,,,,Kapan, Kathmandu
+29000000.0,253,3.0,26.0,South-East,2.5,,3.0,3.0,,,Dhapakhel, Lalitpur
+32000000.0,486,4.0,20.0,South,2.5,,4.0,4.0,,,Budhanilkantha, Kathmandu
+32500000.0,359,4.1,20.0,,2.5,,,,,,Budhanilkantha, Kathmandu
+49500000.0,110,4.0,12.0,,2.0,,,,,,Sukedhara, Kathmandu
+55000000.0,397,5.0,17.0,,2.5,,3.0,3.0,,,Bhaisepati, Lalitpur
+77500000.0,373,9.2,16.0,East,2.5,,4.0,4.0,,,Sanepa, Lalitpur
+20000000.0,175,3.0,13.0,East,2.0,,5.0,2.0,,,Boharatar, Kathmandu
+48000000.0,266,4.0,25.0,North-East,2.5,,6.0,5.0,,,Budhanilkantha, Kathmandu
+15000000.0,380,10.0,20.0,,1.0,,,,,,Gundu, Bhaktapur
+6000000.0,216,16.0,26.0,South,,,,,,,Raniban, Kathmandu
+40000000.0,617,3.0,20.0,South,2.5,,4.0,4.0,Full-Furnished,,Jhamsikhel, Lalitpur
+36000000.0,256,5.0,45.0,South,2.5,,6.0,3.0,Un-Furnished,,Ekantakuna, Lalitpur
+36500000.0,14.,3.2,20.0,,2.5,,5.0,4.0,Semi-Furnished,,Bhaisepati, Lalitpur
+55000000.0,282,0.0,16.0,North,2.5,,4.0,4.0,,,Godawari, Lalitpur
+53500000.0,168,5.2,21.0,,2.5,,5.0,5.0,,,Grande Villa, Kathmandu
+50000000.0,239,5.1,15.0,,2.5,,5.0,,,,Budhanilkantha, Kathmandu
+55000000.0,140,5.0,20.0,South-West,2.5,,4.0,5.0,,,Bhaisepati, Lalitpur
+32500000.0,247,20.0,18.0,North,2.5,,4.0,4.0,,,Muhanpokhari, Kathmandu
+135000000.0,304,21.0,20.0,East,2.0,,6.0,6.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+30000000.0,206,4.0,0.0,North,2.5,,4.0,,,,Sainbu, Lalitpur
+26000000.0,162,3.0,10.0,North,3.5,,8.0,4.0,,,Pepsicola, Kathmandu
+19500000.0,166,3.2,13.0,,2.5,,,,,,Thankot, Kathmandu
+130000000.0,210,6.0,20.0,South-East,2.0,,,,,,Thamel, Kathmandu
+45000000.0,157,5.0,20.0,North,2.5,,4.0,5.0,,,Sanobharyang, Kathmandu
+105000000.0,151,7.1,16.0,South,4.5,,10.0,8.0,,,Khusibu, Kathmandu
+70000000.0,133,7.0,12.0,East,2.5,,4.0,3.0,Semi-Furnished,,Sukedhara, Kathmandu
+35000000.0,198,3.0,13.0,North,3.0,,,,,,Thulobharyang, Kathmandu
+20500000.0,247,2.2,13.0,North,2.5,,4.0,4.0,Semi-Furnished,,Imadol, Lalitpur
+30000000.0,74 ,4.0,13.0,,1.5,,7.0,,Full-Furnished,,Thankot, Kathmandu
+22500000.0,215,2.2,10.0,South,2.5,,4.0,2.0,,,Lazimpat, Kathmandu
+24000000.0,82 ,3.0,11.0,South,3.0,,5.0,3.0,,,Tokha, Kathmandu
+65000000.0,151,6.0,15.0,,2.5,,,,,,Ganesh Chowk, Kathmandu
+55000000.0,206,4.2,28.0,South-East,2.5,,3.0,4.0,Full-Furnished,,Bhaisepati, Lalitpur
+18500000.0,154,3.2,10.0,,2.5,,8.0,,,,Chandragiri, Kathmandu
+90000000.0,615,12.1,16.0,South,2.5,,5.0,4.0,Full-Furnished,,Maharajgunj, Kathmandu
+40000000.0,236,4.0,26.0,,2.5,,4.0,5.0,Semi-Furnished,,Khumaltar, Lalitpur
+16000000.0,237,3.1,13.0,East,1.0,,4.0,,,,Kapan, Kathmandu
+39000000.0,236,5.0,20.0,North-West,,,6.0,5.0,,,Budhanilkantha, Kathmandu
+62500000.0,213,9.2,13.0,South,2.0,,4.0,3.0,,,Bansbari, Kathmandu
+85000000.0,576,7.0,15.0,,3.5,,6.0,7.0,,,Putalisadak, Kathmandu
+32000000.0,134,4.0,15.0,,2.5,,,,,,Kalanki, Kathmandu
+70000000.0,165,8.0,20.0,West,2.5,,6.0,5.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+31500000.0,160,3.2,20.0,North-East,2.5,,5.0,5.0,,,Golfutar, Kathmandu
+33000000.0,370,4.2,16.0,,3.0,,,4.0,,,Pasikot, Kathmandu
+70000000.0,118,11.0,12.0,East,3.5,,9.0,10.0,,,Lolang, Kathmandu
+26000000.0,172,4.0,10.0,North-East,2.5,,6.0,3.0,,,Tokha, Kathmandu
+140000000.0,3.1,10.0,14.0,West,3.5,,6.0,6.0,Full-Furnished,,Baluwatar, Kathmandu
+55000000.0,92 ,5.2,12.0,South-East,2.5,,5.0,,Full-Furnished,,Mid Baneshwor, Kathmandu
+57500000.0,106,6.0,15.0,South,2.5,,5.0,5.0,,,Rudreshwor, Kathmandu
+29500000.0,156,6.0,10.0,East,3.5,,,,,,Kapan, Kathmandu
+22500000.0,160,4.0,13.0,,2.5,,,,,,Sukedhara, Kathmandu
+100000000.0,112,8.0,16.0,South,3.0,,5.0,3.0,,,Bishalnagar, Kathmandu
+33500000.0,139,5.0,13.0,South,2.5,,5.0,4.0,,,Pasikot, Kathmandu
+175000000.0,185,17.0,15.0,South-East,2.5,,5.0,5.0,,,Budhanilkantha, Kathmandu
+41500000.0,1k ,4.0,17.0,,2.5,,4.0,4.0,,,Deuwa Niwas, Kathmandu
+30000000.0,14 ,3.1,13.0,South,2.5,,,,,,Harisiddhi, Lalitpur
+21000000.0,86 ,3.0,10.0,,2.5,,,,,,Nepaltar, Kathmandu
+26000000.0,75 ,4.0,13.0,,3.0,,,,,,Thankot, Kathmandu
+31000000.0,69 ,4.0,15.0,,,,,,,,Setipakha, Lalitpur
+16000000.0,226,2.2,11.0,South,2.5,,4.0,5.0,,,Ekatabasti, Kathmandu
+33500000.0,113,4.0,13.0,,2.5,,6.0,5.0,,,Budhanilkantha, Kathmandu
+45000000.0,101,3.2,12.0,,5.5,,,15.0,Un-Furnished,,Sorhakhutte, Kathmandu
+21500000.0,151,3.2,12.0,,3.0,,4.0,3.0,,,Pasikot, Kathmandu
+34500000.0,193,4.0,13.0,East,1.5,,5.0,,,,Imadol, Lalitpur
+14500000.0,225,3.0,11.0,North,1.5,,4.0,1.0,,,Imadol, Lalitpur
+26000000.0,192,4.2,16.0,South,2.5,,5.0,3.0,,,Banasthali, Kathmandu
+18500000.0,226,3.2,13.0,,1.0,,4.0,,,,Budhanilkantha, Kathmandu
+77500000.0,804,9.3,20.0,East,,,,,,,Naya Bazar, Kathmandu
+44000000.0,132,3.3,20.0,North,2.5,,4.0,4.0,Full-Furnished,,Bhaisepati, Lalitpur
+36000000.0,175,4.1,20.0,North-East,2.5,,7.0,,,,Imadol, Lalitpur
+75000000.0,182,7.3,24.0,,2.5,,4.0,5.0,,,Budhanilkantha, Kathmandu
+21500000.0,8k ,3.3,13.0,West,2.5,,5.0,3.0,,,Duwakot, Bhaktapur
+39500000.0,90 ,5.0,13.0,South-East,3.0,,7.0,5.0,,,Budhanilkantha, Kathmandu
+140000000.0,120,21.116143170197223,13.0,East,6.0,,,,Semi-Furnished,,New Road, Kathmandu
+22500000.0,152,3.506208911614317,13.0,South,7.0,,,,,,New Road, Kathmandu
+35000000.0,104,6.1,10.0,South-West,2.5,,6.0,,,,Makalbari, Kathmandu
+30000000.0,43 ,4.2,12.0,North,2.5,,6.0,3.0,Semi-Furnished,,Sitapaila, Kathmandu
+23500000.0,190,3.0,20.0,,3.5,,4.0,3.0,,,Tikathali, Lalitpur
+23000000.0,237,3.0,12.0,East,2.5,,4.0,4.0,,,Imadol, Lalitpur
+37500000.0,227,6.0,25.0,South,2.5,,3.0,,,,Dhapasi, Kathmandu
+33800000.0,129,4.2,13.0,,2.5,,6.0,5.0,,,Kapan, Kathmandu
+14000000.0,94 ,3.0,12.0,South-West,1.0,,2.0,1.0,,,Kapan, Kathmandu
+26000000.0,97 ,4.0,13.0,,2.5,,,,,,Budhanilkantha, Kathmandu
+110000000.0,212,10.2,12.0,North-East,5.0,,,,,,Balaju, Kathmandu
+28500000.0,191,4.0,15.0,,2.5,,,,,,Gopikrishna Hall, Kathmandu
+39000000.0,128,4.3,16.0,North,2.0,,,,,,Grande Villa, Kathmandu
+29000000.0,109,6.5566106647187725,20.0,South,2.5,,4.0,4.0,Un-Furnished,,Nakhipot, Lalitpur
+33500000.0,243,3.2,13.0,,2.5,,6.0,2.0,,,Budhanilkantha, Kathmandu
+26500000.0,186,7.3,13.0,North-East,2.0,,,,,,Sirutar, Bhaktapur
+27500000.0,193,4.0,12.0,,4.0,,13.0,4.0,,,Panga, Kathmandu
+28500000.0,150,5.0,14.0,South,1.0,,1.0,,,,Khumaltar, Lalitpur
+5900000.0,229,16.0,36.0,North-West,2.5,,5.0,4.0,,,Thimi, Bhaktapur
+39000000.0,289,5.2,13.0,,2.5,,,,,,Golfutar, Kathmandu
+42500000.0,157,5.0,15.0,,2.5,,,,,,Budhanilkantha, Kathmandu
+175000000.0,102,17.0,50.0,South-East,2.5,,5.0,5.0,,,Budhanilkantha, Kathmandu
+36500000.0,217,3.2,13.0,East,2.5,,3.0,4.0,Semi-Furnished,,Khumaltar, Lalitpur
+35000000.0,88 ,8.0,15.0,West,,,,,,,Balkumari, Lalitpur
+24000000.0,301,4.0,14.0,,2.5,,,,,,Kalanki, Kathmandu
+8500000.0,176,3.2,16.0,,2.0,,,,,,Tarkeshwor, Kathmandu
+25000000.0,118,2.2,13.0,East,2.5,,3.0,,,,Bafal, Kathmandu
+59500000.0,131,6.0,16.5,South-West,2.5,,5.0,5.0,,,Bhaisepati, Lalitpur
+26500000.0,153,2.3,13.0,South-East,4.0,,9.0,3.0,,,Jadibuti, Kathmandu
+7000000.0,107,7.3,13.0,,2.5,,,,,,Dhumbarahi, Kathmandu
+41000000.0,200,3.3,20.0,North,2.5,,4.0,4.0,,,Bhaisepati, Lalitpur
+70000000.0,160,9.0,13.0,,2.5,,,,,,Mid Baneshwor, Kathmandu
+55000000.0,55 ,6.2,13.0,South,5.0,,20.0,22.0,Semi-Furnished,,Gongabu, Kathmandu
+59000000.0,126,7.3,15.0,,2.5,,5.0,5.0,,,Hattigaunda, Kathmandu
+45500000.0,59 ,5.0,15.0,,2.5,,6.0,5.0,,,Hepali Height, Kathmandu
+20500000.0,143,3.0,10.0,,2.5,,7.0,3.0,,,Naya Basti, Kathmandu
+40000000.0,65 ,6.3,25.0,South,2.5,,4.0,3.0,Semi-Furnished,,Gothatar, Kathmandu
+37500000.0,53 ,3.1,10.0,West,3.5,,8.0,3.0,,,Gongabu, Kathmandu
+43500000.0,268,4.2,16.0,West,2.5,,3.0,3.0,Full-Furnished,,Golfutar, Kathmandu
+32500000.0,135,3.214024835646457,16.0,South,3.5,,,,,,Manamaiju, Kathmandu
+31000000.0,129,3.3,13.0,South-West,2.5,,5.0,3.0,,,Dhapasi, Kathmandu
+31000000.0,183,4.0,12.0,South,2.5,,4.0,4.0,,,Banasthali, Kathmandu
+47500000.0,603,4.3,13.0,South,2.5,,,,,,Budhanilkantha, Kathmandu
+27500000.0,296,4.0,13.0,South,2.0,,5.0,3.0,Semi-Furnished,,Manjushree Marga, Lalitpur
+32000000.0,260,3.0,15.0,North-West,2.5,,6.0,5.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+52500000.0,386,7.2,15.0,South,2.5,,7.0,5.0,,,Handigaun, Kathmandu
+60000000.0,260,6.0,13.0,South,3.5,,5.0,5.0,Semi-Furnished,,Chakupat, Lalitpur
+24500000.0,498,3.2,15.0,,2.5,,,,,,Sundarbasti, Kathmandu
+70000000.0,306,7.1,13.0,,4.0,,8.0,12.0,,,Deuwa chowk, Kathmandu
+21500000.0,314,4.3,14.0,North,1.0,,2.0,1.0,,,Satungal, Kathmandu
+57500000.0,344,6.0,15.0,South-East,2.5,,6.0,5.0,Semi-Furnished,,Hattigaunda, Kathmandu
+55000000.0,392,6.2,13.0,South-East,2.5,,6.0,5.0,Semi-Furnished,,Bansbari, Kathmandu
+19500000.0,255,3.0,15.0,,3.5,,,,,,Kapan, Kathmandu
+28500000.0,350,3.1,13.0,East,2.5,,,,,,Mandikhatar, Kathmandu
+150000000.0,280,21.3,14.0,,2.5,,5.0,4.0,Semi-Furnished,,Bhimsengola, Kathmandu
+35000000.0,245,3.1,16.5,South,4.5,,4.0,2.0,,,Ghattekulo, Kathmandu
+65000000.0,176,6.1,16.5,South,3.5,,10.0,4.0,,,Ghattekulo, Kathmandu
+22500000.0,157,3.0,15.0,,2.5,,,,,,Kapan, Kathmandu
+67500000.0,207,8.0,15.0,,2.5,,3.0,3.0,,,Hattigaunda, Kathmandu
+43000000.0,359,5.1,15.0,,2.5,,4.0,4.0,,,Bhaisepati, Lalitpur
+30500000.0,123,3.3,15.0,West,3.0,,5.0,4.0,,,Samakhusi, Kathmandu
+69000000.0,163,5.0,20.0,North,3.5,,8.0,,,,Budhanilkantha, Kathmandu
+40000000.0,284,4.0,13.0,,2.5,,3.0,3.0,Full-Furnished,,Bhaisepati, Lalitpur
+82000000.0,529,10.0,17.5,South-East,2.5,,4.0,5.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+47000000.0,498,6.0,15.0,South,2.0,,4.0,,,,Budhanilkantha, Kathmandu
+19000000.0,114,3.2,13.0,South-East,2.0,,,,,,Budhanilkantha, Kathmandu
+33500000.0,188,4.0,20.0,,2.5,,,,Full-Furnished,,Mahankal, Kathmandu
+33000000.0,225,4.2,10.0,,2.5,,,,,,Dhumbarahi, Kathmandu
+30000000.0,252,3.2,13.0,South,3.0,,6.0,3.0,,,Narayantar, Kathmandu
+46500000.0,355,5.0,16.0,South,2.5,,5.0,4.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+35000000.0,172,4.2,15.0,,,,,,,,Gongabu, Kathmandu
+30000000.0,215,3.2,12.0,,3.5,,,,,,Naya Basti, Kathmandu
+60000000.0,1.3,8.0,15.0,West,,,,,,,Budhanilkantha, Kathmandu
+25500000.0,225,5.0,14.5,,3.5,,5.0,,,,Budhanilkantha, Kathmandu
+24000000.0,781,3.0,11.0,South,3.0,,6.0,3.0,,,Narayantar, Kathmandu
+35000000.0,272,10.2,12.0,,3.5,,,,,,Bhairabchaur, Kathmandu
+25000000.0,439,6.0,12.0,,2.5,,8.0,,,,Budhanilkantha, Kathmandu
+32000000.0,247,4.0,13.0,,2.5,,6.0,4.0,,,Budhanilkantha, Kathmandu
+33000000.0,16.,3.2,20.0,,2.5,,4.0,4.0,Semi-Furnished,"Drainage,Bathroom,Drinking Water,Water Purifier,Earthquake Resistant,Marbel,Parquet,Garden,Modular Kitchen,Parking,Solar,+ 3 See More",Nagdaha, Lalitpur
+47500000.0,206,11.921110299488678,12.0,South,3.5,,9.0,4.0,Un-Furnished,"Earthquake Resistant,Marbel,Sofa,CC Camera,Solar,Water Purifier,Modular Kitchen,Parking,Internet,Drinking Water,Bathroom,+ 2 See More",Sorhakhutte, Kathmandu
+28000000.0,213,5.551497443389335,20.0,South,2.5,,6.0,4.0,Semi-Furnished,,Raniban, Kathmandu
+37500000.0,219,6.0,15.0,,2.5,,4.0,4.0,,,Dhapasi, Kathmandu
+29000000.0,408,3.2,12.0,North,2.5,,6.0,5.0,,,Budhanilkantha, Kathmandu
+37000000.0,234,5.0,10.0,West,2.0,,4.0,2.0,,,Gongabu, Kathmandu
+38500000.0,263,5.2,13.0,,2.5,,,,,,Sampang Chowk, Lalitpur
+47500000.0,501,4.3,15.0,South,2.5,,5.0,,,,Budhanilkantha, Kathmandu
+71500000.0,310,6.0,12.5,East,3.5,,8.0,7.0,,,Baluwatar, Kathmandu
+62000000.0,470,6.1,15.0,South,2.5,,6.0,5.0,,,Ganesh Chowk, Kathmandu
+22500000.0,342,2.2,13.0,East,4.0,,20.0,10.0,,,Gongabu, Kathmandu
+45000000.0,1.6,5.0,13.0,West,2.5,,6.0,5.0,,,Budhanilkantha, Kathmandu
+37500000.0,392,4.2,13.0,,2.5,,5.0,5.0,,,Budhanilkantha, Kathmandu
+31000000.0,258,4.2,16.5,North,2.5,,6.0,5.0,Full-Furnished,,Nakkhu, Lalitpur
+55000000.0,318,8.0,10.0,South,2.5,,4.0,3.0,,,Baluwatar, Kathmandu
+35500000.0,261,4.2,14.0,South,3.5,,6.0,5.0,Semi-Furnished,,Gwarko, Lalitpur
+56000000.0,329,7.0,14.0,West,3.5,,7.0,6.0,,,Gothatar, Kathmandu
+92500000.0,195,9.2,13.0,South-East,3.0,,5.0,5.0,,,Kalimati, Kathmandu
+11000000.0,286,3.0,8.0,North,2.5,,3.0,,,,Nalinchwok, Bhaktapur
+70000000.0,326,8.0,15.0,South,2.5,,3.0,,,,Ganesh Chowk, Kathmandu
+39000000.0,231,4.3,16.0,North,,,4.0,,,,Grande Villa, Kathmandu
+79500000.0,1.8,9.0,15.5,,3.0,,5.0,5.0,Full-Furnished,,Thecho, Lalitpur
+33000000.0,321,4.0,13.0,North,2.5,,6.0,5.0,,,Samakhushi chowk, Kathmandu
+32000000.0,576,4.0,15.0,,2.5,,,,,,Aakasedhara, Kathmandu
+65000000.0,1.1,6.0,20.0,South-East,2.5,,5.0,4.0,,,Dhumbarahi, Kathmandu
+23500000.0,375,3.0,13.0,,3.0,,6.0,4.0,,,Kharibot, Kathmandu
+130000000.0,603,13.0,30.0,North-West,3.5,,5.0,5.0,,,Lazimpat, Kathmandu
+38800000.0,238,5.0,15.0,East,2.5,,,,,,Mandikhatar, Kathmandu
+28500000.0,100,3.0,20.0,,2.5,,,,,,Sukedhara, Kathmandu
+23000000.0,257,3.0,13.0,South-East,2.5,,10.0,,,,Ochu Height, Lalitpur
+36000000.0,257,4.1,10.0,North-East,3.0,,5.0,3.0,,,Nakkhu, Lalitpur
+22500000.0,189,3.2,13.0,West,2.5,,,,,,Ochu Height, Lalitpur
+25000000.0,245,3.1,16.0,North,2.0,,,,,,Imadol, Lalitpur
+23000000.0,284,3.0,13.0,South-East,2.5,,,,,,Tikathali, Lalitpur
+15000000.0,149,3.0,13.0,North,1.0,,,,,,Tikathali, Lalitpur
+30000000.0,243,3.2,13.0,West,2.5,,,,,,Imadol, Lalitpur
+35000000.0,342,3.2,22.0,North,2.5,,,,,,Hattiban, Lalitpur
+25000000.0,185,3.2,13.0,South,2.5,,,,,,Hattiban, Lalitpur
+19500000.0,304,2.2,13.0,South,2.5,,,,,,Tikathali, Lalitpur
+37500000.0,209,4.0,13.0,South,2.5,,,,,,Imadol, Lalitpur
+19500000.0,177,2.2,13.0,South,2.5,,,,,,Tikathali, Lalitpur
+38500000.0,238,5.1,13.0,South-East,2.5,,,,,,Kapan, Kathmandu
+21500000.0,208,5.2,5.0,South-East,2.5,,5.0,2.0,,,Chabahil, Kathmandu
+33500000.0,114,4.1,15.0,South-West,2.5,,5.0,5.0,Semi-Furnished,,Chapali, Kathmandu
+37800000.0,271,5.2,15.5,,2.5,,4.0,5.0,,,Hattigaunda, Kathmandu
+26500000.0,176,3.1,18.0,North,2.5,,4.0,4.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+37000000.0,147,6.0,13.0,North,2.5,,6.0,5.0,Full-Furnished,,Budhanilkantha, Kathmandu
+12000000.0,168,3.0,13.0,South-East,1.0,,2.0,1.0,,,Lamatar, Lalitpur
+60000000.0,64 ,8.3,13.0,East,3.5,,4.0,5.0,,,Bafal, Kathmandu
+29000000.0,143,4.0,13.0,North-East,4.5,,11.0,4.0,Semi-Furnished,,Kadaghari, Kathmandu
+47000000.0,128,5.0,14.0,,2.5,,,,,,Hattigaunda, Kathmandu
+82000000.0,217,10.0,15.0,South,2.5,,4.0,5.0,,,Budhanilkantha, Kathmandu
+44000000.0,143,5.0,14.0,,2.5,,6.0,,,,Hattigaunda, Kathmandu
+39500000.0,281,4.1,13.0,North-East,3.0,,7.0,5.0,,,Hattiban, Lalitpur
+35000000.0,98 ,3.0,20.0,South,2.5,,3.0,4.0,Full-Furnished,,Karyabinayak, Lalitpur
+25000000.0,132,2.1,13.0,West,2.0,,6.0,2.0,Semi-Furnished,,Gwarko, Lalitpur
+62500000.0,115,6.2,13.0,South-West,2.5,,5.0,6.0,Semi-Furnished,,Bhaisepati, Lalitpur
+52500000.0,122,6.2,13.0,North,4.0,,36.0,17.0,Semi-Furnished,,Shantinagar, Kathmandu
+15000000.0,225,2.2,13.0,South,2.5,,,,,,Sipadol, Bhaktapur
+60000000.0,166,6.1,13.0,,5.5,,,,,,Machhapokhari, Kathmandu
+82000000.0,85 ,10.0,15.0,South,2.5,,4.0,5.0,,,Budhanilkantha, Kathmandu
+24000000.0,125,3.1,13.0,,2.5,,,,,,Kapan, Kathmandu
+49500000.0,125,8.0,13.0,East,2.5,,8.0,5.0,Semi-Furnished,,Deuwa chowk, Kathmandu
+18000000.0,154,3.0,13.0,,2.5,,,,,,Taudaha, Kathmandu
+33500000.0,233,4.1,15.0,South-West,2.5,,5.0,5.0,Semi-Furnished,,Chapali, Kathmandu
+45000000.0,189,8.2,12.5,South-East,2.5,,6.0,3.0,,,Budhanilkantha, Kathmandu
+30000000.0,229,9.0,13.0,North,2.5,,5.0,4.0,,,Muhanpokhari, Kathmandu
+87500000.0,119,11.0,15.0,East,2.5,,5.0,7.0,,,Mandikhatar, Kathmandu
+41000000.0,175,5.0,13.0,North,2.0,,,,,,Dholahiti, Lalitpur
+34000000.0,128,5.0,13.0,North-East,2.5,,6.0,5.0,,,Pasikot, Kathmandu
+44500000.0,159,5.0,15.0,West,2.5,,5.0,5.0,Semi-Furnished,,Golfutar, Kathmandu
+110000000.0,190,18.0,18.0,West,2.5,,5.0,4.0,Semi-Furnished,,Narayanthan , Kathmandu
+85000000.0,247,11.0,15.0,North,2.5,,5.0,5.0,Semi-Furnished,,Narayanthan , Kathmandu
+28500000.0,166,4.1,13.0,South,2.5,,6.0,5.0,,,Chunikhel, Kathmandu
+27500000.0,297,4.0,13.0,South,2.5,,5.0,4.0,Semi-Furnished,,Bhaisepati, Lalitpur
+17000000.0,108,3.2,13.0,,1.0,,2.0,1.0,,,Baluwakhani, Kathmandu
+48500000.0,82 ,8.0,20.0,,2.5,,4.0,4.0,Semi-Furnished,,Hasantar, Kathmandu
+65000000.0,135,6.1,14.0,South,2.5,,5.0,4.0,Full-Furnished,"Earthquake Resistant,Marbel,Fridge,Sofa,Solar,Dining Room,Microwave,Washing Machine,Bed Room,Garden,Modular Kitchen,+ 8 See More",Golfutar, Kathmandu
+49500000.0,164,4.0,13.0,South-East,2.5,,4.0,4.0,Full-Furnished,,Bhaisepati, Lalitpur
+35000000.0,42 ,5.0,18.0,East,2.5,,,,,,Jyotinagar, Kathmandu
+24000000.0,190,2.3,10.0,East,3.0,,,3.0,,,Dhobichaur, Kathmandu
+535000000.0,282,25.2,68.0,,4.0,,,,,,Balkumari, Lalitpur
+3000000.0,118,9.0,4.0,East,2.5,,4.0,2.0,Un-Furnished,,Tinthana, Kathmandu
+24500000.0,92 ,3.0,20.0,,2.5,,,,,,Baluwakhani, Kathmandu
+17000000.0,131,3.3,10.0,South,2.5,,5.0,3.0,,,Goldhunga, Kathmandu
+25000000.0,845,3.0,16.0,South-East,3.5,,4.0,5.0,Semi-Furnished,,Bhaisepati, Lalitpur
+80000000.0,127,10.0,10.0,South-East,2.5,,,5.0,,,Baluwatar, Kathmandu
+37500000.0,158,4.0,14.0,,2.5,,7.0,5.0,Full-Furnished,,Jyotinagar, Kathmandu
+35000000.0,87 ,6.0,16.0,,2.5,,,,,,Bhangal , Kathmandu
+30000000.0,162,4.0,12.0,,2.5,,7.0,5.0,,,Sitapaila, Kathmandu
+45000000.0,138,5.0,20.0,South-East,3.5,,7.0,7.0,,,Pingalasthan, Kathmandu
+35000000.0,110,5.0,13.0,West,2.5,,5.0,5.0,,,Rudreshwor, Kathmandu
+60000000.0,146,9.1,13.0,South-West,2.5,,4.0,5.0,,,Budhanilkantha, Kathmandu
+22000000.0,66 ,2.3,15.0,North-West,3.5,,7.0,3.0,,,Sitapaila, Kathmandu
+85000000.0,253,4.1,20.0,South,3.5,,7.0,4.0,Full-Furnished,,Syuchatar, Kathmandu
+24900000.000000004,99 ,3.2,13.0,,2.5,,,,,,Sundarbasti, Kathmandu
+31500000.0,150,4.1,13.0,East,3.5,,,,,,Chunikhel, Kathmandu
+19000000.0,218,4.0,20.0,North,2.5,,,,,,Tokha, Kathmandu
+26000000.0,130,3.0,14.0,South-West,2.5,,3.0,4.0,Un-Furnished,,Grande Hospital, Kathmandu
+22500000.0,155,3.5,13.0,,2.5,,,,,,Jyotinagar, Kathmandu
+145000000.0,185,15.0,20.0,North-East,2.5,,4.0,5.0,Semi-Furnished,,Mandikhatar, Kathmandu
+27500000.0,251,4.2,13.0,South,2.5,,4.0,4.0,Semi-Furnished,,Bafal, Kathmandu
+110000000.0,116,6.0,17.0,,8.0,,,,,,New Buspark, Kathmandu
+32200000.000000004,67 ,5.2,12.0,,2.5,,,,,,Suryabinayak, Bhaktapur
+35000000.0,106,4.2,20.0,North,3.5,,,,,,Mhaipi, Kathmandu
+170000000.0,30 ,4.1,12.0,North,6.0,,,,,,Ason, Kathmandu
+51000000.0,67 ,4.3,20.0,West,2.5,,4.0,3.0,Full-Furnished,,Vinayak Colony, Lalitpur
+27500000.0,219,3.2,20.0,South,2.5,,4.0,5.0,,,Bhaisepati, Lalitpur
+40000000.0,57 ,4.0,27.0,South-West,2.5,,4.0,5.0,,,Dhapakhel, Lalitpur
+170000000.0,171,8.0,20.0,South-West,5.5,,,8.0,,,Baluwatar, Kathmandu
+61000000.0,136,6.0,15.0,North-East,2.5,,6.0,5.0,,,Budhanilkantha, Kathmandu
+165000000.0,215,9.0,32.0,West,6.5,,4.0,9.0,,,Jalpa Chowk, Kathmandu
+26000000.0,152,3.0,13.0,South-West,2.5,,5.0,3.0,,,Kadaghari, Kathmandu
+39000000.0,159,4.0,20.0,South,2.5,,4.0,,Semi-Furnished,,Syuchatar, Kathmandu
+28500000.0,101,4.0,14.0,,2.5,,3.0,6.0,,,Bafal, Kathmandu
+19500000.0,109,3.0,13.0,West,2.5,,5.0,3.0,,,Makalbari, Kathmandu
+32500000.0,36 ,5.0,11.5,West,3.0,,12.0,,Semi-Furnished,,Imadol, Lalitpur
+40000000.0,111,104.0,12.0,,3.5,,7.0,5.0,,,Dhapakhel, Lalitpur
+15500000.0,221,3.1,14.0,,1.0,,,,,,Budhanilkantha, Kathmandu
+65500000.0,237,8.2,12.0,South-East,2.5,,6.0,4.0,Semi-Furnished,,Tenzing Chowk, Kathmandu
+32000000.0,250,3.3,16.5,North-East,2.5,,4.0,4.0,,,Bhaisepati, Lalitpur
+155000000.0,573,18.3,14.0,South,3.0,,5.0,5.0,,,Siddhartha Colony, Kathmandu
+36000000.0,39 ,4.1,16.0,South-East,3.5,,7.0,7.0,,,Dhapasi, Kathmandu
+18000000.0,323,1.1,5.0,East,4.5,,7.0,,,,Nardevi, Kathmandu
+32500000.0,118,4.0,13.0,,2.0,,5.0,4.0,,,Ganesh Chowk, Kathmandu
+18500000.0,155,3.1,10.0,West,4.0,,7.0,5.0,,,Paiyuntar, Kathmandu
+100000000.0,98 ,14.0,13.0,South,3.5,,8.0,6.0,,,Maitidevi, Kathmandu
+27000000.0,34 ,3.0,20.0,North-East,2.5,,5.0,4.0,Semi-Furnished,,Dhapakhel, Lalitpur
+28500000.0,117,4.3,13.0,South,2.0,,4.0,2.0,Full-Furnished,,Changathali, Lalitpur
+33000000.0,109,4.0,13.0,South-East,2.5,,,,,,Imadol, Lalitpur
+36500000.0,44 ,3.3,20.0,,3.5,,,,,,Imadol, Lalitpur
+36500000.0,98 ,4.2,13.0,East,2.5,,,,,,Imadol, Lalitpur
+51000000.0,110,4.3,20.0,West,2.5,,4.0,2.0,Full-Furnished,,Vinayak Colony, Lalitpur
+22000000.0,61 ,4.0,13.0,East,2.0,,4.0,,,,Tikathali, Lalitpur
+35000000.0,200,4.0,13.0,,2.5,,4.0,3.0,,,Tokha, Kathmandu
+23000000.0,163,3.0,12.0,East,2.5,,,,,,Imadol, Lalitpur
+22000000.0,96 ,3.1,16.0,South,2.5,,,,,,Sanagaun, Lalitpur
+35000000.0,326,4.0,13.0,North,3.5,,,,,,Imadol, Lalitpur
+23000000.0,79 ,3.1,10.5,South-East,2.5,,,,,,Imadol, Lalitpur
+28500000.0,112,3.3,13.0,East,2.5,,,,,,Imadol, Lalitpur
+42500000.0,152,6.0,12.5,South-West,3.0,,8.0,3.0,,,Balkhu, Kathmandu
+24000000.0,121,5.1,15.0,East,2.5,,,,,,Khumaltar, Lalitpur
+45000000.0,164,5.1,15.0,,2.5,,6.0,5.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+85000000.0,144,6.1,14.0,East,3.5,,,,,,Mid Baneshwor, Kathmandu
+22300000.0,69 ,3.0,16.0,North,2.5,,3.0,3.0,Semi-Furnished,,Balkhu, Kathmandu
+100000000.0,220,20.0,13.0,North,2.5,,5.0,3.0,,,Thulobharyang, Kathmandu
+27500000.0,84 ,4.0,13.0,,2.5,,6.0,6.0,,,Mandikhatar, Kathmandu
+125000000.0,189,14.0,40.0,South,3.0,,,,,,Imadol, Lalitpur
+30000000.0,235,4.3,15.0,West,3.5,,6.0,3.0,,,Suryadarshan Height, Kathmandu
+25000000.0,188,3.3,13.0,South-West,2.5,,5.0,4.0,,,Imadol, Lalitpur
+57500000.0,60 ,5.0,16.0,,2.0,,4.0,5.0,,,Baluwatar, Kathmandu
+70000000.0,78 ,10.0,11.0,,2.5,,7.0,6.0,,,Satdobato, Lalitpur
+160000000.0,231,17.2,16.0,,2.5,,3.0,3.0,,,Budhanilkantha, Kathmandu
+25500000.0,183,4.1,6.5,,2.0,,7.0,4.0,,,Ghattekulo, Kathmandu
+56500000.0,403,5.0,16.0,,2.5,,5.0,5.0,,,Gyaneshwor, Kathmandu
+21800000.0,112,3.1,13.0,East,2.5,,4.0,4.0,,,Imadol, Lalitpur
+8000000.0,146,10.0,14.0,East,3.5,,,,,,Maitidevi, Kathmandu
+50000000.0,84 ,4.2,36.0,East,3.5,,,,,,Pepsicola, Kathmandu
+30000000.0,33 ,4.3,20.0,South,2.5,,5.0,4.0,,,Pasikot, Kathmandu
+29900000.000000004,60 ,4.5,10.0,West,3.5,,8.0,4.0,,,Goldhunga, Kathmandu
+7000000.0,291,8.2,20.0,North,2.5,,6.0,3.0,,,Baneshwor, Kathmandu
+45000000.0,120,5.0,22.0,South-East,3.5,,21.0,5.0,,,Samakhushi chowk, Kathmandu
+10000000.0,361,18.0,13.0,South,2.5,,5.0,7.0,,,Kaushaltar, Bhaktapur
+29900000.000000004,122,5.000657414170927,10.0,West,3.5,,8.0,4.0,Semi-Furnished,"Earthquake Resistant,Marbel,Gym,Fridge,Sofa,Dining Room,Bed Room,Garden,Modular Kitchen,Drinking Water,Bathroom,+ 5 See More",Goldhunga, Kathmandu
+150000000.0,131,18.0,20.0,South-East,2.5,,6.0,5.0,,,Siddhartha Colony, Kathmandu
+40000000.0,111,4.0,17.0,,2.5,,5.0,5.0,Semi-Furnished,,Nakhudole, Lalitpur
+13300000.0,281,3.0,12.0,,1.0,,,,,,Chunikhel, Kathmandu
+19000000.0,118,2.2,10.0,South,2.5,,4.0,2.0,,,Imadol, Lalitpur
+40000000.0,120,13.3,16.0,North-East,3.0,,,,Semi-Furnished,"Fridge,Sofa,CC Camera,Solar,Dining Room,Microwave,Garden,Bed Room,Washing Machine,Modular Kitchen,Playground,+ 6 See More",Matatirtha, Kathmandu
+70000000.0,222,15.0,36.0,South,2.5,,7.0,2.0,Semi-Furnished,,Dhunchepakha, Bhaktapur
+33000000.0,91 ,3.3,22.0,,2.5,,,,,,Kapan, Kathmandu
+16000000.0,180,1.0,15.0,,4.0,,3.0,4.0,,,Patan, Lalitpur
+32500000.0,70 ,6.0,10.0,East,2.5,,5.0,1.0,,,Dhapasi, Kathmandu
+45000000.0,154,5.2,15.0,,2.5,,6.0,5.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+37500000.0,37 ,6.0,14.0,North-East,2.5,,7.0,5.0,Semi-Furnished,"Earthquake Resistant,Marbel,Fridge,Sofa,Solar,Dining Room,Microwave,Washing Machine,Bed Room,Garden,Modular Kitchen,+ 8 See More",Hattigaunda, Kathmandu
+125000000.0,60 ,15.3,22.0,North,4.0,,6.0,4.0,Un-Furnished,,Imadol, Lalitpur
+34500000.0,176,5.1,13.0,East,2.5,,7.0,5.0,,,Baluwakhani, Kathmandu
+14300000.0,215,2.2,12.0,South,2.5,,3.0,3.0,Semi-Furnished,,Jorpati, Kathmandu
+65000000.0,51 ,6.0,16.0,South-West,5.0,,9.0,9.0,Un-Furnished,,Uttardhoka, Kathmandu
+85000000.0,161,9.0,13.0,East,3.5,,,,,,New Buspark, Kathmandu
+95000000.0,144,10.0,13.0,East,3.5,,,,,,Mitrapark, Kathmandu
+23000000.0,177,3.1,13.0,East,2.5,,,,,,Boharatar, Kathmandu
+75000000.0,115,8.3,13.0,South,2.5,,5.0,6.0,,,Chappal karkhana, Kathmandu
+6000000.0,123,18.0,15.0,North,2.5,,,,,,Thulobharyang, Kathmandu
+21000000.0,292,3.1,13.0,South,2.5,,,,,,Balkot, Bhaktapur
+23500000.0,210,3.1,20.0,North,3.0,,4.0,,Full-Furnished,,Darjeeling Height, Bhaktapur
+10500000.0,163,3.2,10.0,South,1.0,,3.0,1.0,,,Sudal, Bhaktapur
+50000000.0,215,6.0,13.0,South,2.5,,4.0,5.0,Semi-Furnished,,Bhaisepati, Lalitpur
+120000000.0,219,12.0,10.0,South-East,3.5,,,4.0,,,Maharajgunj, Kathmandu
+23500000.0,100,3.0,13.0,East,2.5,,,,,,Imadol, Lalitpur
+29500000.0,99 ,4.0,13.0,South,2.5,,3.0,3.0,Full-Furnished,"Earthquake Resistant,Parquet,Fridge,Sofa,CC Camera,Solar,Dining Room,Modular Kitchen,Parking,Drainage,Bathroom,+ 2 See More",Dhapasi, Kathmandu
+32000000.0,190,3.3,16.5,North-East,2.5,,4.0,4.0,,,Bhaisepati, Lalitpur
+92500000.0,38 ,17.0,17.0,South,3.5,,7.0,5.0,Semi-Furnished,,Narayanthan , Kathmandu
+40000000.0,140,4.0,27.0,South-West,2.5,,4.0,5.0,Semi-Furnished,,Dholahiti, Lalitpur
+35000000.0,88 ,4.0,14.0,South-East,2.5,,7.0,4.0,Full-Furnished,,Jyotinagar, Kathmandu
+21000000.0,325,2.2,20.0,South-East,2.0,,3.0,3.0,,,Thecho, Lalitpur
+22500000.0,330,3.1,13.0,North,2.5,,,,,,Imadol, Lalitpur
+22500000.0,521,3.0,13.0,West,2.5,,,,,,Ochu Height, Lalitpur
+27000000.0,59 ,4.0,18.0,,2.5,,,,,,Bhangal , Kathmandu
+29500000.0,273,5.0,13.0,North,2.5,,5.0,5.0,Semi-Furnished,,Sitapaila, Kathmandu
+37500000.0,219,7.0,13.0,South,2.5,,4.0,,,,Sitapaila, Kathmandu
+20500000.0,87 ,3.0,16.0,East,2.5,,4.0,3.0,,,Goldhunga, Kathmandu
+25000000.0,137,3.0,13.0,South-East,2.5,,10.0,5.0,,,Mandikhatar, Kathmandu
+38000000.0,82 ,4.1,12.0,North-East,2.5,,4.0,1.0,,,Bhaisepati, Lalitpur
+47000000.0,33 ,6.2,20.0,West,2.5,,5.0,3.0,,,Sitapaila, Kathmandu
+34000000.0,118,4.0,13.0,South,2.5,,4.0,2.0,Semi-Furnished,,Imadol, Lalitpur
+30000000.0,90 ,3.2,13.0,East,3.0,,8.0,3.0,,,Attarkhel, Kathmandu
+34000000.0,56 ,5.0,13.0,,2.5,,5.0,3.0,,,Baluwakhani, Kathmandu
+44000000.0,67 ,3.1,16.0,,4.5,,6.0,,,,Shankhamul, Kathmandu
+43500000.0,84 ,3.1,14.0,,3.5,,7.0,,,,Buddhanagar, Kathmandu
+22000000.0,45 ,3.2,14.0,North,2.0,,4.0,2.0,,,Syuchatar, Kathmandu
+22500000.0,79 ,3.2,13.0,,2.5,,,,,,Kapan, Kathmandu
+60000000.0,50 ,11.0,17.0,North,2.5,,3.0,3.0,,,Grande Villa, Kathmandu
+49900000.0,290,4.0,14.0,,3.5,,,,Semi-Furnished,,Baneshwor, Kathmandu
+50000000.0,181,6.0,13.0,South,2.5,,4.0,5.0,Semi-Furnished,,Bhaisepati, Lalitpur
+106000000.0,329,15.2,15.0,West,2.5,,6.0,4.0,,,Lazimpat, Kathmandu
+62000000.0,168,9.2,20.0,,2.5,,4.0,6.0,,,Budhanilkantha, Kathmandu
+26000000.0,82 ,4.0,11.0,South,2.5,,6.0,3.0,,,Lambagar, Kathmandu
+27000000.0,56 ,3.0,32.0,,2.5,,,,,,Kathmandu,
+27500000.0,26 ,3.1,16.0,West,3.0,,,,,,Baluwakhani, Kathmandu
+42500000.0,37 ,4.0,20.0,,2.5,,,,,,Mandikhatar, Kathmandu
+35000000.0,144,6.0,20.0,West,2.5,,6.0,4.0,Semi-Furnished,"Earthquake Resistant,Power Backup,Internet,Drinking Water,Bathroom,TV,Drainage,Playground,Parking,Water Purifier,Washing Machine,+ 5 See More",Ochu Height, Lalitpur
+32500000.0,83 ,5.0,18.0,South-East,3.0,,5.0,4.0,,,Pepsicola, Kathmandu
+18500000.0,202,2.3,13.0,,2.5,,,,,,Kapan, Kathmandu
+27500000.0,32 ,3.1,16.0,West,2.5,,,,,,Nikhileshwor, Kathmandu
+19500000.0,191,2.2,13.0,West,2.5,,5.0,3.0,,,Tikathali, Lalitpur
+12000000.0,146,3.1,20.0,North-East,1.0,,2.0,1.0,,,Danchhi, Kathmandu
+45500000.0,72 ,6.0,15.0,,2.5,,5.0,3.0,Semi-Furnished,,Kapan, Kathmandu
+47000000.0,65 ,9.0,12.0,East,2.5,,6.0,2.0,,,Dhapasi, Kathmandu
+9000000.0,160,3.2,13.0,East,2.0,,5.0,1.0,,,Jagdol, Kathmandu
+45000000.0,66 ,6.0,13.0,,2.5,,4.0,,,,Pasikot, Kathmandu
+62500000.0,89 ,9.2,15.0,,2.5,,4.0,,,,Budhanilkantha, Kathmandu
+27500000.0,114,4.0,14.0,,2.5,,4.0,,,,Bhangal , Kathmandu
+28000000.0,230,4.0,13.0,,2.5,,6.0,,,,Suryadarshan Height, Kathmandu
+90000000.0,156,6.0,15.0,South-East,2.5,,5.0,5.0,Semi-Furnished,,Bhaisepati, Lalitpur
+29500000.0,139,3.2,13.0,,2.5,,6.0,,,,Budhanilkantha, Kathmandu
+45000000.0,63 ,4.2,13.0,South-East,2.5,,5.0,4.0,Full-Furnished,,Bhaisepati, Lalitpur
+60000000.0,107,7.2,13.0,,2.5,,5.0,5.0,Full-Furnished,,Budhanilkantha, Kathmandu
+75000000.0,129,7.3,24.0,,2.5,,4.0,5.0,,,Budhanilkantha, Kathmandu
+26500000.0,92 ,3.1,13.0,West,2.5,,6.0,4.0,Full-Furnished,,Mandikhatar, Kathmandu
+41000000.0,81 ,4.2,30.0,,4.0,,6.0,5.0,,,Manabahadur Marga, Kathmandu
+21500000.0,51 ,3.2,12.0,,3.0,,4.0,3.0,,,Pasikot, Kathmandu
+58000000.0,102,6.0,14.0,South,2.5,,5.0,5.0,,,Budhanilkantha, Kathmandu
+38500000.0,124,5.0,13.0,,2.5,,6.0,4.0,Full-Furnished,,Mandikhatar, Kathmandu
+24500000.0,41 ,3.1,13.0,,2.5,,,,,,Imadol, Lalitpur
+33500000.0,77 ,4.0,13.0,North-East,2.5,,4.0,5.0,Semi-Furnished,,Hepali Height, Kathmandu
+67500000.0,147,8.765522279035793,20.0,South,2.5,,5.0,4.0,,,Pepsicola, Kathmandu
+40000000.0,92 ,4.2,20.0,South-East,2.5,,6.0,4.0,,,Bhaisepati, Lalitpur
+39000000.0,115,4.2,14.0,South,2.5,,4.0,4.0,,,Khumaltar, Lalitpur
+31000000.0,200,4.2,14.0,South-West,3.5,,6.0,5.0,,,Raniban, Kathmandu
+40000000.0,123,4.2,11.0,West,2.5,,4.0,4.0,,,Kusunti, Lalitpur
+125000000.0,93 ,19.0,12.0,South,2.5,,6.0,4.0,,,Golfutar, Kathmandu
+31500000.0,207,5.0,12.0,South-West,2.5,,6.0,5.0,,,Aakasedhara, Kathmandu
+40000000.0,82 ,4.1,13.0,North-East,3.0,,7.0,5.0,,,Hattiban, Lalitpur
+32000000.0,68 ,4.1,13.0,North-East,2.5,,,,Full-Furnished,,Bhangal , Kathmandu
+32500000.0,618,66.0,13.0,West,2.5,,5.0,4.0,Semi-Furnished,,Nakhipot, Lalitpur
+10000000.0,160,2.2,13.0,North-West,1.0,,3.0,1.0,,,Tokha, Kathmandu
+130000000.0,202,8.2,27.0,South-West,5.0,,,,,,Maijubahal, Kathmandu
+26500000.0,155,5.0,36.0,North-East,2.5,,8.0,4.0,,,Dharmasthali, Kathmandu
+32500000.0,22 ,4.0,13.0,East,2.5,,4.0,2.0,,,Golfutar, Kathmandu
+67500000.0,197,4.0,20.0,North,3.5,,4.0,6.0,Semi-Furnished,,Lazimpat, Kathmandu
+62000000.0,131,7.2,13.0,West,5.0,,17.0,10.0,Semi-Furnished,,Manbhawan, Lalitpur
+13500000.0,90 ,3.0,13.0,,1.0,,2.0,1.0,,,Kapan, Kathmandu
+5000000.0,233,12.0,13.0,South-East,4.0,,8.0,4.0,,,Gwarko, Lalitpur
+42000000.0,142,4.2,20.0,North-East,2.5,,6.0,,,,Bhaisepati, Lalitpur
+33500000.0,77 ,4.0,13.0,North-East,2.5,,4.0,5.0,Semi-Furnished,,Hepali Height, Kathmandu
+36000000.0,73 ,5.0,14.0,South-West,2.5,,6.0,5.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+33500000.0,176,3.0,20.0,North,5.0,,16.0,7.0,,,Machhapokhari, Kathmandu
+32000000.0,333,1.3,13.0,South,4.0,,,,,,Yetkha, Kathmandu
+75000000.0,228,6.2,20.0,South-East,2.5,,6.0,5.0,,,Bhaisepati, Lalitpur
+165000000.0,181,20.0,13.0,East,2.5,,5.0,7.0,,,Sitapaila, Kathmandu
+45000000.0,123,8.0,15.0,North-East,2.5,,4.0,3.0,,,Pasikot, Kathmandu
+58000000.0,89 ,9.1,17.5,South,3.5,,5.0,5.0,,,Dhapasi, Kathmandu
+65000000.0,61 ,124.0,15.0,,2.5,,5.0,5.0,Full-Furnished,,Baluwatar, Kathmandu
+24000000.0,102,3.3,28.0,North-West,2.5,,5.0,3.0,,,Gothatar, Kathmandu
+50000000.0,96 ,6.0,10.5,,3.0,,5.0,5.0,,,Gaurighat, Kathmandu
+65000000.0,140,15.2,24.0,West,3.0,,6.0,6.0,,,Bhangal , Kathmandu
+22500000.0,41 ,3.0,14.0,,3.0,,,,,,Baluwakhani, Kathmandu
+21000000.0,131,3.0,13.0,,2.5,,3.0,3.0,,,Imadol, Lalitpur
+105000000.0,682,13.0,13.0,,2.5,,4.0,4.0,,,Budhanilkantha, Kathmandu
+46000000.0,171,6.0,13.0,,2.5,,4.0,4.0,,,Budhanilkantha, Kathmandu
+36000000.0,191,4.1,16.0,South-East,2.5,,,,,,Ekatabasti, Kathmandu
+34500000.0,89 ,4.3,13.0,,2.5,,,,Semi-Furnished,,Mandikhatar, Kathmandu
+27500000.0,136,3.2,13.0,North,2.5,,,3.0,,,Jalpa Chowk, Kathmandu
+44000000.0,66 ,7.0,13.0,North-East,2.5,,5.0,4.0,,,Dhapasi, Kathmandu
+13799999.999999998,101,3.0,13.0,,1.0,,2.0,1.0,,,Lolang, Kathmandu
+18500000.0,74 ,3.0,13.0,South,2.5,,,,,,Ekatabasti, Kathmandu
+24000000.0,245,2.2,24.0,North,4.0,,4.0,4.0,Semi-Furnished,,Radhe Radhe, Bhaktapur
+24000000.0,83 ,3.0,13.0,East,2.5,,,,,,Deuwa chowk, Kathmandu
+37500000.0,104,5.0,13.0,West,2.5,,,,,,Bhangal , Kathmandu
+29500000.0,51 ,4.0,13.0,East,3.0,,,,,,Bhangal , Kathmandu
+37800000.0,29 ,5.0,13.0,,2.5,,6.0,4.0,Full-Furnished,,Mandikhatar, Kathmandu
+85000000.0,205,8.0,10.0,,3.5,,,,,,New Baneshwor, Kathmandu
+60000000.0,156,8.0,12.0,North,2.5,,6.0,4.0,Semi-Furnished,,Bhaisepati, Lalitpur
+38000000.0,126,6.3,11.5,East,3.5,,7.0,7.0,,,Sitapaila, Kathmandu
+24000000.0,20 ,3.2,20.0,East,2.5,,6.0,3.0,Semi-Furnished,,Pepsicola, Kathmandu
+15000000.0,71 ,2.2,13.0,South,3.0,,,3.0,Un-Furnished,,Sitapaila, Kathmandu
+31500000.0,97 ,4.0,14.0,West,3.0,,,,,,Narephat, Kathmandu
+77500000.0,104,3.0,13.0,East,6.0,,,6.0,,,Putalisadak, Kathmandu
+250000000.0,405,11.0,13.0,South-East,,,25.0,30.0,Full-Furnished,,Thamel, Kathmandu
+110000000.0,161,19.0,14.0,,2.5,,4.0,4.0,,,Kusunti, Lalitpur
+35000000.0,153,4.0,13.0,East,2.5,,5.0,4.0,Semi-Furnished,,Ganesh Chowk, Kathmandu
+28000000.0,132,4.0,13.0,South-West,2.5,,,,,,Chunikhel, Kathmandu
+35000000.0,261,6.0,25.0,West,2.5,,,,,,Baluwatar, Kathmandu
+33000000.0,96 ,4.0,20.0,North,3.0,,4.0,4.0,Semi-Furnished,,Mhaipi, Kathmandu
+67000000.0,111,7.1,13.0,West,2.5,,3.0,3.0,Full-Furnished,,Basundhara, Kathmandu
+22000000.0,33 ,1.7531044558071585,12.0,South-East,2.5,,6.0,4.0,Semi-Furnished,"Earthquake Resistant,Marbel,Fridge,Solar,Dining Room,Garden,Parking,Internet,Drinking Water,Bathroom,TV,+ 1 See More",Tikathali, Lalitpur
+28500000.0,479,3.2,20.0,North-East,2.5,,7.0,4.0,,,Imadol, Lalitpur
+36000000.0,139,5.0,13.0,,2.5,,5.0,4.0,,,Budhanilkantha, Kathmandu
+10500000.0,95 ,3.2,10.0,West,1.0,,2.0,1.0,,,Sudal, Bhaktapur
+21000000.0,65 ,3.1,12.0,East,2.5,,5.0,3.0,,,Dhapasi, Kathmandu
+23500000.0,130,3.2,20.0,South,2.5,,5.0,3.0,Semi-Furnished,,Harisiddhi, Lalitpur
+68000000.0,98 ,6.3,14.0,East,2.5,,5.0,4.0,Full-Furnished,,Rudreshwor, Kathmandu
+64000000.0,34 ,8.0,15.0,,3.0,,8.0,6.0,,,Nakkhu, Lalitpur
+60000000.0,151,7.0,14.0,East,2.0,,5.0,4.0,,,Thapathali, Kathmandu
+35000000.0,39 ,6.2,8.0,North,3.5,,5.0,3.0,,"Marbel,Parquet,Solar,Dining Room,Drinking Water,Bathroom,Garden,Playground,Bed Room,Water Purifier,Fridge,+ 3 See More",Maijubahal, Kathmandu
+140000000.0,1.2,23.0,15.0,North,2.5,,6.0,7.0,,,Budhanilkantha, Kathmandu
+24000000.0,142,3.2,13.0,South,2.5,,5.0,4.0,,,Kusunti, Lalitpur
+19000000.0,89 ,2.2,13.0,South,3.0,,6.0,4.0,Semi-Furnished,,Dhapakhel, Lalitpur
+25500000.0,116,3.2,12.0,,3.0,,,,,,Sundarbasti, Kathmandu
+40000000.0,107,15.2,14.0,South,2.5,,5.0,4.0,,,Chandragiri, Kathmandu
+35000000.0,81 ,5.2,16.0,,2.5,,,,,,Basundhara, Kathmandu
+37500000.0,181,5.2,14.0,South,3.0,,5.0,4.0,,,Wasik, Kathmandu
+45000000.0,1.3,4.0,26.0,East,3.5,,5.0,6.0,Full-Furnished,,Koteshwor, Kathmandu
+51500000.0,204,8.0,10.0,South-West,2.5,,,,,,Gongabu, Kathmandu
+35000000.0,116,4.2,13.0,South-West,2.5,,,,,,Budhanilkantha, Kathmandu
+35000000.0,110,4.2,13.0,South-West,2.5,,,,,,Budhanilkantha, Kathmandu
+23000000.0,77 ,3.0,13.0,West,2.5,,4.0,3.0,,,Ochu Height, Lalitpur
+39500000.0,82 ,5.0,16.0,,2.5,,5.0,5.0,,,Mandikhatar, Kathmandu
+21000000.0,51 ,3.0,13.0,,2.5,,,,Semi-Furnished,,Thankot, Kathmandu
+38000000.0,85 ,4.1,10.0,South-East,2.5,,4.0,3.0,,,Bhaisepati, Lalitpur
+31000000.0,253,8.0,13.0,North-East,1.0,,2.0,1.0,,,Makalbari, Kathmandu
+24000000.0,54 ,3.1,13.0,East,3.0,,4.0,4.0,Semi-Furnished,,Imadol, Lalitpur
+57000000.0,113,7.1,10.0,East,3.5,,8.0,8.0,Semi-Furnished,,Dhumbarahi, Kathmandu
+15000000.0,75 ,3.1,11.0,East,2.5,,,,,,Changathali, Lalitpur
+24000000.0,60 ,2.2,20.0,East,3.0,,4.0,4.0,Semi-Furnished,"Power Backup,Drainage,Bathroom,TV,Internet,Drinking Water,Parking,Bed Room,Garden,Sofa,Fridge,+ 1 See More",Pepsicola, Kathmandu
+70000000.0,74 ,13.2,20.0,East,2.5,,5.0,5.0,Full-Furnished,,Banasthali, Kathmandu
+27500000.0,120,3.2,20.0,West,2.5,,5.0,4.0,,,Imadol, Lalitpur
+70000000.0,107,9.0,15.0,North,2.5,,3.0,4.0,Full-Furnished,,Wasik, Kathmandu
+27500000.0,178,4.0,16.0,,2.5,,5.0,4.0,,,Kusunti, Lalitpur
+30000000.0,8 v,7.012417823228634,13.0,South,2.5,,3.0,3.0,Full-Furnished,"Earthquake Resistant,Parquet,Fridge,Sofa,Solar,Dining Room,AirCon,Water Purifier,Washing Machine,Bed Room,Garden,+ 8 See More",Soltidobato, Kathmandu
+48500000.0,88 ,10.0,13.0,West,2.0,,4.0,4.0,,,Boharatar, Kathmandu
+36500000.0,141,5.0,13.0,North,3.5,,,,,,Ekatabasti, Kathmandu
+130000000.0,141,30.0,15.0,South,2.5,,,,,,Hepali Height, Kathmandu
+37500000.0,15 ,4.236669101533966,14.0,South-West,,,,,,,Baniyatar, Kathmandu
+12000000.0,123,3.0,16.0,,1.5,,,,,,Machhe Gaun, Kathmandu
+29500000.0,216,4.0,13.0,North-East,2.5,,,,,,Ekatabasti, Kathmandu
+30500000.0,79 ,5.0,14.0,,2.5,,,,,,Kharibot, Kathmandu
+45000000.0,51 ,3.2,13.0,South,2.5,,8.0,8.0,,,Shankhamul, Kathmandu
+26500000.0,117,3.2,16.0,North-West,2.5,,5.0,5.0,,,Bhaisepati, Lalitpur
+37500000.0,120,4.0,13.0,,2.5,,4.0,3.0,Full-Furnished,,Golfutar, Kathmandu
+13000000.0,169,4.3,20.0,North-West,2.5,,3.0,2.0,Semi-Furnished,,Jharuwarasi, Lalitpur
+36000000.0,108,5.0,14.0,South-West,2.5,,6.0,5.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+72500000.0,135,9.0,10.0,,3.0,,,,Semi-Furnished,,Paknajol, Kathmandu
+55000000.0,76 ,2.3,30.0,,3.0,,,,,,Mahankal, Kathmandu
+49000000.0,187,4.1,20.0,,2.5,,,,,,Sinamangal, Kathmandu
+33000000.0,62 ,4.2,16.0,North-East,2.5,,5.0,4.0,Semi-Furnished,,Manabahadur Marga, Kathmandu
+26500000.0,71 ,3.2,13.0,North,2.5,,5.0,4.0,,,Imadol, Lalitpur
+55000000.0,170,8.0,10.5,South-East,3.5,,6.0,4.0,Semi-Furnished,,Machhapokhari, Kathmandu
+58500000.0,35 ,8.2,18.0,South-East,3.5,,13.0,4.0,Semi-Furnished,"Marbel,Parquet,Solar,Bed Room,Garden,Modular Kitchen,Parking,Playground,Internet,Drinking Water,Bathroom,+ 2 See More",Manamaiju, Kathmandu
+38000000.0,321,4.0,15.0,East,3.0,,,,Full-Furnished,,Gatthaghar, Bhaktapur
+19500000.0,94 ,2.3,13.0,East,2.5,,4.0,3.0,,,Imadol, Lalitpur
+31000000.0,87 ,4.0,13.0,East,2.5,,,,,,Bhangal , Kathmandu
+75000000.0,193,10.0,20.0,North-East,2.5,,6.0,6.0,Full-Furnished,,Bhimsengola, Kathmandu
+76500000.0,22 ,8.0,22.0,South-East,2.5,,5.0,6.0,Full-Furnished,,Kathmandu,
+36000000.0,140,5.0,14.0,South-West,2.5,,6.0,5.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+35000000.0,46 ,4.0,20.0,West,3.5,,5.0,6.0,Full-Furnished,,Manabahadur Marga, Kathmandu
+29500000.0,82 ,5.0,13.0,,2.5,,,,,,Bhangal , Kathmandu
+22000000.0,124,3.2,15.0,North-West,,,,,Full-Furnished,,Chunikhel, Kathmandu
+145000000.0,285,32.0,13.0,South-East,2.5,,5.0,5.0,,,Rudreshwor, Kathmandu
+45000000.0,162,5.0,10.0,South-East,2.5,,5.0,4.0,,,Sanepa, Lalitpur
+105000000.0,154,11.0,13.0,East,2.5,,5.0,6.0,,,Narayanthan , Kathmandu
+26500000.0,124,3.2,11.0,South-West,2.5,,5.0,3.0,,,Bhelpa, Lalitpur
+65000000.0,157,5.0,16.0,North-East,2.5,,6.0,5.0,Semi-Furnished,,Sanepa, Lalitpur
+15500000.0,980,4.0,20.0,West,2.5,,3.0,2.0,Semi-Furnished,,Lamatar, Lalitpur
+38000000.0,63 ,4.0,12.0,South,3.5,,9.0,4.0,Semi-Furnished,,Manamaiju, Kathmandu
+39000000.0,60 ,5.1,13.0,North,3.5,,5.0,7.0,,,Hattigaunda, Kathmandu
+45000000.0,180,5.0,18.0,North-East,2.5,,5.0,5.0,,,Bhaisepati, Lalitpur
+45000000.0,225,4.2,20.0,South-East,2.5,,4.0,5.0,,,Bhaisepati, Lalitpur
+37500000.0,30 ,4.1,13.0,,2.5,,4.0,3.0,Full-Furnished,,Golfutar, Kathmandu
+20500000.0,229,3.1,13.0,South-East,2.5,,,,,,Chunikhel, Kathmandu
+22200000.000000004,69 ,3.2,13.0,,2.5,,,,,,Mandikhatar, Kathmandu
+30500000.0,107,4.1,14.5,North-East,3.0,,5.0,5.0,,,Sanagaun, Lalitpur
+18500000.0,210,4.2,10.0,East,3.0,,4.0,3.0,,,Gurjudhara, Kathmandu
+27000000.0,132,4.0,13.0,East,2.5,,,,,,Chyasindol, Kathmandu
+45000000.0,158,3.2,20.0,East,4.5,,6.0,5.0,Semi-Furnished,,Dallu, Kathmandu
+8500000.0,97 ,1.7355734112490868,13.0,North-West,4.0,,,,,,Chhauni, Kathmandu
+52000000.0,158,5.0,15.0,,2.5,,6.0,6.0,Full-Furnished,,Budhanilkantha, Kathmandu
+48000000.0,48 ,5.0,13.0,,2.5,,4.0,6.0,,,Budhanilkantha, Kathmandu
+69000000.0,110,6.1,36.0,South-East,4.5,,7.0,7.0,,,Dhumbarahi, Kathmandu
+165000000.0,68 ,18.0,15.0,South-East,2.5,,5.0,6.0,,,Budhanilkantha, Kathmandu
+29000000.0,139,3.3,18.0,South,2.5,,3.0,4.0,,,Nakhudole, Lalitpur
+38000000.0,196,5.2,15.5,,2.5,,5.0,5.0,,,Bhaisepati, Lalitpur
+67500000.0,241,8.0,20.0,South,2.5,,6.0,6.0,Semi-Furnished,,Taulung, Kathmandu
+45000000.0,219,4.0,26.0,East,4.5,,6.0,5.0,Full-Furnished,"Marbel,Fridge,Sofa,CC Camera,Solar,Dining Room,Parquet,Microwave,Water Purifier,Bed Room,Washing Machine,+ 10 See More",Koteshwor, Kathmandu
+38000000.0,158,5.2,18.0,North-East,2.5,,5.0,5.0,,,Bhaisepati, Lalitpur
+55000000.0,57 ,8.2,13.0,North-East,2.5,,4.0,4.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+42500000.0,179,3.3,11.0,South-West,3.5,,6.0,5.0,Semi-Furnished,,Anamnagar, Kathmandu
+33500000.0,35 ,5.0,13.0,South,2.5,,,,,,Bhangal , Kathmandu
+26000000.0,87 ,4.2,18.0,West,3.0,,5.0,3.0,Full-Furnished,,Phutung, Kathmandu
+29500000.0,212,3.2,20.0,South-East,2.5,,6.0,5.0,,,Bhaisepati, Lalitpur
+63500000.0,126,7.2,20.0,North-East,2.5,,11.0,4.0,Semi-Furnished,,Bhimsengola, Kathmandu
+38000000.0,136,5.1,12.5,West,2.5,,4.0,4.0,Semi-Furnished,,Nakkhu, Lalitpur
+45000000.0,213,5.0,20.0,,2.5,,,,Full-Furnished,,Aakasedhara, Kathmandu
+13000000.0,102,3.1,12.0,East,1.0,,2.0,1.0,Semi-Furnished,,Gokarna, Kathmandu
+75000000.0,131,10.2,15.0,South-East,2.5,,4.0,6.0,,,Hattiban, Lalitpur
+52500000.0,369,2.3,20.0,,3.5,,4.0,4.0,,,Lazimpat, Kathmandu
+15500000.0,99 ,2.2,12.0,,2.5,,,,,,Kapan, Kathmandu
+38000000.0,87 ,4.3,13.0,,2.5,,,,,,Mandikhatar, Kathmandu
+38000000.0,43 ,5.0,13.0,West,3.0,,,,,,Baluwakhani, Kathmandu
+29000000.0,101,4.0,13.0,,2.5,,,,,,Bhangal , Kathmandu
+27500000.0,46 ,3.2,32.0,,2.5,,,,,,Mandikhatar, Kathmandu
+16000000.0,148,6.0,13.0,,1.0,,2.0,1.0,,,Sunakothi, Lalitpur
+9500000.0,206,4.0,16.0,,1.0,,2.0,1.0,,,Chhaling, Bhaktapur
+12500000.0,256,4.2,8.0,,1.5,,3.0,2.0,,,Sunakothi, Lalitpur
+35000000.0,5 v,5.2,12.0,South,3.5,,14.0,4.0,Un-Furnished,,Panga, Kathmandu
+75000000.0,60 ,19.0,15.0,,2.5,,,,,,Mandikhatar, Kathmandu
+80000000.0,77 ,9.0,15.0,,2.5,,5.0,4.0,Full-Furnished,,Golfutar, Kathmandu
+16000000.0,121,3.3,13.0,,2.5,,,,,,Thankot, Kathmandu
+36000000.0,47 ,5.0,16.5,,2.5,,6.0,4.0,,,Budhanilkantha, Kathmandu
+22500000.0,272,3.2,13.0,South,2.5,,,,,,Jyotinagar, Kathmandu
+38000000.0,210,5.1,15.0,South-East,2.5,,4.0,4.0,Semi-Furnished,,Bhaisepati, Lalitpur
+10500000.0,367,3.1,13.0,,2.5,,,,,,Machhegaun , Kathmandu
+27500000.0,50 ,4.0,18.0,,2.5,,,,,,Sundarbasti, Kathmandu
+62800000.0,100,3.2,12.0,,5.5,,,,,,Anamnagar, Kathmandu
+22500000.0,163,3.0,13.0,West,3.0,,7.0,4.0,Un-Furnished,,Chyasal, Lalitpur
+46000000.0,103,3.3,15.0,South,2.5,,4.0,5.0,Full-Furnished,,Hattiban, Lalitpur
+18500000.0,105,3.1,13.0,North,2.5,,5.0,,Semi-Furnished,,Kavresthali, Kathmandu
+16000000.0,51 ,3.1,20.0,East,3.0,,,,Un-Furnished,,Hattiban, Lalitpur
+35000000.0,174,4.2,13.0,West,2.0,,5.0,5.0,,,Taukhel, Lalitpur
+47500000.0,134,7.0,14.0,West,2.5,,6.0,3.0,,,Bafal, Kathmandu
+24000000.0,70 ,3.3,12.0,West,2.5,,6.0,5.0,,,Kapan, Kathmandu
+22000000.0,143,0.3,26.0,North,,,,,,,Bagbazar, Kathmandu
+37000000.0,160,4.0,16.0,North-West,2.5,,6.0,5.0,,,Bhaisepati, Lalitpur
+250000000.0,320,3.1,18.0,North-East,6.0,,,,,,New Road, Kathmandu
+42500000.0,155,6.0,10.0,South,3.5,,4.0,4.0,,,Balkot, Bhaktapur
+31500000.0,193,4.0,20.0,North,2.5,,5.0,4.0,Semi-Furnished,"Earthquake Resistant,Parquet,Gym,Washing Machine,Bed Room,Modular Kitchen,Parking,Playground,Internet,Drinking Water,Bathroom,+ 2 See More",Mulpani, Kathmandu
+50000000.0,226,3.2,22.0,West,5.0,,,5.0,,,Kalanki, Kathmandu
+19000000.0,63 ,3.0,13.0,West,2.5,,,,,,Tikathali, Lalitpur
+18500000.0,84 ,2.3,13.0,West,2.5,,,,,,Tikathali, Lalitpur
+60000000.0,138,4.0,15.0,North-West,5.5,,8.0,8.0,Semi-Furnished,,Kalikasthan, Kathmandu
+35000000.0,80 ,3.2,15.0,South-East,3.0,,4.0,5.0,,,Sainbu, Lalitpur
+15000000.0,1.7,4.0,15.0,,2.5,,,3.0,,,Bhairabchaur, Kathmandu
+20000000.0,94 ,5.0,9.0,North-East,3.0,,3.0,2.0,,,Padma Colony, Kathmandu
+70000000.0,34 ,9.0,12.0,,4.5,,,,,,Dallu, Kathmandu
+36000000.0,191,5.0,13.0,,2.5,,5.0,4.0,,,Buddha Colony, Kathmandu
+25000000.0,223,3.2,20.0,West,2.5,,,,,,Balkot, Bhaktapur
+34000000.0,206,5.0,13.0,South-West,2.5,,3.0,5.0,Semi-Furnished,,Bhangal , Kathmandu
+35000000.0,29 ,4.2,13.0,,3.5,,,,Full-Furnished,,Mandikhatar, Kathmandu
+37500000.0,72 ,4.2,12.0,,2.5,,,,,,Kapan, Kathmandu
+41000000.0,220,5.0,12.0,West,4.5,,12.0,4.0,,,Maharajgunj, Kathmandu
+34000000.0,71 ,3.2,13.0,East,3.5,,8.0,4.0,,,Hattiban, Lalitpur
+80000000.0,183,8.1,8.0,East,3.5,,,,,,Teku, Kathmandu
+3400000.0,196,11.0,16.0,North-East,2.0,,4.0,,,,Hattigaunda, Kathmandu
+21500000.0,283,3.2,16.0,North-West,3.5,,5.0,3.0,Semi-Furnished,,Sano thimi, Bhaktapur
+95000000.0,26 ,10.0,17.5,North-West,2.5,,4.0,4.0,Semi-Furnished,,Dhumbarahi, Kathmandu
+32500000.0,228,4.2,20.0,,2.5,,5.0,4.0,,,Sanobharyang, Kathmandu
+52500000.0,343,3.0,72.0,,2.5,,,,,,Maharajgunj, Kathmandu
+18500000.0,233,3.2,13.0,,2.5,,,,,,Satungal, Kathmandu
+70000000.0,91 ,8.2,18.0,West,2.5,,5.0,6.0,Semi-Furnished,"Earthquake Resistant,Parquet,CC Camera,Solar,Parking,Drinking Water,Bathroom,Drainage,Power Backup,Water Purifier,Garden,+ 1 See More",Grande Hospital, Kathmandu
+29500000.0,105,5.1,12.0,East,2.5,,,,,,Golfutar, Kathmandu
+30000000.0,91 ,4.0,12.0,South,2.5,,,,,,Sukedhara, Kathmandu
+90000000.0,36 ,9.0,26.0,East,,,,,,,Chandol, Kathmandu
+30000000.0,204,4.0,13.0,West,3.5,,5.0,5.0,Full-Furnished,,Gatthaghar, Bhaktapur
+36000000.0,160,5.0,13.0,North,2.5,,5.0,4.0,Full-Furnished,,Pasikot, Kathmandu
+49500000.0,296,5.3,16.0,North-East,3.5,,7.0,8.0,,,Bhaisepati, Lalitpur
+60000000.0,153,9.2,20.0,South-East,3.5,,7.0,4.0,,,Koteshwor, Kathmandu
+21000000.0,176,3.2,13.0,,2.5,,,,,,Bhangal , Kathmandu
+29000000.0,31 ,6.0,10.0,South-East,2.5,,5.0,3.0,,,Gurjudhara, Kathmandu
+165000000.0,391,17.0,20.0,East,2.5,,5.0,6.0,,,Minbhawan, Kathmandu
+8500000.0,74 ,3.1,32.0,West,1.0,,2.0,1.0,Un-Furnished,,Naikap, Kathmandu
+19500000.0,106,3.0,12.0,West,2.5,,,,,,Baniyatar, Kathmandu
+24000000.0,91 ,3.2,13.0,West,3.0,,5.0,4.0,Full-Furnished,,Padamsal, Kathmandu
+17000000.0,8 v,2.2,13.0,South,,,3.0,3.0,Full-Furnished,,Imadol, Lalitpur
+35500000.0,178,5.3,10.0,West,4.0,,,4.0,,,Dillibazar, Kathmandu
+11000000.0,130,38.0,65.0,West,,,,,,,Galkopakha, Kathmandu
+17500000.0,86 ,3.0,13.0,South-East,2.5,,11.0,3.0,Full-Furnished,"Marbel,Parquet,Fridge,Sofa,Dining Room,Water Purifier,Washing Machine,Bed Room,Iron,Internet,Drinking Water,+ 4 See More",Paiyatar, Kathmandu
+67500000.0,119,9.2,11.0,North-East,4.0,,8.0,6.0,Full-Furnished,"Parquet,Fridge,Sofa,Solar,Dining Room,Microwave,AirCon,Water Purifier,Washing Machine,Bed Room,Iron,+ 7 See More",Bouddha, Kathmandu
+44000000.0,60 ,1.2,10.0,West,5.5,,,7.0,,,Putalisadak, Kathmandu
+75000000.0,414,8.1,14.0,,3.0,,6.0,8.0,,,Maharajgunj, Kathmandu
+29000000.0,52 ,3.0387143900657416,20.0,South,2.5,,,,Semi-Furnished,"Earthquake Resistant,Parquet,Dining Room,Microwave,Water Purifier,Bed Room,Garden,Modular Kitchen,Parking,Playground,Internet,+ 4 See More",Lubhu, Lalitpur
+21000000.0,69 ,3.2,20.0,,2.5,,,,Full-Furnished,,Bhangal , Kathmandu
+33500000.0,31 ,5.3,13.0,,2.5,,,,,,Jyotinagar, Kathmandu
+19500000.0,52 ,3.0,12.0,East,2.5,,5.0,3.0,,,Dhapasi, Kathmandu
+50000000.0,24 ,6.135865595325055,16.0,South,3.0,,5.0,4.0,Full-Furnished,"Earthquake Resistant,Marbel,Parquet,Sofa,Dining Room,Solar,Bed Room,Modular Kitchen,Parking,Playground,Drinking Water,+ 2 See More",Hattiban, Lalitpur
+60000000.0,193,8.2,15.0,South-East,3.0,,6.0,6.0,Semi-Furnished,,Nakhipot, Lalitpur
+29900000.000000004,243,3.2,13.0,South-East,3.5,,5.0,5.0,,,Megha City, Kathmandu
+20000000.0,86 ,3.0,11.0,,2.5,,,,,,Sitapaila, Kathmandu
+22500000.0,287,4.1,12.0,South,2.5,,,,,,Setipakha, Lalitpur
+65000000.0,70 ,16.0,12.0,West,2.5,,5.0,3.0,,,Jarankhu, Kathmandu
+200000000.0,212,11.0,12.0,West,4.0,,,,,,Bouddha, Kathmandu
+24000000.0,31 ,4.0,20.0,South-East,2.5,,5.0,2.0,Un-Furnished,,Pasikot, Kathmandu
+38500000.0,28 ,4.0,18.0,North,3.0,,5.0,5.0,Full-Furnished,"Marbel,Fridge,Sofa,Solar,Dining Room,AirCon,Bed Room,Parking,TV,Drinking Water,Internet,+ 3 See More",Jaya Bageshwori, Kathmandu
+37500000.0,186,6.1,20.0,North-East,2.5,,,,,,Sallaghari, Bhaktapur
+110000000.0,93 ,19.0,12.0,South,2.5,,,,,,Golfutar, Kathmandu
+55000000.0,128,6.0,13.0,South-East,2.5,,,,,,Dhungedhara, Kathmandu
+3500000.0,175,32.0,18.0,West,2.5,,5.0,,,,Raniban, Kathmandu
+25000000.0,76 ,3.0,10.0,North-East,4.0,,,,,,Kapan, Kathmandu
+13500000.0,265,3.0,13.0,East,1.0,,2.0,1.0,Semi-Furnished,,Dhaneshwor, Kathmandu
+67500000.0,188,36.0,13.0,,3.0,,3.0,3.0,,,Godawari, Lalitpur
+70000000.0,114,9.2,13.0,East,2.5,,3.0,4.0,Full-Furnished,,Bafal, Kathmandu
+40000000.0,181,3.1,14.0,East,5.0,,3.0,5.0,,,Baluwatar, Kathmandu
+22500000.0,135,3.2,20.0,North-West,3.0,,7.0,3.0,Semi-Furnished,,Srijananagar, Bhaktapur
+65000000.0,37 ,7.0,15.0,North,,,,,,,Baniyatar, Kathmandu
+29000000.0,104,5.0,15.0,South,2.5,,4.0,4.0,,,Bagdol, Lalitpur
+26000000.0,98 ,4.2,15.0,,2.5,,,,,,Baluwakhani, Kathmandu
+33000000.0,77 ,5.3,13.0,,2.5,,,,,,Ekatabasti, Kathmandu
+21000000.0,76 ,3.0,13.0,,2.5,,,,,,Mandikhatar, Kathmandu
+23500000.0,68 ,4.0,16.0,,2.5,,,,,,Bhangal , Kathmandu
+13500000.0,344,3.2,13.0,,1.0,,2.0,1.0,,,Bhangal , Kathmandu
+17000000.0,101,2.2,13.0,,2.5,,,,,,Sukedhara, Kathmandu
+15000000.0,117,3.1,11.0,East,2.5,,,,,,Lubhu, Lalitpur
+50000000.0,114,8.0,60.0,East,4.0,,,,,,Sano thimi, Bhaktapur
+300000000.0,741,50.0,15.0,,2.5,,6.0,8.0,,,Chapali, Kathmandu
+19000000.0,234,4.0,10.0,,2.5,,,,,,Aakasedhara, Kathmandu
+22000000.0,128,4.2,12.0,East,2.5,,6.0,4.0,Semi-Furnished,"Earthquake Resistant,Marbel,Fridge,Sofa,Dining Room,Water Purifier,Bed Room,Garden,Modular Kitchen,Parking,Internet,+ 4 See More",Paiyatar, Kathmandu
+32500000.0,196,4.2,13.0,South,2.5,,,,,,Ganesh Chowk, Kathmandu
+28000000.0,171,5.0,10.0,East,3.0,,7.0,5.0,Semi-Furnished,,Naya Basti, Kathmandu
+16500000.0,31 ,4.0,13.0,,2.5,,,,,,Thankot, Kathmandu
+38000000.0,107,9.0,20.0,South-West,1.0,,2.0,2.0,,,Hattiban, Lalitpur
+32500000.0,179,3.2,20.0,West,2.5,,3.0,3.0,Full-Furnished,,Hattiban, Lalitpur
+60000000.0,181,7.0,10.0,South,5.0,,9.0,7.0,Semi-Furnished,,Gaurighat, Kathmandu
+22000000.0,86 ,4.1,13.0,,2.5,,,,,,Bhangal , Kathmandu
+25000000.0,163,4.0,13.0,East,2.5,,6.0,3.0,,,Sai Baba chowk, Kathmandu
+45000000.0,165,9.0,10.0,East,2.5,,7.0,4.0,Full-Furnished,"Earthquake Resistant,Marbel,Parquet,Fridge,Solar,Dining Room,Bed Room,Garden,Playground,Parking,Bathroom,+ 4 See More",Greenland Chowk, Kathmandu
+40000000.0,767,4.0,17.0,North,2.5,,3.0,3.0,,,Bhaisepati, Lalitpur
+25000000.0,257,4.0,14.0,East,4.0,,7.0,,Semi-Furnished,,Katunje, Bhaktapur
+40000000.0,129,7.0,13.0,North-East,2.5,,4.0,4.0,,,Saraswotinagar, Kathmandu
+23500000.0,111,3.2,16.0,East,2.5,,6.0,4.0,,,Imadol, Lalitpur
+24500000.0,329,3.2,13.0,,2.5,,4.0,5.0,,,Bhaisepati, Lalitpur
+26000000.0,38 ,6.1,15.0,South,2.5,,8.0,3.0,,,Hattiban, Lalitpur
+30000000.0,306,3.2,20.0,East,2.5,,4.0,3.0,,,Sanepa, Lalitpur
+18500000.0,271,3.1,13.0,,2.5,,,,,,Bhangal , Kathmandu
+20000000.0,185,3.1,13.0,,2.5,,,,,,Sundarbasti, Kathmandu
+95000000.0,166,21.0,17.0,East,3.0,,5.0,4.0,Semi-Furnished,,Dhobighat, Lalitpur
+22000000.0,121,4.1,13.0,South,2.5,,,,Full-Furnished,,Sipadol, Bhaktapur
+52000000.0,136,7.2,20.0,West,2.5,,6.0,3.0,,,Bansbari, Kathmandu
+80000000.0,149,17.2,9.0,South-West,3.5,,9.0,4.0,,,Kupandole, Lalitpur
+60000000.0,20 ,9.1,40.0,North,,,,,,,Kalopool, Kathmandu
+62500000.0,240,9.2,13.0,East,2.5,,,,,,Grande Villa, Kathmandu
+19000000.0,250,4.2,12.5,North-West,3.0,,8.0,3.0,,,Tathali, Bhaktapur
+25000000.0,294,6.0,20.0,South-East,2.5,,4.0,4.0,Semi-Furnished,,Bhatkepati, Kathmandu
+25000000.0,229,4.0,20.0,South-East,3.5,,12.0,4.0,,,Dadhikot, Bhaktapur
+5500000.0,47 ,8.0,13.0,West,2.5,,,,,,New Buspark, Kathmandu
+29800000.0,196,4.1,13.0,South-West,2.5,,7.0,,,,Dhungeadda, Kathmandu
+31000000.0,266,4.3,20.0,South-East,2.5,,4.0,4.0,,,Kusunti, Lalitpur
+32000000.0,175,4.2,20.0,West,3.0,,8.0,6.0,,,Chabahil, Kathmandu
+27000000.0,68 ,3.2,20.0,South,2.5,,4.0,4.0,Full-Furnished,,Sitapaila, Kathmandu
+38000000.0,105,5.0,15.0,,2.5,,,,,,Pasikot, Kathmandu
+22000000.0,294,5.0,13.0,West,2.5,,,,,,Duwakot, Bhaktapur
+16000000.0,25 ,4.0,13.0,,1.0,,3.0,1.0,,,Golfutar, Kathmandu
+15500000.0,80 ,2.3,12.0,West,3.5,,6.0,3.0,,,Lolang, Kathmandu
+30000000.0,171,4.0,14.0,,2.5,,4.0,4.0,,,Nakkhu, Lalitpur
+42000000.0,114,8.2,12.0,South,2.5,,8.0,4.0,,,Banasthali, Kathmandu
+23000000.0,36 ,3.0,13.0,,2.5,,3.0,3.0,,,Nakkhu, Lalitpur
+13500000.0,170,3.2,13.0,,2.5,,,,,,Thankot, Kathmandu
+32500000.0,132,4.3,20.0,East,3.5,,9.0,4.0,,,Machhapokhari, Kathmandu
+70000000.0,200,0.3,22.0,East,5.0,,,,,,Lagankhel, Lalitpur
+34000000.0,153,6.1,15.0,,3.5,,10.0,4.0,Un-Furnished,,Samakhusi, Kathmandu
+28000000.0,60 ,3.1,25.0,South,4.0,,10.0,3.0,,,Sukedhara, Kathmandu
+29500000.0,59 ,5.3,16.0,East,2.5,,6.0,4.0,,,Imadol, Lalitpur
+33500000.0,297,5.0,13.0,East,2.5,,5.0,3.0,,,Bhaisepati, Lalitpur
+19500000.0,60 ,4.0,10.0,North-East,2.5,,4.0,5.0,,,Goldhunga, Kathmandu
+19500000.0,132,3.2,14.0,,2.5,,,,,,Lubhu, Lalitpur
+25000000.0,201,4.0,13.0,North-West,2.5,,6.0,3.0,Semi-Furnished,,Sallaghari, Bhaktapur
+16000000.0,189,3.3,8.0,East,2.5,,5.0,3.0,Semi-Furnished,,Srijana Chowk, Kathmandu
+27500000.0,102,4.0,13.0,South,2.5,,5.0,6.0,Full-Furnished,,Dhungedhara, Kathmandu
+56000000.0,119,7.1,10.0,South,3.5,,7.0,6.0,,,Dhumbarahi, Kathmandu
+22000000.0,49 ,4.0,16.0,North-West,3.0,,8.0,3.0,,,Baniyatar, Kathmandu
+180000000.0,261,20.0,15.0,,2.5,,5.0,6.0,,,Maharajgunj, Kathmandu
+57500000.0,211,9.2,15.0,,2.5,,4.0,,,,Mandikhatar, Kathmandu
+27000000.0,94 ,4.0,13.0,,2.5,,,,,,Sukedhara, Kathmandu
+36000000.0,163,7.2,20.0,East,2.5,,5.0,5.0,,,Chyasindol, Kathmandu
+18000000.0,156,64.0,18.0,East,2.5,,4.0,3.0,Semi-Furnished,,Dahachowk, Kathmandu
+27500000.0,114,5.3,12.0,East,3.5,,7.0,5.0,Semi-Furnished,,Thecho, Lalitpur
+23500000.0,200,3.1,15.0,North-West,2.5,,4.0,4.0,,,Nakhipot, Lalitpur
+40000000.0,35 ,5.2,14.0,South-East,2.5,,,,Full-Furnished,,Sukedhara, Kathmandu
+47000000.0,174,6.0,15.0,South,2.5,,4.0,5.0,Semi-Furnished,,Deuwa chowk, Kathmandu
+51000000.0,180,3.0,42.0,West,5.5,,1.0,6.0,,,Shankhamul, Kathmandu
+47500000.0,140,5.0,20.0,West,3.5,,7.0,6.0,,,Maijubahal, Kathmandu
+31500000.0,74 ,4.2,10.0,West,4.5,,12.0,7.0,,,Gongabu, Kathmandu
+16000000.0,194,3.0,13.0,West,3.0,,3.0,3.0,,,Pepsicola, Kathmandu
+39900000.0,337,4.2,13.0,North,4.5,,9.0,6.0,,,Kamalbinayak, Bhaktapur
+28500000.0,80 ,5.0,13.0,,2.5,,,,,,Khumaltar, Lalitpur
+20000000.0,81 ,4.1,10.0,West,2.5,,6.0,3.0,,,Goldhunga, Kathmandu
+28500000.0,269,5.0,16.0,,2.5,,6.0,4.0,,,Ram Mandir, Kathmandu
+24000000.0,92 ,4.0,10.0,North,2.5,,5.0,3.0,,,Mahadevtar, Kathmandu
+36000000.0,73 ,4.0,24.0,South-East,4.5,,10.0,5.0,,,Kapan, Kathmandu
+42500000.0,98 ,5.1,29.0,West,5.0,,18.0,15.0,,,Satungal, Kathmandu
+42500000.0,128,7.2,26.0,North,2.5,,3.0,3.0,,,Raniban, Kathmandu
+26000000.0,172,2.0,20.0,South,5.0,,,4.0,,,Bagbazar, Kathmandu
+22500000.0,188,2.2,13.0,South,2.5,,6.0,3.0,,,Khusibu, Kathmandu
+31000000.0,286,4.2,14.0,South-East,2.5,,4.0,3.0,,,Chhauni, Kathmandu
+15500000.0,300,3.0,13.0,,2.5,,,,,,Gurjudhara, Kathmandu
+32500000.0,70 ,4.0,15.0,,2.5,,5.0,5.0,,,Hattigaunda, Kathmandu
+100000000.0,204,18.0,13.0,,2.5,,6.0,8.0,,,Budhanilkantha, Kathmandu
+28500000.0,26 ,10.0,15.0,,3.0,,,,,,Kirtipur, Kathmandu
+68000000.0,135,8.0,10.0,South-East,2.5,,6.0,6.0,,,Sanepa, Lalitpur
+29700000.000000004,42 ,4.1,16.0,,2.5,,,,,,Ekatabasti, Kathmandu
+72500000.0,130,16.0,12.0,North,2.5,,5.0,6.0,,,Dhungeadda, Kathmandu
+28700000.0,187,4.1,13.0,South,3.0,,6.0,6.0,Semi-Furnished,,Hattiban, Lalitpur
+19500000.0,48 ,4.3,13.0,East,2.5,,4.0,3.0,,,Syuchatar, Kathmandu
+92000000.0,123,12.0,20.0,South-West,3.5,,7.0,6.0,Semi-Furnished,,Basundhara, Kathmandu
+69000000.0,106,8.2,13.0,East,2.5,,,,Full-Furnished,,Bhangal , Kathmandu
+15800000.0,32 ,2.3,30.0,,2.5,,,,,,Sundarbasti, Kathmandu
+29800000.0,83 ,5.0,12.0,,2.5,,,,,,Bhangal , Kathmandu
+35000000.0,156,5.0,13.0,South,2.5,,,5.0,,,Ganesh Chowk, Kathmandu
+59000000.0,76 ,7.0,15.0,,2.5,,4.0,7.0,Semi-Furnished,,Budhanilkantha, Kathmandu
+33000000.0,157,4.1,15.0,South-West,2.5,,4.0,4.0,Full-Furnished,,Nakkhu, Lalitpur
+27000000.0,134,4.0,15.0,South,2.5,,5.0,3.0,,,Kusunti, Lalitpur
+23500000.0,110,3.2,15.0,,2.5,,,,,,Baluwakhani, Kathmandu
+35000000.0,174,5.0,13.0,,2.5,,,,,,Sukedhara, Kathmandu
+26500000.0,229,4.0,20.0,,2.5,,,,,,Aakasedhara, Kathmandu
+27500000.0,57 ,4.0,16.0,,2.5,,,,,,Nikhileshwor, Kathmandu
+22800000.0,131,4.0,13.0,,2.5,,,,,,Sundarbasti, Kathmandu
+60000000.0,67 ,6.1,15.0,,2.5,,4.0,2.0,,,Bishalnagar, Kathmandu
+29500000.0,221,4.2,12.0,,3.0,,8.0,6.0,,,Mulpani, Kathmandu
+27000000.0,100,4.0,11.0,West,4.5,,8.0,4.0,Semi-Furnished,,Gorkarneshwor, Kathmandu
+28000000.0,96 ,4.0,18.0,East,2.5,,6.0,,,,Golfutar, Kathmandu
+19900000.0,244,3.1,18.0,North-West,2.5,,4.0,,,,Bhaisepati, Lalitpur
+12800000.0,87 ,3.1,13.0,,1.0,,3.0,1.0,,,Kapan, Kathmandu
+55000000.0,234,6.3,25.0,East,3.5,,7.0,5.0,,,Khusibu, Kathmandu
+32500000.0,214,5.0,10.0,West,3.0,,,,,,Banasthali, Kathmandu
+25000000.0,56 ,5.0,16.0,East,2.5,,4.0,3.0,,,Syuchatar, Kathmandu
+62500000.0,145,10.2,21.0,South-West,2.0,,,,,,Banasthali, Kathmandu
+110000000.0,135,20.0,13.0,,2.5,,10.0,5.0,,,Manbhawan, Lalitpur
+35000000.0,155,5.0,13.0,South,2.5,,5.0,5.0,,,Ganesh Chowk, Kathmandu
+32000000.0,125,4.2,15.0,South-West,2.5,,5.0,5.0,,,Ganesh Chowk, Kathmandu
+23000000.0,121,3.2,15.0,,2.5,,3.0,4.0,,,Manabahadur Marga, Kathmandu
+55000000.0,39 ,7.2,13.0,North-East,2.5,,4.0,5.0,,,Narayanthan , Kathmandu
+35000000.0,67 ,4.0,13.0,North-East,2.5,,5.0,5.0,,,Narayanthan , Kathmandu
+23500000.0,128,3.0,20.0,,2.5,,4.0,5.0,,,Nakkhu, Lalitpur
+23000000.0,145,3.0,16.0,South,2.5,,4.0,3.0,,,Nakkhu, Lalitpur
+19500000.0,60 ,3.0,15.0,,2.5,,,,,,Imadol, Lalitpur
+28000000.0,327,4.3,16.0,East,2.5,,4.0,4.0,Semi-Furnished,,Bhaisepati, Lalitpur
+23500000.0,50 ,3.1,15.0,North-West,2.5,,4.0,4.0,Semi-Furnished,,Kusunti, Lalitpur
+17500000.0,81 ,3.2,15.0,,2.5,,6.0,2.0,,,Makalbari, Kathmandu
+40000000.0,161,4.0,13.0,West,2.5,,7.0,3.0,Full-Furnished,"Earthquake Resistant,Marbel,Fridge,Sofa,Solar,Dining Room,Microwave,Water Purifier,Washing Machine,Bed Room,Iron,+ 6 See More",Shankhamul, Kathmandu
+13000000.0,262,4.2,13.0,North,1.0,,3.0,1.0,,,Taukhel, Lalitpur
+6500000.0,72 ,2.3,12.0,East,1.0,,3.0,1.0,,,Thulobharyang, Kathmandu
+21500000.0,43 ,4.0,12.0,East,2.5,,6.0,4.0,Semi-Furnished,,Hattiban, Lalitpur
+40000000.0,121,6.0,20.0,South-West,2.5,,4.0,3.0,Semi-Furnished,,Gothatar, Kathmandu
+21000000.0,160,3.0,15.0,,3.5,,,,,,Imadol, Lalitpur
+20500000.0,168,3.0,13.0,South,2.5,,6.0,3.0,,,Syuchatar, Kathmandu
+45000000.0,7 v,7.0,20.0,East,2.5,,5.0,,Semi-Furnished,,Budhanilkantha, Kathmandu
+265000000.0,314,52.0,18.0,East,2.5,,,,Semi-Furnished,,Mandikhatar, Kathmandu
+6200000.0,103,12.3,22.0,East,2.5,,6.0,3.0,,,Swoyambhu, Kathmandu
+24000000.0,202,3.0,13.5,,2.5,,4.0,3.0,,,Bhaisepati, Lalitpur
+43500000.0,129,7.3,13.0,West,3.0,,7.0,3.0,,,Shantinagar, Kathmandu
+150000000.0,188,14.0,22.0,West,3.5,,,,,,Manbhawan, Lalitpur
+32500000.0,137,4.0,14.5,South-West,3.0,,7.0,4.0,,,Nakkhu, Lalitpur
+35000000.0,130,3.0,13.0,,2.5,,3.0,3.0,,,Samakhusi, Kathmandu
+21100000.0,82 ,4.0,13.0,,,,,,,,Hattiban, Lalitpur
+14000000.0,80 ,3.2,13.0,East,2.5,,3.0,2.0,Un-Furnished,,Kapan Gumba, Kathmandu
+27500000.0,91 ,4.2,18.0,East,2.5,,3.0,4.0,,,Narayantar, Kathmandu
+48500000.0,430,6.0,20.0,North-East,2.5,,4.0,4.0,,,Thaiba, Lalitpur
+130000000.0,191,16.0,15.0,South-East,2.5,,4.0,5.0,,,Dhumbarahi, Kathmandu
+16500000.0,101,2.2,16.0,,2.5,,,,,,Jyotinagar, Kathmandu
+3500000.0,144,66.0,12.0,,2.5,,4.0,5.0,,,Syuchatar, Kathmandu
+220000000.0,133,1.2,15.0,,8.5,,4.0,7.0,,,New Road, Kathmandu
+39500000.0,157,4.3,20.0,North-East,4.5,,21.0,7.0,,,Jadibuti, Bhaktapur
+46000000.0,51 ,6.0,15.0,,2.0,,5.0,,Semi-Furnished,,Chandol, Kathmandu
+115000000.0,132,26.0,13.0,South,2.5,,7.0,5.0,,,Budhanilkantha, Kathmandu
+37500000.0,160,4.0,16.0,North-West,2.5,,6.0,6.0,,,Bhaisepati, Lalitpur
+40000000.0,119,5.0,22.0,South,4.0,,12.0,4.0,Semi-Furnished,,Lokanthali, Bhaktapur
+24000000.0,163,4.0,18.0,East,2.5,,4.0,4.0,,,Imadol, Lalitpur
+19500000.0,100,3.2,14.0,,2.5,,,,,,Lubhu, Lalitpur
+22000000.0,70 ,3.2,15.0,,2.5,,,,,,Bhangal , Kathmandu
+35000000.0,50 ,5.0,13.0,,2.5,,,,Semi-Furnished,,Baluwakhani, Kathmandu
+120000000.0,79 ,31.0,20.0,West,2.5,,4.0,5.0,,,Raniban, Kathmandu
+80000000.0,138,11.0,14.0,South-East,2.5,,6.0,,,,Narayanthan , Kathmandu
+135000000.0,318,17.0,16.0,South,2.5,,5.0,,,,Naxal, Kathmandu
+33000000.0,127,6.0,20.0,South,2.5,,6.0,,,,Dhapasi, Kathmandu
+33000000.0,79 ,4.0,13.0,,2.5,,,,,,Hepali Height, Kathmandu
+28500000.0,75 ,5.0,13.0,,2.5,,,,,,Bhangal , Kathmandu
+32500000.0,154,4.2,16.0,,2.5,,,,Full-Furnished,,Mandikhatar, Kathmandu
+22000000.0,43 ,3.1,16.0,,2.5,,,,Semi-Furnished,,Baluwakhani, Kathmandu
+23500000.0,21 ,3.2,13.0,,2.5,,,,,,Jyotinagar, Kathmandu
+31000000.0,172,5.2,16.0,,2.5,,,,Semi-Furnished,,Nikhileshwor, Kathmandu
+26000000.0,37 ,4.1,16.5,South,2.5,,5.0,3.0,,,Sitapaila, Kathmandu
+37500000.0,164,5.1,13.0,West,4.5,,12.0,4.0,,,Lokanthali, Bhaktapur
+24000000.0,261,4.2,16.0,North,2.5,,4.0,4.0,,,Sitapaila, Kathmandu
+46000000.0,135,5.2,16.5,South,3.5,,17.0,4.0,,,Bafal, Kathmandu
+17000000.0,99 ,2.2,12.0,North-East,3.5,,6.0,5.0,,,Makalbari, Kathmandu
+26500000.0,72 ,4.0,20.0,South-East,2.5,,,,,,Hattiban, Lalitpur
+45000000.0,44 ,6.0,19.0,,2.0,,,,Semi-Furnished,,Narayanthan , Kathmandu
+28500000.0,185,4.0,19.0,,2.5,,4.0,4.0,,,Bhaisepati, Lalitpur
+25000000.0,286,3.2,20.0,,2.5,,4.0,4.0,Full-Furnished,,Bhaisepati, Lalitpur
+15000000.0,60 ,2.2,11.5,North-East,2.0,,,2.0,,,Jarankhu, Kathmandu
+80000000.0,92 ,20.0,15.0,,2.0,,4.0,,,,Budhanilkantha, Kathmandu
+35000000.0,136,4.0,15.5,West,2.5,,4.0,,,,Chandol, Kathmandu
+40000000.0,98 ,6.0,12.0,South-East,2.5,,5.0,3.0,,,Sukedhara, Kathmandu
+62500000.0,193,16.070124178232287,12.0,South,3.0,,,,,,Dhumbarahi, Kathmandu
+27000000.0,49 ,3.2,13.0,,2.5,,,,Semi-Furnished,,Mandikhatar, Kathmandu
+25000000.0,68 ,4.0,20.0,North,3.5,,6.0,3.0,,,Sitapaila, Kathmandu
+17000000.0,172,2.2,13.0,East,2.5,,3.0,3.0,,,Imadol, Lalitpur
+25500000.0,10 ,3.0,10.0,North,3.5,,6.0,4.0,,,Samakhusi, Kathmandu
+19500000.0,83 ,4.0,15.0,West,2.0,,5.0,3.0,Semi-Furnished,,Gwarko, Lalitpur
+37000000.0,67 ,4.0,20.0,South,2.5,,5.0,,,,Golfutar, Kathmandu
+15000000.0,144,3.0,13.0,,,,,,,,Thankot, Kathmandu
+32000000.0,147,5.0,13.0,East,2.5,,6.0,6.0,,,Dhapasi, Kathmandu
+42000000.0,69 ,7.2,14.0,South,2.5,,5.0,5.0,,,Rudreshwor, Kathmandu
+47500000.0,88 ,6.0,18.0,,2.5,,5.0,6.0,,,Narayanthan , Kathmandu
+32500000.0,314,4.1,14.0,South-West,2.5,,5.0,5.0,Semi-Furnished,,Deuwa chowk, Kathmandu
+180000000.0,184,9.0,20.0,,6.0,,,,,,Gopikrishna Hall, Kathmandu
+55000000.0,18 ,5.0,13.0,South-East,2.5,,4.0,4.0,,,Baluwatar, Kathmandu
+27000000.0,195,4.0,13.0,,2.5,,,,,,Sukedhara, Kathmandu
+19700000.0,50 ,3.1,13.0,,2.5,,,,,,Sukedhara, Kathmandu
+21500000.0,127,4.0,13.0,East,2.5,,,,,,Kapan, Kathmandu
+35000000.0,90 ,7.2,22.0,South,2.5,,5.0,5.0,Semi-Furnished,,Sitapaila, Kathmandu
+179000000.0,296,27.0,20.0,,2.5,,8.0,9.0,Semi-Furnished,,Bhaisepati, Lalitpur
+37500000.0,98 ,5.0,18.0,North-West,2.5,,7.0,3.0,,,Rudreshwor, Kathmandu
+38000000.0,68 ,4.0,20.0,,2.5,,4.0,4.0,Semi-Furnished,,Bhaisepati, Lalitpur
+31500000.0,59 ,5.0,13.0,,3.0,,,,Full-Furnished,,Mandikhatar, Kathmandu
+24500000.0,179,3.2,20.0,,2.5,,4.0,5.0,Semi-Furnished,,Bhaisepati, Lalitpur
+30000000.0,89 ,5.0,13.0,West,2.5,,4.0,3.0,Semi-Furnished,,Badeli, Kathmandu
+35000000.0,14 ,7.2,13.0,East,2.5,,3.0,2.0,Full-Furnished,"Earthquake Resistant,Marbel,Fridge,Sofa,Solar,Dining Room,Microwave,Bed Room,Garden,Parking,Modular Kitchen,+ 5 See More",Liwali, Bhaktapur
+27000000.0,84 ,4.0,14.0,,2.5,,,,Full-Furnished,,Golfutar, Kathmandu
+25000000.0,138,4.1,13.0,West,3.5,,5.0,3.0,,,Gurjudhara, Kathmandu
+26500000.0,125,3.0,15.0,East,2.5,,4.0,3.0,Full-Furnished,,Kusunti, Lalitpur
+27500000.0,206,4.0,20.0,West,2.5,,4.0,4.0,,,Dholahiti, Lalitpur
+19000000.0,57 ,3.0,13.0,,2.5,,4.0,3.0,,,Imadol, Lalitpur
+39000000.0,186,3.0,30.0,South,3.5,,10.0,4.0,,,Shantinagar, Kathmandu
+10500000.0,88 ,3.0,5.0,,2.5,,,,,,Thankot, Kathmandu
+11500000.0,138,3.0,13.0,,1.0,,2.0,1.0,,,Thankot, Kathmandu
+25000000.0,79 ,4.1,13.0,West,4.0,,11.0,6.0,,,Katunje, Bhaktapur
+16500000.0,36 ,3.2,13.0,,1.0,,2.0,1.0,,,Sundarbasti, Kathmandu
+20000000.0,271,4.2,20.0,,2.5,,,,,,Duwakot, Bhaktapur
+42500000.0,227,8.0,14.0,,3.0,,,3.0,,,Kalanki, Kathmandu
+30000000.0,106,4.0,14.0,,2.5,,6.0,4.0,Semi-Furnished,,Bafal, Kathmandu
+30000000.0,141,4.0,32.0,,3.0,,,,,,Banasthali, Kathmandu
+15500000.0,287,4.0,20.0,North,2.0,,4.0,2.0,,,Ramkot, Kathmandu
+17500000.0,103,5.0,20.0,North,2.0,,4.0,2.0,,,Ramkot, Kathmandu
+41000000.0,50 ,4.2,20.0,East,3.5,,7.0,7.0,Semi-Furnished,,Khusibu, Kathmandu
+13000000.0,72 ,3.2,13.0,,1.0,,2.0,1.0,,,Basantanagar, Kathmandu
+41500000.0,209,5.1,13.0,North-West,2.5,,6.0,6.0,,,Budhanilkantha, Kathmandu
+70000000.0,173,13.0,18.0,,2.5,,,,,,Mandikhatar, Kathmandu
+26000000.0,69 ,4.0,26.0,,2.5,,,,,,Grande Villa, Kathmandu
+28000000.0,206,4.0,26.0,,2.5,,6.0,,,,Grande Villa, Kathmandu
+19000000.0,72 ,3.0,15.0,,2.5,,4.0,,,,Grande Villa, Kathmandu
+36000000.0,167,6.0,14.0,East,2.5,,6.0,,,,Deuwa chowk, Kathmandu
+34500000.0,50 ,5.0,14.0,,2.5,,,,,,Hattigaunda, Kathmandu
+21500000.0,143,4.0,14.0,South,3.0,,,,,,Ganesh Chowk, Kathmandu
+19700000.0,77 ,3.1,12.0,,3.0,,,,,,Jyotinagar, Kathmandu
+30000000.0,182,4.2,13.0,South,2.5,,5.0,4.0,Semi-Furnished,,Gwarko, Lalitpur
+29000000.0,172,2.3,26.0,West,3.5,,7.0,4.0,,,Naya Bazar, Kathmandu
+35000000.0,149,6.2,13.0,South,2.5,,3.0,4.0,Semi-Furnished,,Thasikhel, Lalitpur
+50000000.0,202,11.1,15.0,,2.5,,7.0,5.0,,,Dhapasi, Kathmandu
+67500000.0,66 ,12.0,19.0,,2.5,,4.0,4.0,,,Narayanthan , Kathmandu
+29000000.0,152,4.1,10.0,South,2.5,,5.0,4.0,Semi-Furnished,,Kalanki, Kathmandu
+28000000.0,232,4.3,15.0,South,2.5,,5.0,5.0,Semi-Furnished,,Grande Hospital, Kathmandu
+55000000.0,69 ,9.0,14.0,,2.5,,4.0,4.0,,,Budhanilkantha, Kathmandu
+39500000.0,46 ,7.0,13.0,,2.5,,7.0,5.0,,,Thulobharyang, Kathmandu
+35000000.0,83 ,4.0,17.0,,2.5,,5.0,5.0,,,Golfutar, Kathmandu
+47500000.0,52 ,5.2,20.0,,2.5,,5.0,,,,Chandol, Kathmandu
+26000000.0,37 ,3.0,13.0,,2.5,,,,,,New Buspark, Kathmandu
+9800000.0,268,3.0,13.0,West,1.0,,2.0,1.0,,,Mahadevsthan, Kathmandu
+22500000.0,277,4.0,13.0,,2.5,,3.0,2.0,,,Hepali Height, Kathmandu
+28000000.0,10 ,4.0,20.0,East,2.5,,4.0,5.0,,,Nakkhu, Lalitpur
+21500000.0,216,3.2,16.0,,2.5,,,,,,Nikhileshwor, Kathmandu
+15000000.0,73 ,2.3,10.0,West,,,6.0,3.0,,,Halchowk, Kathmandu
+85000000.0,42 ,12.0,33.0,South,2.5,,7.0,3.0,Semi-Furnished,,Bhaisepati, Lalitpur
+26500000.0,147,4.2,13.0,South,2.5,,,,,,Pepsicola, Kathmandu
+11500000.0,224,3.2,10.0,,2.0,,2.0,2.0,,,Bageshwori, Bhaktapur
+55000000.0,303,6.0,20.0,North-West,5.0,,,,,,Pepsicola, Kathmandu
+16000000.0,98 ,3.0,13.0,,3.0,,3.0,3.0,,,Pepsicola, Kathmandu
+100000000.0,76 ,8.0,20.0,,5.5,,,38.0,,,Basantanagar, Kathmandu
+38000000.0,13 ,6.1,16.666666666666668,South-East,2.5,,4.0,3.0,,,Budhanilkantha, Kathmandu
+80000000.0,416,8.2,17.0,,2.5,,4.0,5.0,,,Lazimpat, Kathmandu
+12500000.0,58 ,4.373995617238861,10.0,South-East,2.5,,4.0,3.0,Un-Furnished,,Mulpani, Kathmandu
+20200000.0,180,4.2,13.0,,2.5,,,,,,Bhangal , Kathmandu
+13000000.0,99 ,3.2,14.0,,1.0,,,,,,Bhangal , Kathmandu
+24000000.0,148,2.755588020452885,13.0,West,4.0,,7.0,4.0,Un-Furnished,,Chyasal, Lalitpur
+30500000.0,43 ,5.0,12.0,,2.5,,,,,,Mandikhatar, Kathmandu
+210000000.0,186,30.0,22.0,,2.5,,7.0,7.0,,,Kupandole, Lalitpur
+22500000.0,249,4.2,10.0,East,3.5,,6.0,3.0,,,Gongabu, Kathmandu
+24000000.0,105,3.2,16.0,,,,,,,,Thulobharyang, Kathmandu
+31500000.0,53 ,5.2,16.0,,2.5,,5.0,5.0,,,Hattigaunda, Kathmandu
+54000000.0,65 ,5.2,20.0,East,3.0,,4.0,5.0,,,Panipokhari, Kathmandu
+21000000.0,86 ,4.0,14.0,East,2.5,,6.0,,,,Kapan, Kathmandu
+17000000.0,11 ,3.0,15.0,,2.5,,,,,,Kamitar, Kathmandu
+29000000.0,104,5.0,15.0,,3.0,,4.0,5.0,Full-Furnished,,Ichangu Narayan, Kathmandu
+44500000.0,83 ,6.2,17.0,North-West,2.5,,3.0,5.0,Full-Furnished,"Drainage,Bathroom,Drinking Water,Parking,Sofa,Dining Room,Bed Room,Parquet,Marbel,Modular Kitchen,Fridge,+ 1 See More",Bhaisepati, Lalitpur
+27000000.0,36 ,4.0,15.0,East,2.5,,5.0,,,,Hepali Height, Kathmandu
+44500000.0,144,5.0,15.0,,2.5,,6.0,4.0,,,Budhanilkantha, Kathmandu
+45000000.0,166,8.0,20.0,,2.5,,6.0,4.0,,,Bansbari, Kathmandu
+5500000.0,65 ,4.0,26.0,East,2.0,,,,,,Goldhunga, Kathmandu
+30000000.0,143,4.0,13.0,,3.5,,,,,,Thankot, Kathmandu
+47500000.0,108,5.0,20.0,West,3.5,,,,,,Maijubahal, Kathmandu
+19000000.0,82 ,4.0,16.0,,2.0,,,,,,Thankot, Kathmandu
+35000000.0,151,7.1,14.0,East,2.5,,,,,,Pepsicola, Kathmandu
+35000000.0,109,4.2,20.0,,3.5,,,,,,Gongabu, Kathmandu
+67500000.0,47 ,12.0,15.0,,2.5,,4.0,4.0,,,Narayanthan , Kathmandu
+55500000.0,168,4.0,15.0,,4.5,,,,,,Shankhamul, Kathmandu
+190000000.0,398,20.0,16.0,,3.0,,,,,,Jawalakhel, Lalitpur
+27000000.0,130,4.0,13.0,,2.5,,5.0,,,,Manabahadur Marga, Kathmandu
+50000000.0,293,4.2,20.0,,2.5,,4.0,,Full-Furnished,,Hattigaunda, Kathmandu
+380000000.0,1.1,32.0,15.0,,2.5,,6.0,,,,Bansbari, Kathmandu
+50000000.0,102,10.2,17.5,,,,6.0,4.0,,,Balkumari, Lalitpur
+32500000.0,32 ,5.0,16.0,,2.5,,,,,,Thankot, Kathmandu
+16000000.0,258,4.0,16.0,South,2.5,,,,,,Thankot, Kathmandu
+16000000.0,98 ,3.1,13.0,,2.5,,5.0,2.0,,,Thankot, Kathmandu
+15500000.0,188,3.0,20.0,South,2.5,,,,,,Darjeeling Height, Bhaktapur
+21000000.0,263,4.0,13.0,South,2.5,,,,,,Harsha Chowk, Bhaktapur
+20000000.0,91 ,3.0,20.0,West,3.5,,,,,,Suryabinayak, Bhaktapur
+29500000.0,34 ,3.3,13.0,East,3.0,,7.0,3.0,Semi-Furnished,"Marbel,Parquet,Sofa,Solar,Dining Room,Bed Room,Modular Kitchen,Parking,Internet,Drinking Water,Bathroom,+ 1 See More",Chapali, Kathmandu
+31000000.0,53 ,3.3,15.0,North-East,2.5,,5.0,3.0,,,Bafal, Kathmandu
+21000000.0,146,3.0,12.0,South-East,2.5,,5.0,5.0,,,Bhaisepati, Lalitpur
+35000000.0,20 ,5.0,14.0,,,,3.0,,,,Bhangal , Kathmandu
+33000000.0,300,4.0,10.0,,3.5,,,,,,Katyani Chowk, Kathmandu
+7800000.0,373,3.1,10.0,,1.0,,,,,,Jarankhu, Kathmandu
+12000000.0,62 ,3.0,10.0,,1.0,,,,,,Jarankhu, Kathmandu
+28500000.0,56 ,8.0,13.0,,1.0,,,,,,Makalbari, Kathmandu
+21800000.0,51 ,3.2,13.0,East,,,,,,,Sundarbasti, Kathmandu
+25000000.0,120,4.2,13.0,East,,,,,,,Baluwakhani, Kathmandu
+23000000.0,57 ,3.2,14.0,,2.5,,,,,,Mandikhatar, Kathmandu
+26500000.0,142,4.0,12.0,,2.5,,,,,,Jyotinagar, Kathmandu
+21000000.0,10 ,5.0,16.0,South,,,,,,,Setipakha, Lalitpur
+10500000.0,65 ,2.2,10.0,,2.5,,5.0,3.0,,,Rudreshwor, Kathmandu
+23000000.0,37 ,3.3,10.0,North-West,2.5,,5.0,4.0,,,Ramkot, Kathmandu
+30000000.0,52 ,4.3,20.0,East,3.5,,9.0,4.0,,,Machhapokhari, Kathmandu
+40000000.0,64 ,5.2,12.0,North,,,5.0,2.0,Semi-Furnished,,Baluwatar, Kathmandu
+17000000.0,29 ,3.0,13.0,South,2.0,,5.0,3.0,,,Lamathumki, Kathmandu
+22500000.0,54 ,4.0,12.0,West,3.5,,,4.0,,,Sitapaila, Kathmandu
+22000000.0,160,3.2,13.0,South,2.5,,,,,,Imadol, Lalitpur
+21500000.0,84 ,3.1,13.0,East,2.5,,,,,,Imadol, Lalitpur
+24500000.0,129,4.2,13.0,South,2.5,,,,,,Imadol, Lalitpur
+20700000.0,175,3.2,12.0,West,,,5.0,,,,Syuchatar, Kathmandu
+22000000.0,28 ,3.2,14.0,West,,,4.0,,,,Syuchatar, Kathmandu
+6800000.0,284,2.2,13.0,,2.5,,,,,,Jarankhu, Kathmandu
+15500000.0,191,3.1,10.0,,2.5,,,,,,Lolang, Kathmandu
+11500000.0,159,3.1,13.0,,1.0,,3.0,1.0,,,Thankot, Kathmandu
+9850000.0,102,2.2,16.0,West,1.0,,,,,,Tikathali, Lalitpur
+28500000.0,35 ,5.0,10.0,South-East,3.5,,6.0,3.0,,,Baniyatar, Kathmandu
+12500000.0,56 ,3.1,20.0,South-East,,,,,,,Thaiba, Lalitpur
+21500000.0,63 ,3.1,13.0,South,2.5,,4.0,3.0,,,Imadol, Lalitpur
+17500000.0,208,3.3,13.0,South,,,,,,,Bhatkepati, Kathmandu
+43000000.0,80 ,12.0,20.0,West,2.0,,3.0,2.0,Semi-Furnished,,Dhungeadda, Kathmandu
+50000000.0,90 ,10.0,11.0,North,2.0,,5.0,3.0,,,Tinkune, Kathmandu
+18500000.0,362,3.0,25.0,West,3.5,,,,,,Darjeeling Height, Bhaktapur
+27000000.0,118,3.2,13.0,South,3.5,,,,,,Khahare, Kathmandu
+20000000.0,111,3.0,13.0,,2.5,,,,,,Chhapro, Kathmandu
+24000000.0,161,5.0,13.0,East,2.5,,6.0,3.0,,,Balkot, Bhaktapur
+28000000.0,247,4.2,20.0,North-East,2.5,,,,,,Rose Village, Bhaktapur
+12200000.0,115,2.0,13.0,South-East,2.0,,,,,,Pepsicola, Kathmandu
+37000000.0,62 ,6.0,19.0,,3.5,,,,,,Balkot, Bhaktapur
+14000000.0,181,3.0,13.0,East,2.0,,,2.0,,,Darjeeling Height, Bhaktapur
+20500000.0,129,3.0,13.0,East,2.5,,,,,,Khahare, Kathmandu
+12500000.0,413,3.1,13.0,South,1.0,,,,,,Darjeeling Height, Bhaktapur
+12000000.0,283,2.3,13.0,South,1.0,,2.0,1.0,,,Darjeeling Height, Bhaktapur
+15000000.0,115,4.0,13.0,South,1.0,,2.0,1.0,,,Balkot, Bhaktapur
+20000000.0,165,4.0,20.0,North,2.5,,,,,,Mibachhe, Bhaktapur
+13000000.0,188,5.0,13.0,,2.5,,,,,,Matatirtha, Kathmandu
+20700000.0,126,3.1,13.0,,2.5,,5.0,,,,Imadol, Lalitpur
+18200000.0,109,3.0,13.0,South,,,4.0,,,,Imadol, Lalitpur
+22400000.000000004,71 ,4.0,13.0,North,,,6.0,,Semi-Furnished,,Syuchatar, Kathmandu
+24500000.0,35 ,4.0,12.0,North-East,,,6.0,,,,Syuchatar, Kathmandu
+32500000.0,32 ,5.0,0.0,,2.5,,7.0,,,,Hattigaunda, Kathmandu
+27500000.0,30 ,4.0,16.0,East,,,6.0,,,,Jyotinagar, Kathmandu
+22500000.0,68 ,3.2,13.0,South,2.5,,6.0,,,,Jyotinagar, Kathmandu
+23000000.0,92 ,4.1,12.0,South-West,2.5,,5.0,3.0,Semi-Furnished,,Sipadol, Bhaktapur
+11500000.0,102,2.2,13.5,,2.0,,,,,,Thankot, Kathmandu
+11500000.0,216,3.2,15.0,,1.5,,2.0,1.0,,,Mahadevsthan, Kathmandu
+12000000.0,98 ,3.2,15.5,,1.5,,,,,,Thankot, Kathmandu
+14000000.0,44 ,2.2,15.0,,2.5,,,,,,Katunje, Bhaktapur
+13500000.0,212,5.0,13.0,,2.0,,,,,,Katunje, Bhaktapur
+25000000.0,286,3.3,20.0,,2.5,,,,,,Balkot, Bhaktapur
+21000000.0,105,4.2,13.0,,2.5,,,,,,Khumaltar, Lalitpur
+11500000.0,123,3.0,13.0,,1.5,,,,,,Mahadevsthan, Kathmandu
+30000000.0,160,4.2,12.5,,3.5,,,,,,Chamati, Kathmandu
+50000000.0,118,2.0,0.0,,5.0,,,,,,Kalimati, Kathmandu
+22500000.0,80 ,1.0,20.0,,,,,,,,Kalimati, Kathmandu
+29000000.0,174,5.0,12.0,West,,,4.0,3.0,,,Ichangu Narayan, Kathmandu
+28500000.0,59 ,3.2,15.0,North,3.5,,,,,,Syuchatar, Kathmandu
+27000000.0,68 ,4.0,16.0,,,,,,,,Sitapaila, Kathmandu
+31500000.0,50 ,5.1,12.0,,,,,,,,Hattigaunda, Kathmandu
+29500000.0,124,4.0,0.0,,,,5.0,,,,Taulung, Kathmandu
+110000000.0,37 ,26.0,15.0,South-East,,,6.0,,,,Budhanilkantha, Kathmandu
+24500000.0,126,3.2,12.0,,2.5,,,,Semi-Furnished,,Grande Hospital, Kathmandu
+22500000.0,186,3.2,13.0,,3.5,,6.0,4.0,,,Manamaiju, Kathmandu
+28500000.0,101,4.1,0.0,,2.5,,7.0,4.0,,,Basundhara, Kathmandu
+25000000.0,90 ,3.0,0.0,,2.5,,,,,,Samakhusi, Kathmandu
+15500000.0,76 ,4.2,0.0,,1.0,,2.0,1.0,,,Panchetar, Kathmandu
+17000000.0,111,3.3,13.0,,3.5,,,,,,Baluwakhani, Kathmandu
+12800000.0,134,3.0,13.0,,2.5,,,,,,Thankot, Kathmandu
+12000000.0,128,4.0,13.0,,1.0,,,,,,Mahadevsthan, Kathmandu
+9800000.0,137,3.2,13.0,,1.0,,,,,,Thankot, Kathmandu
+17000000.0,4 v,3.0,13.0,,2.5,,,,,,Thankot, Kathmandu
+100000000.0,105,12.0,20.0,East,2.0,,5.0,,,,Naxal, Kathmandu
+118000000.0,189,24.0,16.0,South-East,2.5,,4.0,4.0,,,Bhaisepati, Lalitpur
+38000000.0,94 ,4.0,15.0,,2.5,,5.0,6.0,,,Naxal, Kathmandu
+55000000.0,44 ,8.2,13.0,,2.5,,,,,,Pasikot, Kathmandu
+97500000.0,206,16.0,14.0,South,,,4.0,4.0,Semi-Furnished,,Sanepa, Lalitpur
+43000000.0,56 ,5.2,0.0,East,2.5,,5.0,5.0,,,Golfutar, Kathmandu
+30000000.0,294,4.0,0.0,East,2.5,,6.0,6.0,,,Samakhusi, Kathmandu
+30000000.0,131,5.2,20.0,North-East,2.5,,4.0,5.0,,,Pasikot, Kathmandu
+32000000.0,18 ,5.5,0.0,,,,4.0,6.0,,,Pasikot, Kathmandu
+90000000.0,105,10.1,0.0,,,,6.0,,,,Shantinagar, Kathmandu
+41000000.0,19 ,5.0,0.0,,,,,,,,Hepali Height, Kathmandu
+130000000.0,20 ,10.0,0.0,,,,,,,,Baluwatar, Kathmandu
+31000000.0,50 ,4.2,19.0,South-West,2.5,,5.0,5.0,,,Budhanilkantha, Kathmandu
+25000000.0,164,4.2,20.0,South,2.5,,11.0,5.0,,,Dhapasi, Kathmandu
+120000000.0,165,15.2,26.0,,,,9.0,7.0,,,Baluwatar, Kathmandu
+22000000.0,348,3.0,26.0,,2.5,,3.0,4.0,,,Golfutar, Kathmandu
+140000000.0,37 ,32.0,0.0,,,,5.0,,,,Rudreshwor, Kathmandu
+19000000.0,21 ,3.0,0.0,West,2.5,,,,,,Bhangal , Kathmandu
+13000000.0,35 ,3.5,13.0,East,1.0,,,,,,Chunikhel, Kathmandu
+20000000.0,61 ,4.3,13.0,,2.5,,5.0,4.0,,,Kapan, Kathmandu
+12500000.0,306,3.0,6.0,,2.0,,2.0,,,,Kapan, Kathmandu
+18000000.0,178,4.0,13.0,,2.0,,,,,,Bhangal , Kathmandu
+46000000.0,121,6.3,13.0,East,2.5,,,,,,Chandol, Kathmandu
+38500000.0,44 ,7.0,12.0,East,3.5,,,,,,Chappal karkhana, Kathmandu
+49000000.0,96 ,4.0,0.0,,,,4.0,5.0,,,Maharajgunj, Kathmandu
+120000000.0,44 ,30.0,15.0,,,,5.0,6.0,,,Dhapasi, Kathmandu
+34000000.0,46 ,4.0,0.0,,,,5.0,3.0,,,Golfutar, Kathmandu
+32800000.0,47 ,4.1,0.0,,,,6.0,5.0,,,Grande Hospital, Kathmandu
+22500000.0,18 ,3.1,13.0,North-East,3.0,,6.0,3.0,,,Golfutar, Kathmandu
+50000000.0,74 ,5.0,13.0,East,2.5,,4.0,3.0,Full-Furnished,,Bhaisepati, Lalitpur
+6800000.0,304,5.1,20.0,East,,,,,,,Sorhakhutte, Kathmandu
+125000000.0,156,6.0,13.0,South-East,6.0,,,,Full-Furnished,,Thamel, Kathmandu
+11500000.0,56 ,2.2,10.0,,2.5,,,,,,Thankot, Kathmandu
+13000000.0,189,2.3,13.0,,,,,,,,Kalanki, Kathmandu
+21000000.0,66 ,5.0,0.0,,,,5.0,,,,Thankot, Kathmandu
+13500000.0,42 ,2.3,11.0,,2.5,,,,,,Thankot, Kathmandu
+17500000.0,143,6.2,11.0,,2.5,,,,,,Thankot, Kathmandu
+19000000.0,11 ,4.0,16.0,,,,,,,,Thankot, Kathmandu
+12000000.0,41 ,3.2,13.0,,,,,,,,Thankot, Kathmandu
+12000000.0,51 ,3.0,13.0,,2.5,,,,,,Thankot, Kathmandu
+14000000.0,29 ,3.2,13.0,,2.5,,,,,,Thankot, Kathmandu
+8200000.0,20 ,2.3,13.0,,,,,,,,Thankot, Kathmandu
+13000000.0,99 ,3.0,20.0,,,,,,,,Thankot, Kathmandu
+36000000.0,20 ,6.0,0.0,,,,6.0,6.0,,,Bansbari, Kathmandu
+16500000.0,107,3.0,13.0,,,,,,,,Thankot, Kathmandu
+13500000.0,145,3.0,16.0,East,,,,,,,Thankot, Kathmandu
+26500000.0,60 ,4.0,13.0,,,,,,,,Mandikatar, Kathmandu
+11500000.0,323,3.0,13.0,,,,,,,,Thankot, Kathmandu
+26500000.0,48 ,4.5,20.0,,,,5.0,4.0,,,Sitapaila, Kathmandu
+37000000.0,40 ,6.0,15.0,,,,5.0,5.0,,,Bansbari, Kathmandu
+20300000.0,35 ,3.5,0.0,,,,,,,,Bafal, Kathmandu
+43000000.0,24 ,5.5,0.0,,,,5.0,7.0,,,Hepali Height, Kathmandu
+22000000.0,19 ,3.0,26.0,,2.5,,3.0,4.0,,,Dhapasi, Kathmandu
+29000000.0,187,4.2,15.0,South,,,7.0,,,,Bhaisepati, Lalitpur
+23000000.0,217,4.3,15.0,South,,,4.0,,,,Ramkot, Kathmandu
+52000000.0,60 ,10.0,20.0,South,3.5,,,,,,Samakhusi, Kathmandu
+55000000.0,5 v,6.2,15.0,South,,,5.0,,,,Lainchaur, Kathmandu
+76000000.0,40 ,8.1,15.0,South,,,6.0,6.0,,,Naxal, Kathmandu
+38000000.0,72 ,4.0,15.0,South,,,6.0,5.0,,,Naxal, Kathmandu
+32000000.0,108,69.0,13.0,East,,,4.0,,,,Syuchatar, Kathmandu
+132000000.0,115,23.0,0.0,South,,,4.0,5.0,Full-Furnished,,Dhapasi, Kathmandu
+29000000.0,64 ,5.1,13.0,,,,4.0,,,,Ichangu Narayan, Kathmandu
+150000000.0,139,22.0,20.0,,,,6.0,,,,Kupandole, Lalitpur
+21500000.0,71 ,3.75,17.0,,,,5.0,,,,Nakhipot, Lalitpur
+158000000.0,57 ,15.1,15.0,,,,,,,,Sanepa, Lalitpur
+31000000.0,18 ,5.1,0.0,,,,,,,,Dhapasi, Kathmandu
+151000000.0,231,20.0,15.0,,,,,,,,Battisputali, Kathmandu
+23500000.0,151,3.1,12.0,East,2.5,,6.0,3.0,,,Budhanilkantha, Kathmandu
+46500000.0,27 ,3.5,0.0,,,,8.0,7.0,,,Maitidevi, Kathmandu
+28000000.0,125,4.0,16.0,East,,,7.0,,,,Bafal, Kathmandu
+25000000.0,109,4.0,0.0,,,,,,,,Kalanki, Kathmandu
+32000000.0,249,3.0,16.0,West,,,5.0,,,,Chappal karkhana, Kathmandu
+34000000.0,18 ,6.2,0.0,,,,,,,,Chandol, Kathmandu
+32000000.0,83 ,4.0,16.5,,,,6.0,4.0,,,Samakhusi, Kathmandu
+6400000.0,50 ,32.0,0.0,,,,,,,,Baluwatar, Kathmandu
+18000000.0,72 ,6.0,20.0,South-East,2.5,,4.0,4.0,,,Kirtipur, Kathmandu
+70000000.0,25 ,10.0,12.0,South,2.5,,5.0,5.0,Full-Furnished,,Banasthali, Kathmandu
+98000000.0,133,21.0,0.0,,2.5,,7.0,7.0,,,Budhanilkantha, Kathmandu
+205000000.0,357,23.0,20.0,,3.5,,6.0,9.0,,,Samakhusi, Kathmandu
+67500000.0,59 ,12.0,0.0,,2.5,,4.0,4.0,,,Budhanilkantha, Kathmandu
+32000000.0,27 ,4.0,0.0,,2.5,,6.0,5.0,,,Samakhusi, Kathmandu
+41500000.0,29 ,7.5,17.5,,3.0,,8.0,7.0,,,Kalanki, Kathmandu
+18700000.0,18 ,5.1,16.0,,1.0,,,,,,Bhangal , Kathmandu
+14700000.0,104,4.0,0.0,,1.0,,,,,,Bhangal , Kathmandu
+11800000.0,47 ,3.0,13.0,,1.0,,2.0,1.0,,,Chunikhel, Kathmandu
+19000000.0,32 ,3.0,20.0,,3.5,,,,,,Kapan, Kathmandu
+120000000.0,31 ,8.0,0.0,,1.0,,1.0,1.0,,,Samakhusi, Kathmandu
+60000000.0,126,7.0,0.0,,1.0,,1.0,1.0,,,Bouddha, Kathmandu
+45000000.0,61 ,6.0,0.0,,1.0,,1.0,1.0,,,Budhanilkantha, Kathmandu
+55000000.0,18 ,8.0,24.0,,2.5,,1.0,1.0,,,Sitapaila, Kathmandu
+90000000.0,34 ,15.0,0.0,,1.0,,1.0,1.0,,,Naxal, Kathmandu
+32000000.0,17 ,4.5,0.0,,2.5,,6.0,1.0,,,Dhapasi, Kathmandu
+95000000.0,210,12.0,15.0,,2.0,,1.0,1.0,,,Naxal, Kathmandu
+34000000.0,13 ,4.1,0.0,,2.5,,5.0,2.0,,,Hepali Height, Kathmandu
+80000000.0,32 ,13.0,15.0,,2.5,,6.0,1.0,,,Gongabu, Kathmandu
+22000000.0,17 ,3.5,13.0,,3.0,,1.0,1.0,,,Bhangal , Kathmandu
+26500000.0,205,4.0,0.0,,2.5,,1.0,1.0,,,Mandikatar, Kathmandu
+23500000.0,33 ,4.0,15.0,,3.0,,1.0,1.0,,,Golfutar, Kathmandu
+22500000.0,117,3.5,13.0,,2.5,,1.0,1.0,,,Sukedhara, Kathmandu
+22000000.0,20 ,4.0,20.0,,2.5,,1.0,1.0,,,Kapan, Kathmandu
+26800000.0,42 ,4.2,15.0,,2.5,,1.0,1.0,,,Budhanilkantha, Kathmandu
+23200000.0,98 ,4.0,13.0,,2.5,,1.0,1.0,,,Bhangal , Kathmandu
+27000000.0,896,4.0,13.0,,2.5,,,,,,Budhanilkantha, Kathmandu
+21500000.0,259,3.1,13.0,,2.5,,4.0,4.0,Semi-Furnished,,Nakhipot, Lalitpur
+23000000.0,262,3.0,13.0,East,2.5,,4.0,3.0,,,Kusunti, Lalitpur
+37000000.0,152,5.0,10.0,,3.5,,4.0,5.0,Full-Furnished,,Sorhakhutte, Kathmandu
+37500000.0,207,6.5,13.0,North-West,2.5,,4.0,4.0,,,Bhaisepati, Lalitpur
+27500000.0,91 ,4.0,13.0,West,2.5,,3.0,4.0,,,Bhaisepati, Lalitpur
+110000000.0,83 ,19.0,0.0,,2.5,,4.0,4.0,,,Kusunti, Lalitpur
+36000000.0,2 v,4.0,24.0,South-East,4.5,,12.0,5.0,,,Kapan, Kathmandu
+37000000.0,251,5.0,13.0,North-East,3.5,,8.0,4.0,,,Gongabu, Kathmandu
+42500000.0,525,5.1,29.0,West,5.0,,18.0,15.0,,,Thankot, Kathmandu
+240000000.0,1.3,68.0,12.0,South-East,2.5,,4.0,5.0,,,Syuchatar, Kathmandu
+15000000.0,24 ,3.0,16.0,West,2.0,,,,Un-Furnished,,Rudreshwor, Kathmandu
+18000000.0,164,4.2,10.0,East,1.0,,4.0,3.0,Un-Furnished,,Kalanki, Kathmandu
+27500000.0,137,5.0,0.0,West,3.5,,7.0,4.0,Un-Furnished,,Kalanki, Kathmandu
+21500000.0,345,4.2,10.0,South-West,2.5,,,,,,Dhapakhel, Lalitpur
+25000000.0,154,5.0,33.0,North-West,1.0,,1.0,1.0,Semi-Furnished,,Kirtipur, Kathmandu
+57000000.0,36 ,14.0,0.0,,3.5,,6.0,1.0,,,Basundhara, Kathmandu
+21500000.0,35 ,3.3,12.0,North,2.5,,6.0,4.0,Semi-Furnished,,Imadol, Lalitpur
+41000000.0,7 v,6.0,20.0,East,3.5,,1.0,1.0,,,Kapan, Kathmandu
+75000000.0,209,21.2,15.5,South,2.5,,1.0,1.0,Semi-Furnished,,Tutepani, Lalitpur
+30000000.0,182,4.3,15.0,South-East,2.5,,1.0,1.0,,,Kapan, Kathmandu
+54000000.0,355,8.2,13.0,South-West,2.5,,1.0,1.0,Semi-Furnished,,sitapaila, Kathmandu
+35000000.0,124,5.0,16.5,South-West,2.5,,4.0,3.0,Un-Furnished,,Samakhushi chowk, Kathmandu
+65000000.0,254,12.0,16.5,North-West,2.5,,5.0,6.0,,,Maligaon, Kathmandu
+100000000.0,49 ,12.0,16.5,North,2.5,,5.0,6.0,Semi-Furnished,,Banasthali, Kathmandu
+27000000.0,41 ,4.0,11.0,West,4.5,,8.0,4.0,Semi-Furnished,,Gorkarneshwor, Kathmandu
+50000000.0,368,6.0,14.0,South-East,3.0,,10.0,5.0,Un-Furnished,,Bijulibajar, Kathmandu
+42500000.0,64 ,5.2,15.0,South-West,2.5,,4.0,4.0,Un-Furnished,,Kusunti, Lalitpur
+251000000.0,514,162.0,16.0,North-East,3.0,,,,Semi-Furnished,,Godawari, Lalitpur
